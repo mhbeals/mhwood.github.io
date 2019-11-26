@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Headline
-subtitle: or article title
+subtitle: 
 use-site-title: true
 ---
 
