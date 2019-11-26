@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Headline
-subtitle: \[Glossary Entry\](../glossary/headline.md) 
+subtitle: "[Glossary Entry](../glossary/headline.md)"
 use-site-title: true
 ---
 
