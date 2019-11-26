@@ -1,8 +1,11 @@
 ---
-layout: minimal
+layout: default
 title: Headline or Article Title
-use-site-title: true
+use-site-title: false
 ---
+
+# Headline
+
 #### Language Variants 
 
 Überschrift; Titel; Otsikko; Titular. 
