@@ -19,7 +19,7 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About the Atlas: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -33,20 +33,20 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#F5F5F5"
-navbar-text-col: "#F5F5F5"
-navbar-children-col: "#F5F5F5"
-page-col: "#000000"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#000000"
-footer-text-col: "#F5F5F5"
-footer-link-col: "#F5F5F5"
+navbar-col: "#659DBD"
+navbar-text-col: "#FBEEC1"
+navbar-children-col: "#659DBD"
+page-col: "#FBEEC1"
+link-col: "#8D8741"
+hover-col: "#DAAD86"
+footer-col: "#DAAD86"
+footer-text-col: "#BC986A"
+footer-link-col: "#8D8741"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/sunrise.jpg"
+#navbar-img: "/img/sunrise.jpg"
 # footer-img: "/img/sunrise.jpg"
 # page-img: "/img/sunrise.jpg"
 
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.oceanicexchanges.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "oceanicexchanges.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
