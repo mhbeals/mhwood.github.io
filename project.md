@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: The Project
 subtitle:  
 use-site-title: true

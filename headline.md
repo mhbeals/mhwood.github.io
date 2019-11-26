@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: The Headline
 subtitle: or article title
 use-site-title: true
