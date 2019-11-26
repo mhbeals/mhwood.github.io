@@ -23,7 +23,14 @@ navbar-links:
   Database Histories:
     - Chronicling America: "ca"
     - Delpher: "delpher"
-  Metadata Map: "maps"
+  Metadata Maps: "maps"
+    - Content: "content"
+    - Citation: "citation"
+    - Bibliographical: "bibliographical"
+    - Descriptive: "descriptive"
+    - Holdings: "holdings"
+    - User-Generated: "user-generated"
+    - Technical: "technical"
   Glossary: "glossary"
 
 # Image to show in the navigation bar - image must be a square (width = height)
