@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: base
 title: Headline or Article Title
 use-site-title: true
 ---
