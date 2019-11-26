@@ -4,7 +4,7 @@ title: The Headline
 subtitle: 
 use-site-title: true
 ---
-<h3 style="text-align:center;margin-top:-20px"><a href="../../glossary/headline">Glossary Entry</a></h3>
+<h3 style="text-align:center;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/headline">Glossary Entry</a></h3>
 
 ## Technical Definition
 
