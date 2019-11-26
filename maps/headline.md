@@ -1,9 +1,12 @@
 ---
 layout: page
 title: The Headline
-subtitle: "[Glossary Entry](../glossary/headline.md)"
+subtitle: 
 use-site-title: true
 ---
+
+
+<h2 align=center><a href="../glossary/headline.md">Glossary Entry</a></h2>
 
 ## Technical Definition
 
