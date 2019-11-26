@@ -1,9 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: The Atlas of Digitsed Newspapers 
+title: The Atlas
 # Short description of your site
-description: Mapping the Histories and Data of Digitised Newspapers Collections Around the World
+description: Mapping the Histories and Metadata of Digitised Newspapers Collections Around the World
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -19,11 +19,35 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About the Atlas: 
+    - The Project: "project"
+    - Aims and Objectives: "aims"
+    - Methodology: "methodology"
+  Database Histories:
+    - The Histories: "histories"
+    - British Library 19th Century Newspapers: "bl"
+    - Chronicling America: "ca"
+    - Delpher: "delpher"
+    - Europeana (German Language Newspapers): "europeana"
+    - Hemeroteca Nacional Digital de México: "hndm"
+    - Suomen Kansalliskirjaston digitoidut sanomalehdet: "nlf"
+    - Papers Past: "pp"
+    - Times Digital Archive: "tda"
+    - Trove: "trove"
+  Metadata Maps:
+    - The Maps: "maps"
+    - Content: "content"
+    - Citation: "citation"
+    - Bibliographic: "bibliographical"
+    - Descriptive: "descriptive"
+    - Holdings: "holdings"
+    - User-Generated: "user-generated"
+    - Technical: "technical"
+  Glossary: "glossary"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -33,22 +57,22 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#4056A1"
+navbar-text-col: "#222"
+navbar-children-col: "#C5CBE3"
+page-col: "#111"
+link-col: "#222"
+hover-col: "#333"
+footer-col: "#111"
+footer-text-col: "#222"
+footer-link-col: "#222"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+#navbar-img: "/img/sunrise.jpg"
+# footer-img: "/img/sunrise.jpg"
+# page-img: "/img/sunrise.jpg"
 
 # --- Footer options --- #
 
@@ -88,7 +112,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.oceanicexchanges.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "oceanicexchanges.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
