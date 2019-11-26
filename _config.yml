@@ -60,10 +60,10 @@ navbar-links:
 navbar-col: "#4056A1"
 navbar-text-col: "#222"
 navbar-children-col: "#C5CBE3"
-page-col: "#111"
+page-col: "#cccccc"
 link-col: "#222"
 hover-col: "#333"
-footer-col: "#111"
+footer-col: "#cccccc"
 footer-text-col: "#222"
 footer-link-col: "#222"
 
