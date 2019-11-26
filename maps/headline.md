@@ -16,9 +16,9 @@ This field is common but does not refer specifically to headlines in the sense o
 
 ## Individual Collection Notes
 
-B1GL: Provides the headline as both individual words and a unified string.
-B2GL: Provides the headline as both individual words and a unified string.
-TDAG: Provides the headline as both individual words and a unified string.
+B1GL: Provides the headline as both individual words and a unified string.  
+B2GL: Provides the headline as both individual words and a unified string.  
+TDAG: Provides the headline as both individual words and a unified string.  
 
 ## As individual words
 
