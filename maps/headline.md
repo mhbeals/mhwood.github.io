@@ -1,15 +1,9 @@
 ---
 layout: page
 title: The Headline
-subtitle:  
+subtitle: [Glossary Entry](../glossary/headline.md) 
 use-site-title: true
 ---
-
-## [Glossary Entry](../glossary/headline.md)
-
-## Language Variants 
-
-Überschrift; Titel; Otsikko; Titular. 
 
 ## Technical Definition
 
