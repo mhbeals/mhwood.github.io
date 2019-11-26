@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Headline 
-subtitle: also known as Article Title
+title: The Headline
+subtitle: *or article title*
 use-site-title: true
 ---
 
