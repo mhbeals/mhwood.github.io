@@ -20,15 +20,13 @@ B1GL: Provides the headline as both individual words and a unified string.
 B2GL: Provides the headline as both individual words and a unified string.
 TDAG: Provides the headline as both individual words and a unified string.
 
-## Instantiations
-
-##### As individual words
+## As individual words
 
 | B1GL::issue\\article\\text\\text.title\\p\\wd       | STR | PROVINCIAL |
 | TDAG::issue\\page\\article\\text\\text.title\\p\\wd | STR | To         |
 | B2GL::issue\\article\\text\\text.title\\pg\\wd      | STR | PROVINCIAL |
 
-##### As full headline
+## As full headline
 
 | B1GL::issue\\article\\ti                                                                                | STR | Advertisements \&amp; Notices                                                                         |
 | B1GI::issue\\page\\article\\ti                                                                          | STR | Advertisements \&amp; Notices                                                                         |
