@@ -16,18 +16,24 @@ For most of the nineteenth century, the front page of major daily newspapers wou
 
 ### Front-page headlines
 
-  - “Newspapers at the beginning of the nineteenth century made no effort, in their vertical display, to put a **headline** over the main story or to make sure that the main story began at the top of a page.” \[Evans, book 5, 23\]
-  - "New Journalism pioneered the use of **headlines** to give an eye-catching typographical emphasis to the latest piece of important news.” \[DNCJ, AK/MaT 450\]
-  - “They serve, first, as a signpost for readers, telling them what the most important stories are; those with the bigger **headline** size.” \[Franklin, 226\]
-  - Laajan lukijakunnan saavuttamiseksi alettiin käyttää uudenlaista iskevää **otsikkotyy PPIä** unohtamatta sensaatiojuttuja ja human interest -aineistoa.”
+“Newspapers at the beginning of the nineteenth century made no effort, in their vertical display, to put a **headline** over the main story or to make sure that the main story began at the top of a page.” \[Evans, book 5, 23\]
+
+"New Journalism pioneered the use of **headlines** to give an eye-catching typographical emphasis to the latest piece of important news.” \[DNCJ, AK/MaT 450\]
+
+“They serve, first, as a signpost for readers, telling them what the most important stories are; those with the bigger **headline** size.” \[Franklin, 226\]
+
+Laajan lukijakunnan saavuttamiseksi alettiin käyttää uudenlaista iskevää **otsikkotyy PPIä** unohtamatta sensaatiojuttuja ja human interest -aineistoa.”
 
 ### Individual article titles
 
-  - "The *Chronicle* again demonstrated its support for Nield with a report (29 Sept. 1894) **entitled** “Labour Meeting at Crewe: Messers Compton and the Factory Girls.”" \[Bunting 2017, 141\]
-  - “Nevertheless there are several ways to detect the **headline** in an indirect way, by utilizing the background knowledge which is set out here. E.g. repeated section headings, the mentioning of the place and date of the news and the copyright statement may be utilized for this purpose.” ." \[Europeana Newspapers: D5.3 Final public release with updated online resource for documentation, 38\]
+"The *Chronicle* again demonstrated its support for Nield with a report (29 Sept. 1894) **entitled** “Labour Meeting at Crewe: Messers Compton and the Factory Girls.”" \[Bunting 2017, 141\]
+
+“Nevertheless there are several ways to detect the **headline** in an indirect way, by utilizing the background knowledge which is set out here. E.g. repeated section headings, the mentioning of the place and date of the news and the copyright statement may be utilized for this purpose.” ." \[Europeana Newspapers: D5.3 Final public release with updated online resource for documentation, 38\]
 
 ### Recurring column titles
 
-  - "This penny satirical journal was started during the Reform agitation, and originated those periodical comments on magisterial decisions which subsequently became general in the newspapers, under the **title** of "Justices' Justice."' \[Vizetelly, 218\]
-  - "I supplied dramatic criticism, and **a column of "literary and artistic gossip,"** my first attempt at anything of the kind." \[Yates, 265-66\]
-  - "The subjects I wrote upon in the leading **column** of the *Daily Telegraph* were, comparatively speaking, innumerable..." \[Sala, 330\]
+"This penny satirical journal was started during the Reform agitation, and originated those periodical comments on magisterial decisions which subsequently became general in the newspapers, under the **title** of "Justices' Justice."' \[Vizetelly, 218\]
+
+"I supplied dramatic criticism, and **a column of "literary and artistic gossip,"** my first attempt at anything of the kind." \[Yates, 265-66\]
+
+"The subjects I wrote upon in the leading **column** of the *Daily Telegraph* were, comparatively speaking, innumerable..." \[Sala, 330\]
