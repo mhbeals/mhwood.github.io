@@ -4,8 +4,7 @@ title: The Headline
 subtitle: 
 use-site-title: true
 ---
-
-<h2 align=center><a href="../maps/headline.md">Metadata Map</a></h2>
+<h3 align="center"><a href="../maps/headline">Metadata Map</a></h3></center>
 
 ## Language Variants 
 
