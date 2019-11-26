@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 ---
 
-## [Metadata Map](../maps/headline.md)
+<h2 align=center><a href="../maps/headline.md">Metadata Map</a></h2>
 
 ## Language Variants 
 
