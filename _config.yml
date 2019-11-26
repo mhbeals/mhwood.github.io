@@ -1,9 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: The Atlas of Digitsed Newspapers 
+title: The Atlas
 # Short description of your site
-description: Mapping the Histories and Data of Digitised Newspapers Collections Around the World
+description: Mapping the Histories and Metadata of Digitised Newspapers Collections Around the World
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
