@@ -21,9 +21,11 @@ url: "https://www.digitisednewspapers.net"
 navbar-links:
   About the Atlas: "aboutme"
   Database Histories:
+    - All Histories: "histories"
     - Chronicling America: "ca"
     - Delpher: "delpher"
-  Metadata Maps: "maps"
+  Metadata Maps:
+    - All Maps: "maps"
     - Content: "content"
     - Citation: "citation"
     - Bibliographical: "bibliographical"
