@@ -28,13 +28,13 @@ TDAG: Provides the headline as both individual words and a unified string.
 
 ## As full headline
 
-| B1GL::issue\\article\\ti                                                                                | STR | Advertisements \&amp; Notices                                                                         |
-| B1GI::issue\\page\\article\\ti                                                                          | STR | Advertisements \&amp; Notices                                                                         |
-| B2GL::issue\\article\\ti                                                                                | STR | PROVINCIAL NEWS                                                                                       |
-| B2GI::issue\\page\\article\\ti                                                                          | STR | Multiple Classified ads                                                                               |
-| DEOC::text\\title                                                                                       | STR | Het jaar 1869.                                                                                        |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:title  | STR | EXTRAKTEN UIT DE TWEEDE EDITIE VAN ONS Vorig Nommer. AMSTERDAM, Zandag 29 Junij. Belgische Dagbladen. |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\srw\_dc:dcx\\dc:title                 | STR | Zevende verstrekking van Roode Kruisgoederen                                                          |
-| TDAG::issue\\page\\article\\ti                                                                          | STR | LISBON.-In HENRY ASTON BARKER'S PANORAMA, Leicester-square, a view of that beautiful City             |
-| TRAP::article\\heading                                                                                  | STR | “Agriculture around Kelvin Grove and Kedron Brook. \[BY OUR AGRICULTURAL REPORTER.\]“                 |
-| TRME::mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods\\mods:titleInfo\\mods:title          | STR | Local and General.                                                                                    |
+| B1GL|issue\\article\\ti                                                                                | STR | Advertisements \&amp; Notices                                                                         |
+| B1GI|issue\\page\\article\\ti                                                                          | STR | Advertisements \&amp; Notices                                                                         |
+| B2GL|issue\\article\\ti                                                                                | STR | PROVINCIAL NEWS                                                                                       |
+| B2GI|issue\\page\\article\\ti                                                                          | STR | Multiple Classified ads                                                                               |
+| DEOC|text\\title                                                                                       | STR | Het jaar 1869.                                                                                        |
+| DEMP|didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:title  | STR | EXTRAKTEN UIT DE TWEEDE EDITIE VAN ONS Vorig Nommer. AMSTERDAM, Zandag 29 Junij. Belgische Dagbladen. |
+| DEMP|didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\srw\_dc:dcx\\dc:title                 | STR | Zevende verstrekking van Roode Kruisgoederen                                                          |
+| TDAG|issue\\page\\article\\ti                                                                          | STR | LISBON.-In HENRY ASTON BARKER'S PANORAMA, Leicester-square, a view of that beautiful City             |
+| TRAP|article\\heading                                                                                  | STR | “Agriculture around Kelvin Grove and Kedron Brook. \[BY OUR AGRICULTURAL REPORTER.\]“                 |
+| TRME|mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods\\mods:titleInfo\\mods:title          | STR | Local and General.                                                                                    |
