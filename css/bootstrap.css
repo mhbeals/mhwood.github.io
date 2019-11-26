@@ -185,6 +185,8 @@ table {
   border-collapse: collapse;
 }
 td,
+td:nth-child(1){
+width:250px;}
 th {
   padding: 0;
 }
