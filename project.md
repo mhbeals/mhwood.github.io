@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Project
+subtitle:  
 use-site-title: true
 ---
 This *Atlas* is a product of *Oceanic Exchanges: Tracing Global

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Headline or Article Title
-use-site-title: false
+title: Headline 
+subtitle: also known as Article Title
+use-site-title: true
 ---
-
-# Headline
 
 #### Language Variants 
 
