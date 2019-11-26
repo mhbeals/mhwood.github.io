@@ -20,8 +20,8 @@ url: "https://www.digitisednewspapers.net"
 # List of links in the navigation bar
 navbar-links:
   About the Atlas: "aboutme"
-  Database Histories: "histories"
-    Chronicling America: "ca"
+  Database Histories:
+    - Chronicling America: "ca"
   Metadata Map: "maps"
   Glossary: "glossary"
 
