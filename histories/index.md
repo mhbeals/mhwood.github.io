@@ -1,4 +1,9 @@
-## Database Histories
+---
+layout: page
+title: The Database Histories
+subtitle:  
+use-site-title: true
+---
 
 The following report abbreviates the histories of the nine newspaper
 databases used in the *Oceanic Exchanges* project, providing information

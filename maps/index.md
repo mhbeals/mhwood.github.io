@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Metadata Maps
+subtitle: 
+use-site-title: true
+---
+
 This report contains a series of maps to better align and compare data
 from different digitised newspaper collections. Each page is devoted to
 a low-resolution category of the metadata, such as *title*, *publisher*

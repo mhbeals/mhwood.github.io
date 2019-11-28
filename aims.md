@@ -1,3 +1,10 @@
+---
+layout: page
+title: Our Aims and Objectives
+subtitle:  
+use-site-title: true
+---
+
 The *Atlas* aims to facilitate more historically informed understandings
 of digitised newspapers for researchers across disciplines. The
 nineteenth-century newspaper was a messy object, filled with an

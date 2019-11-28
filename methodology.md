@@ -1,3 +1,9 @@
+---
+layout: page
+title: Our Methodology
+subtitle:  
+use-site-title: true
+---
 
 The *Oceanic Exchanges* project aimed to bring together experienced
 researchers and rich data sources from around the world in order to
