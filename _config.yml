@@ -59,11 +59,11 @@ navbar-links:
 
 navbar-col: "#45ADA8"
 navbar-text-col: "#547980"
-navbar-children-col: "#9DE0AD"
+navbar-children-col: "#45ADA8"
 
 page-col: "#594F4"
 
-link-col: "#9DE0AD"
+link-col: "#45ADA8"
 hover-col: "#9DE0AD"
 
 footer-col: "#45ADA8"
