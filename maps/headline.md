@@ -1,18 +1,9 @@
 ---
-layout: page
+layout: map
 title: The Headline
 subtitle: 
 use-site-title: false
 ---
-
-<style>
-    table {width:100%;}
-    td:nth-child(1) {width: 7%;}
-    td:nth-child(2) {width: 56%;}
-    td:nth-child(3) {width: 7%;}
-    td:nth-child(4) {width: 30%;}
-</style>
-
 
 <h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/headline">View Glossary Entry</a></h4>
 
