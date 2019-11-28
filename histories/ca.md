@@ -192,7 +192,7 @@ and the ALTO files are numbered sequentially across the title within
 that batch. Archival TIFF files are stored offline. Thus, data for each
 issue can be obtained using the following standardised URL:
 
-`https://chroniclingamerica.loc.gov/data/batches/\[Batch Name\]/data/\[Library of Congress Title ID/\[Processing ID\]/\[YYYMMDDEE\]/\[File ID\].xml
+`https://chroniclingamerica.loc.gov/data/batches/\[Batch Name\]/data/\[Library of Congress Title ID/\[Processing ID\]/\[YYYMMDDEE\]/\[File ID\].xml`
 
 The National Digital Newspaper Program decided to serve image and OCR
 data at the page rather than article level for the sake of efficiency,
