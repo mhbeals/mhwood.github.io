@@ -84,7 +84,7 @@ hierarchies and links between the fields of the various databases but in
 understanding the vocabulary employed to describe elements and
 characteristics of the physical newspaper as well.
 
-![https://lh3.googleusercontent.com/JJsWYqPAhq2VV0P2g0fKc-ZO4aCnGTnNcXDCgsy0e7hld2-QE8ixIJkMqwZWy4X3cUr1RoafRru8g6CL-jUQDCsEGhDAOhZ91LOITgMyIrEOiqXEDtD1eNJXy2UIajE7vroL\_cX1](./media/image1.jpeg)
+!(img/map.jpeg)
 
 > **Fig. 1. Map of all metadata fields from our samples (each one
 > represented by a different colour), with connecting lines showing the

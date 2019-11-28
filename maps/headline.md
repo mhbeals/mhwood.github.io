@@ -2,7 +2,7 @@
 layout: page
 title: The Headline
 subtitle: 
-use-site-title: true
+use-site-title: false
 ---
 
 <style>
