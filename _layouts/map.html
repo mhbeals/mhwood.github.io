@@ -1,0 +1,20 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+<style>
+    table {width:100%;}
+    td:nth-child(1) {width: 7%;}
+    td:nth-child(2) {width: 56%;}
+    td:nth-child(3) {width: 7%;}
+    td:nth-child(4) {width: 30%;}
+</style>
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1">
+      {{ content }}
+    </div>
+  </div>
+</div>
