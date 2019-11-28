@@ -84,7 +84,7 @@ hierarchies and links between the fields of the various databases but in
 understanding the vocabulary employed to describe elements and
 characteristics of the physical newspaper as well.
 
-![Fig. 1. Map of all metadata fields from our samples (each one represented by a different colour), with connecting lines showing the internal hierarchy of each, broken down by metadata of physical object, digital object, metadata pertaining to both, and text data. Unmapped blue boxes refer to user-generated fields exclusive to Trove.](img/map.jpg)
+![Fig. 1. Map of all metadata fields from our samples (each one represented by a different colour), with connecting lines showing the internal hierarchy of each, broken down by metadata of physical object, digital object, metadata pertaining to both, and text data. Unmapped blue boxes refer to user-generated fields exclusive to Trove.](img/map.jpeg)
 
 As a result, we decided instead to create this textual ontology of the
 metadata fields based upon the structure of the newspaper as a physical
