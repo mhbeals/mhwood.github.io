@@ -4,7 +4,6 @@ title: The Atlas
 subtitle: Mapping the Histories and Data of Digitised Newspapers Collections Around the World
 use-site-title: true
 ---
-# Executive Summary
 
 Between 2017 and 2019, [*Oceanic Exchanges*](http://www.oceanicexchanges.org), funded through the [Transatlantic
 Partnership for Social Sciences and Humanities 2016 Digging into Data
