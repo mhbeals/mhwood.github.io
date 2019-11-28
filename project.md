@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: An Overview of the Project
+title: The Project
+subtitle: 
 use-site-title: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: The Metadata Maps
+title: Metadata Maps
+subtitle: 
 use-site-title: true
 ---
 

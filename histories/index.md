@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle:  The Database Histories
+title: Database Histories
+subtitle:
 use-site-title: true
 ---
 

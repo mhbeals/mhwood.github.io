@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle:  An Overview of our Methodology
+title: Methodology
+subtitle:  
 use-site-title: true
 ---
 
