@@ -48,7 +48,6 @@ The data type and collection IDs are as follows:
 ### Data Types
 
 | BOO | A Boolean char such as 0/1 or Y/N                               |
-| --- | --------------------------------------------------------------- |
 | COO | A set of numeric coordinates to delineate a segment of an image |
 | DAT | A single date                                                   |
 | DAR | A range of dates                                                |
@@ -63,7 +62,6 @@ The data type and collection IDs are as follows:
 ### Collection IDs
 
 | CAAL | Chronicling America                                                                              | ALTO  | Content and Layout XML File           |
-| ---- | ------------------------------------------------------------------------------------------------ | ----- | ------------------------------------- |
 | CADI | Chronicling America                                                                              |       | Directory Structure                   |
 | CAME | Chronicling America                                                                              | METS  | Issue Metadata XML File               |
 | DEAL | Delpher                                                                                          | ALTO  | Content and Layout XML File           |
@@ -74,15 +72,15 @@ The data type and collection IDs are as follows:
 | F1AL | Finnish National Library 1771-1910                                                               | ALTO  | Content and Layout XML File           |
 | F2AL | Finnish National Library 1771-1910                                                               | ALTO+ | Content, Layout and Metadata XML File |
 | F1ME | Finnish National Library 1771-1910                                                               | METS  | Issue Metadata XML File               |
-| B1GI | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives    | GIFT  | Issue Metadata XML File               |
-| B1GP | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives    | GIFT  | Publication Metadata XML File         |
-| B1GT | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives    | GIFT  | Text Content XML File                 |
-| B2GI | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives   | GIFT  | Issue Metadata XML File               |
-| B2GP | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives   | GIFT  | Publication Metadata XML File         |
-| B2GT | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives   | GIFT  | Text Content XML File                 |
-| B1JI | British Library 19<sup>th</sup> Century Newspapers, Part I, British Library’s Text-Mining Drives | GIFT  | Content and Metadata XML File         |
-| B1GL | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Legacy Text-Mining Drives     | GIFT  | Content and Metadata XML File         |
-| B2GL | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Legacy Text-Mining Drives    | GIFT  | Content and Metadata XML File         |
+| B1GI | British Library 19<sup>th</sup> Century Newspapers,<br/>Part I, Gale’s Current Text-Mining Drives    | GIFT  | Issue Metadata XML File               |
+| B1GP | British Library 19<sup>th</sup> Century Newspapers,<br/>Part I, Gale’s Current Text-Mining Drives    | GIFT  | Publication Metadata XML File         |
+| B1GT | British Library 19<sup>th</sup> Century Newspapers,<br/>Part I, Gale’s Current Text-Mining Drives    | GIFT  | Text Content XML File                 |
+| B2GI | British Library 19<sup>th</sup> Century Newspapers,<br/>Part II, Gale’s Current Text-Mining Drives   | GIFT  | Issue Metadata XML File               |
+| B2GP | British Library 19<sup>th</sup> Century Newspapers,<br/>Part II, Gale’s Current Text-Mining Drives   | GIFT  | Publication Metadata XML File         |
+| B2GT | British Library 19<sup>th</sup> Century Newspapers,<br/>Part II, Gale’s Current Text-Mining Drives   | GIFT  | Text Content XML File                 |
+| B1JI | British Library 19<sup>th</sup> Century Newspapers,<br/>Part I, British Library’s Text-Mining Drives | GIFT  | Content and Metadata XML File         |
+| B1GL | British Library 19<sup>th</sup> Century Newspapers,<br/>Part I, Gale’s Legacy Text-Mining Drives     | GIFT  | Content and Metadata XML File         |
+| B2GL | British Library 19<sup>th</sup> Century Newspapers,<br/>Part II, Gale’s Legacy Text-Mining Drives    | GIFT  | Content and Metadata XML File         |
 | HNDM | Hemeroteca Nacional Digital de México                                                            |       | Content and Metadata JSON File        |
 | PPAL | Papers Past                                                                                      | ALTO  | Content and Layout XML File           |
 | PPDI | Papers Past                                                                                      |       | Directory Structure                   |
