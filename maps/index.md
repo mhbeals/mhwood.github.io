@@ -37,9 +37,7 @@ the following information:
 
   - A locater, comprised of the four-letter collection ID, followed by
     the XPath or JSON path to that data
-
   - A data type indicator, comprised of a three-letter ID
-
   - An example of the content of that field with long strings of content
     text begin truncated with \[…\]
 
