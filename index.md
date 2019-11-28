@@ -6,10 +6,9 @@ use-site-title: true
 ---
 # Executive Summary
 
-Between 2017 and 2019, *Oceanic Exchanges*
-(http://www.oceanicexchanges.org), funded through the Transatlantic
+Between 2017 and 2019, [*Oceanic Exchanges*](http://www.oceanicexchanges.org), funded through the [Transatlantic
 Partnership for Social Sciences and Humanities 2016 Digging into Data
-Challenge (https://diggingintodata.org), brought together leading
+Challenge](https://diggingintodata.org), brought together leading
 efforts in computational periodicals research from six
 countries—Finland, Germany, Mexico, the Netherlands, the United
 Kingdom, and the United States—to examine patterns of information flow
@@ -40,7 +39,7 @@ to be used across disciplines, within academia and beyond.
 
 This report draws upon multiple taxonomies: our own open access dataset,
 which provides a full catalogue of metadata fields across the
-collections (https://github.com/OceanicExchanges), academic and industry
+collections, academic and industry 
 discussions of the newspaper as a journalistic form and historical
 artefact, digitisation guidelines and strategies, library websites,
 annual reports, interviews with librarians and digitisation providers
