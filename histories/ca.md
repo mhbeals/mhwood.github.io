@@ -1,7 +1,7 @@
 ---
 layout: map
 title: Chronicling America
-subtitle: *Library of Congress, United States of America*
+subtitle: Library of Congress, United States of America
 use-site-title: false
 ---
 
