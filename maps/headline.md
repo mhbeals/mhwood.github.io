@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: The Headline
 subtitle: 
 use-site-title: true
