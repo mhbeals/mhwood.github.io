@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 This *Atlas* is a product of [*Oceanic Exchanges: Tracing Global
-Information Networks in Historical Newspaper Repositories, 1840-1914](http://www.oceanicexchanges.org).* The project was funded through the
+Information Networks in Historical Newspaper Repositories, 1840-1914*](http://www.oceanicexchanges.org). The project was funded through the
 [Transatlantic Partnership for Social Sciences and Humanities 2016
 Digging into Data Challenge](https://diggingintodata.org) and was
 undertaken by researchers from Universität Stuttgart, Staatsbibliothek
