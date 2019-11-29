@@ -19,9 +19,21 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "introduction"
+  About the Atlas:
+    - The Project: "introduction/project"
+    - Methodology:  "introduction/methodology"
+    - Aims and Objectives:  "introduction/aims"
+    - Acknowledgements:  "introduction/acknowledgements"
   Databases: "histories"
-  Maps: "maps"
+  Maps: 
+    - Understanding Metadata Maps: "maps"
+    - Content Data: "content"
+    - Citation Data: ""
+    - Bibliographic Metadata: ""
+    - Holdings Metadata: ""
+    - Descriptive Metadata: ""
+    - User-Generated Data: ""
+    - Technical Metadata: ""
   Glossary: "glossary"
 
 # Image to show in the navigation bar - image must be a square (width = height)
