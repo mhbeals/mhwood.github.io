@@ -154,7 +154,7 @@ However, the URL structure is not easily translatable from bibliographic
 data; it places the text files within numerical directories representing
 individual bindings. For example:
 
-`https://digi.kansalliskirjasto.fi/sanomalehti/binding/566631/page-4.xml
+` https://digi.kansalliskirjasto.fi/sanomalehti/binding/566631/page-4.xml
 
 In the data packages, pages are located in two separate directories: one
 based on ISSN and the other on publication year. Below the publication
@@ -162,7 +162,7 @@ year in the data structure is the language of the publication, below
 which are the actual ALTO XML files. They are named descriptively by
 ISSN, year, date, issue and page. For example:
 
-`0355-8347\_1881-07-01\_13\_012.xml
+` 0355-8347\_1881-07-01\_13\_012.xml
 
 ## User Interface Structures 
 
