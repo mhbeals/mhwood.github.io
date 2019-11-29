@@ -19,31 +19,14 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About the Atlas: 
+  About: 
     - The Project: "project"
     - Aims and Objectives: "aims"
     - Methodology: "methodology"
-  Database Histories:
-    - The Histories: "histories"
-    - British Library 19th Century Newspapers: "histories/bl"
-    - Chronicling America: "histories/ca"
-    - Delpher: "histories/delpher"
-    - Europeana (German Language Newspapers): "histories/europeana"
-    - Hemeroteca Nacional Digital de México: "histories/hndm"
-    - Suomen Kansalliskirjaston digitoidut sanomalehdet: "histories/nlf"
-    - Papers Past: "histories/pp"
-    - Times Digital Archive: "histories/tda"
-    - Trove: "histories/trove"
-  Metadata Maps:
-    - The Maps: "maps"
-    - Content: "maps/content"
-    - Citation: "maps/citation"
-    - Bibliographic: "maps/bibliographical"
-    - Descriptive: "maps/descriptive"
-    - Holdings: "maps/holdings"
-    - User-Generated: "maps/user-generated"
-    - Technical: "maps/technical"
-  Glossary: "maps/glossary"
+    - Acknowledgements: "acknowledgements"
+  Databases: "histories"
+  Maps: "maps"
+  Glossary: "glossary"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

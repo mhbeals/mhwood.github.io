@@ -2,7 +2,7 @@
 layout: page
 title: The Metadata Maps
 subtitle: 
-use-site-title: true
+use-site-title: false
 ---
 
 This report contains a series of maps to better align and compare data

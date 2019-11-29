@@ -2,7 +2,7 @@
 layout: page
 title: The Database Histories
 subtitle:
-use-site-title: true
+use-site-title: false
 ---
 
 The following report abbreviates the histories of the nine newspaper
