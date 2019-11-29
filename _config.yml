@@ -25,7 +25,7 @@ navbar-links:
     - Aims and Objectives:  "introduction/aims"
     - Acknowledgements:  "introduction/acknowledgements"
   Databases: "histories"
-  Maps: 
+  Metadata Maps: 
     - Understanding Metadata Maps: "maps"
     - Content Data: "content"
     - Citation Data: ""

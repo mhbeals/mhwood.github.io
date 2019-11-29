@@ -33,9 +33,9 @@ Archive of Hulst; Municipal Sluis; Groningen Archives; Herzog August
 Bibliothek, Wolfenbüttel; Historical Center Overijssel; Joint Archives
 of Holland, Michigan; Royal Tropical Institute; Royal Institute for
 Language, Land and Ethnology; Royal Library; Kungliga Biblioteket,
-Stockholm; L’Archivio Segreto Vaticano; Museum Enschede; Meermanno
+Stockholm; L'Archivio Segreto Vaticano; Museum Enschede; Meermanno
 Museum; National Archives Suriname, Paramaribo; Niedersächsiches
-Landesarchiv - Staatsarchiv, Oldenburg; NIOD Institute for War,
+Landesarchiv – Staatsarchiv, Oldenburg; NIOD Institute for War,
 Holocaust and Genocide Studies; Northwestern College, Orange City; North
 Holland Archives; Press Museum (now part of Sound and Vision); the
 private collection of André de Rijck; Radboud University Nijmegen;
@@ -43,9 +43,9 @@ Regional Archive Alkmaar; Regional Archives Leiden; Roosevelt Institute
 for American Studies; Russian State Archive of Ancient Acts, Moscow;
 Rutgers University Library, New Brunswick; the Reformed Political Party
 office; the Social Historic Center for Limburg; City Archives of
-‘s-Hertogenbosch; City Archives of Rotterdam; City Archive of
+'s-Hertogenbosch; City Archives of Rotterdam; City Archive of
 Vlaardingen; Maastricht City Library; the National Archives Kew,
-Richmond; Tresoar - Frisian Historical and Literary Center; Trinity
+Richmond; Tresoar – Frisian Historical and Literary Center; Trinity
 Christian College, Palos Heights; Ghent University Library; University
 Library of Groningen; Leiden University Library; Tilburg University
 Library; University Library Amsterdam; VU Amsterdam University Library;
@@ -86,7 +86,7 @@ three national newspapers from the 1920s and 300,000 pages from the
 well as a number of digitisation projects at other Dutch archives and
 libraries, full-scale digitisation began in 2007 with the Database of
 Digital Daily Newspapers or Databank Digitale Dagbladen (DDD) project.
-In 2013, this database was combined with the library’s other digital
+In 2013, this database was combined with the library's other digital
 collections to be made available through the Delpher interface.
 Digitisation of newspapers, alongside other heritage materials, now
 continues as part of the general operations of the library and is
@@ -142,12 +142,12 @@ record.
 
 As of December 2018, the database contains over 1.4 million newspaper
 issues representing over 15 million newspaper pages. A full list of
-included titles can be found at [https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf](https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf).
-The collection includes newspapers from 1618 to 1995, as allowed by
-copyright restrictions, and efforts have been made to represent the
-entire chronology fully. There is, however, a disproportionately large
-number of issues relating to the Second World War owing to targeted
-digitisation of this period through exceptional government funding.
+included titles can be found at [https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf](https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf). The collection includes
+newspapers from 1618 to 1995, as allowed by copyright restrictions, and
+efforts have been made to represent the entire chronology fully. There
+is, however, a disproportionately large number of issues relating to the
+Second World War owing to targeted digitisation of this period through
+exceptional government funding.
 
 ### Data Quality
 
@@ -157,7 +157,7 @@ Newspapers within Delpher have been scanned for OCR using ABBYY versions
 7.0 to 10.0. According to a 2018 study by the library, the newspaper
 collections, excluding those from the seventeenth century, have an
 average word-error rate of 11.3% (standard deviation: 9.96). This
-represents a material improvement over the databank’s earlier OCR
+represents a material improvement over the databank's earlier OCR
 transcriptions, with newspapers from the Roaring Twenties and War &
 Revolution projects having error rates of roughly 30%. The study
 indicated that updating the current OCR by re-scanning archival masters
@@ -172,7 +172,7 @@ volunteers to manually re-key these transcriptions.
 
 For each page in the collection, Delpher maintains a JPEG2000 (lossless
 8:1 compression) and PDF file, the latter of which is made available
-through a structured URL based on an item’s unique identifier. Lower
+through a structured URL based on an item's unique identifier. Lower
 resolution images (96 PPI) are available through the general web
 interface and API.
 
@@ -180,7 +180,7 @@ interface and API.
 
 Newspaper data is divided into three file types: an MPEG21 XML file
 describing the issue, an ALTO XML file for each page and an OCR XML file
-for each article. This data adheres to two primary metadata schema:
+for each article. This data adheres to two primary metadata schemas:
 structural metadata using MPEG21-DIDL and descriptive metadata using
 Dublin Core and derivatives thereof. The MPEG21 file describes the
 structural hierarchy of the newspaper issue and provides descriptive
@@ -195,7 +195,7 @@ remove an entire page or issue.
 
 ### Backend Structure 
 
-Each issue within Delpher’s newspaper collection is comprised of several
+Each issue within Delpher's newspaper collection is comprised of several
 items: the issue itself, each individual page and each unique article.
 Each item is, in turn, comprised of multiple components, including
 metadata, text, and image data, which are stored in individual or nested

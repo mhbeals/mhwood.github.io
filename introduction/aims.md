@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Aims and Objectives
+title: Aims and Objectives
 subtitle:  
 use-site-title: true
 ---
