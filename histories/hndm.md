@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hemeroteca Nacional Digital de México
-subtitle: *Universidad Nacional Autónoma de México*
+subtitle: Universidad Nacional Autónoma de México
 use-site-title: false
 ---
 
@@ -16,8 +16,8 @@ Library) are under the stewardship of the Universidad Nacional Autónoma
 de México (UNAM), Mexico's national university, and both the physical
 and digital collections are housed and maintained on campus. Planning
 for the HNDM began in 2000. The project focused on digitising the
-National Newspaper Library's microfilm collection, which was created in
-1960. Work began in earnest in 2002 and the first version was made
+National Newspaper Library's microfilm collection, which was created in 1960. 
+Work began in earnest in 2002 and the first version was made
 available that same year, with restricted access. Since then, the HNDM
 has undergone several system migrations and new designs, the latest one
 being in 2015.
