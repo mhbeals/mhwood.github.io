@@ -35,7 +35,7 @@ December 2018</td>
 </tr>
 
 <tr class="odd">
-<td>Chronicling America</td>
+<td>[Chronicling America](ca)</td>
 <td>Library of Congress and Partner Collection Holders</td>
 <td>2005</td>
 <td>September 2017</td>
@@ -43,7 +43,7 @@ December 2018</td>
 </tr>
 
 <tr class="even">
-<td>Delpher</td>
+<td>[Delpher](delpher)</td>
 <td>National Library of the Netherlands</td>
 <td>2013</td>
 <td>November 2018</td>
@@ -51,7 +51,7 @@ December 2018</td>
 </tr>
 
 <tr class="even">
-<td>Hemeroteca Nacional Digital de México</td>
+<td>[Hemeroteca Nacional Digital de México](hndm)</td>
 <td>Hemeroteca Nacional Digital de México</td>
 <td>2002</td>
 <td>October 2018</td>
@@ -75,7 +75,7 @@ December 2018</td>
 </tr>
 
 <tr class="odd">
-<td>Suomen Kansalliskirjaston digitoidut sanomalehdet</td>
+<td>[Suomen Kansalliskirjaston digitoidut sanomalehdet](nlf)</td>
 <td>National Library of Finland</td>
 <td>2001</td>
 <td>October 2019</td>
