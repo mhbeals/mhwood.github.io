@@ -22,8 +22,8 @@ Program, which ceased operation in 2011.
 ### Consulted Libraries
 
 Digitisation began in 2005 with grants to: University of California,
-Riverside; University of Florida (UF) Libraries, Gainesville; University
-of Kentucky Libraries, Lexington; the New York Public Library, New York
+Riverside; University of Florida Libraries, Gainesville; University of
+Kentucky Libraries, Lexington; the New York Public Library, New York
 City; the University of Utah, Salt Lake City; and the Library of
 Virginia, Richmond. This initial round of funding, covering newspapers
 from 1900 to 1910, concluded in 2007. The programme has since continued
@@ -58,7 +58,7 @@ Libraries; and Wisconsin Historical Society.
 
 The digitisation work of the National Digital Newspaper Program is built
 upon earlier preservation programmes managed by the United States
-Newspaper Program, which worked from 1982-2011 to identify, describe,
+Newspaper Program, which worked from 1982–2011 to identify, describe,
 and preserve historical newspaper collections. These programmes, funded
 by the National Endowment for the Humanities and given technical support
 by the Library of Congress, supported the preservation of historical
@@ -85,8 +85,8 @@ delivery to ensure consistency across institutions and grant cycles but
 allows institutions to employ local expertise in fulfilling these
 guidelines, particularly regarding selection and populating
 bibliographic metadata. The programme originally limited the date range
-of submission to 1836-1922, but since July 2016 has allowed digitisation
-of newspapers from 1690-1963.
+of submission to 1836–1922, but since July 2016 has allowed digitisation
+of newspapers from 1690–1963.
 
 #### Selection
 
@@ -121,8 +121,9 @@ preferred method of permanent preservation.
 
 As of December 2018, the collection included 2,689 distinct historical
 newspaper titles comprising 14,181,901 historical newspaper pages. A
-full list of included titles can be found at [http://chroniclingamerica.loc.gov/newspapers.txt](http://chroniclingamerica.loc.gov/newspapers.txt). The collection
-contains issues from the years 1789-1963, but the bulk of the collection
+full list of included titles can be found at (http://chroniclingamerica.loc.gov/newspapers.txt). 
+The collection
+contains issues from the years 1789–1963, but the bulk of the collection
 is from 1850 to 1922. This latter date is commonly understood as the US
 copyright boundary. Of the 2,689 tiles available, only eight include
 issues before 1800 and only forty-two include issues after 1922.
@@ -150,14 +151,14 @@ would be largely inaccurate, even for a specific title.
 #### Images
 
 For each page in their submission, contributors to Chronicling America
-are required to include an 8-bit, grayscale, 300-400 PPI TIFF
+are required to include an 8-bit, grayscale, 300–400 PPI TIFF
 preservation-quality image, as well as a derivate JPEG2000 (lossless 8:1
 compression) and PDF file. These derivate images are made available
 through the Chronicling America web interface, while the TIFF can be
-provided to researchers by request. As JPEG-2000 is a proprietary
-format, the National Digital Newspaper Program does not currently
-consider it a suitable archival substitute for TIFF, despite its higher
-compression allowing for more efficient online distribution.
+provided to researchers by request. As JPEG2000 is a proprietary format,
+the National Digital Newspaper Program does not currently consider it a
+suitable archival substitute for TIFF, despite its higher compression
+allowing for more efficient online distribution.
 
 ### Metadata Schema
 
@@ -172,7 +173,7 @@ map specific MARC fields to the required and optional metadata
 components. Other descriptive and administrative metadata is populated
 by awardees when collating or evaluating the microfilm and may include
 page numbers, section and edition labels, and preservation metadata.
-Since 2011-2013, many of the technical metadata fields relating the
+Since 2011–2013, many of the technical metadata fields relating the
 digitisation process have been reclassified as recommended, rather than
 required, components of the data files.
 
@@ -191,7 +192,7 @@ and the ALTO files are numbered sequentially across the title within
 that batch. Archival TIFF files are stored offline. Thus, data for each
 issue can be obtained using the following standardised URL:
 
-`https://chroniclingamerica.loc.gov/data/batches/\[Batch Name\]/data/\[Library of Congress Title ID/\[Processing ID\]/\[YYYMMDDEE\]/\[File ID\].xml`
+`https://chroniclingamerica.loc.gov/data/batches/\[Batch_Name\]/data/\[Library of Congress Title ID/\[Processing_ID\]/\[YYYMMDDEE\]/\[File ID\].xml`
 
 The National Digital Newspaper Program decided to serve image and OCR
 data at the page rather than article level for the sake of efficiency,
@@ -208,7 +209,7 @@ facilitate text highlighting within the images.
 ### Web Interface
 
 The online user interface is an open-source Django installation called
-chronam that allows user to perform a simple or advanced search of the
+*chronam* that allows user to perform a simple or advanced search of the
 underlying descriptive and OCR data, or to browse images by title and
 date. The advanced search allows for filtering by state, title, years,
 page number, and language, and employs checkbox Boolean operators such
@@ -217,15 +218,15 @@ search results are displayed in an image viewer with an attached
 citation. The viewer allows users to pan and zoom as well as navigate
 through the issue. The underlying data (plain text, PDF and JP2) and
 manually selected snippets can be downloaded using icons at the top of
-the viewer. The underlying code for chronam is available on GitHub.
+the viewer. The underlying code for *chronam* is available on GitHub.
 
 ### API
 
 Materials from Chronicling America can be obtained through the site’s
 API which, as of December 2018, does not require a unique access key.
 Datasets filtered by metadata or content and can be retrieved in HTML,
-ATOM/XML or JSON formats through URL queries. More information and
-examples can be found at [https://chroniclingamerica.loc.gov/about/api](https://chroniclingamerica.loc.gov/about/api).
+Atom/XML or JSON formats through URL queries. More information and
+examples can be found at (https://chroniclingamerica.loc.gov/about/api).
 
 ### Direct Download or Drives
 

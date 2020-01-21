@@ -2,7 +2,7 @@
 layout: page
 title: Our Methodology
 subtitle:  
-use-site-title: true
+use-site-title: false
 ---
 
 The *Oceanic Exchanges* project aimed to bring together experienced
@@ -47,7 +47,7 @@ and schema specifications and then complementing these with
 documentation on the cataloguing standards used. Although official
 documentation was often publicly available, or directly packaged with
 the data, we also consulted grey literature such as promotional
-materials or online discussions by end users on the nature of the data
+materials or online discussions by users on the nature of the data
 available. Other queries were approached through experimentation—testing
 hypotheses on the meaning of certain fields through an examination of a
 large sample of records, particularly the METS/ALTO variants in multiple
@@ -63,10 +63,10 @@ repackaged by different institutions in response to technical
 innovations and user feedback over the past twenty years. Finally,
 researchers from Loughborough University, University College London, the
 University of Edinburgh and la Universidad Nacional Autónoma de México
-conducted interviews and engaged in correspondence with digitisation
-providers and libraries in Mexico, the United States, the United
-Kingdom, the Netherlands, Germany, Finland, Australia and New Zealand.
-The earnest engagement of these providers allowed us to better
+conducted semi-structured interviews and engaged in correspondence with
+digitisation providers and libraries in Mexico, the United States, the
+United Kingdom, the Netherlands, Germany, Finland, Australia and New
+Zealand. The earnest engagement of these providers allowed us to better
 understand the histories of these collections, their selection and
 processing of historical newspapers, and their development or adaption
 of metadata for describing them.
@@ -85,10 +85,12 @@ understanding the vocabulary employed to describe elements and
 characteristics of the physical newspaper as well.
 
 ![Fig. 1](../img/map.jpeg)
-> Fig. 1. Map of all metadata fields from our samples (each one represented by a different 
-> colour), with connecting lines showing the internal hierarchy of each, broken down 
-> by metadata of physical object, digital object, metadata pertaining to both, and 
-> text data. Unmapped blue boxes refer to user-generated fields exclusive to Trove.
+> Fig. 1. Map of all metadata fields from our samples (each one
+> represented by a different colour), with connecting lines showing the
+> internal hierarchy of each, broken down by metadata of physical object,
+> digital object, metadata pertaining to both, and text data. Unmapped
+> blue boxes represent an overflow of repetitive administrative technical
+> metadata.
 
 As a result, we decided instead to create this textual ontology of the
 metadata fields based upon the structure of the newspaper as a physical

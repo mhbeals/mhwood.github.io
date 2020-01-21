@@ -2,7 +2,7 @@
 layout: page
 title: Aims and Objectives
 subtitle:  
-use-site-title: true
+use-site-title: false
 ---
 
 The *Atlas* aims to facilitate more historically informed understandings
@@ -28,23 +28,25 @@ Investigators from each national team were intimately familiar, having
 previously investigated internal reprinting patterns with them. Second,
 the full machine-readable data and metadata sets was made available to
 the team as either public domain data or under widely available
-licencing agreements for text-mining. Once the project began, two
-additional English-language collections—*Papers Past* from the National
-Library of New Zealand and the (London) *Times Digital Archive* by
+licensing agreements for text-mining. Once the project began, two
+additional English-language collections—Papers Past from the National
+Library of New Zealand and the (London) Times Digital Archive by
 commercial publisher Gale—were made available to the team. Because these
 datasets, alongside the *Trove* newspaper collection of the National
 Library of Australia, were well known to team members and were quickly
-accessible to researchers under clear licencing schema, they have been
-included in the Atlas despite being beyond its initial North Atlantic
+accessible to researchers under clear licensing schema, they have been
+included in the *Atlas* despite being beyond its initial North Atlantic
 remit. Although we recognise that many other digitised newspaper
 databases currently exist, and that large sections of the globe are not
 represented in this guide—namely South America, Africa and Asia—we feel
 that the *Atlas* nonetheless represents the first international,
 multi-lingual collaboration of its kind, providing an exemplar of
 physically reconnecting siloed datasets and working with collections as
-data—their content, structure and metadata intimately bound together.
-Moreover, by opening the digital *Atlas* to public collaboration, we hope
-that additional collections will be chronicled and mapped in the future.
+data, their content, structure and metadata intimately bound together.
+Moreover, by opening the digital [*Atlas*](http://www.digitisednewspapers.net) 
+to public collaboration, we hope
+that additional collections will be chronicled and mapped by the wider
+community in the future.
 
 Each database instantiation that we have surveyed uses different
 language to describe physical objects (for example a newspaper issue,
@@ -58,7 +60,7 @@ what data can be dismissed as too technical to be of interest to the
 digital humanities researcher. Finally, although there is some truth to
 the claim that “everyone uses METS/ALTO”, or something very similar,
 when encoding digitised newspapers, this surface level consistency lulls
-us into a false sense of security: we are rarely comparing apples to
+us into a false sense of security. We are rarely comparing apples to
 apples—sometimes we are not even comparing fruit to fruit.
 
 However, it is not the aim of this *Atlas* to provide a single “better”
