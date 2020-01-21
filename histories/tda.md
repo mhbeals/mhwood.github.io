@@ -5,7 +5,7 @@ subtitle: Gale, a Cengage Company
 use-site-title: false
 ---
 
-### History of the Collection
+## History of the Collection
 
 [*The Times* Digital
 Archive](https://www.gale.com/intl/c/the-times-digital-archive) was the
@@ -22,13 +22,13 @@ database among Cengage’s news media collections. The archive is
 refreshed annually, adding new issues in one-year sets on a rolling
 basis.
 
-#### Consulted Libraries
+## Consulted Libraries
 
 As *The Times Digital Archive* is a single newspaper archive of a
 continuing title, the entire database is derived from *The Times*’s
 own archive, which included a complete backfile on microfilm.
 
-#### Microfilming Projects
+## Microfilming Projects
 
 Up through 1985, *The Times* backfile is preserved on 35mm microfilm.
 After that date, issues have been archived using both microfilm and
@@ -41,7 +41,7 @@ day. *The Times* was microfilmed from a variety of sources, including
 bound volumes, and conditions, including defects such folding, tearing,
 the use of adhesive tape and bad trimming.
 
-#### Digitisation Projects
+## Digitisation Projects
 
 Digitisation of *The Times* began in 2002 through the scanning of
 existing microfilm. Because the initial 1785-1985 material was digitised
@@ -62,7 +62,7 @@ partially by manual clipping, as was the case for birth, death and
 marriage notices in order to aid family historians and professional
 genealogists using the service.
 
-##### Selection
+## Selection
 
 The aim of the initial project was to digitise the microfilm collection,
 in its entirety, from 1785 until 1985. The content was released in
@@ -72,7 +72,7 @@ the close of 2003. Since its acquisition by Cengage in 2007, Gale has
 continued to expand the collection, which currently offers the complete
 run of the publication from 1785 to 2013.
 
-##### Preservation and Access
+## Preservation and Access
 
 While the full historical archive of *The Times* has now been
 digitised, and new issues meet legal deposit legislation digitally, Gale
@@ -80,9 +80,9 @@ continues to microfilm *The Times* on a monthly basis as a commercial
 product and as a preservation archive for *The Times* itself. Access
 is via purchase or subscription only.
 
-### Composition of the Collection
+## Composition of the Collection
 
-#### Selection Available
+## Selection Available
 
 *The Times* Digital Archive currently contains material from 1785–2013.
 This includes over 1.6 million pages from 70,000 issues, sub-divided or
@@ -94,9 +94,9 @@ precursors, *The Daily Universal Register* (1785–1787) and *The Times,
 or, Daily Universal Register* (1788). The collection continues to expand
 with additional content added on an annual basis.
 
-#### Data Quality
+## Data Quality
 
-##### Text
+## Text
 
 As OCR software provides only a digital confidence rating, which cannot
 be meaningfully translated into a quality metric, and independent
@@ -119,15 +119,15 @@ the collection, using the same metadata schema, capture requirements and
 level of detail but with new metadata fields to provide additional image
 metadata including the height, width, file format and colour map.
 
-##### Image
+## Image
 
 Images in the collection before 2007 were captured as 300 PPI bitonal
 TIFF files; since then, they have been captured at 400 PPI. These are
 not compressed or reformatted before display through the web interface.
 
-#### Metadata Schema
+## Metadata Schema
 
-##### Gale Legacy Text Mining Drives
+## Gale Legacy Text Mining Drives
 
 Before 2016, *The Times Digital Archive* data contains metadata and
 text content in a single XML file at issue level. Although similar in
@@ -149,7 +149,7 @@ issue number, page number, article title, article subheading,
 attribution and illustration capture were manually entered or verified
 by those processing the data.
 
-##### Gale Current Text Mining Drives
+## Gale Current Text Mining Drives
 
 After 2018, the Gale Text Mining Drive separated metadata and text
 content into three XML files: title or publication-level metadata,
@@ -159,7 +159,7 @@ and a DTD file is provided on the text-mining drives. Although distinct
 from the METS/ALTO schema, this system is similar to a combination of
 library MARC records and METS/ALTO XMLs.
 
-#### Backend Structure
+## Backend Structure
 
 The definitive dataset is kept in a proprietary XML format, known as the
 Gale Interchange Format or GIFT, and from this its text-mining and
@@ -170,9 +170,9 @@ dimensions. Our image database stores image metadata, including image
 resolution, file format, bit depth, colour map, file size, width and
 height.
 
-### User Interface Structure
+## User Interface Structure
 
-#### Web Interface
+## Web Interface
 
 *The Times* Digital Archive can be searched using the Gale Primary
 Sources interface. The basic search can be filtered to a specific
@@ -193,7 +193,7 @@ image may also be downloaded as a PDF as can the plain text of the OCR
 content. Bibliographic information and a suggested citation are provided
 at the bottom of the page.
 
-#### Direct Download or Drives
+## Direct Download or Drives
 
 Gale Cengage offers to make available content from its collections to
 academic researchers for data mining and textual analysis through
@@ -201,23 +201,23 @@ physical hard drives containing source data for a nominal cost recovery
 charge. This includes directories, title manifests, XML files and image
 files, containing metadata, article segmentation, and page facsimiles.
 
-### Rights and Usage
+## Rights and Usage
 
-#### Web Interface 
+## Web Interface 
 
 *The Times Digital Archive is* accessible by institutional subscription
 or purchase and is currently held by many public or national libraries
 worldwide; there is currently no individual subscription model
 available.
 
-#### API
+## API
 
 API access is not currently available. However, users can create batches
 of specific issues or titles for bulk download through the Gale [Digital
 Scholar Lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
 separate subscription service.
 
-#### Direct Download or Drives
+## Direct Download or Drives
 
 Gale Cengage makes content from its collections available to academic
 researchers for data mining and analysis through physical hard drives
@@ -229,7 +229,7 @@ individual text for large-scale analysis for purposes of performing
 personal or non-commercial research but cannot be duplicated or shared
 without expressed permission.
 
-#### Re-Publication
+## Re-Publication
 
 As part of the user agreement, XML, OCR and image data cannot be
 re-published in any form, physical or digital, without the express

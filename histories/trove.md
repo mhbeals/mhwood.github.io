@@ -5,7 +5,7 @@ subtitle: The National Library of Australia
 use-site-title: false
 ---
 
-### History of the Collection
+## History of the Collection
 
 [Trove](http://trove.nla.gov.au), originally known as the Single Business
 Discovery Service, was launched in 2009 in order to create a single
@@ -55,7 +55,7 @@ Library of Australia has invested heavily in expanding and improving
 access to its collections through updated digitisation, API and web
 interface protocols.
 
-#### Consulted Libraries
+### Consulted Libraries
 
 Most of the newspapers within Trove were scanned from microfilm
 collections held by members of the National and State Libraries
@@ -66,7 +66,7 @@ Queensland; State Library of South Australia; and Libraries Tasmania.
 Additional collections, held by private organisations, have also been
 digitised through the digitisation partnership programme.
 
-#### Microfilming Projects
+### Microfilming Projects
 
 Established in 1992 as the National Plan for Australian Newspapers,
 ANPlan brought together independent programmes of preservation by the
@@ -87,9 +87,9 @@ facilities. These difficulties have been compounded by decreased
 industry support, including manufacture and repair of microform readers
 and duplicators as well as user preference for digital delivery.
 
-#### Digitisation Projects
+### Digitisation Projects
 
-##### Selection
+#### Selection
 
 It is the aim of the ANDP to make freely available all Australian
 newspapers published prior to 1955. During the initial phase of the
@@ -132,7 +132,7 @@ guidelines. As of December 2019, the library maintains [online lists of
 forthcoming titles](https://help.nla.gov.au/trove/for-digitisation-partners/newspapers-coming-soon)
 and new additions (https://trove.nla.gov.au/newspaper/rss/titles).
 
-##### Preservation 
+#### Preservation 
 
 Although their 2010 five-year plan included discussion of ongoing
 microfilming for preservation, the most recent strategy document for
@@ -144,7 +144,7 @@ member libraries and detailed guidance on digitisation from both
 microfilm and hardcopy is available on the [Trove Digitisation Partners
 webpage](https://help.nla.gov.au/trove/for-digitisation-partners).
 
-##### Access
+#### Access
 
 The Trove newspapers collection provides users access to the most
 comprehensive selection of historical Australian newspapers in a single
@@ -155,9 +155,9 @@ discretion of individual libraries and where conservation status allows,
 users may still consult original hardcopies of historical newspapers
 that have been digitised.
 
-### Composition of the Collection
+## Composition of the Collection
 
-#### Selection Available
+### Selection Available
 
 As for December 2019, Trove Digitised Newspapers provides access to over
 23 million pages across almost fifteen-hundred Australian newspapers,
@@ -174,9 +174,9 @@ newspaper titles already digitised is available on Trove, as well as a
 [list of newspaper titles selected for digitisation for the current
 year](http://www.nla.gov.au/content/new-titles-coming).
 
-#### Data Quality
+### Data Quality
 
-##### Text
+#### Text
 
 A single contractor was responsible for OCR and content analysis in the
 initial phase, while a panel of OCR and content analysis providers were
@@ -224,7 +224,7 @@ undertaken research into how to evaluate the improvement of crowdsourced
 corrections in order to improve the reliability of their
 machine-readable text as the number of digitised pages increases.
 
-##### Images
+#### Images
 
 During its digitisation programme, the majority of Trove newspapers were
 scanned from 35mm master negative silver gelatin microfilm reels or
@@ -236,7 +236,7 @@ page for OCR purposes. They are required to be formatted as a TIFF 6.0
 at 400 PPI, compressed to LZW for the colour master image and CCITT
 Group 4 for the bitonal image.
 
-#### Metadata Schema
+### Metadata Schema
 
 As for 2018, the data contained within Trove utilises the METS XML
 schema is used for structural metadata and ALTO XML for the OCR content.
@@ -246,7 +246,7 @@ OCR processing facilities. Additional metadata regarding user
 annotations and corrections is held in a separate metadata schema
 accessible via the API.
 
-#### Backend Structure
+### Backend Structure
 
 As of 2018, the data for each issue is stored in multiple image and text
 files, with two digital image files, including a raw greyscale TIFF
@@ -267,9 +267,9 @@ reels for each individual newspaper title so that all file names are
 unique for a title. Image files are named sequentially based on the
 order in which they appear in the microfilm.
 
-### User Interface Structure
+## User Interface Structure
 
-#### Web Interface
+### Web Interface
 
 The current user interface allows users to perform a simple or advanced
 search of the underlying descriptive metadata and OCR text or to browse
@@ -289,7 +289,7 @@ downloading an image, the article is segmented and then embedded into an
 HTML to facilitate printing onto A4 paper. A new web interface is
 currently in development.
 
-#### API
+### API
 
 The Trove API provides users with bulk access to the underlying data of
 the Trove collections, including user-generated data, in a
@@ -303,13 +303,13 @@ Materials can be accessed using a URL-based request or by using the
 suggested but unofficial [API Console](http://troveconsole.herokuapp.com), which assists users in formatting
 their requests. A [full technical description of the API is available](https://help.nla.gov.au/trove/building-with-trove/api-version-2-technical-guide).
 
-#### Direct Download or Drives
+### Direct Download or Drives
 
 There are no current processes for making drives of data available.
 
-### Rights and Usage
+## Rights and Usage
 
-#### Web Interface
+### Web Interface
 
 The Trove web interface is freely accessible to all users, worldwide.
 All material obtained from the web interface may be used freely for
@@ -317,14 +317,14 @@ personal research. When browsed or searched through the user interface,
 users are presented with a full citation to the digitised image and
 text.
 
-#### API
+### API
 
 The API is free and open, with a key that is automatically obtainable
 for personal use. Commercial use requires explicit approval by Trove.
 Material derived from the Trove API may be used under the same
 conditions as that derived from the web interface.
 
-#### Re-Publication
+### Re-Publication
 
 Digitised newspapers up to 1954, whether delivered through the web
 interface or the API, are available to users as public domain images and

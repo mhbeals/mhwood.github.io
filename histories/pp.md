@@ -5,7 +5,7 @@ subtitle: The National Library of New Zealand
 use-site-title: false
 ---
 
-### History of the Collection 
+## History of the Collection 
 
 [Papers Past](https://paperspast.natlib.govt.nz) began in 2000 with a
 project to provide access to nineteenth-century New Zealand newspapers
@@ -21,7 +21,7 @@ letters and diaries; and parliamentary papers–bringing together
 full-text content from several standalone websites, such as the magazine
 *Te Ao Hou*. This redevelopment also allowed for a mobile view.
 
-#### Consulted Libraries 
+### Consulted Libraries 
 
 The Papers Past digital archive draws from the National Newspaper
 Collection, which contains newspapers from New Zealand, Australia, and
@@ -47,7 +47,7 @@ and get a duplicate set made for digitisation, as was the case for the
 Samoan newspapers, which were digitised from film held by the State
 Library of New South Wales (Australia).
 
-#### Microfilming Projects 
+### Microfilming Projects 
 
 The library has been microfilming newspapers since 1953. For the years
 1953–1977, this was focused on regional and local papers, and the
@@ -71,7 +71,7 @@ organised by the National Library. The National Library also borrows
 physical newspapers from other institutions for filming if it does not
 hold a complete run.
 
-#### Digitisation Projects 
+### Digitisation Projects 
 
 Newspaper digitisation at the National Library has three strands; the
 National Library programme itself, the collaborative programme and a
@@ -96,7 +96,7 @@ generally used for the digitisation of the regional dailies. With both
 programmes, the applicants contribute towards the direct costs of
 digitisation, generally 50% of the cost.
 
-##### Selection
+#### Selection
 
 As New Zealand has a relatively short print history, the first newspaper
 being published in 1839, it was thought plausible to digitise an
@@ -136,7 +136,7 @@ titles up to 1950; and additional Pacific material. A record of user
 requests is kept, and those requests are used to help prioritise titles
 for digitisation.
 
-##### Preservation and Access 
+#### Preservation and Access 
 
 A separate record for the digitised title is created in the library
 catalogue, which contains a link to the title page on Papers Past. This
@@ -146,9 +146,9 @@ Database, as well as copyright information and acknowledgements. The
 digitised copy acts as the primary access copy for the object with the
 microfilm acting as the long-term preservation medium.
 
-### Composition of the Collection
+## Composition of the Collection
 
-#### Selection Available 
+### Selection Available 
 
 The National Library of New Zealand has now made available 5,789,376
 newspaper pages from 847,719 separate issues. Of the 147 titles, 80 have
@@ -174,14 +174,14 @@ South Sea Advertiser* (1888–1896), the *Samoa Times and South Sea
 Gazette* (1877–1881), the *Samoa Weekly Herald* (1892–1900) and
 *Samoanische Zeitung* (1903–1930).
 
-#### Data Quality 
+### Data Quality 
 
-##### Text
+#### Text
 
 There is currently no independent study of the OCR accuracy of the
 collection.
 
-##### Image
+#### Image
 
 The *Papers Past* newspapers were digitised from microfilm as 400 PPI
 bitonal images. Images were originally delivered to users as
@@ -202,7 +202,7 @@ PDF pages are 200 PPI. GIFs appear, when downloaded, as having a
 resolution of 96 PPI, but they are physically large files, which would
 print at approximately 23x29 inches at 300 PPI.
 
-#### Metadata Schema 
+### Metadata Schema 
 
 The data contains several different metadata types: METS XML schema is
 used for structural metadata, ALTO XML for the OCR content, and MIX for
@@ -214,7 +214,7 @@ software used, is harvested as part of the scanning process. Manual
 headline correction and manual illustration caption correction is also
 done as part of the digitisation process.
 
-#### Backend Structure 
+### Backend Structure 
 
 The data for each issue is stored in multiple files within a directory
 structure that provides date and title information, as follows:
@@ -226,9 +226,9 @@ four-digit standard such as 0001.xml; one containing the IE METS file,
 needed for integration into the National Digital Heritage Archive; and
 one for page-level and issue-level PDFs.
 
-### User Interface Structure 
+## User Interface Structure 
 
-#### Web Interface
+### Web Interface
 
 The newspaper web interface for Papers Past allows users to perform a
 simple search of the underlying descriptive metadata and OCR text or to
@@ -247,21 +247,21 @@ article
 allows users to navigate the issues or browse the title by date.
 Bibliographic and copyright information is also provided.
 
-#### API 
+### API 
 
 With the DigitalNZ API, it is possible to access and use a sub-section
 of the Papers Past metadata, including titles, dates, and URL. Currently
 API data is limited to material digitised before 2013. An API key can be
 obtained by registering through the DigitalNZ website.
 
-#### Direct Download or Drives 
+### Direct Download or Drives 
 
 The National Library of New Zealand is currently developing processes
 for making out-of-copyright data available to users in bulk format.
 
-### Rights and Usage 
+## Rights and Usage 
 
-#### Web Interface
+### Web Interface
 
 Newspaper material on the Papers Past website has been provided in good
 faith for users by the National Library on the basis that the newspaper
@@ -274,14 +274,14 @@ publisher has made the material available under a Creative Commons
 licence, most commonly CC-BY-NC-SA. Usage and copyright information for
 a title is available under “Using this item” next to the article.
 
-#### API and Direct Download
+### API and Direct Download
 
 Metadata available through the DigitalNZ API has been licensed for use
 by its owners, and API access has some restrictions, such as not sharing
 API keys and ensuring you identify the source. Papers Past data accessed
 through the DigitalNZ API is for non-commercial use only.
 
-#### Re-Publication
+### Re-Publication
 
 When re-publishing material from this website that is out of copyright
 or for which you have gained permission from the copyright holder, the
