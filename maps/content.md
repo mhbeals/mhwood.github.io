@@ -13,7 +13,7 @@ hyphens**, have also been included in this section.
 
 [Section Heading](section-heading)
 
-[Article Title or Headline](article-title)
+[Article Title or Headline](headline)
 
 [Attribution](attribution)
 
