@@ -83,8 +83,7 @@ vendor.
 The Collaborative Digitisation Programme adds additional newspapers to
 Papers Past using the combined resources of community groups around New
 Zealand. Every year, the library invites applications for new additions,
-which are listed at
-(https://natlib.govt.nz/librarians/national-library-services/collaborative-digitisation).
+which are listed [online](https://natlib.govt.nz/librarians/national-library-services/collaborative-digitisation).
 The programme started in 2010-2011 and is focused on small, local
 newspapers. Local libraries and community groups can apply to have
 microfilmed newspapers digitised or to have them microfilmed and then
@@ -219,7 +218,7 @@ done as part of the digitisation process.
 
 The data for each issue is stored in multiple files within a directory
 structure that provides date and title information, as follows:
-TitleAcronym/YYYY/TitleAcronym\_YYYYMMDD. Within this directory, there
+TitleAcronym/YYYY/TitleAcronym_YYYYMMDD. Within this directory, there
 are four sub-directories: one containing preservation TIFFs; one
 containing modified master TIFFs, the METS file, and text data in the
 form of ALTO-encoded files for each page of content, numbered using a

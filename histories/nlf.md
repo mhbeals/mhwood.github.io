@@ -7,8 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-The [*Suomen Kansalliskirjaston digitoidut sanomalehdet*]
-(https://digi.kansalliskirjasto.fi/search?formats=NEWSPAPER)
+The [*Suomen Kansalliskirjaston digitoidut sanomalehdet*](https://digi.kansalliskirjasto.fi/search?formats=NEWSPAPER)
 has its origins in the Helsinki University Library Center for Microfilming and
 Conservation, established in Mikkeli in 1990. Now known as the Centre
 for Preservation and Digitisation, part of the Suomen Kansalliskirjasto
@@ -153,8 +152,7 @@ The publicly available images from the collection are available as a PDF
 or JPEG file with a resolution of 300 PPI, the latter of which is made
 available through a structured URL based on an item’s unique identifier.
 High resolution images are stored at the server of the National Library
-of Finland and released as part of METS packages in TIFF format at
-(https://digi.kansalliskirjasto.fi/opendata).
+of Finland and released as part of [METS packages](https://digi.kansalliskirjasto.fi/opendata) in TIFF format.
 
 #### Metadata Schema
 
@@ -209,14 +207,13 @@ crawling tools, using the aforementioned standardised file structure.
 #### Direct Download or Drives
 
 There are currently several options for obtaining the newspaper data in
-bulk format. The Digital Collections maintain an [Open Data website]
-(https://digi.kansalliskirjasto.fi/opendata) in Finnish and English
+bulk format. The Digital Collections maintain an [Open Data website](https://digi.kansalliskirjasto.fi/opendata) in Finnish and English
 allowing the download of both METS and OCR data as date- or
 language-delimited ZIP files. The years available vary and are not yet
 comprehensive of the entire collection. The Newspaper and Periodical OCR
 Corpus of the National Library of Finland (1771–1874) was released in
 2011. The data package is in the METS/ALTO format and downloadable via
-the [Language Bank of Finland] (http://urn.fi/urn:nbn:fi:lb-2015051201).
+the [Language Bank of Finland](http://urn.fi/urn:nbn:fi:lb-2015051201).
 The Newspaper and Periodical OCR Corpus of the National Library of
 Finland (1875–1920) was released in November 2017. The data package is
 downloadable via the Language Bank of Finland. The dataset includes all

@@ -121,7 +121,7 @@ preferred method of permanent preservation.
 
 As of December 2018, the collection included 2,689 distinct historical
 newspaper titles comprising 14,181,901 historical newspaper pages. A
-full list of included titles can be found at (http://chroniclingamerica.loc.gov/newspapers.txt). 
+full list of included titles can be found at [http://chroniclingamerica.loc.gov/newspapers.txt](http://chroniclingamerica.loc.gov/newspapers.txt). 
 The collection
 contains issues from the years 1789–1963, but the bulk of the collection
 is from 1850 to 1922. This latter date is commonly understood as the US
@@ -226,7 +226,7 @@ Materials from Chronicling America can be obtained through the site’s
 API which, as of December 2018, does not require a unique access key.
 Datasets filtered by metadata or content and can be retrieved in HTML,
 Atom/XML or JSON formats through URL queries. More information and
-examples can be found at (https://chroniclingamerica.loc.gov/about/api).
+examples can be found at [https://chroniclingamerica.loc.gov/about/api](https://chroniclingamerica.loc.gov/about/api).
 
 ### Direct Download or Drives
 

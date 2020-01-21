@@ -155,7 +155,7 @@ and country of publication.
 
 The Berlin State Library provides an API for the digitised newspapers,
 which allows retrieval of images, full text and metadata. It is
-documented at (https://lab.sbb.berlin/5393/?lang=en).
+documented at [https://lab.sbb.berlin/5393/?lang=en](https://lab.sbb.berlin/5393/?lang=en).
 
 #### Direct Download or Drives
 

@@ -142,7 +142,7 @@ record.
 
 As of December 2018, the database contains over 1.4 million newspaper
 issues representing over 15 million newspaper pages. A full list of
-included titles can be found at 
+included titles [is available]
 (https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf). 
 The collection includes
 newspapers from 1618 to 1995, as allowed by copyright restrictions, and
@@ -239,9 +239,8 @@ structured URL at either issue or article level.
 ### Direct Download
 
 The Delpher Open Newspaper Archive contains the texts (OCR, ALTO, XML)
-of all newspapers from the period 1618 to 1876. The archive is 111 GB in
-size and divided into 22 ZIP files, available at
-(http://www.delpher.nl/data). For copyright reasons, the archive does not
+of all newspapers from the period 1618 to 1876. The [archive](http://www.delpher.nl/data) is 111 GB in
+size and divided into 22 ZIP files. For copyright reasons, the archive does not
 include newspapers after 1876 but, under certain research conditions, a
 licence may be granted for bulk use of post-1876 dates.
 

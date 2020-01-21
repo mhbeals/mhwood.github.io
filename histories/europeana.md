@@ -14,8 +14,8 @@ artefacts, books, films and music from European museums, galleries,
 libraries and archives.
 
 A thematic newspapers collection within Europeana was established in
-July 2019. It mainly builds on the Europeana Newspapers project
-(2012-2015, (http://www.europeana-newspapers.eu)) that was funded by the
+July 2019. It mainly builds on the [Europeana Newspapers project
+(2012-2015)](http://www.europeana-newspapers.eu) that was funded by the
 European Commission’s ICT Policy Support Programme, as part of the
 Competitiveness and Innovation framework Programme (CIP). The project
 received an initial €5.2 million with a maximum European Commission
@@ -63,8 +63,7 @@ gallery, library, archive and museum (GLAM) institutions.
 #### Selection
 
 The main selection criteria for the aggregation of digitised newspapers
-to Europeana is the conformance with the [Europeana Publishing Framework]
-(https://pro.europeana.eu/post/publishing-framework), which details
+to Europeana is the conformance with the [Europeana Publishing Framework](https://pro.europeana.eu/post/publishing-framework), which details
 several tiers of quality requirements and recommendations for metadata,
 text and image content. For inclusion within the thematic collection,
 the most general requirement is that the data provider populates the
@@ -124,10 +123,8 @@ a dedicated metadata profile for digital newspapers based on established
 community standards METS and ALTO. Full details of the encoding schema
 (v 1.0, 2015) are available on the Europeana Newspapers project website.
 For aggregation into Europeana, [a special profile for representing full
-text alongside the Europeana Data Model was created]
-(https://docs.google.com/document/d/1t5yGEzQ0KV2rqU0sFDoKnI2bIDBGrmj0f1gSOCRUgJ4/edit).
-It is also [aligned with the IIIF standard]
-(https://docs.google.com/document/d/1vhQstotXm4b-t8FHCzStHNCoz1dVzGFsaXLrn2vCPVI/edit).
+text alongside the Europeana Data Model was created](https://docs.google.com/document/d/1t5yGEzQ0KV2rqU0sFDoKnI2bIDBGrmj0f1gSOCRUgJ4/edit).
+It is also [aligned with the IIIF standard](https://docs.google.com/document/d/1vhQstotXm4b-t8FHCzStHNCoz1dVzGFsaXLrn2vCPVI/edit).
 Europeana metadata has also been released in [EDM in
 XML](http://test-solr-mongo.eanadev.org/europeana-research-newspapers-dump/sample-2017-06-23/Staatsbibliothek_zu_Berlin_-_Preu%25C3%259Fischer_Kulturbesitz/Berliner_Tageblatt/newspaper_title_metadata.edm.xml),
 [EDM in
@@ -164,14 +161,12 @@ Europeana provides several APIs to use with the newspaper collection:
   - IIIF Fulltext API, which allows access to the full text of the
     newspapers
 
-Documentation and examples of use are available at
-(https://pro.europeana.eu/resources/apis).
+Documentation and examples of use are [available](https://pro.europeana.eu/resources/apis).
 
 ### Direct Download or Drives
 
 Newspaper metadata and full text sets per data provider are available
-for direct download from
-(https://pro.europeana.eu/resources/apis/iiif\#download). Users can also
+for [direct download](https://pro.europeana.eu/resources/apis/iiif\#download). Users can also
 directly download individual digitised newspaper pages via the Europeana
 user interface.
 
@@ -180,8 +175,8 @@ user interface.
 ### Web Interface
 
 All titles are freely searchable through Europeana and each individual
-object contains information about its terms of use, following
-(https://rightsstatements.org/en). However, full access to recent
+object contains information about its [terms of use](https://rightsstatements.org/en). 
+However, full access to recent
 twentieth-century content is problematic owing to copyright. Europeana
 Newspapers has developed a “Roadmap for Improving Access to Newspapers”
 to urge policy makers to consider more open licences for digitised

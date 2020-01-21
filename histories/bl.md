@@ -274,13 +274,13 @@ Gale.
 The previous version of Gale’s Text Mining Drive for Part I had
 separated data into directories containing either scanned images or
 machine-readable texts. Images were contained in numerically labelled
-batch directories (for example, BLC\_Images\_Archive\_01) in which there
+batch directories (for example, BLC_Images_Archive_01) in which there
 were individual directories labelled by the four-letter title
 abbreviation used in the XML metadata. Within these were directories
 labelled by individual issue dates in ISO format (for example, 18840102)
 inside which were the page images. Machine-readable text files were
 stored in a separate file structure, using numerically labelled batch
-numbers (for example, BLC\_XML\_Archive\_14). Within these are all the
+numbers (for example, BLC_XML_Archive_14). Within these are all the
 XML files created as part of that processing batch.
 
 The previous version of Gale’s Text Mining Drive for Part II packaged

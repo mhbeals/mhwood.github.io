@@ -216,8 +216,7 @@ available.
 
 API access is not currently available. However, users can create batches
 of specific issues or titles for bulk download through the Gale [Digital
-Scholar Lab]
-(https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
+Scholar Lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
 separate subscription service.
 
 #### Direct Download or Drives
@@ -236,8 +235,7 @@ without expressed permission.
 
 As part of the user agreement, XML, OCR and image data cannot be
 re-published in any form, physical or digital, without the express
-permission and licensing of News UK
-(https://newslicensing.co.uk/en/page/show_home_page.html). Small
+permission and [licensing of News UK](https://newslicensing.co.uk/en/page/show_home_page.html). Small
 quotations, using standard citation practices, may be reproduced in
 accordance with local fair use provisions and should be accompanied by a
 DOI link that points back to the individual full text article or book
