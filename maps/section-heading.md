@@ -24,9 +24,8 @@ TRAP: The newspaper or periodical section this article appeared in. In
 the Trove web interface, this is shown on the **page** view. A section
 is part of an **issue**.
 
-## Instantiations** **  
+## Instantiations
 
 | SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:relatedItem\\mods:titleInfo\\mods:partName | STR | Wirtschaftsausgabe  |
-| -- | -- | -- |
 | SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:partName  | STR | Wirtschaftsausgabe  |
 | TRAP::article\\section  | STR | 1, Special Home Feature |
