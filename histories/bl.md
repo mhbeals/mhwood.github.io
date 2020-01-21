@@ -8,8 +8,7 @@ use-site-title: false
 ## History of the Collection
 
 [Parts I and II of the *British Library’s 19<sup>th</sup> Century
-Newspapers* collection]
-(https://www.gale.com/intl/c/british-library-newspapers-part-i and
+Newspapers* collection](https://www.gale.com/intl/c/british-library-newspapers-part-i and
 https://www.gale.com/intl/c/british-library-newspapers-part-ii), now
 part of the *British Library Newspapers* collection, were created as
 part of a public-private partnership between the British Library and
@@ -30,8 +29,7 @@ project had an initial target of making 2 million pages available and
 broadly useful to scholars, researchers, and the public. The British
 Library partnered with commercial vendors to process the scanned images,
 including Gale and Brightsolid; the latter partner continues to expand
-the collection as the [British Newspaper Archive]
-(https://www.britishnewspaperarchive.co.uk), and the library itself is
+the collection as the [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk), and the library itself is
 currently undertaking a large-scale digitising effort entitled Heritage
 Made Digital, neither of which are discussed here.
 
@@ -331,8 +329,7 @@ model available.
 
 API access is not currently available through the British Library.
 However, users can create batches of specific issues or titles for bulk
-download through the Gale [Digital Scholar Lab]
-(https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
+download through the Gale [Digital Scholar Lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
 separate subscription service.
 
 ### Direct Download or Drives
