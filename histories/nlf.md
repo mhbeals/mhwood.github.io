@@ -211,8 +211,7 @@ bulk format. The Digital Collections maintain an [Open Data website](https://dig
 allowing the download of both METS and OCR data as date- or
 language-delimited ZIP files. The years available vary and are not yet
 comprehensive of the entire collection. The Newspaper and Periodical OCR
-Corpus of the National Library of Finland (1771–1874) was released in
-2011. The data package is in the METS/ALTO format and downloadable via
+Corpus of the National Library of Finland (1771–1874) was released in 2011. The data package is in the METS/ALTO format and downloadable via
 the [Language Bank of Finland](http://urn.fi/urn:nbn:fi:lb-2015051201).
 The Newspaper and Periodical OCR Corpus of the National Library of
 Finland (1875–1920) was released in November 2017. The data package is

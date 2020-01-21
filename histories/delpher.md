@@ -142,8 +142,7 @@ record.
 
 As of December 2018, the database contains over 1.4 million newspaper
 issues representing over 15 million newspaper pages. A full list of
-included titles [is available]
-(https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf). 
+included titles [is available](https://www.kb.nl/sites/default/files/docs/Beschikbare\_kranten\_alfabetisch.pdf). 
 The collection includes
 newspapers from 1618 to 1995, as allowed by copyright restrictions, and
 efforts have been made to represent the entire chronology fully. There

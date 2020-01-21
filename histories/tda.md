@@ -193,8 +193,6 @@ image may also be downloaded as a PDF as can the plain text of the OCR
 content. Bibliographic information and a suggested citation are provided
 at the bottom of the page.
 
-#### API
-
 #### Direct Download or Drives
 
 Gale Cengage offers to make available content from its collections to

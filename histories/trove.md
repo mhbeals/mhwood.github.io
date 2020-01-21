@@ -117,8 +117,7 @@ selection process, therefore, largely depended upon librarian expertise
 of significance and user demand, as well as the availability of
 microfilm copies of sufficient quality for digitisation. Currently,
 selection occurs within the framework of the Library’s [Collection
-Digitisation Policy]
-(https://www.nla.gov.au/policy-and-planning/collection-digitisation-policy),
+Digitisation Policy](https://www.nla.gov.au/policy-and-planning/collection-digitisation-policy),
 which considers a newspaper’s cultural and historical significance,
 utility to a broad range of audiences, uniqueness or rarity, perceived
 public demand, conservation status, rights conditions, planned
@@ -130,8 +129,7 @@ titles or take part in a contributor-funded model, wherein they can
 suggest a title and provide a subvention towards to costs of that
 digitisation, so long as it falls within their general selection
 guidelines. As of December 2019, the library maintains [online lists of
-forthcoming titles]
-(https://help.nla.gov.au/trove/for-digitisation-partners/newspapers-coming-soon)
+forthcoming titles](https://help.nla.gov.au/trove/for-digitisation-partners/newspapers-coming-soon)
 and new additions (https://trove.nla.gov.au/newspaper/rss/titles).
 
 ##### Preservation 
@@ -184,8 +182,7 @@ A single contractor was responsible for OCR and content analysis in the
 initial phase, while a panel of OCR and content analysis providers were
 later established to cater for the expanding programme. OCR contractors
 process page-level image files provided by National Library of Australia
-according to [publicly available guidelines]
-(https://help.nla.gov.au/trove/for-digitisation-partners/digitisation-workflow-process-overview)
+according to [publicly available guidelines](https://help.nla.gov.au/trove/for-digitisation-partners/digitisation-workflow-process-overview)
 and provide hand-keyed metadata for key fields of each issue.
 Afterwards, the Digitisation and Photography Branch engage in a quality
 control process by which they check a sample of articles from each
@@ -303,8 +300,7 @@ tools and visualisations. A personal API key can be obtained
 automatically via a Trove user account; a commercial key is also
 available but requires explicit permission from the National Library.
 Materials can be accessed using a URL-based request or by using the
-suggested but unofficial [API Console]
-(http://troveconsole.herokuapp.com), which assists users in formatting
+suggested but unofficial [API Console](http://troveconsole.herokuapp.com), which assists users in formatting
 their requests. A [full technical description of the API is available](https://help.nla.gov.au/trove/building-with-trove/api-version-2-technical-guide).
 
 #### Direct Download or Drives

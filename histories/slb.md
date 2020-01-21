@@ -102,8 +102,7 @@ from Berlin and its surroundings that were of national influence.
 Highlights of the collection include early papers such as *Berlinische
 Nachrichten* (founded 1740), foreign German-language papers such as
 *Deutsche La Plata-Zeitung*, and Russian-language papers published in
-Berlin. A full list of titles can be found on the [ZEFYS website]
-(http://zefys.staatsbibliothek-berlin.de/index.php?id=list).
+Berlin. A full list of titles can be found on the [ZEFYS website](http://zefys.staatsbibliothek-berlin.de/index.php?id=list).
 
 #### Data Quality
 
