@@ -9,9 +9,6 @@ use-site-title: false
 
 li {
 	list-style: none;
-}
-
-p {
   padding-left: 22px ;
   text-indent: -22px ;
 } 
