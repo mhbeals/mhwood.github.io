@@ -12,18 +12,11 @@ digital files and **metadata standards**, algorithmically derived **font
 and style** information, **dimensions** or **display coordinates** of
 objects
 
-[OCR Information](ocr-information)
-
-[ID](id)
-
-[Coordinates](coordinates)
-
-[Dimensions](dimensions)
-
-[Measurement Unit](measurement-unit)
-
-[Font Information](font-information)
-
-[Page Skew](page-skew)
-
-[Metadata Type](metadata-type)
++ [OCR Information](../ocr)
++ [ID](../id)
++ [Coordinates](../coordinate)
++ [Dimensions](../dimensions)
++ [Measurement Unit](../measurement-unit)
++ [Font Information](../font-information)
++ [Page Skew](../page-skew)
++ [Metadata Type](../metadata-type)

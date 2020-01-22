@@ -11,18 +11,11 @@ includes information on **holding library, shelf mark, microfilm reel,
 database**, **sub-collection** and **filename** as well as information
 on **microfilm quality** and **copyright status**.
 
-[Copyright](copyright)
-
-[Holding Library](holding-library)
-
-[Shelf Mark](shelf-mark)
-
-[Microfilm Reel](microfilm-reel)
-
-[Quality](quality)
-
-[Database](database)
-
-[Sub-Collection](sub-collection)
-
-[Filename](filename)
++ [Copyright](../copyright)
++ [Holding Library](../holding-library)
++ [Shelf Mark](../shelf-mark)
++ [Microfilm Reel](../microfilm-reel)
++ [Quality](../quality)
++ [Database](../database)
++ [Sub-Collection](../sub-collection)
++ [Filename](../filename)
