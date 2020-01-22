@@ -51,7 +51,7 @@ p {
 
 + Bagnall, Kate. “Trove Presents a New Perspective on Australian History.” National Library of Australia, 19 February 2015. Web. [https://www.nla.gov.au/stories/blog/trove/2015/02/19/early-chinese-newspapers](https://www.nla.gov.au/stories/blog/trove/2015/02/19/early-chinese-newspapers) Accessed 29 November 2019. 
 
-+ Barrall, Kelly and Christine Guenther. *Microfilm Selection for Digitization.* OCLC Preservation Service Centers, 17 May 2005. [http://www.loc.gov/ndnp/guidelines/NEH](http://www.loc.gov/ndnp/guidelines/NEH)\_MicrofilmSelectionNDNP.pdf. Accessed 6 December 2019. 
++ Barrall, Kelly and Christine Guenther. *Microfilm Selection for Digitization.* OCLC Preservation Service Centers, 17 May 2005. [http://www.loc.gov/ndnp/guidelines/NEH\_MicrofilmSelectionNDNP.pdf](http://www.loc.gov/ndnp/guidelines/NEH\_MicrofilmSelectionNDNP.pdf). Accessed 6 December 2019. 
 
 + Bateson, F. W. “The Errata in* The Tatler.*” *The Review of English Studies*, vol. 5, no. 18, 1929, pp. 155–66, [doi:10.1093/res/os-V.18.155](http://www.doi.org/10.1093/res/os-V.18.155)
 
@@ -195,7 +195,7 @@ p {
 
 + \---. “Access, Computational Analysis, and Fair Use in the Digitized Nineteenth-Century Press.” *Victorian Periodicals Review*, vol. 51, no. 4, 2018, pp. 716–37, [doi:10.1353/vpr.2018.0051](http://www.doi.org/10.1353/vpr.2018.0051)
 
-+ Gabriele, Sandra. “Transfiguring the Newspaper: From Paper to Microfilm to Database.” *Amodern 2: Network Archaeology*, 2014, n.pag., [doi:[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/)](http://www.doi.org/[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/))
++ Gabriele, Sandra. “Transfiguring the Newspaper: From Paper to Microfilm to Database.” *Amodern 2: Network Archaeology*, 2014, n.pag., [http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/)](http://www.doi.org/[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/))
 
 + *Gale Digital Scholar Lab.* Database. Gale: A Cengage Company, 2019. [https://www.gale.com/intl/primary-sources/digital-scholar-lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab) Accessed 29 November 2019. 
 
@@ -247,13 +247,13 @@ p {
 
 + Hogan, Paul. “Trove Crowdsourcing Behaviour.” *National Library of Australia, 2013.* Web. [https://www.nla.gov.au/sites/default/files/trove-crowdsourcing-behaviour.pdf](https://www.nla.gov.au/sites/default/files/trove-crowdsourcing-behaviour.pdf) Accessed 1 December 2019. 
 
-+ Hughes, Linda K. “Periodical Poetry, Editorial Policy, and W. E. Henley’s *Scots* and *National Observer*.” *Victorian Periodicals Review*, vol. 49, no. 2, 2016, pp. 202–27, [doi:[https://doi.org/10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014)](http://www.doi.org/[https://doi.org/10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014))
++ Hughes, Linda K. “Periodical Poetry, Editorial Policy, and W. E. Henley’s *Scots* and *National Observer*.” *Victorian Periodicals Review*, vol. 49, no. 2, 2016, pp. 202–27, [doi:10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014)
 
 + Hunt, Alyson. “Special Section: Women of the Press in the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 130–33, [doi:10.1353/vct.2017.0012](http://www.doi.org/10.1353/vct.2017.0012)
 
 + IFLA. “Microfilming for Digitisation and Optical Character Recognition” *IFLA,* 2002. [https://www.ifla.org/publications/microfilming-for-digitisaton-and-optical-character-recognition](https://www.ifla.org/publications/microfilming-for-digitisaton-and-optical-character-recognition) Accessed 1 December 2019. 
 
-+ Ilva, Jyrki. “Kansallisen kulttuuriperinnön digitointi – loppuuko vauhti ennen alkua?” *Agricolan tietosanomat*, vol. 2, 2004, [doi:[https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558)](http://www.doi.org/[https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558))
++ Ilva, Jyrki. “Kansallisen kulttuuriperinnön digitointi – loppuuko vauhti ennen alkua?” *Agricolan tietosanomat*, vol. 2, 2004, [https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558).
 
 + Jackson, Alfred. “The Stage and the Authorities, 1700–1714 (As Revealed in the Newspapers).” *The Review of English Studies*, vol. 14, no. 53, 1938, pp. 53–62. *JSTOR*, www.jstor.org/stable/510202. 
 
@@ -377,7 +377,7 @@ p {
 
 + O’Malley, Tom. “Mitchell’s *Newspaper Press Directory* and the Late Victorian and Early Twentieth-Century Press.” *Victorian Periodicals Review*, vol. 48 no. 4, 2015, pp. 591–606, [doi:10.1353/vpr.2015.0057](http://www.doi.org/10.1353/vpr.2015.0057)
 
-+ Onnela, Tapio. “Historiallinen sanomalehtikirjasto 1771–1860.” *Agricolan tietosanomat*, vol. 2, 2001. [doi:[https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html)](http://www.doi.org/[https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html))
++ Onnela, Tapio. “Historiallinen sanomalehtikirjasto 1771–1860.” *Agricolan tietosanomat*, vol. 2, 2001. [https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html)
 
 + Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä. “Exporting Finnish Digitized Historical Newspaper Contents for Offline Use.” *D-Lib Magazine*, vol. 22, no. 7/8, 2016, n.pag., [doi:10.1045/july2016-paakkonen](http://www.doi.org/10.1045/july2016-paakkonen)
 
@@ -451,9 +451,9 @@ p {
 
 + *Suomen Kansalliskirjaston digitoidut sanomalehdet.* Database. The National Library of Finland, 2019. [https://digi.kansalliskirjasto.fi/etusivu](https://digi.kansalliskirjasto.fi/etusivu) Accessed 29 November 2019. 
 
-+ Tanner, Simon, Trevor Muñoz and Pich Hemy Ros. “Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive.” *D-Lib Magazine*, vol. 15, no. 7/8, 2009, n.pag., [doi:[http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html)](http://www.doi.org/[http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html))
++ Tanner, Simon, Trevor Muñoz and Pich Hemy Ros. “Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive.” *D-Lib Magazine*, vol. 15, no. 7/8, 2009, n.pag., [http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html)
 
-+ Tener, Robert H. “Breaking the Code of Anonymity: The Case of the *Spectator*, 1861–1897.” *The Yearbook of English Studies*, vol. 16, 1986, pp. 63–73. *JSTOR,* www.jstor.org/stable/3507766. 
++ Tener, Robert H. “Breaking the Code of Anonymity: The Case of the *Spectator*, 1861–1897.” *The Yearbook of English Studies*, vol. 16, 1986, pp. 63–73. *JSTOR,* [http://www.jstor.org/stable/3507766](http://www.jstor.org/stable/3507766).
 
 + *Text Reuse in Finnish Newspapers and Journals, 1771–1920*. Database. Eds. Aleksi Vesanto, Filip Ginter, Hannu Salmi, Asko Nivala, Reetta Sippola, Heli Rantala and Petri Paju, 2017. [http://comhis.fi/clusters](http://comhis.fi/clusters) Accessed 4 December 2019. 
 
@@ -475,11 +475,11 @@ p {
 
 + Vanden Bossche, Chris R. “The Value of Literature: Representations of Print Culture in the Copyright Debate of 1837–1842.” *Victorian Studies*, vol. 38, no. 1, 1994, pp. 41–68. *JSTOR*, www.jstor.org/stable/4618881. 
 
-+ Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017. 54–58. [doi:[http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf)](http://www.doi.org/[http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf))
++ Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017. 54–58. [http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf).
 
-+ Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017.330–33. [doi:[http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf)](http://www.doi.org/[http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf))
++ Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017.330–33. [http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf).
 
-+ Viola, Lorella and Jaap Verheul. “Mining Ethnicity: Discourse-Driven Topic Modelling of Immigrant Discourses in the USA, 1898–1920.” *Digital Scholarship in the Humanities*, fqz068, 2019, [doi:[https://doi.org/10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068)](http://www.doi.org/[https://doi.org/10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068))
++ Viola, Lorella and Jaap Verheul. “Mining Ethnicity: Discourse-Driven Topic Modelling of Immigrant Discourses in the USA, 1898–1920.” *Digital Scholarship in the Humanities*, fqz068, 2019, [DOI:10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068)
 
 + Vizetelly, Henry. *Glances Back Through Seventy Years: Autobiographical and Other Reminiscences.* 2 vols. K. Paul, Trench, Trübner & Co., Ltd., 1893. 
 
