@@ -7,22 +7,25 @@ use-site-title: false
 
 <style>
 
+li {
+	list-style: none;
+}
+
 p {
   padding-left: 22px ;
   text-indent: -22px ;
 } 
-
 </style>
 
-+ Abruzzi, Ray, Luisa Calè and Ana Parejo Vadillo. “Gale Digital Collections: Ray Abruzzi Interviewed by Luisa Calè and Ana Parejo Vadillo. *19: Interdisciplinary Studies in the Long Nineteenth Century*, vo. 21, 2015, n.pag., doi:10.16995/ntn.753. 
++ Abruzzi, Ray, Luisa Calè and Ana Parejo Vadillo. “Gale Digital Collections: Ray Abruzzi Interviewed by Luisa Calè and Ana Parejo Vadillo. *19: Interdisciplinary Studies in the Long Nineteenth Century*, vo. 21, 2015, n.pag., [doi:10.16995/ntn.753](http://www.doi.org/10.16995/ntn.753)
 
 + “Access.” National Library of Australia, 2014. Web. [https://www.nla.gov.au/australian-newspaper-plan/about/access](https://www.nla.gov.au/australian-newspaper-plan/about/access) Accessed 29 November 2019. 
 
 + “Access Policy.” *Strategy and Policy.* National Library of New Zealand, 2003. Web. [https://natlib.govt.nz/about-us/strategy-and-policy/access-policy](https://natlib.govt.nz/about-us/strategy-and-policy/access-policy) Accessed 29 November 2019. 
 
-+ Adams, David. “Papers Past: Browse Access for Online New Zealand Newspapers.” *Microform & Digitization Review*, vol. 34, no. 1, 2007, doi:10.1515/MFIR.2005.22. 
++ Adams, David. “Papers Past: Browse Access for Online New Zealand Newspapers.” *Microform & Digitization Review*, vol. 34, no. 1, 2007, [doi:10.1515/MFIR.2005.22](http://www.doi.org/10.1515/MFIR.2005.22)
 
-+ Alam, Sultana Lubna and John Campbell. “Crowdsourcing Motivations in a Not-for-Profit GLAM Context: The Australian Newspapers Digitisation Program.” *ACIS 2012: Location, Location, Location: Proceedings of the 23rd Australasian Conference on Information Systems*. ACIS, 2012. 1–11. <[http://hdl.handle.net/10536/DRO/DU:30049107](http://hdl.handle.net/10536/DRO/DU:30049107)>. 
++ Alam, Sultana Lubna and John Campbell. “Crowdsourcing Motivations in a Not-for-Profit GLAM Context: The Australian Newspapers Digitisation Program.” *ACIS 2012: Location, Location, Location: Proceedings of the 23rd Australasian Conference on Information Systems*. ACIS, 2012. 1–11. Web. [http://hdl.handle.net/10536/DRO/DU:30049107](http://hdl.handle.net/10536/DRO/DU:30049107). 
 
 + “Alexander Turnbull Library Collections.” *A–Z of our Collections.* National Library of New Zealand. Web. [https://natlib.govt.nz/collections/a-z/alexander-turnbull-library-collections](https://natlib.govt.nz/collections/a-z/alexander-turnbull-library-collections) Accessed 29 November 2019. 
 
@@ -50,23 +53,23 @@ p {
 
 + Barrall, Kelly and Christine Guenther. *Microfilm Selection for Digitization.* OCLC Preservation Service Centers, 17 May 2005. [http://www.loc.gov/ndnp/guidelines/NEH](http://www.loc.gov/ndnp/guidelines/NEH)\_MicrofilmSelectionNDNP.pdf. Accessed 6 December 2019. 
 
-+ Bateson, F. W. “The Errata in* The Tatler.*” *The Review of English Studies*, vol. 5, no. 18, 1929, pp. 155–66, doi:10.1093/res/os-V.18.155. 
++ Bateson, F. W. “The Errata in* The Tatler.*” *The Review of English Studies*, vol. 5, no. 18, 1929, pp. 155–66, [doi:10.1093/res/os-V.18.155](http://www.doi.org/10.1093/res/os-V.18.155)
 
-+ Beals, M. H. “Close Readings of Big Data: Triangulating Patterns of Textual Reappearance and Attribution in the *Caledonian Mercury*, 1820–40.” *Victorian Periodicals Review*, vol. 51, no. 4, 2018, pp. 616–39, doi:10.1353/vpr.2018.0046. 
++ Beals, M. H. “Close Readings of Big Data: Triangulating Patterns of Textual Reappearance and Attribution in the *Caledonian Mercury*, 1820–40.” *Victorian Periodicals Review*, vol. 51, no. 4, 2018, pp. 616–39, [doi:10.1353/vpr.2018.0046](http://www.doi.org/10.1353/vpr.2018.0046)
 
-+ Beekman, Grace. “Emotional Density, Suspense, and the Serialization of *The Woman in White* in *All the Year Round*.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017, pp. 9–38, doi:10.1353/vpr.2017.0002. 
++ Beekman, Grace. “Emotional Density, Suspense, and the Serialization of *The Woman in White* in *All the Year Round*.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017, pp. 9–38, [doi:10.1353/vpr.2017.0002](http://www.doi.org/10.1353/vpr.2017.0002)
 
 + Beetham, Margaret. “Open and Closed: The Periodical as a Publishing Genre.” *Victorian Periodicals Review*, vol. 22, no. 3, 1989, pp. 96–100. *JSTOR*, www.jstor.org/stable/20082400. 
 
 + Bent, Andrew. *An Appeal to the Sympathies and Benevolence of the Australasian Public, For Relief for Mr. Andrew Bent, (Late Newspaper Proprietor of Van Diemen’s Land,) And His Large Family, Now in a State of Utter Destitution\!* Andrew Bent, 1844. 
 
-+ Bernstein, S.D. “Reading Room Geographies of Late-Victorian London: The British Museum, Bloomsbury and the People’s Palace, Mile End.” *19: Interdisciplinary Studies in the Long Nineteenth Centur*y, vol. 13, 2012, n.pag., doi:10.16995/ntn.632. 
++ Bernstein, S.D. “Reading Room Geographies of Late-Victorian London: The British Museum, Bloomsbury and the People’s Palace, Mile End.” *19: Interdisciplinary Studies in the Long Nineteenth Centur*y, vol. 13, 2012, n.pag., [doi:10.16995/ntn.632](http://www.doi.org/10.16995/ntn.632)
 
 + Berthon, Hilary and Julia Hickie. “Digitising Journals on Trove: A National Approach to Sharing Content, Engaging Communities and Collaboration in the Digital World.” National Library of Australia, 22 March 2018. Web. [https://www.nla.gov.au/our-publications/staff-papers/digitising-journals-on-trove-a-national-approach-to-sharing-content](https://www.nla.gov.au/our-publications/staff-papers/digitising-journals-on-trove-a-national-approach-to-sharing-content) Accessed 2 December 2019. 
 
-+ Boehm, Katharina. “‘A Place for More than the Healing of Bodily Sickness’: Charles Dickens, the Social Mission of Nineteenth-Century Pediatrics, and the Great Ormond Street Hospital for Sick Children.” *Victorian Review*, vol. 35 no. 1, 2009, pp. 153–74, doi:10.1353/vcr.2009.0031. 
++ Boehm, Katharina. “‘A Place for More than the Healing of Bodily Sickness’: Charles Dickens, the Social Mission of Nineteenth-Century Pediatrics, and the Great Ormond Street Hospital for Sick Children.” *Victorian Review*, vol. 35 no. 1, 2009, pp. 153–74, [doi:10.1353/vcr.2009.0031](http://www.doi.org/10.1353/vcr.2009.0031)
 
-+ Booth, Keitha and Julia Napier. “Linking People and Information: Website Access to National Library of New Zealand Information and Services.” *The Electronic Library*, vol. 21, no. 3, pp. 227–33, 2003, doi:10.1108/02640470310480470. 
++ Booth, Keitha and Julia Napier. “Linking People and Information: Website Access to National Library of New Zealand Information and Services.” *The Electronic Library*, vol. 21, no. 3, pp. 227–33, 2003, [doi:10.1108/02640470310480470](http://www.doi.org/10.1108/02640470310480470)
 
 + Boyce, George, James Curran and Pauline Wingate. *Newspaper History from The Seventeenth Century to the Present Day*. Constable, 1978. 
 
@@ -76,11 +79,11 @@ p {
 
 + Brake, Laurel and Marysa Demoor (eds). *Dictionary of Nineteenth-Century Journalism in Great Britain and Ireland*. Academia Press and the British Library, 2009. 
 
-+ Brake, Laurel. “London Letter: Researching the Historical Press, Now and Here.” *Victorian Periodicals Review,* vol. 48 no. 2, 2015a, pp. 245–53, doi:10.1353/vpr.2015.0028. 
++ Brake, Laurel. “London Letter: Researching the Historical Press, Now and Here.” *Victorian Periodicals Review,* vol. 48 no. 2, 2015a, pp. 245–53, [doi:10.1353/vpr.2015.0028](http://www.doi.org/10.1353/vpr.2015.0028)
 
-+ \---. “Nineteenth-Century Newspaper Press Directories: The National Gallery of the British Press.” *Victorian Periodicals Review*, vol. 48 no. 4, 2015b, pp. 569–90, doi:10.1353/vpr.2015.0055. 
++ \---. “Nineteenth-Century Newspaper Press Directories: The National Gallery of the British Press.” *Victorian Periodicals Review*, vol. 48 no. 4, 2015b, pp. 569–90, [doi:10.1353/vpr.2015.0055](http://www.doi.org/10.1353/vpr.2015.0055)
 
-+ Branch, Edgar M. “Mark Twain: Newspaper Reading and the Writer’s Creativity.” *Nineteenth-Century Fiction*, vol. 37 no. 4, 1983, pp. 576–603, doi:10.2307/3044684. 
++ Branch, Edgar M. “Mark Twain: Newspaper Reading and the Writer’s Creativity.” *Nineteenth-Century Fiction*, vol. 37 no. 4, 1983, pp. 576–603, [doi:10.2307/3044684](http://www.doi.org/10.2307/3044684)
 
 + Bremer-Laamanen, Majlis. “Connecting to the Past – Newspaper Digitisation in the Nordic Countries.” *International Newspaper Librarianship for the 21st Century.* Ed. Hartmut Walravens. K.G. Saur, 2006. 45–50. 
 
@@ -108,9 +111,9 @@ p {
 
 + “Building with Trove.” Trove. Web. [https://help.nla.gov.au/trove/building-with-trove](https://help.nla.gov.au/trove/building-with-trove) Accessed 4 December 2019. 
 
-+ Bull, Sarah. “A Purveyor of Garbage?: Charles Carrington and the Marketing of Sexual Science in Late-Victorian Britain.” *Victorian Review*, vol. 38 no. 1, 2012, pp. 55–76, doi:10.1353/vcr.2012.0028. 
++ Bull, Sarah. “A Purveyor of Garbage?: Charles Carrington and the Marketing of Sexual Science in Late-Victorian Britain.” *Victorian Review*, vol. 38 no. 1, 2012, pp. 55–76, [doi:10.1353/vcr.2012.0028](http://www.doi.org/10.1353/vcr.2012.0028)
 
-+ Bunting, Kirsty. “‘Thank God for the Public Press, Which Sheds Its Strong White Light on All the Dark Corners of the Earth\!’: Ada Nield Chew’s Journey from Factory Girl to Author-Activist.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 134–47, doi:10.1353/vct.2017.0013. 
++ Bunting, Kirsty. “‘Thank God for the Public Press, Which Sheds Its Strong White Light on All the Dark Corners of the Earth\!’: Ada Nield Chew’s Journey from Factory Girl to Author-Activist.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 134–47, [doi:10.1353/vct.2017.0013](http://www.doi.org/10.1353/vct.2017.0013)
 
 + Butterfield, Andrew, Gerard Ekembe Ngondi and Anne Kerr (eds). *A Dictionary of Computer Science.* 7<sup>th</sup> Ed. Oxford University Press, 2016. 
 
@@ -118,23 +121,23 @@ p {
 
 + *Chronicling America: Historic American Newspapers.* Database. [https://chroniclingamerica.loc.gov](https://chroniclingamerica.loc.gov) Library of Congress, 2017. Accessed 29 November 2019. 
 
-+ Cogdill, Sharon E. “‘As it was not ungrammatical, though of a chatty tendency, it seemed to please’: Lady Violet Greville, ‘Aristocratic Lady Journalist’ of the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 175–88, doi:10.1353/vct.2017.0016. 
++ Cogdill, Sharon E. “‘As it was not ungrammatical, though of a chatty tendency, it seemed to please’: Lady Violet Greville, ‘Aristocratic Lady Journalist’ of the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 175–88, [doi:10.1353/vct.2017.0016](http://www.doi.org/10.1353/vct.2017.0016)
 
 + “Collaborative Digitisation.” *National Library Services*. National Library of New Zealand, 2018. Web. [https://natlib.govt.nz/librarians/national-library-services/collaborative-digitisation](https://natlib.govt.nz/librarians/national-library-services/collaborative-digitisation) Accessed 29 November 2019. 
 
 + “Content Selection.” *Guidelines & Resources*. Library of Congress, 8 May 2016. Web. [http://www.loc.gov/ndnp/guidelines/selection.html](http://www.loc.gov/ndnp/guidelines/selection.html) Accessed 6 December 2019. 
 
-+ Cooper, Elena. “Copyright in Periodicals during the Nineteenth Century: Balancing the Rights of Contributors and Publishers.” *Victorian Periodicals Review*, vol. 51 no. 4, 2018, pp. 661–78, doi:10.1353/vpr.2018.0048. 
++ Cooper, Elena. “Copyright in Periodicals during the Nineteenth Century: Balancing the Rights of Contributors and Publishers.” *Victorian Periodicals Review*, vol. 51 no. 4, 2018, pp. 661–78, [doi:10.1353/vpr.2018.0048](http://www.doi.org/10.1353/vpr.2018.0048)
 
 + “Copyright and Privacy.” *About this Site.* National Library of New Zealand. Web. [https://natlib.govt.nz/about-this-site/copyright-and-privacy](https://natlib.govt.nz/about-this-site/copyright-and-privacy) Accessed 29 November 2019. 
 
-+ Cordell, Ryan. “‘Q i-jtb the Raven’: Taking Dirty OCR Seriously.” *Book History*, vol. 20, 2017, pp. 188–225, doi:10.1353/bh.2017.0006. 
++ Cordell, Ryan. “‘Q i-jtb the Raven’: Taking Dirty OCR Seriously.” *Book History*, vol. 20, 2017, pp. 188–225, [doi:10.1353/bh.2017.0006](http://www.doi.org/10.1353/bh.2017.0006)
 
-+ Coulling, Sidney M. B. “Matthew Arnold and the *Daily Telegraph*.” The Review of English Studies, vo. 12, no. 46, 1961, pp. 173–79, doi:10.1093/res/XII.46.173. 
++ Coulling, Sidney M. B. “Matthew Arnold and the *Daily Telegraph*.” The Review of English Studies, vo. 12, no. 46, 1961, pp. 173–79, [doi:10.1093/res/XII.46.173](http://www.doi.org/10.1093/res/XII.46.173)
 
 + Cranfield, Geoffrey Alan. *The Press and Society: From Caxton to Northcliffe*. Routledge, 1978. 
 
-+ Cronin, Anne M. “Rags and Refuse: The Newspaper, Empire, and Nineteenth Century Commodity Culture.” *Cultural Studies*, vol. 20, no. 6, 2006, pp. 574–98, doi:10.1080/09502380600973952. 
++ Cronin, Anne M. “Rags and Refuse: The Newspaper, Empire, and Nineteenth Century Commodity Culture.” *Cultural Studies*, vol. 20, no. 6, 2006, pp. 574–98, [doi:10.1080/09502380600973952](http://www.doi.org/10.1080/09502380600973952)
 
 + Curiel Defossé, Guadalupe and Ricardo Javier Jiménez Rivera. “Diez años de la Hemeroteca Nacional Digital de México (HNDM). Breve reseña de una larga gestión de preservación y acceso, 2002-2012.” *Textos, pixeles y bits: Reflexiones sobre la publicación digital.* Ed. Isabel Galina Russell. Universidad Nacional Autónoma de México, 2015. 65–149. 
 
@@ -144,7 +147,7 @@ p {
 
 + Delpher*. Overzicht beschikbare titels.* Delpher, 2017. [https://www.kb.nl/sites/default/files/](https://www.kb.nl/sites/default/files/) docs/Beschikbare\_kranten\_alfabetisch.pdf. Accessed 2 December 2019. 
 
-+ Demoor, Marysa. “When the King Becomes your Personal Enemy: W. T. Stead, King Leopold II, and the Congo Free State.” *19: Interdisciplinary Studies in the Long Nineteenth Century*, vol. 16, 2013, n.pag., doi:10.16995/ntn.662. 
++ Demoor, Marysa. “When the King Becomes your Personal Enemy: W. T. Stead, King Leopold II, and the Congo Free State.” *19: Interdisciplinary Studies in the Long Nineteenth Century*, vol. 16, 2013, n.pag., [doi:10.16995/ntn.662](http://www.doi.org/10.16995/ntn.662)
 
 + DiCenzo, Maria. “Pressing the Public: Nineteenth-Century Feminist Periodicals and ‘the Press’.” *Nineteenth Century Gender Studies*, vol. 6, no. 2, 2010, n.pag., [http://www.ncgsjournal.com/issue62/dicenzo.htm](http://www.ncgsjournal.com/issue62/dicenzo.htm) Accessed 27 November 2019. 
 
@@ -156,17 +159,17 @@ p {
 
 + “Digitisation Workflow Process Overview.” *Trove Help Centre.* National Library of Australia. Web. [https://help.nla.gov.au/trove/for-digitisation-partners/digitisation-workflow-process-overview](https://help.nla.gov.au/trove/for-digitisation-partners/digitisation-workflow-process-overview) Accessed 2 December 2019. 
 
-+ Djerf-Pierre, Monika and Lennart Weibull. “From Idealist-Entrepreneur to Corporate Executive: Provincial Newspaper Editors’ and Publishers’ Ways-of-Thinking from the Mid-1800s to the Present.” *Journalism Studies*, vol. 12, no. 3, pp. 294–310, doi:10.1080/1461670X.2010.490655. 
++ Djerf-Pierre, Monika and Lennart Weibull. “From Idealist-Entrepreneur to Corporate Executive: Provincial Newspaper Editors’ and Publishers’ Ways-of-Thinking from the Mid-1800s to the Present.” *Journalism Studies*, vol. 12, no. 3, pp. 294–310, [doi:10.1080/1461670X.2010.490655](http://www.doi.org/10.1080/1461670X.2010.490655)
 
-+ Droge, Abigail. “‘Always Called Jack’: A Brief History of the Transferable Skill.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017, pp. 39–65, doi:10.1353/vpr.2017.0003. 
++ Droge, Abigail. “‘Always Called Jack’: A Brief History of the Transferable Skill.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017, pp. 39–65, [doi:10.1353/vpr.2017.0003](http://www.doi.org/10.1353/vpr.2017.0003)
 
 + “Early American Newspapers, 1690–1922.” *America’s Historical Newspapers*. Readex, 2013. Web. [https://www.readex.com/content/early-american-newspapers-1690-1922](https://www.readex.com/content/early-american-newspapers-1690-1922) Accessed 29 November 2019. 
 
-+ Easley, Alexis. “Chance Encounters, Rediscovery, and Loss: Researching Victorian Women Journalists in the Digital Age.” *Victorian Periodicals Review*, vol. 49 no. 4, 2016a, pp. 694–717, doi:10.1353/vpr.2016.0045. 
++ Easley, Alexis. “Chance Encounters, Rediscovery, and Loss: Researching Victorian Women Journalists in the Digital Age.” *Victorian Periodicals Review*, vol. 49 no. 4, 2016a, pp. 694–717, [doi:10.1353/vpr.2016.0045](http://www.doi.org/10.1353/vpr.2016.0045)
 
 + \---. “Imagining the Mass-Market Woman Reader: The *News of the World*, 1843–77.” *The ‘News of the World’ and the British Press, 1843–2011.* Eds. Laurel Brake, Chandrika Kaul and Mark W. Turner. Palgrave Macmillan, 2016b. 81–99. 
 
-+ Edson C. Tandoc Jr., Zheng Wei Lim and Richard Ling. “Defining ‘Fake News’.” *Digital Journalism*, vol. 6, no. 2, pp. 137–53, doi:10.1080/21670811.2017.1360143. 
++ Edson C. Tandoc Jr., Zheng Wei Lim and Richard Ling. “Defining ‘Fake News’.” *Digital Journalism*, vol. 6, no. 2, pp. 137–53, [doi:10.1080/21670811.2017.1360143](http://www.doi.org/10.1080/21670811.2017.1360143)
 
 + “Europeana Data Model.” *Resources.* Europeana Pro, 2013. Web. [https://pro.europeana.eu/resources/standardization-tools/edm-documentation](https://pro.europeana.eu/resources/standardization-tools/edm-documentation) Accessed 29 November 2019. 
 
@@ -182,23 +185,23 @@ p {
 
 + Ferguson, J. A., A. G. Foster and H. M. Green. *The Howes and their Press*. Sunnybrook Press, 1936.  
 
-+ Fieldberg, Allison. “1834: ‘Melancholy and Affecting Accident: Eleven Persons Drowned’.” *Victorian Review,* vol. 40 no. 2, 2014, pp. 13–17, doi:10.1353/vcr.2014.0045. 
++ Fieldberg, Allison. “1834: ‘Melancholy and Affecting Accident: Eleven Persons Drowned’.” *Victorian Review,* vol. 40 no. 2, 2014, pp. 13–17, [doi:10.1353/vcr.2014.0045](http://www.doi.org/10.1353/vcr.2014.0045)
 
 + Franklin, Bob (ed). *Pulling Newspapers Apart: Analysing Print Journalism.* Routledge, 2008. 
 
 + Fritze, Ronald H., Brian E. Coutts and Louis Andrew Vyhnanek (eds). *Reference Sources in History: An Introductory Guide.* Modern Language Association of America, 2003. 
 
-+ Fyfe, Paul. “An Archaeology of Victorian Newspapers.” *Victorian Periodicals Review*, vol. 49, no. 4, 2016, pp. 546–77, doi:10.1353/vpr.2016.0039. 
++ Fyfe, Paul. “An Archaeology of Victorian Newspapers.” *Victorian Periodicals Review*, vol. 49, no. 4, 2016, pp. 546–77, [doi:10.1353/vpr.2016.0039](http://www.doi.org/10.1353/vpr.2016.0039)
 
-+ \---. “Access, Computational Analysis, and Fair Use in the Digitized Nineteenth-Century Press.” *Victorian Periodicals Review*, vol. 51, no. 4, 2018, pp. 716–37, doi:10.1353/vpr.2018.0051. 
++ \---. “Access, Computational Analysis, and Fair Use in the Digitized Nineteenth-Century Press.” *Victorian Periodicals Review*, vol. 51, no. 4, 2018, pp. 716–37, [doi:10.1353/vpr.2018.0051](http://www.doi.org/10.1353/vpr.2018.0051)
 
-+ Gabriele, Sandra. “Transfiguring the Newspaper: From Paper to Microfilm to Database.” *Amodern 2: Network Archaeology*, 2014, n.pag., doi:[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/) 
++ Gabriele, Sandra. “Transfiguring the Newspaper: From Paper to Microfilm to Database.” *Amodern 2: Network Archaeology*, 2014, n.pag., [doi:[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/)](http://www.doi.org/[http://amodern.net/article/transfiguring-the-newspaper/](http://amodern.net/article/transfiguring-the-newspaper/))
 
 + *Gale Digital Scholar Lab.* Database. Gale: A Cengage Company, 2019. [https://www.gale.com/intl/primary-sources/digital-scholar-lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab) Accessed 29 November 2019. 
 
 + “Gale Historical Newspapers.” *Primary Sources.* Gale: A Cengage Company, 2019. Web. [https://www.gale.com/intl/primary-sources/historical-newspapers](https://www.gale.com/intl/primary-sources/historical-newspapers) Accessed 29 November 2019. 
 
-+ Garside, Peter. “Scott as a Political Journalist.” *The Review of English Studies*, vol. 37, no. 148, 1986, pp. 503–17, doi:10.1093/res/XXXVII.148.503. 
++ Garside, Peter. “Scott as a Political Journalist.” *The Review of English Studies*, vol. 37, no. 148, 1986, pp. 503–17, [doi:10.1093/res/XXXVII.148.503](http://www.doi.org/10.1093/res/XXXVII.148.503)
 
 + Gaskell, Beth. “Multi-Title Newspaper Volumes – Historic Practice vs. Modern Process.” *The Newsroom Blog.* British Library, 16 January 2019. Web. [https://blogs.bl.uk/thenewsroom/2019/01/multi-title-newspaper-volumes-historic-practice-vs-modern-process.html](https://blogs.bl.uk/thenewsroom/2019/01/multi-title-newspaper-volumes-historic-practice-vs-modern-process.html) Accessed 20 December 2019. 
 
@@ -206,11 +209,11 @@ p {
 
 + Gillies, Stewart. “History of British Library Newspapers.” *British Library*, 2008. Web. [http://www.bl.uk/reshelp/findhelprestype/news/historicalblnews/](http://www.bl.uk/reshelp/findhelprestype/news/historicalblnews/) Accessed 28 January 2016. 
 
-+ Gilmore, Dehn. “‘These verbal puzzles’: Wilkie Collins, Newspaper Enigmas, and the Victorian Reader as Solver.” *Victorian Literature and Culture*, vol. 44, no. 2, 2016, pp. 297–314, doi:10.1017/S1060150315000637. 
++ Gilmore, Dehn. “‘These verbal puzzles’: Wilkie Collins, Newspaper Enigmas, and the Victorian Reader as Solver.” *Victorian Literature and Culture*, vol. 44, no. 2, 2016, pp. 297–314, [doi:10.1017/S1060150315000637](http://www.doi.org/10.1017/S1060150315000637)
 
 + Gooding, Paul. *Historic Newspapers in the Digital Age: “Search All About It\!”* Routledge, 2017. 
 
-+ Gray, F. Elizabeth. “Alice Meynell: Production, Reproduction, and the World of Work in the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 148–61, doi:10.1353/vct.2017.0014. 
++ Gray, F. Elizabeth. “Alice Meynell: Production, Reproduction, and the World of Work in the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 148–61, [doi:10.1353/vct.2017.0014](http://www.doi.org/10.1353/vct.2017.0014)
 
 + “Guide to Selected Collections.” Collections. National Library of Australia. Web. [https://www.nla.gov.au/our-collections/guide-to-selected-library-collections](https://www.nla.gov.au/our-collections/guide-to-selected-library-collections) Accessed 29 November 2019. 
 
@@ -238,31 +241,31 @@ p {
 
 + “History of Readex: From Microprint to Digital.” *About.* Readex, 2012. Web. [https://www.readex.com/history-readex](https://www.readex.com/history-readex) Accessed 29 November 2019. 
 
-+ Hobbs, Andrew. “The Deleterious Dominance of *The Times* in Nineteenth-Century Scholarship.” *Journal of Victorian Culture*, vol. 18, no. 4, 2013, pp. 472–97, doi:10.1080/13555502.2013.854519. 
++ Hobbs, Andrew. “The Deleterious Dominance of *The Times* in Nineteenth-Century Scholarship.” *Journal of Victorian Culture*, vol. 18, no. 4, 2013, pp. 472–97, [doi:10.1080/13555502.2013.854519](http://www.doi.org/10.1080/13555502.2013.854519)
 
 + \---. *A Fleet Street in Every Town: The Provincial Press in England, 1855–1900.* Open Book Publishers, 2018. 
 
 + Hogan, Paul. “Trove Crowdsourcing Behaviour.” *National Library of Australia, 2013.* Web. [https://www.nla.gov.au/sites/default/files/trove-crowdsourcing-behaviour.pdf](https://www.nla.gov.au/sites/default/files/trove-crowdsourcing-behaviour.pdf) Accessed 1 December 2019. 
 
-+ Hughes, Linda K. “Periodical Poetry, Editorial Policy, and W. E. Henley’s *Scots* and *National Observer*.” *Victorian Periodicals Review*, vol. 49, no. 2, 2016, pp. 202–27, doi:[https://doi.org/10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014) 
++ Hughes, Linda K. “Periodical Poetry, Editorial Policy, and W. E. Henley’s *Scots* and *National Observer*.” *Victorian Periodicals Review*, vol. 49, no. 2, 2016, pp. 202–27, [doi:[https://doi.org/10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014)](http://www.doi.org/[https://doi.org/10.1353/vpr.2016.0014](https://doi.org/10.1353/vpr.2016.0014))
 
-+ Hunt, Alyson. “Special Section: Women of the Press in the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 130–33, doi:10.1353/vct.2017.0012. 
++ Hunt, Alyson. “Special Section: Women of the Press in the 1890s.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 130–33, [doi:10.1353/vct.2017.0012](http://www.doi.org/10.1353/vct.2017.0012)
 
 + IFLA. “Microfilming for Digitisation and Optical Character Recognition” *IFLA,* 2002. [https://www.ifla.org/publications/microfilming-for-digitisaton-and-optical-character-recognition](https://www.ifla.org/publications/microfilming-for-digitisaton-and-optical-character-recognition) Accessed 1 December 2019. 
 
-+ Ilva, Jyrki. “Kansallisen kulttuuriperinnön digitointi – loppuuko vauhti ennen alkua?” *Agricolan tietosanomat*, vol. 2, 2004, doi:[https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558) 
++ Ilva, Jyrki. “Kansallisen kulttuuriperinnön digitointi – loppuuko vauhti ennen alkua?” *Agricolan tietosanomat*, vol. 2, 2004, [doi:[https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558)](http://www.doi.org/[https://www.doria.fi/handle/10024/152558](https://www.doria.fi/handle/10024/152558))
 
 + Jackson, Alfred. “The Stage and the Authorities, 1700–1714 (As Revealed in the Newspapers).” *The Review of English Studies*, vol. 14, no. 53, 1938, pp. 53–62. *JSTOR*, www.jstor.org/stable/510202. 
 
-+ Jacobs, Edward. “Edward Lloyd’s Sunday Newspapers and the Cultural Politics of Crime News, c. 1840–43.” *Victorian Periodicals Review*, vol. 50 no. 3, 2017, pp. 619–49, doi:10.1353/vpr.2017.0043. 
++ Jacobs, Edward. “Edward Lloyd’s Sunday Newspapers and the Cultural Politics of Crime News, c. 1840–43.” *Victorian Periodicals Review*, vol. 50 no. 3, 2017, pp. 619–49, [doi:10.1353/vpr.2017.0043](http://www.doi.org/10.1353/vpr.2017.0043)
 
-+ Janssen, Flore. “‘What you write down is going to the press’: Margaret Harkness’s Accounts of the 1889 London Dockworkers’ Strike.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 162–74, doi:10.1353/vct.2017.0015. 
++ Janssen, Flore. “‘What you write down is going to the press’: Margaret Harkness’s Accounts of the 1889 London Dockworkers’ Strike.” *Victorians: A Journal of Culture and Literature*, vol. 132, 2017, pp. 162–74, [doi:10.1353/vct.2017.0015](http://www.doi.org/10.1353/vct.2017.0015)
 
 + JGraph. *draw.io.* Software. Available from [https://github.com/jgraph](https://github.com/jgraph) Accessed 2 December 2019. 
 
 + Jones, Aled. *Powers of the Press: Newspapers, Power and the Public in Nineteenth-Century England.* Ashgate, 1996. 
 
-+ Jump, J. D. “Weekly Reviewing in the Eighteen-Fifties.” *The Review of English Studies*, vol. 24, no. 93, 1948, pp. 42–57, doi:10.1093/res/III.11.244.  
++ Jump, J. D. “Weekly Reviewing in the Eighteen-Fifties.” *The Review of English Studies*, vol. 24, no. 93, 1948, pp. 42–57, [doi:10.1093/res/III.11.244. ](http://www.doi.org/10.1093/res/III.11.244. )
 
 + Keeble, Richard and Ian Reeves (eds). *The Newspapers Handbook*. 5<sup>th</sup> Ed. Routledge, 2014. 
 
@@ -280,17 +283,17 @@ p {
 
 + \---. “Digital Historical Newspapers Online: Prospects and Challenges.” *Newspapers Collection Management: Printed and Digital Challenges*. Ed. Hartmut Walravens. IFLA Publications, 2008. 59–78. 
 
-+ King, Edmund. “Digitisation of Newspapers at the British Library.” *The Serials Librarian: From the Printed Page to the Digital Age*, vol. 49, no. 1/2, 2005, pp. 165–81, doi:10.1300/J123v49n01\_07. 
++ King, Edmund. “Digitisation of Newspapers at the British Library.” *The Serials Librarian: From the Printed Page to the Digital Age*, vol. 49, no. 1/2, 2005, pp. 165–81, [doi:10.1300/J123v49n01\_07](http://www.doi.org/10.1300/J123v49n01\_07)
 
-+ Krabbenhoeft, Nick, Katherine Skinner, Matt Schultz and Frederick Zarndt. “Chronicles in Preservation: Preserving Digital News and Newspapers.” *Preservation, Digital Technology & Culture*, vol. 42, no. 4, 2013, pp. 2013–29, doi:10.1515/pdtc-2013-0029. 
++ Krabbenhoeft, Nick, Katherine Skinner, Matt Schultz and Frederick Zarndt. “Chronicles in Preservation: Preserving Digital News and Newspapers.” *Preservation, Digital Technology & Culture*, vol. 42, no. 4, 2013, pp. 2013–29, [doi:10.1515/pdtc-2013-0029](http://www.doi.org/10.1515/pdtc-2013-0029)
 
 + Krobb, Florian. *Selbstdarstellungen: Untersuchungen zur deutsch-jüdischen Erzählliteratur im neunzehnten Jahrhundert.* Königshausen & Neumann, 2000. 
 
-+ Kwiat, Joseph J. “The Newspaper Experience: Crane, Norris, and Dreiser.” *Nineteenth-Century Fiction*, vol. 8, no. 2, 1953, pp. 99–117, doi:10.2307/3044435. 
++ Kwiat, Joseph J. “The Newspaper Experience: Crane, Norris, and Dreiser.” *Nineteenth-Century Fiction*, vol. 8, no. 2, 1953, pp. 99–117, [doi:10.2307/3044435](http://www.doi.org/10.2307/3044435)
 
-+ Landon, Carol. “Wordsworth, Coleridge, and the *Morning Post*: An Early Version of ‘The Seven Sisters’.” *The Review of English Studies*, vol. 11, no. 44, 1960, pp. 392–402, doi:10.1093/res/XI.44.392. 
++ Landon, Carol. “Wordsworth, Coleridge, and the *Morning Post*: An Early Version of ‘The Seven Sisters’.” *The Review of English Studies*, vol. 11, no. 44, 1960, pp. 392–402, [doi:10.1093/res/XI.44.392](http://www.doi.org/10.1093/res/XI.44.392)
 
-+ Lanz, Daniel, Frederick Zarndt, Stefan Boddie, Tracy Powell and Vishal Salgotra. “The New Papers Past: An International Collaboration between New Zealand, India, Germany, and the United States.” *OCLC Systems & Services: International Digital Library Perspectives*, vol. 25, no. 4, pp. 287–94, doi:10.1108/10650750911001860. 
++ Lanz, Daniel, Frederick Zarndt, Stefan Boddie, Tracy Powell and Vishal Salgotra. “The New Papers Past: An International Collaboration between New Zealand, India, Germany, and the United States.” *OCLC Systems & Services: International Digital Library Perspectives*, vol. 25, no. 4, pp. 287–94, [doi:10.1108/10650750911001860](http://www.doi.org/10.1108/10650750911001860)
 
 + Lee, Bronwyn. *Use of METS and ALTO in the Australian Newspapers Digitisation Program (ANDP) at the National Library of Australia (NLA).* National Library of Australia, 2012. 
 
@@ -320,27 +323,27 @@ p {
 
 + \---. “Guidelines & Resources.” *National Digital Newspaper Program.* Library of Congress, 11 August 2019. Web. [http://www.loc.gov/ndnp/guidelines/](http://www.loc.gov/ndnp/guidelines/) Accessed 6 December 2019. 
 
-+ Liddle, Dallas. “Reflections on 20,000 Victorian Newspapers: ‘Distant Reading’ *The Times* using *The Times Digital Archive*.” *Journal of Victorian Culture,* vol. 17, no. 2, 2012, pp. 230–37, doi:10.1080/13555502.2012.683151. 
++ Liddle, Dallas. “Reflections on 20,000 Victorian Newspapers: ‘Distant Reading’ *The Times* using *The Times Digital Archive*.” *Journal of Victorian Culture,* vol. 17, no. 2, 2012, pp. 230–37, [doi:10.1080/13555502.2012.683151](http://www.doi.org/10.1080/13555502.2012.683151)
 
 + Lieder, Hans-Jörg. *Europeana Newspapers Project and Beyond.* Europeana Newspapers, 2014. www.europeana-collections-1914-1918.eu/wp-content/uploads/2014/02/Lieder-Unlocking-Sources-2014-01-31.pdf. Accessed 29 November 2019. 
 
-+ Lockwood, Thomas. “Did Fielding Write for *The Craftsman*?” *The Review of English Studies*, vol. 59, no. 238, 2008, pp. 86–117, doi:10.1093/res/hgl158.  
++ Lockwood, Thomas. “Did Fielding Write for *The Craftsman*?” *The Review of English Studies*, vol. 59, no. 238, 2008, pp. 86–117, [doi:10.1093/res/hgl158. ](http://www.doi.org/10.1093/res/hgl158. )
 
-+ MacQueen, Donald S. “Developing Methods for Very-Large-Scale Searches in *ProQuest Historical Newspapers* Collection and Infotrac the *Times Digital Archive*: The Case of Two Million Versus Two Millions.” *Journal of English Linguistics,* vol. 32, no. 2, 2004, pp. 124–43, doi:10.1177/0075424204265944. 
++ MacQueen, Donald S. “Developing Methods for Very-Large-Scale Searches in *ProQuest Historical Newspapers* Collection and Infotrac the *Times Digital Archive*: The Case of Two Million Versus Two Millions.” *Journal of English Linguistics,* vol. 32, no. 2, 2004, pp. 124–43, [doi:10.1177/0075424204265944](http://www.doi.org/10.1177/0075424204265944)
 
-+ Mak, Bonnie. “Archaeology of a Digitization.” J*ournal of the American Society for Information Science and Technology*, vol. 65, no. 8, 2014, pp. 1515–26, doi:10.1002/asi.23061. 
++ Mak, Bonnie. “Archaeology of a Digitization.” J*ournal of the American Society for Information Science and Technology*, vol. 65, no. 8, 2014, pp. 1515–26, [doi:10.1002/asi.23061](http://www.doi.org/10.1002/asi.23061)
 
 + Maurer, Oscar. “Anonymity vs. Signature in Victorian Reviewing.” *Studies in English*, vol. 27, no. 1, 1948, pp. 1–27. *JSTOR*, www.jstor.org/stable/23309508. 
 
-+ Milligan, Ian. “Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010.” *The Canadian Historical Review*, vol. 94, no. 4, 2013, pp. 540–69, doi:10.3138/chr.694. 
++ Milligan, Ian. “Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010.” *The Canadian Historical Review*, vol. 94, no. 4, 2013, pp. 540–69, [doi:10.3138/chr.694](http://www.doi.org/10.3138/chr.694)
 
 + Moreux, Jean-Philippe. “Data Mining Historical Newspaper Metadata: Old News Teaches History.” 2016 *IFLA International News Media Conference.* Hamburg, Germany. 20-22 April 2016. Paper Presentation. 
 
-+ Murray, Ray L. “Toward a Metadata Standard for Digitized Historical Newspapers.” *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries.* Ed. Mary Marlino, Tamara Sumner and Frank Shipman. ACM New York, 2005. 330–31. doi:1065385.1065459. 
++ Murray, Ray L. “Toward a Metadata Standard for Digitized Historical Newspapers.” *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries.* Ed. Mary Marlino, Tamara Sumner and Frank Shipman. ACM New York, 2005. 330–31. [doi:1065385.1065459](http://www.doi.org/1065385.1065459)
 
-+ Mussell, Jim. “Teaching Nineteenth-Century Periodicals Using Digital Resources: Myths and Methods.” *Victorian Periodicals Review*, vol. 45 no. 2, 2012, pp. 201–209, doi:10.1353/vpr.2012.0024. 
++ Mussell, Jim. “Teaching Nineteenth-Century Periodicals Using Digital Resources: Myths and Methods.” *Victorian Periodicals Review*, vol. 45 no. 2, 2012, pp. 201–209, [doi:10.1353/vpr.2012.0024](http://www.doi.org/10.1353/vpr.2012.0024)
 
-+ \---. “Elemental Forms: The Newspaper as Popular Genre in the Nineteenth Century.” *Media History*, vol. 20, no. 1, 2014, pp. 4–20, doi:10.1080/13688804.2014.880264. 
++ \---. “Elemental Forms: The Newspaper as Popular Genre in the Nineteenth Century.” *Media History*, vol. 20, no. 1, 2014, pp. 4–20, [doi:10.1080/13688804.2014.880264](http://www.doi.org/10.1080/13688804.2014.880264)
 
 + National Library of Australia. *Content Analysis for the Australian Newspapers Digitisation Program.* National Library of Australia, 2010. 
 
@@ -350,7 +353,7 @@ p {
 
 + \---. *Specifications for Scanning Services.* National Library of Australia, 2016. 
 
-+ Neudecker, Clemens and Apostolos Antonacopoulos. “Making Europe’s Historical Newspapers Searchable.” *2016 12th IAPR Workshop on Document Analysis Systems (DAS)*. IEEE, 2016. 405–10. doi:10.1109/DAS.2016.83. 
++ Neudecker, Clemens and Apostolos Antonacopoulos. “Making Europe’s Historical Newspapers Searchable.” *2016 12th IAPR Workshop on Document Analysis Systems (DAS)*. IEEE, 2016. 405–10. [doi:10.1109/DAS.2016.83](http://www.doi.org/10.1109/DAS.2016.83)
 
 + “News Licensing.” News Corp UK & Ireland Ltd., 2019. Web. [https://newslicensing.co.uk/en/page/show](https://newslicensing.co.uk/en/page/show)\_home\_page.html. Accessed 29 November 2019. 
 
@@ -362,9 +365,9 @@ p {
 
 + “Newspapers API – API Methods.” *Data.* Europeana Pro, 2015. Web. [https://pro.europeana.eu/data/newspapers-methods](https://pro.europeana.eu/data/newspapers-methods) Accessed 29 November 2019. 
 
-+ Nicholson, Bob. “‘You Kick the Bucket; We Do the Rest\!’: Jokes and the Culture of Reprinting in the Transatlantic Press.” *Journal of Victorian Culture*, vol. 17, no. 3, 2012, pp. 273–86, doi:10.1080/13555502.2012.702664. 
++ Nicholson, Bob. “‘You Kick the Bucket; We Do the Rest\!’: Jokes and the Culture of Reprinting in the Transatlantic Press.” *Journal of Victorian Culture*, vol. 17, no. 3, 2012, pp. 273–86, [doi:10.1080/13555502.2012.702664](http://www.doi.org/10.1080/13555502.2012.702664)
 
-+ \---. “Review of *Europeana Newspapers* (review no. 1894).” *Reviews in History,* 2015, doi:10.14296/RiH/2014/1894. 
++ \---. “Review of *Europeana Newspapers* (review no. 1894).” *Reviews in History,* 2015, [doi:10.14296/RiH/2014/1894](http://www.doi.org/10.14296/RiH/2014/1894)
 
 + Nowell-Smith, Simon. *International Copyright Law and the Publisher in the Reign of Queen Victoria.* Clarendon, 1968. 
 
@@ -372,17 +375,17 @@ p {
 
 + “Oceanic Exchanges: Tracing Global Information Networks in Historical Newspaper Repositories, 1840-1914.” Oceanic Exchanges, 2018. Web. [https://oceanicexchanges.org](https://oceanicexchanges.org) Accessed 29 November 2019. 
 
-+ O’Malley, Tom. “Mitchell’s *Newspaper Press Directory* and the Late Victorian and Early Twentieth-Century Press.” *Victorian Periodicals Review*, vol. 48 no. 4, 2015, pp. 591–606, doi:10.1353/vpr.2015.0057. 
++ O’Malley, Tom. “Mitchell’s *Newspaper Press Directory* and the Late Victorian and Early Twentieth-Century Press.” *Victorian Periodicals Review*, vol. 48 no. 4, 2015, pp. 591–606, [doi:10.1353/vpr.2015.0057](http://www.doi.org/10.1353/vpr.2015.0057)
 
-+ Onnela, Tapio. “Historiallinen sanomalehtikirjasto 1771–1860.” *Agricolan tietosanomat*, vol. 2, 2001. doi:[https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html) 
++ Onnela, Tapio. “Historiallinen sanomalehtikirjasto 1771–1860.” *Agricolan tietosanomat*, vol. 2, 2001. [doi:[https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html)](http://www.doi.org/[https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html](https://agricolaverkko.fi/vintti/julkaisut/tietosanomat-1998-2005/numero2-01/sanomalehtikirjasto.html))
 
-+ Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä. “Exporting Finnish Digitized Historical Newspaper Contents for Offline Use.” *D-Lib Magazine*, vol. 22, no. 7/8, 2016, n.pag., doi:10.1045/july2016-paakkonen. 
++ Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä. “Exporting Finnish Digitized Historical Newspaper Contents for Offline Use.” *D-Lib Magazine*, vol. 22, no. 7/8, 2016, n.pag., [doi:10.1045/july2016-paakkonen](http://www.doi.org/10.1045/july2016-paakkonen)
 
-+ Padilla, Thomas, Laurie Allen, Hannah Frost, Sarah Potvin, Elizabeth Russey Roke and Stewart Varner. *Collections as Data Facets*. Collections as Data Framework, 2017-2018. doi:10.5281/zenodo.3066240. 
++ Padilla, Thomas, Laurie Allen, Hannah Frost, Sarah Potvin, Elizabeth Russey Roke and Stewart Varner. *Collections as Data Facets*. Collections as Data Framework, 2017-2018. [doi:10.5281/zenodo.3066240](http://www.doi.org/10.5281/zenodo.3066240)
 
-+ \---. *Santa Barbara Statement on Collections as Data.* Collections as Data Framework, 2018. doi:10.5281/zenodo.3066209.svg. 
++ \---. *Santa Barbara Statement on Collections as Data.* Collections as Data Framework, 2018. [doi:10.5281/zenodo.3066209.svg](http://www.doi.org/10.5281/zenodo.3066209.svg)
 
-+ \---. *Always Already Computational: Collections as Data.* Collections as Data Framework, 2019. doi:10.5281/zenodo.3152935. 
++ \---. *Always Already Computational: Collections as Data.* Collections as Data Framework, 2019. [doi:10.5281/zenodo.3152935](http://www.doi.org/10.5281/zenodo.3152935)
 
 + *Papers Past.* Database. National Library of New Zealand, 2018. [https://paperspast.natlib.govt.nz](https://paperspast.natlib.govt.nz) Accessed 29 November 2019. 
 
@@ -422,7 +425,7 @@ p {
 
 + Shattock, Joanne and Michael Wolff. *The Victorian Periodical Press: Samplings and Soundings.* University of Toronto Press, 1982. 
 
-+ Shattock, Joanne. “Michael Wolff, 1927–2016: A Tribute.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017a, pp. 3–8, doi:10.1353/vpr.2017.0001. 
++ Shattock, Joanne. “Michael Wolff, 1927–2016: A Tribute.” *Victorian Periodicals Review*, vol. 50 no. 1, 2017a, pp. 3–8, [doi:10.1353/vpr.2017.0001](http://www.doi.org/10.1353/vpr.2017.0001)
 
 + Shattock, Joanne (ed). *Journalism and the Periodical Press in Nineteenth-Century Britain.* Cambridge University Press, 2017b. 
 
@@ -434,13 +437,13 @@ p {
 
 + \---. *Trove API Console.* troveconsole.herokuapp.com. Accessed 2 December 2019. 
 
-+ Simons, Gary. “The Squab and the Idler: A Cosmopolitan – Colonial Dialogue in the Calcutta Star between William Thackeray and James Hume.” *Victorian Literature and Culture*, vol. 42, no. 3, 2014, pp. 387–406, doi:10.1017/S1060150314000059. 
++ Simons, Gary. “The Squab and the Idler: A Cosmopolitan – Colonial Dialogue in the Calcutta Star between William Thackeray and James Hume.” *Victorian Literature and Culture*, vol. 42, no. 3, 2014, pp. 387–406, [doi:10.1017/S1060150314000059](http://www.doi.org/10.1017/S1060150314000059)
 
 + Skinner, Katherine and Matt Schultz. *Guidelines for Digital Newspaper Preservation Readiness.* Educopia Institute, 2014. 
 
 + Smith, David A. *passim.* Software. Available from [https://github.com/dasmiq/passim](https://github.com/dasmiq/passim) Accessed 29 November 2019. 
 
-+ Stamm, Michael. “The Space for News: Ether and Paper in the Business of Media.” *Media History*, vol. 21, no. 1, 2015, pp. 55–73, doi:10.1080/13688804.2014.950949. 
++ Stamm, Michael. “The Space for News: Ether and Paper in the Business of Media.” *Media History*, vol. 21, no. 1, 2015, pp. 55–73, [doi:10.1080/13688804.2014.950949](http://www.doi.org/10.1080/13688804.2014.950949)
 
 + Sterling, Christopher H. *Enyclopedia of Journalism*. 6 vols. SAGE Publications, 2009. 
 
@@ -448,13 +451,13 @@ p {
 
 + *Suomen Kansalliskirjaston digitoidut sanomalehdet.* Database. The National Library of Finland, 2019. [https://digi.kansalliskirjasto.fi/etusivu](https://digi.kansalliskirjasto.fi/etusivu) Accessed 29 November 2019. 
 
-+ Tanner, Simon, Trevor Muñoz and Pich Hemy Ros. “Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive.” *D-Lib Magazine*, vol. 15, no. 7/8, 2009, n.pag., doi:[http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html) 
++ Tanner, Simon, Trevor Muñoz and Pich Hemy Ros. “Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive.” *D-Lib Magazine*, vol. 15, no. 7/8, 2009, n.pag., [doi:[http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html)](http://www.doi.org/[http://www.dlib.org/dlib/july09/munoz/07munoz.html](http://www.dlib.org/dlib/july09/munoz/07munoz.html))
 
 + Tener, Robert H. “Breaking the Code of Anonymity: The Case of the *Spectator*, 1861–1897.” *The Yearbook of English Studies*, vol. 16, 1986, pp. 63–73. *JSTOR,* www.jstor.org/stable/3507766. 
 
 + *Text Reuse in Finnish Newspapers and Journals, 1771–1920*. Database. Eds. Aleksi Vesanto, Filip Ginter, Hannu Salmi, Asko Nivala, Reetta Sippola, Heli Rantala and Petri Paju, 2017. [http://comhis.fi/clusters](http://comhis.fi/clusters) Accessed 4 December 2019. 
 
-+ Thérenty, Marie-Ève. “The ‘Fooliton’: A French Media Invention.” *Victorian Review*, vol. 38 no. 2, 2012, pp. 35–38, doi:10.1353/vcr.2012.0012. 
++ Thérenty, Marie-Ève. “The ‘Fooliton’: A French Media Invention.” *Victorian Review*, vol. 38 no. 2, 2012, pp. 35–38, [doi:10.1353/vcr.2012.0012](http://www.doi.org/10.1353/vcr.2012.0012)
 
 + Tilley, Elizabeth. “Periodicals in Ireland.” *The Routledge Handbook to Nineteenth-Century British Periodicals and Newspapers*. Eds. Andrew King, Alexis Easley and John Morton. Routledge, 2016. 208–20.  
 
@@ -464,25 +467,25 @@ p {
 
 + “Titles.” *Newspapers Home.* Trove, 2019. Web. [https://trove.nla.gov.au/newspaper/rss/titles](https://trove.nla.gov.au/newspaper/rss/titles) Accessed 29 November 2019. 
 
-+ Todd, Chris. “Metadata Mayhem: Cataloguing Electronic Resources in the National Library of New Zealand.” *The Electronic Library*, vol. 21, no. 3, pp. 214–22, 2003, doi:10.1108/02640470310480452. 
++ Todd, Chris. “Metadata Mayhem: Cataloguing Electronic Resources in the National Library of New Zealand.” *The Electronic Library*, vol. 21, no. 3, pp. 214–22, 2003, [doi:10.1108/02640470310480452](http://www.doi.org/10.1108/02640470310480452)
 
-+ Turner, Mark W. “Companions, Supplements, and the Proliferation of Print in the 1830s.” *Victorian Periodicals Review*, vol. 43 no. 2, 2010, pp. 119–32, doi:10.1353/vpr.0.0116. 
++ Turner, Mark W. “Companions, Supplements, and the Proliferation of Print in the 1830s.” *Victorian Periodicals Review*, vol. 43 no. 2, 2010, pp. 119–32, [doi:10.1353/vpr.0.0116](http://www.doi.org/10.1353/vpr.0.0116)
 
 + *Trove.* Database. National Library of Australia, 2018. [https://trove.nla.gov.au](https://trove.nla.gov.au) Accessed 29 November 2019. 
 
 + Vanden Bossche, Chris R. “The Value of Literature: Representations of Print Culture in the Copyright Debate of 1837–1842.” *Victorian Studies*, vol. 38, no. 1, 1994, pp. 41–68. *JSTOR*, www.jstor.org/stable/4618881. 
 
-+ Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017. 54–58. doi:[http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf) 
++ Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017. 54–58. [doi:[http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf)](http://www.doi.org/[http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf))
 
-+ Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017.330–33. doi:[http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf) 
++ Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi and Filip Ginter. “A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora.” *Proceedings of the 21st Nordic Conference of Computational Linguistics*. Linkoping University Electronic Press, 2017.330–33. [doi:[http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf)](http://www.doi.org/[http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf))
 
-+ Viola, Lorella and Jaap Verheul. “Mining Ethnicity: Discourse-Driven Topic Modelling of Immigrant Discourses in the USA, 1898–1920.” *Digital Scholarship in the Humanities*, fqz068, 2019, doi:[https://doi.org/10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068) 
++ Viola, Lorella and Jaap Verheul. “Mining Ethnicity: Discourse-Driven Topic Modelling of Immigrant Discourses in the USA, 1898–1920.” *Digital Scholarship in the Humanities*, fqz068, 2019, [doi:[https://doi.org/10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068)](http://www.doi.org/[https://doi.org/10.1093/llc/fqz068](https://doi.org/10.1093/llc/fqz068))
 
 + Vizetelly, Henry. *Glances Back Through Seventy Years: Autobiographical and Other Reminiscences.* 2 vols. K. Paul, Trench, Trübner & Co., Ltd., 1893. 
 
 + Walravens, Hartmut. *Newspapers in Central and Eastern Europe: Papers Presented at an IFLA Conference held in Berlin, August 2003.* De Gruyter, 2017. 
 
-+ Ward, Candace. “‘An Engine of Immense Power’: The *Jamaica Watchman* and Crossings in Nineteenth-Century Colonial Print Culture.” *Victorian Periodicals Review*, vol. 51 no. 3, 2018, pp. 483–503, doi:10.1353/vpr.2018.0033. 
++ Ward, Candace. “‘An Engine of Immense Power’: The *Jamaica Watchman* and Crossings in Nineteenth-Century Colonial Print Culture.” *Victorian Periodicals Review*, vol. 51 no. 3, 2018, pp. 483–503, [doi:10.1353/vpr.2018.0033](http://www.doi.org/10.1353/vpr.2018.0033)
 
 + *The Waterloo Directory of English Newspapers and Periodicals: 1800–1900.* Database. Ed. John S. North, 2009. www.victorianperiodicals.com/series3/index.asp. Accessed 28 November 2019. 
 
@@ -494,7 +497,7 @@ p {
 
 + “Wikipedia:List of online newspaper archives.” Wikipedia, 16 December 2019. Web. [https://en.wikipedia.org/wiki/Wikipedia:List](https://en.wikipedia.org/wiki/Wikipedia:List)\_of\_online\_newspaper\_archives. Accessed 20 December 2019. 
 
-+ Willems, Marieke and Rossitza Atanassova. “Europeana Newspapers: Searching Digitized Historical Newspapers from 23 European Countries.” *Insights*, vo. 28, no. 1, 2015, pp. 51–56, doi:10.1629/uksg.218. 
++ Willems, Marieke and Rossitza Atanassova. “Europeana Newspapers: Searching Digitized Historical Newspapers from 23 European Countries.” *Insights*, vo. 28, no. 1, 2015, pp. 51–56, [doi:10.1629/uksg.218](http://www.doi.org/10.1629/uksg.218)
 
 + Williams, Kevin. *Read All About It\!: A History of the British Newspaper*. Routledge, 2009. 
 
