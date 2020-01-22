@@ -7,7 +7,7 @@ use-site-title: false
 
 <h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/newspaper-title">View Glossary Entry</a></h4>
 
-## Technical Definition## Technical Definition
+## Technical Definition
 
 A standardised abbreviation of the [**newspaper title**](../newspaper-title) which may also
 appear in unique IDs for the newspaper and article.
