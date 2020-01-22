@@ -5,6 +5,14 @@ subtitle:
 use-site-title: false
 ---
 
+<style>
+
+p {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
+
+</style>
 
 + Abruzzi, Ray, Luisa Calè and Ana Parejo Vadillo. “Gale Digital Collections: Ray Abruzzi Interviewed by Luisa Calè and Ana Parejo Vadillo. *19: Interdisciplinary Studies in the Long Nineteenth Century*, vo. 21, 2015, n.pag., doi:10.16995/ntn.753. 
 
