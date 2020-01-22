@@ -513,4 +513,4 @@ p {
 
 + ZEFYS. “Liste der digitalisierten Zeitungen.” ZEFYS, 18 May 2017. Web. zefys.staatsbibliothek-berlin.de/index.php?id=list. Accessed 20 December 2019. 
 
-+ “ZEFYS.” *SBB-Lab.* Staatsbibliothek zu Berlin. Web. [https://lab.sbb.berlin/5393/?lang=en](https://lab.sbb.berlin/5393/?lang=en) Accessed 20 December 2019. £$%^
++ “ZEFYS.” *SBB-Lab.* Staatsbibliothek zu Berlin. Web. [https://lab.sbb.berlin/5393/?lang=en](https://lab.sbb.berlin/5393/?lang=en) Accessed 20 December 2019.
