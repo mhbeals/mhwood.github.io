@@ -35,17 +35,17 @@ HNME: A country, state and city are listed in separate fields.
 
 ## Instantiations  
 
-| B1GP::PubInfo\\VariantTitles\\City  | STR | Aberdeen  |
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\placeOfPublication  | STR | Aberdeen  |
-| B2GP::PubInfo\\VariantTitles\\City  | STR | York  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:spatial  | STR | Delft  |
-| F2AL::pageOCRDATA\\metadata\\publishingPlace@country  | STR | fi  |
+| B1GP  |  PubInfo\\VariantTitles\\City  | STR | Aberdeen  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\placeOfPublication  | STR | Aberdeen  |
+| B2GP  |  PubInfo\\VariantTitles\\City  | STR | York  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:spatial  | STR | Delft  |
+| F2AL  |  pageOCRDATA\\metadata\\publishingPlace@country  | STR | fi  |
 | HNDM $.publication.ciudad  | STR | Ciudad de México |
-| HNDM::$.publication.pagina.pais  | STR | México  |
-| HNDM::$.publication.pagina.estado  | STR | Distrito Federal |
-| HNDM::$.publication.pagina.ciudad  | STR | Ciudad de México |
-| HNME::METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:city  | STR | Ciudad de México |
-| HNME::METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:state  | STR | Distrito Federal |
-| HNME::METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:country  | STR | Mexico  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:place\\ mods:placeTerm | STR | Baruth, Mark  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“distribution”\]\\mods:place\\mods:placeTerm | STR | Baruth, Mark  |
+| HNDM  |  $.publication.pagina.pais  | STR | México  |
+| HNDM  |  $.publication.pagina.estado  | STR | Distrito Federal |
+| HNDM  |  $.publication.pagina.ciudad  | STR | Ciudad de México |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:city  | STR | Ciudad de México |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:state  | STR | Distrito Federal |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:country  | STR | Mexico  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:place\\ mods:placeTerm | STR | Baruth, Mark  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“distribution”\]\\mods:place\\mods:placeTerm | STR | Baruth, Mark  |

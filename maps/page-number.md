@@ -53,65 +53,65 @@ starting from 0.
 
 ### Unique Identifier  
 
-| B1GL::issue\\article\\pi  | UID | WOJL-1822-01-03-0002  |
-| B2GL::issue\\article\\pi  | UID | WOJL-1822-01-03-0002  |
-| B2GI::issue\\page\\article\\id  | UID | YOHD-1813-07-31-0001-001  |
-| CADI::sn\\year\\month\\day\\edition\\null\[sequence\]  | STR | seq-1  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item@dc:identifier  | UID | ddd:010419500:mpeg21:p001  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordIdentifier | UID | ddd:010419500:mpeg21:p001  |
-| F2AL::pageOCRDATA\\metadata\\pageIdentifier  | NUM | 7687234  |
-| HNDM::$.publication.pagina.publicacion\_id  | STR | ObjectId(“558075bd7d1e63c9fea1a0eb”) |
-| HNDM::$.publication.pagina.\_id  | STR | ObjectId(“558a32a47d1ed64f16885023”) |
-| TDAG::issue\\page\\pageid  | UID | 0FFO-1812-JUL14-001  |
-| TDAG::issue\\page\\article\\pi  | UID | 0FFO-1812-JUL14-001  |
-| TDAG::issue\\page\\assetID  | UID | cs16791278  |
+| B1GL  |  issue\\article\\pi  | UID | WOJL-1822-01-03-0002  |
+| B2GL  |  issue\\article\\pi  | UID | WOJL-1822-01-03-0002  |
+| B2GI  |  issue\\page\\article\\id  | UID | YOHD-1813-07-31-0001-001  |
+| CADI  |  sn\\year\\month\\day\\edition\\null\[sequence\]  | STR | seq-1  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Item@dc:identifier  | UID | ddd:010419500:mpeg21:p001  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordIdentifier | UID | ddd:010419500:mpeg21:p001  |
+| F2AL  |  pageOCRDATA\\metadata\\pageIdentifier  | NUM | 7687234  |
+| HNDM  |  $.publication.pagina.publicacion\_id  | STR | ObjectId(“558075bd7d1e63c9fea1a0eb”) |
+| HNDM  |  $.publication.pagina.\_id  | STR | ObjectId(“558a32a47d1ed64f16885023”) |
+| TDAG  |  issue\\page\\pageid  | UID | 0FFO-1812-JUL14-001  |
+| TDAG  |  issue\\page\\article\\pi  | UID | 0FFO-1812-JUL14-001  |
+| TDAG  |  issue\\page\\assetID  | UID | cs16791278  |
 
 ## **Relative**  
 
-| B1GL::issue\\article\\pi@pgref  | NUM | 1  |
-| B1GL::issue\\article\\ci@pgref  | NUM | 1  |
-| B1GL::issue\\article\\text\\text.cr\\pg@pgref  | NUM | 2  |
-| B2GL::issue\\article\\pi@pgref  | NUM | 2  |
-| B2GL::issue\\article\\ci@pgref  | NUM | 2  |
-| B2GL::issue\\article\\text\\text.title\\pg@pgref  | NUM | 2  |
-| B2GL::issue\\article\\text\\text.cr\\pg@clipref  | NUM | 1  |
-| B2GL::issue\\article\\text\\text.cr\\pg@pgref  | NUM | 2  |
-| B1JI::BL\_newspaper\\BL\_page\\pageImage\\pageSequence  | NUM | 1  |
-| CAME::mets\\dmdSec\\mdWrap\[@LABEL=“Page metadata”\\xmlData\\mods:mods\\mods:part\\mods:detail\\mods:number | NUM | 2  |
-| DEAL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ddd:nativePageNumber  | NUM | 1  |
-| F1AL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM |  |
-| CAAL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 195 |
-| EUAL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@PRINTED\_IMG\_NR  | NUM | 204 |
-| HNDM::$.publication.pagina.pagina  | NUM | 1  |
-| PPAL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
-| SBME::mets:mets\\mets:structMap\[@TYPE=“PHYSICAL”\]\\mets:div\\mets:div@ORDER  | NUM | 6  |
-| SBME::mets:mets\\mets:structMap\[@TYPE=“PHYSICAL”\]\\mets:div\\mets:div@ORDERLABEL  | NUM | 5  |
-| TDAG::issue\\page\\article\\pi@pgref  | NUM | 1  |
-| TDAG::issue\\page\\article\\ci@pgref  | NUM | 1  |
-| TDAG::issue\\page\\article\\text\\text.cr\\pg@pgref  | NUM | 1  |
-| TDAG::issue\\page\\article\\text\\text.title\\pg@pgref  | NUM | 1  |
-| TRAL::alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
-| TRAP::article\\title\\page  | NUM | 1  |
-| TRAP::article\\title\\page\\pageSequence  | STR | 1 S |
+| B1GL  |  issue\\article\\pi@pgref  | NUM | 1  |
+| B1GL  |  issue\\article\\ci@pgref  | NUM | 1  |
+| B1GL  |  issue\\article\\text\\text.cr\\pg@pgref  | NUM | 2  |
+| B2GL  |  issue\\article\\pi@pgref  | NUM | 2  |
+| B2GL  |  issue\\article\\ci@pgref  | NUM | 2  |
+| B2GL  |  issue\\article\\text\\text.title\\pg@pgref  | NUM | 2  |
+| B2GL  |  issue\\article\\text\\text.cr\\pg@clipref  | NUM | 1  |
+| B2GL  |  issue\\article\\text\\text.cr\\pg@pgref  | NUM | 2  |
+| B1JI  |  BL\_newspaper\\BL\_page\\pageImage\\pageSequence  | NUM | 1  |
+| CAME  |  mets\\dmdSec\\mdWrap\[@LABEL=“Page metadata”\\xmlData\\mods:mods\\mods:part\\mods:detail\\mods:number | NUM | 2  |
+| DEAL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ddd:nativePageNumber  | NUM | 1  |
+| F1AL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM |  |
+| CAAL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 195 |
+| EUAL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@PRINTED\_IMG\_NR  | NUM | 204 |
+| HNDM  |  $.publication.pagina.pagina  | NUM | 1  |
+| PPAL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
+| SBME  |  mets:mets\\mets:structMap\[@TYPE=“PHYSICAL”\]\\mets:div\\mets:div@ORDER  | NUM | 6  |
+| SBME  |  mets:mets\\mets:structMap\[@TYPE=“PHYSICAL”\]\\mets:div\\mets:div@ORDERLABEL  | NUM | 5  |
+| TDAG  |  issue\\page\\article\\pi@pgref  | NUM | 1  |
+| TDAG  |  issue\\page\\article\\ci@pgref  | NUM | 1  |
+| TDAG  |  issue\\page\\article\\text\\text.cr\\pg@pgref  | NUM | 1  |
+| TDAG  |  issue\\page\\article\\text\\text.title\\pg@pgref  | NUM | 1  |
+| TRAL  |  alto\\Layout\\Page@PHYSICAL\_IMG\_NR  | NUM | 1  |
+| TRAP  |  article\\title\\page  | NUM | 1  |
+| TRAP  |  article\\title\\page\\pageSequence  | STR | 1 S |
 
 ### String Descriptors  
 
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Descriptor\\didl:Statement | STR | page 1  |
-| F1AL::alto\\Layout\\Page@ID  | STR | P1  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@ID  | STR | P12  |
-| PPAL::alto\\Layout\\Page@ID  | STR | P1  |
-| CAAL::alto\\Layout\\Page@ID  | STR | PAGE.0  |
-| DEAL::alto\\Layout\\Page@ID  | UID | P1  |
-| EUAL::alto\\Layout\\Page@ID  | UID | P1  |
-| TRAL::alto\\Layout\\Page@ID  | UID | PAGE1  |
-| TRME::mets:mets\\mets:structMap\\mets:div\\mets:div@ID  | UID | divpage1 |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Descriptor\\didl:Statement | STR | page 1  |
+| F1AL  |  alto\\Layout\\Page@ID  | STR | P1  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page@ID  | STR | P12  |
+| PPAL  |  alto\\Layout\\Page@ID  | STR | P1  |
+| CAAL  |  alto\\Layout\\Page@ID  | STR | PAGE.0  |
+| DEAL  |  alto\\Layout\\Page@ID  | UID | P1  |
+| EUAL  |  alto\\Layout\\Page@ID  | UID | P1  |
+| TRAL  |  alto\\Layout\\Page@ID  | UID | PAGE1  |
+| TRME  |  mets:mets\\mets:structMap\\mets:div\\mets:div@ID  | UID | divpage1 |
 
 ### URL  
 
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl\_Resource@ref  | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:pdf  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource@ref  | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:p001:image  |
-| TRAP::article\\pdf  | URL | http://trove.nla.gov.au/ndp/imageservice/nla.news-page2243325/print |
-| TRME::mets:mets\\mets:fileSec\\mets:fileGrp\\mets:file\\mets:FLocat@xlink:href | URL | /pages/nla.news-issn22083111-s75000-b.tif  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl\_Resource@ref  | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:pdf  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource@ref  | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:p001:image  |
+| TRAP  |  article\\pdf  | URL | http://trove.nla.gov.au/ndp/imageservice/nla.news-page2243325/print |
+| TRME  |  mets:mets\\mets:fileSec\\mets:fileGrp\\mets:file\\mets:FLocat@xlink:href | URL | /pages/nla.news-issn22083111-s75000-b.tif  |

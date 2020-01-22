@@ -39,36 +39,36 @@ soon”. For these articles, there will be no articleText element present.
 
 ### At Word Level  
 
-| B1JI::BL\_newspaper\\BL\_page\\pageText\\pageWord  | STR | The  |
-| B2GL::issue\\article\\text\\text.cr\\p\\wd  | STR | PROVINCIAL |
-| HNME::METS:mets\\METS:dmdSec\\METS:amdSec\\METS:mdWrap\\METS:xmlData\\hiddentext\\pagecolumn\\region\\paragraph\\line\\word | STR | BALTAS  |
-| SBAT::PcGts\\Page\\TextRegion\\Textline\\Word\\TextEquiv\\Unicode  | STR | futeſte  |
-| TDAG::issue\\page\\article\\text\\text.cr\\p\\wd  | STR | PA.  |
+| B1JI  |  BL\_newspaper\\BL\_page\\pageText\\pageWord  | STR | The  |
+| B2GL  |  issue\\article\\text\\text.cr\\p\\wd  | STR | PROVINCIAL |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:amdSec\\METS:mdWrap\\METS:xmlData\\hiddentext\\pagecolumn\\region\\paragraph\\line\\word | STR | BALTAS  |
+| SBAT  |  PcGts\\Page\\TextRegion\\Textline\\Word\\TextEquiv\\Unicode  | STR | futeſte  |
+| TDAG  |  issue\\page\\article\\text\\text.cr\\p\\wd  | STR | PA.  |
 
 ### At String Level  
 
-| CAAL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | .vet  |
-| DEAL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | WOENSDAG  |
-| EUAL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | Moren-Ausgabe |
-| F1AL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | I  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@CONTENT  | STR | 204  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@CONTENT | STR | omat  |
-| PPAL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | Hawke’s  |
-| TRAL::alto\\Layout\\Page\\PrintSpace\\ComposedBlock\\ComposedBlock\\ TextBlock\\TextLine\\String@CONTENT  | STR | y  |
+| CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | .vet  |
+| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | WOENSDAG  |
+| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | Moren-Ausgabe |
+| F1AL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | I  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@CONTENT  | STR | 204  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@CONTENT | STR | omat  |
+| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@CONTENT  | STR | Hawke’s  |
+| TRAL  |  alto\\Layout\\Page\\PrintSpace\\ComposedBlock\\ComposedBlock\\ TextBlock\\TextLine\\String@CONTENT  | STR | y  |
 
 ### At Text Line Level 
 
-| SBAT::PcGts\\Page\\TextRegion\\Textline\\TextEquiv | STR | futeſte Feimatzeitung für die Stadt Garuth und für die Amtsbezirke papſitz und Radeland (gegr. 1865) |
+| SBAT  |  PcGts\\Page\\TextRegion\\Textline\\TextEquiv | STR | futeſte Feimatzeitung für die Stadt Garuth und für die Amtsbezirke papſitz und Radeland (gegr. 1865) |
 
 ### At Paragraph Level  
 
-| SBAT::PcGts\\Page\\TextRegion\\TextEquiv | STR | — futeſte Feimatzeitung für die Stadt Garuth und für die Amtsbezirke papſitz und Radeland (gegr. 1865) |
+| SBAT  |  PcGts\\Page\\TextRegion\\TextEquiv | STR | — futeſte Feimatzeitung für die Stadt Garuth und für die Amtsbezirke papſitz und Radeland (gegr. 1865) |
 
 ### At Article Level  
 
-| B1GT::articles\\artInfo\\ocrText | STR | AUgck aul tirn}fr,\[…\]  |
-| B2GT::articles\\artInfo\\ocrText | STR | Lt-vtUJu. \[…\]  |
-| DEOC::text\\p  | STR | fcdi.\&apos; hl \[…\]  |
-| TRAP::article\\articleText  | STR | \&lt;p\>\&lt;span\> \[…\] |
+| B1GT  |  articles\\artInfo\\ocrText | STR | AUgck aul tirn}fr,\[…\]  |
+| B2GT  |  articles\\artInfo\\ocrText | STR | Lt-vtUJu. \[…\]  |
+| DEOC  |  text\\p  | STR | fcdi.\&apos; hl \[…\]  |
+| TRAP  |  article\\articleText  | STR | \&lt;p\>\&lt;span\> \[…\] |
 
 

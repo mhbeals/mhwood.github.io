@@ -31,5 +31,5 @@ Suriname, and Nederlands-Indië / Indonesië.
 
 ## Instantiations  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\subCollection  | MCH | Regional Daily  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:spatial | MCH | Regional/lokaal |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\subCollection  | MCH | Regional Daily  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:spatial | MCH | Regional/lokaal |

@@ -22,6 +22,6 @@ supplement is part of an issue.
 
 ## Instantiations
 
-| TRAP::article\\supplement | STR | Something to do |
+| TRAP  |  article\\supplement | STR | Something to do |
 
 

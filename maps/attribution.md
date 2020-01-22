@@ -19,4 +19,4 @@ newspaper. This means the name listed may be a pen name.
 
 ## Instantiations
 
-| TRME::mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods \\mods:name@mods:namePart | STR | Conducted by “Penelope.” |
+| TRME  |  mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods \\mods:name@mods:namePart | STR | Conducted by “Penelope.” |

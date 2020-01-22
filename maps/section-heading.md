@@ -26,6 +26,6 @@ is part of an [**issue**](../issue-number).
 
 ## Instantiations
 
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:relatedItem\\mods:titleInfo\\mods:partName | STR | Wirtschaftsausgabe  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:partName  | STR | Wirtschaftsausgabe  |
-| TRAP::article\\section  | STR | 1, Special Home Feature |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:relatedItem\\mods:titleInfo\\mods:partName | STR | Wirtschaftsausgabe  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:partName  | STR | Wirtschaftsausgabe  |
+| TRAP  |  article\\section  | STR | 1, Special Home Feature |

@@ -15,6 +15,6 @@ hyphens**, have also been included in this section.
 + [Article Title or Headline](../headline)
 + [Attribution](../attribution)
 + [Article Subheading](../article-subheading)
-+ [Text](../article-text)
++ [Text](../text)
 + [Hyphenation](../hyphenation)
 + [Supplement Title](../supplement-title)

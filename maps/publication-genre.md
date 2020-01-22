@@ -62,27 +62,27 @@ related items.
 
 ## Instantiations  
 
-| B1GL::issue\\citation\\typeOfPublication\\  | MCH | Newspaper  |
-| B1GP::PubInfo\\VariantTitles\\Format  | MCH | Newspaper  |
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\typeofPublication  | MCH | Newspaper  |
-| B2GL::issue\\citation\\typeOfPublication  | MCH | Newspaper  |
-| B2GP::PubInfo\\VariantTitles\\Format  | MCH | Newspaper  |
-| EUME::METS:mets@TYPE  | MCH | Newspaper  |
-| EUME::METS:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods\\mods:genre  | STR | newspaper issue |
-| EUME::METS:mets\\mets:structMap\[@LABEL=“Physical Structure” @TYPE=“PHYSICAL”\]\\mets:div@TYPE  | MCH | Newspaper  |
-| EUME::METS:mets\\mets:structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\mets:div@TYPE  | MCH | Newspaper  |
-| F2AL::pageOCRDATA\\metadata\\contentType  | STR | serial  |
-| HNDM::$.publication.tipoPublicacion  | MCH | Monografía  |
-| HNDM::$.publication.pagina.tipoPublicacion  | MCH | Monografía  |
-| HNME::METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:category  | MCH | Monografias  |
-| PPME::mets@TYPE  | MCH | Newspaper  |
-| PPME::mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div@TYPE  | MCH | Newspaper  |
-| PPME::mets\\structMap\\div@TYPE  | MCH | Newspaper  |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification  | MCH | Zeitungen  |
-| SBME::mets:mets\\mets:structMap\[@TYPE=“LOGICAL”\]\\mets:div@TYPE  | MCH | newspaper  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification  | MCH | Zeitungen  |
-| SBMA::mets:mets\\mets:structMap\\mets:div@TYPE  | MCH | newspaper  |
-| SBMY::mets:mets\\mets:structMap\\mets:div@TYPE  | MCH | newspaper  |
-| TDAG::issue@contentType  | MCH | Newspaper  |
-| TRME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:genre  | STR | newspaper issue |
-| TRME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:genre | MCH | newspaper  |
+| B1GL  |  issue\\citation\\typeOfPublication\\  | MCH | Newspaper  |
+| B1GP  |  PubInfo\\VariantTitles\\Format  | MCH | Newspaper  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\typeofPublication  | MCH | Newspaper  |
+| B2GL  |  issue\\citation\\typeOfPublication  | MCH | Newspaper  |
+| B2GP  |  PubInfo\\VariantTitles\\Format  | MCH | Newspaper  |
+| EUME  |  METS:mets@TYPE  | MCH | Newspaper  |
+| EUME  |  METS:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods\\mods:genre  | STR | newspaper issue |
+| EUME  |  METS:mets\\mets:structMap\[@LABEL=“Physical Structure” @TYPE=“PHYSICAL”\]\\mets:div@TYPE  | MCH | Newspaper  |
+| EUME  |  METS:mets\\mets:structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\mets:div@TYPE  | MCH | Newspaper  |
+| F2AL  |  pageOCRDATA\\metadata\\contentType  | STR | serial  |
+| HNDM  |  $.publication.tipoPublicacion  | MCH | Monografía  |
+| HNDM  |  $.publication.pagina.tipoPublicacion  | MCH | Monografía  |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:category  | MCH | Monografias  |
+| PPME  |  mets@TYPE  | MCH | Newspaper  |
+| PPME  |  mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div@TYPE  | MCH | Newspaper  |
+| PPME  |  mets\\structMap\\div@TYPE  | MCH | Newspaper  |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification  | MCH | Zeitungen  |
+| SBME  |  mets:mets\\mets:structMap\[@TYPE=“LOGICAL”\]\\mets:div@TYPE  | MCH | newspaper  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification  | MCH | Zeitungen  |
+| SBMA  |  mets:mets\\mets:structMap\\mets:div@TYPE  | MCH | newspaper  |
+| SBMY  |  mets:mets\\mets:structMap\\mets:div@TYPE  | MCH | newspaper  |
+| TDAG  |  issue@contentType  | MCH | Newspaper  |
+| TRME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:genre  | STR | newspaper issue |
+| TRME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:genre | MCH | newspaper  |

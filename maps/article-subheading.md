@@ -21,4 +21,4 @@ TRME: Subheading as printed on the article. 
 
 ## Instantiations
 
-| TRME::mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods\\ mods:titleInfo\\mods:subTitle | STR | There and Back for a Dollar |
+| TRME  |  mets:mets\\mods:dmdSec\\mods:mdWrap\\mods:xmlData\\mods:mods\\ mods:titleInfo\\mods:subTitle | STR | There and Back for a Dollar |

@@ -33,14 +33,14 @@ and the [**date**](../date) of publication as well as a numerical volume number.
 
 ### Relative  
 
-| B1GL::issue\\volNum  | NUM | 1  |
-| B1JI::BL\_newspaper\\BL\_page\\issue\_metadata\\volumeNumber  | NUM | 1  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:Identifier\\mods:part\\mods:detail\[@type=“volume”\]\\mods:number | NUM | 18  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:volume  | NUM | 10  |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:part\\mods:detail\[@type=“volume”\]\\mods:number  | STR | Vol. 3 |
-| TRME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:part\\mods:detail@mods:number  | NUM | 41  |
+| B1GL  |  issue\\volNum  | NUM | 1  |
+| B1JI  |  BL\_newspaper\\BL\_page\\issue\_metadata\\volumeNumber  | NUM | 1  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:Identifier\\mods:part\\mods:detail\[@type=“volume”\]\\mods:number | NUM | 18  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:volume  | NUM | 10  |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:part\\mods:detail\[@type=“volume”\]\\mods:number  | STR | Vol. 3 |
+| TRME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:part\\mods:detail@mods:number  | NUM | 41  |
 
 **Unique Identifier**  
 
-| F1ME::mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Suomi no. 1 1841  |
-| PPME::mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Daily Southern Cross no. I 1843-04-22 |
+| F1ME  |  mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Suomi no. 1 1841  |
+| PPME  |  mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Daily Southern Cross no. I 1843-04-22 |

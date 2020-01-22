@@ -49,26 +49,26 @@ listed.
 
 ### Full Publication Date Range  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\datesOfPublication  | DAR | 1 Jan 1800 - 23 Aug 1876; 30 Aug 1876 - 31 Dec 1900  |
-| B1GL::issue\\citation\\datesOfPublication  | DAR | 1 Jan 1800 - 27 Aug 1859; 29 Aug 1859 - 21 Feb 1860; 22 Feb 1860 - 20 Apr 1867 |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ddd:yearsDigitized  | DAR | 1940-1945  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:issued  | DAR | 1856-2002  |
-| HNDM::$.publication.fecha  | DAR | “fecha”:\[{“aa”:”1900”,”mes”:\[ {“mm”:”01”,”dia”:\[“01”\]}\]}\]  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:note\[@type=“date\\sequential designation”\] | STR | 1932,4(14.Nov.) - 1936,39(26.Okt.); 1939,45(27.Jan.); mehr nicht digitalisiert |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\datesOfPublication  | DAR | 1 Jan 1800 - 23 Aug 1876; 30 Aug 1876 - 31 Dec 1900  |
+| B1GL  |  issue\\citation\\datesOfPublication  | DAR | 1 Jan 1800 - 27 Aug 1859; 29 Aug 1859 - 21 Feb 1860; 22 Feb 1860 - 20 Apr 1867 |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ddd:yearsDigitized  | DAR | 1940-1945  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:issued  | DAR | 1856-2002  |
+| HNDM  |  $.publication.fecha  | DAR | “fecha”:\[{“aa”:”1900”,”mes”:\[ {“mm”:”01”,”dia”:\[“01”\]}\]}\]  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:note\[@type=“date\\sequential designation”\] | STR | 1932,4(14.Nov.) - 1936,39(26.Okt.); 1939,45(27.Jan.); mehr nicht digitalisiert |
 
 ### Publication Start Date
 
 ### Container  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate | NUL |  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate | NUL |  |
 
 ### Day  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate@day | DAT | 30 |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate@day | DAT | 30 |
 
 ### Month 
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate@month | DAT | 8 |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\startDate@month | DAT | 8 |
 
 ### Year  
 
@@ -76,21 +76,21 @@ listed.
 
 ### Combined  
 
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:dateIssued\[@point=“start”\] | DAT | 1930-01-01 |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:dateIssued\[@point=“start”\] | DAT | 1930-01-01 |
 
 ### Publication End Date
 
 ### Container  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate | NUL |  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate | NUL |  |
 
 ### Day  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate@day | DAT | 30 |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate@day | DAT | 30 |
 
 ### Month  
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate@month | DAT | 8 |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\endDate@month | DAT | 8 |
 
 ### Year  
 
@@ -98,4 +98,4 @@ listed.
 
 ### Combined  
 
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:dateIssued\[@point=“end”\] | DAT | 1945-12-31 |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:dateIssued\[@point=“end”\] | DAT | 1945-12-31 |

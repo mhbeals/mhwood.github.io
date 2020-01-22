@@ -30,12 +30,12 @@ http://trove.nla.gov.au/ndp/del/page/4298413.
 
 ## Instantiations  
 
-| CADI::sn\\year\\month\\day\\null\[edition\]  | STR | ed-1  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:Identifier\\mods:part\\mods:detail\\mods:number  | NUM | 1  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:temporal  | MCH | Dag  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“digitization”\]\\mods:edition | STR | \[Electronic ed.\]  |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“digitization”\]\\mods:edition | STR | \[Electronic ed.\]  |
-| SBME::mets:mets\\mets:structMap\[@TYPE=“LOGICAL”\]\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div@LABEL  | STR | Freundschaftsausgabe  |
-| SBMY::mets:mets\\mets:structMap\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div@LABEL  | STR | Freundschaftsausgabe  |
-| TRAP::article\\title\\edition  | STR | 2, SPECIAL EDITION TO THE QUEANBEYAN AGE |
+| CADI  |  sn\\year\\month\\day\\null\[edition\]  | STR | ed-1  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:Identifier\\mods:part\\mods:detail\\mods:number  | NUM | 1  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcterms:temporal  | MCH | Dag  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“digitization”\]\\mods:edition | STR | \[Electronic ed.\]  |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“digitization”\]\\mods:edition | STR | \[Electronic ed.\]  |
+| SBME  |  mets:mets\\mets:structMap\[@TYPE=“LOGICAL”\]\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div@LABEL  | STR | Freundschaftsausgabe  |
+| SBMY  |  mets:mets\\mets:structMap\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div@LABEL  | STR | Freundschaftsausgabe  |
+| TRAP  |  article\\title\\edition  | STR | 2, SPECIAL EDITION TO THE QUEANBEYAN AGE |
 

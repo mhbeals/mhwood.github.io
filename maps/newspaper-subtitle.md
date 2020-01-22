@@ -20,5 +20,5 @@ This field only appears in SBME and SBMA.
 
 ### Printed Title  
 
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:subTitle  | STR | Blätter zur Pflege der Heimatkunde |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:relatedItem\\mods:titleInfo\\mods:subTitle | STR | Blätter zur Pflege der Heimatkunde |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:subTitle  | STR | Blätter zur Pflege der Heimatkunde |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:relatedItem\\mods:titleInfo\\mods:subTitle | STR | Blätter zur Pflege der Heimatkunde |

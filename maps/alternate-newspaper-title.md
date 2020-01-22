@@ -33,10 +33,10 @@ leading text, giving a normalised title.
 
 ## Instantiations  
 
-| B1GP::PubInfo\\VariantTitles\\Title  | STR | Aberdeen Weekly Journal  |
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\name  | STR | Aberdeen Weekly Journal  |
-| B2GP::PubInfo\\VariantTitles\\Title  | STR | The York Herald, and General Advertiser  |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ dcterms:alternative  | STR | Eerder verschenen onder de naam Delflandsche courant : nieuws- en advertentieblad |
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ dcterms:isVersionOf  | STR | Delflandsche courant : nieuws- en advertentieblad  |
-| PPME::mets\\dmdSec\\mdWrap\[@LABEL=“Bibliographic meta-data of the printed version”\]\\xmlData\\MODS:mods\\MODS:titleInfo\\MODS:title  | STR | Southern Cross;New Zealand Herald  |
-| PPME::mets\\dmdSec\\mdWrap\[@LABEL=“Bibliographic meta-data of Issue”\]\\xmlData\\MODS:mods\\MODS:relatedItem\\MODS:titleInfo\\MODS:title | STR | Southern Cross; New Zealand Herald  |
+| B1GP  |  PubInfo\\VariantTitles\\Title  | STR | Aberdeen Weekly Journal  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\changeToTitle\\name  | STR | Aberdeen Weekly Journal  |
+| B2GP  |  PubInfo\\VariantTitles\\Title  | STR | The York Herald, and General Advertiser  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ dcterms:alternative  | STR | Eerder verschenen onder de naam Delflandsche courant : nieuws- en advertentieblad |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\ dcterms:isVersionOf  | STR | Delflandsche courant : nieuws- en advertentieblad  |
+| PPME  |  mets\\dmdSec\\mdWrap\[@LABEL=“Bibliographic meta-data of the printed version”\]\\xmlData\\MODS:mods\\MODS:titleInfo\\MODS:title  | STR | Southern Cross;New Zealand Herald  |
+| PPME  |  mets\\dmdSec\\mdWrap\[@LABEL=“Bibliographic meta-data of Issue”\]\\xmlData\\MODS:mods\\MODS:relatedItem\\MODS:titleInfo\\MODS:title | STR | Southern Cross; New Zealand Herald  |

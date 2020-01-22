@@ -34,8 +34,8 @@ frequency information, e.g. “Regional Daily”.
 
 ## Instantiations  
 
-| B1GP::PubInfo\\VariantTitles\\Frequency  | MCH | Daily  |
-| B2GP::PubInfo\\VariantTitles\\Frequency  | MCH | Weekly  |
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\subCollection | MCH | Regional Daily |
-| HNDM::$.publication.frecuencia  | MCH | Diario  |
-| HNDM::$.publication.pagina.frecuencia  | MCH | Diario  |
+| B1GP  |  PubInfo\\VariantTitles\\Frequency  | MCH | Daily  |
+| B2GP  |  PubInfo\\VariantTitles\\Frequency  | MCH | Weekly  |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\subCollection | MCH | Regional Daily |
+| HNDM  |  $.publication.frecuencia  | MCH | Diario  |
+| HNDM  |  $.publication.pagina.frecuencia  | MCH | Diario  |

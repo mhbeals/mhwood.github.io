@@ -27,7 +27,7 @@ publisher and the latest publisher.
 
 ## Instantiations  
 
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:publisher  | STR | J.H. Molenbroek |
-| F2AL::pageOCRDATA\\metadata\\originalPublisher  | STR | SLEY-Kirjat Oy  |
-| F2AL::pageOCRDATA\\metadata\\latestPublisher  | STR | SLEY-Kirjat Oy  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:publisher | STR | Särchen  |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:publisher  | STR | J.H. Molenbroek |
+| F2AL  |  pageOCRDATA\\metadata\\originalPublisher  | STR | SLEY-Kirjat Oy  |
+| F2AL  |  pageOCRDATA\\metadata\\latestPublisher  | STR | SLEY-Kirjat Oy  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:originInfo\[@eventType=“publication”\]\\mods:publisher | STR | Särchen  |
