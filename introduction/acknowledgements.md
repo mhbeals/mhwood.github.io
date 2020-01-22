@@ -10,7 +10,7 @@ use-site-title: false
 li {
 	list-style: none;
   padding-left: 22px ;
-  text-indent: -22px ;
+  text-indent: -32px ;
 } 
 </style>
 
