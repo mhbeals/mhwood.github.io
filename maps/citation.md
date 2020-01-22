@@ -10,16 +10,10 @@ identifying specific **articles** or **pages** within the **run** of a
 **publication**. It includes the information about the **volume**,
 **issue**, **edition**, **date** and **publisher.**
 
-[Volume Number](volume-number)
-
-[Issue Number](issue-number)
-
-[Page Number](page-number)
-
-[Edition](edition)
-
-[Issue Date](issue-date)
-
-[Publisher](publisher)
-
-[Place of Publication](place-of-publication)
++ [Volume Number](../volume-number)
++ [Issue Number](../issue-number)
++ [Page Number](../page-number)
++ [Edition](../edition)
++ [Issue Date](../date)
++ [Publisher](../publisher)
++ [Place of Publication](../place-of-publication)

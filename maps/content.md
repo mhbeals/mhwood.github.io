@@ -11,16 +11,10 @@ the **title** of the article**,** **section headings** and **text**. For
 the sake of consistency, text components, such as **typographical
 hyphens**, have also been included in this section.
 
-[Section Heading](../section-heading)
-
-[Article Title or Headline](../headline)
-
-[Attribution](../attribution)
-
-[Article Subheading](../article-subheading)
-
-[Text](../article-text)
-
-[Hyphenation](../hyphenation)
-
-[Supplement Title](../supplement-title)
++ [Section Heading](../section-heading)
++ [Article Title or Headline](../headline)
++ [Attribution](../attribution)
++ [Article Subheading](../article-subheading)
++ [Text](../article-text)
++ [Hyphenation](../hyphenation)
++ [Supplement Title](../supplement-title)
