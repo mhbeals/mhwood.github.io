@@ -17,4 +17,4 @@ newspapers would use different typefaces for the masthead, adverts and
 editorials, and some might choose to use a nondescript font for ease. As
 technology made it easier to standardise, these decisions became
 formalised. **OCR** software has difficulty with older font styles and
-will not always recognise them correctly.
+will not always recognise them correctly. 
