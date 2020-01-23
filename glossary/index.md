@@ -6,62 +6,81 @@ use-site-title: false
 ---
 
 ## A
-Abbreviated Newspaper Title  
-Alternate Newspaper Title  
-Article Category  
-Article Subheading  
-Attribution  
-## C  
-Copyright  
-## D  
-Database  
-Dimensions  
-Document Type  
-## E  
-Edition  
-## F  
-Filename  
-## G  
-Geographic Coverage  
-## H  
+[Abbreviated Newspaper Title](newspaper-title.md)
+[Alternate Newspaper Title](alternate-newspaper-title.md)  
+[Article Category](article-category.md)  
+[Article Subheading](article-subheading.md)  
+[Article Title](headline.md)
+[Attribution](attribution.md)  
+
+## C  
+Comments
+Coordinates
+[Copyright](copyright.md)  
+
+## D  
+[Database](database.md)  
+Dimensions
+[Document Type](document-type.md)  
+
+## E  
+[Edition](edition.md)  
+
+## F  
+Filename
+
+## G  
+[Geographic Coverage](geographic-coverage.md)  
+
+## H  
 [Headline](headline.md)  
-Holding Library  
-Hyphenation  
-## I  
-Image Coordinates  
-Issue  
-Issue Date  
-## L  
-Language  
-## M  
-Microfilm Reel  
-## N  
-Newspaper Title  
-## O  
-Optical Character Recognition  
-## P  
-Page  
-Page Count of Article  
-Page Count of Issue  
-Page Position  
-Paragraph  
-Place of Publication  
-Publication Date Range  
-Publication Frequency  
-Publication Genre  
-Publisher  
-## S  
-Section Heading  
-Shelf Mark  
-Social Tag  
-Starting Column for Article  
-Sub-Collection  
-Supplement Title  
-## T  
-Text  
-Typeface  
-## V  
-Volume  
-## W  
-Word Count of Article  
-Word Count of Page  
+[Holding Library](holding-library.md)  
+Hyphenation
+
+## I    
+[Illustration](illustration-information.md)
+[Issue Number](issue-number.md)
+[Issue Date](date.md)  
+
+## L  
+[Language](language.md)  
+
+## M  
+[Microfilm Reel](microfilm-reel.md)  
+
+## N  
+[Newspaper Title](newspaper-title.md)  
+
+## O  
+[Optical Character Recognition](ocr.md)  
+
+## P  
+[Page Number](page-number.md)  
+[Page Count of Article](page-count-of-article.md)  
+[Page Count of Issue](page-count-of-issue.md)  
+[Page Position](page-position.md)  
+[Page Skew](page-skew.md)
+[Paragraph](paragraph.md)  
+[Place of Publication](place-of-publication.md)  
+[Publication Date Range](publication-date-range.md)  
+[Publication Frequency](publication-frequency.md)  
+[Publication Genre](publication-genre.md)  
+[Publisher](publisher.md)  
+
+## S  
+[Section Heading](section-heading.md)  
+[Shelf Mark](shelf-mark.md)    
+[Starting Column for Article](starting-column-for-article.md) 
+[Sub-Collection](sub-collection.md)  
+[Supplement Title](supplement-title.md)  
+
+## T  
+[Text](text.md)  
+[Typeface](font-information.md)  
+
+## V  
+[Volume Number](volume-number.md)  
+
+## W  
+[Word Count of Article](word-count-of-article.md)  
+[Word Count of Page](word-count-of-page.md)  
