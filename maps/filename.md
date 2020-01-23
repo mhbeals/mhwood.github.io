@@ -5,8 +5,6 @@ subtitle:
 use-site-title: false
 ---
 
-<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/filename">View Glossary Entry</a></h4>
-
 ## Technical Definition
 
 Provides the filename of the image file attached to the XML text. This
