@@ -11,6 +11,11 @@ use-site-title: false
 
 Provides a unique ID for the component of the image.
 
+## Usage Notes
+
+This can be a URL, a **filename**, a numerical string, or a string
+incorporating an **abbreviated title**.
+
 ## Category Notes
 
 These field are very common and used for linking individual newspapers,
