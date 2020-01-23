@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Place of Publication
+title: Publisher
 subtitle:  
 use-site-title: false
 ---
 
-<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/place-of-publication">View Glossary Entry</a></h4>
+<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/publisher">View Glossary Entry</a></h4>
 
 ## Technical Definition
 
