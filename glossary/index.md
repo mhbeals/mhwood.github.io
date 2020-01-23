@@ -6,28 +6,22 @@ use-site-title: false
 ---
 
 ## A
-[Abbreviated Newspaper Title](newspaper-title.md)
+[Abbreviated Newspaper Title](newspaper-title.md)  
 [Alternate Newspaper Title](alternate-newspaper-title.md)  
 [Article Category](article-category.md)  
 [Article Subheading](article-subheading.md)  
-[Article Title](headline.md)
+[Article Title](headline.md)  
 [Attribution](attribution.md)  
 
 ## C  
-Comments
-Coordinates
 [Copyright](copyright.md)  
 
 ## D  
 [Database](database.md)  
-Dimensions
 [Document Type](document-type.md)  
 
 ## E  
 [Edition](edition.md)  
-
-## F  
-Filename
 
 ## G  
 [Geographic Coverage](geographic-coverage.md)  
@@ -35,11 +29,10 @@ Filename
 ## H  
 [Headline](headline.md)  
 [Holding Library](holding-library.md)  
-Hyphenation
 
 ## I    
-[Illustration](illustration-information.md)
-[Issue Number](issue-number.md)
+[Illustration](illustration-information.md)  
+[Issue Number](issue-number.md)  
 [Issue Date](date.md)  
 
 ## L  
@@ -59,7 +52,7 @@ Hyphenation
 [Page Count of Article](page-count-of-article.md)  
 [Page Count of Issue](page-count-of-issue.md)  
 [Page Position](page-position.md)  
-[Page Skew](page-skew.md)
+[Page Skew](page-skew.md)  
 [Paragraph](paragraph.md)  
 [Place of Publication](place-of-publication.md)  
 [Publication Date Range](publication-date-range.md)  
@@ -70,7 +63,7 @@ Hyphenation
 ## S  
 [Section Heading](section-heading.md)  
 [Shelf Mark](shelf-mark.md)    
-[Starting Column for Article](starting-column-for-article.md) 
+[Starting Column for Article](starting-column-for-article.md)  
 [Sub-Collection](sub-collection.md)  
 [Supplement Title](supplement-title.md)  
 
