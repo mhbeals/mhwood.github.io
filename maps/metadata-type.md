@@ -11,6 +11,11 @@ use-site-title: false
 
 Defines the metadata type.
 
+## Usage Notes
+
+When labelling descriptive metadata, MODS or METS is used, and for
+administrative metadata NISOIMG is used.
+
 ## Category Notes
 
 This field is common in METS files.
