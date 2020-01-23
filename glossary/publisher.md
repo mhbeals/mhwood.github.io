@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Place of Publication
+title: Publisher
 subtitle:  
 use-site-title: false
 ---
 
-<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../maps/place-of-publication">View Metadata Map</a></h4>
+<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../maps/publisher">View Metadata Map</a></h4>
 
 ## Language Variants
 
