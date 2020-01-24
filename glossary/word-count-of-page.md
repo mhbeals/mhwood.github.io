@@ -17,12 +17,12 @@ The number of words on the average newspaper page decreased over the
 nineteenth century, partly owing to changes in the law; in the UK, for
 example, the removal of Stamp Duty, previously applied to any page
 containing printed news, led to advertising becoming increasingly
-integrated into the standard newspaper **page**. More generally, lower
+integrated into the standard newspaper <a href="https://www.digitisednewspapers.net/glossary/page-number/">**page**</a>. More generally, lower
 printing costs led to newspapers having more pages while decreasing in
 price. The rise of New Journalism in the UK led to the use of larger
-**headlines** and more **subheadings**, further reducing the space on
+<a href="https://www.digitisednewspapers.net/glossary/headline/">**headlines**</a> and more <a href="https://www.digitisednewspapers.net/maps/article-subheading/">**subheadings**</a>, further reducing the space on
 the page for articles, though some broadsheets, such as *The Times* and
-the *Daily News,* retained their dense columns of text*.* Long leader
+the *Daily News,* retained their dense columns of text. Long leader
 articles, common at mid-century, were replaced with much shorter
 front-page articles. The Victorian newspaper reader would not have been
 aware of the exact number of words on the page and traditional press
