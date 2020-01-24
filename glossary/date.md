@@ -15,7 +15,7 @@ Date; Datum; Datum; Päivämäärä; Fecha.
 
 Within the newspaper layout, the **date** would appear centred
 underneath the masthead and in the **folio line** (a line at the top or
-bottom of a newspaper page that gives the newspaper name, <a href="https://www.digitisednewspapers.net/glossary/section-heading/">**section**</a>
+bottom of a newspaper page that gives the <a href="https://www.digitisednewspapers.net/glossary/newspaper-title/">**newspaper name**</a>, <a href="https://www.digitisednewspapers.net/glossary/section-heading/">**section**</a>
 and <a href="https://www.digitisednewspapers.net/glossary/page-number/">**page number**</a>, and publication date). As <a href="https://www.digitisednewspapers.net/glossary/headline/">**headlines**</a> were not in
 use until late in the century, some articles would appear under a date
 only. This could also indicate an article was reprinted from elsewhere
