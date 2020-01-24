@@ -12,7 +12,7 @@ use-site-title: false
 It is unlikely that the font registered will accurately reflect the
 specific typeface used, though the **weight**, **style** and **size**
 may be more accurate. Font styles and sizes in the nineteenth century
-often reflected something about the <a href="https://www.digitisednewspapers.net/maps/publication-genre/">**genre** **of the newspaper**</a>. Most
+often reflected something about the <a href="https://www.digitisednewspapers.net/glossary/publication-genre/">**genre** **of the newspaper**</a>. Most
 newspapers would use different typefaces for the masthead, adverts and
 editorials, and some might choose to use a nondescript font for ease. As
 technology made it easier to standardise, these decisions became
