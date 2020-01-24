@@ -24,7 +24,7 @@ separate pieces that could be published in different issues. Section
 headings would be printed in the **folio line** and, in modern
 journalism, often have their own mastheads. With the exception of Trove,
 differentiated sections are generally zoned algorithmically and assigned
-a standardised **article** **category** rather than the section heading
+a standardised <a href="https://www.digitisednewspapers.net/glossary/article-category/">**article** **category**</a> rather than the section heading
 as printed in that instance.
 
 ## Examples:
