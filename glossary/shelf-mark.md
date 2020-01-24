@@ -16,11 +16,11 @@ Signatur; Signatuur; Nimekkeen; Numero.
 This is a common term within library science, complicated only by the
 fact that there is not a one-to-one relationship between the physical
 object and the digital one in the case of newspapers. Because most
-digitised newspapers come from **volumes** of several **issues** bound
-together, and the majority of **libraries** do not disbind them to scan
+digitised newspapers come from <a href="https://www.digitisednewspapers.net/glossary/volume-number/">**volumes**</a> of several <a href="https://www.digitisednewspapers.net/glossary/issue-number/">**issues**</a> bound
+together, and the majority of <a href="https://www.digitisednewspapers.net/glossary/holding-library/">**libraries**</a> do not disbind them to scan
 (except, notably, the British Library), the shelf mark should be taken
 to refer to the physical volume from which the newspaper issue has come,
-if not the full run as defined by **normalised newspaper title**. These
+if not the full run as defined by <a href="https://www.digitisednewspapers.net/glossary/newspaper-title/">**normalised newspaper title**</a>. These
 volumes can be dedicated to one specific newspaper, or issues from a
 specific year taken from a range of newspapers.
 
