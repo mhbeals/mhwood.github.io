@@ -15,8 +15,8 @@ Date; Datum; Datum; Päivämäärä; Fecha.
 
 Within the newspaper layout, the **date** would appear centred
 underneath the masthead and in the **folio line** (a line at the top or
-bottom of a newspaper page that gives the newspaper name, **section**
-and **page number**, and publication date). As **headlines** were not in
+bottom of a newspaper page that gives the newspaper name, <a href="https://www.digitisednewspapers.net/glossary/section-heading/">**section**</a>
+and <a href="https://www.digitisednewspapers.net/glossary/page-number/">**page number**</a>, and publication date). As <a href="https://www.digitisednewspapers.net/glossary/headline/">**headlines**</a> were not in
 use until late in the century, some articles would appear under a date
 only. This could also indicate an article was reprinted from elsewhere
 or provide the date of a telegram. Date is a very common search filter
@@ -24,8 +24,8 @@ across digital collections: Gale indicated that only around 5% of users
 make use of advanced search functions, but date is used very often to
 limit searches because researchers tend to know what period they want to
 look at and are looking for contextual information around a specific
-time. Nevertheless, the date was rarely the date the **issue** was
-printed: evening **editions** would obviously be printed earlier in the
+time. Nevertheless, the date was rarely the date the <a href="https://www.digitisednewspapers.net/glossary/date/">**issue**</a> was
+printed: evening <a href="https://www.digitisednewspapers.net/glossary/edition/">**editions**</a> would obviously be printed earlier in the
 day, while newspapers published in the morning would be printed the
 night before.
 
