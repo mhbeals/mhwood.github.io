@@ -11,8 +11,8 @@ Provides a unique ID for the component of the image.
 
 ## Usage Notes
 
-This can be a URL, a **filename**, a numerical string, or a string
-incorporating an **abbreviated title**.
+This can be a URL, a <a href="https://www.digitisednewspapers.net/maps/filename/">**filename**</a>, a numerical string, or a string
+incorporating an <a href="https://www.digitisednewspapers.net/maps/abbreviated-newspaper-title/">**abbreviated title**</a>.
 
 ## Category Notes
 
@@ -26,12 +26,12 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 
 ## Instantiations
 
-### Collection
+### Collection  
 
 | B1GI::issue\\metadataInfo\\dviCollectionID | UID | BNCNC0001 |
 | B2GI::issue\\metadataInfo\\dviCollectionID | UID | BNCNC0002 |
 
-### Newspaper
+### Newspaper  
 
 | B1GI::issue\\metadataInfo\\assetID  | UID | 3405609147  |
 | B1GI::issue\\page\\assetID  | UID | 3305609147  |
@@ -55,7 +55,8 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 | B1GP::PubInfo\\VariantTitles\\NewspaperID | UID | BNCN0001 |
 | B2GP::PubInfo\\VariantTitles\\NewspaperID | UID | NCBL0126 |
 
-### **Article (Unique/Database)**  | B1GI::issue\\page\\article\\id  | UID | WO1\_ANJO\_1798\_01\_02-0001-001 |
+### Article (Unique/Database)  
+| B1GI::issue\\page\\article\\id  | UID | WO1\_ANJO\_1798\_01\_02-0001-001 |
 | B1GL::issue\\article\\id  | UID | WOJL-1822-01-03-0002-003  |
 | B1GT::articles\\artInfo@id  | UID | WO1\_ANJO\_1798\_01\_02-0001-001 |
 | B2GL::issue\\article\\id  | UID | WOJL-1822-01-03-0002-003  |
@@ -69,8 +70,7 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 | TDAG::issue\\page\\article\\id  | UID | 0FFO-1785-FEB14-001-004  |
 | TRAP::article@article@id  | UID | 18341291  |
 
-### **Article (URL)**  
-
+### Article (URL)  
 | B1GT::articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/artemis/NewspapersDetailsPage/NewspapersDetailsWindow?prodId=BNCN\&amp;windowstate=normal\&amp;mode=view\&amp;displayGroupName=DVI-Newspapers\&amp;p=GDCS\&amp;action=e\&amp;documentId=GALE%7CBA3205609147 |
 | B2GT::articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/artemis/NewspapersDetailsPage/NewspapersDetailsWindow?prodId=BNCN\&amp;windowstate=normal\&amp;mode=view\&amp;displayGroupName=DVI-Newspapers\&amp;p=GDCS\&amp;action=e\&amp;documentId=GALE%7CR3211020873  |
 | DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\srw\_dc:dcx\\dc:identifier | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:a0001  |
@@ -78,15 +78,15 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 | TRAP::article\\identifier  | URL | http://nla.gov.au/nla.news-article18341291  |
 | TRAP::article\\troveUrl  | URL | http://trove.nla.gov.au/ndp/del/article/18342701  |
 
-### Article (Relative/Issue)  | EUME::METS:mets\\mets:structMap\[@LABEL=“Logical Structure”\]\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div\[@TYPE=“ARTICLE”\]@ID | UID | DIVL7  |
+### Article (Relative/Issue)  
+| EUME::METS:mets\\mets:structMap\[@LABEL=“Logical Structure”\]\\mets:div\\mets:div\\mets:div\\mets:div\\mets:div\[@TYPE=“ARTICLE”\]@ID | UID | DIVL7  |
 | EUME::METS:mets\\mets:dmdSec@ID  | UID | MODSMD\_ARTICLE1  |
 | EUME::METS:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:titleInfo@ID  | UID | MODSMD\_ARTICLE1\_TI1 |
 | PPME::mets\\structMap\\div\\div\\div@DMDID  | UID | MODSMD\_ARTICLE1  |
 | TRAL::alto\\Layout\\Page\\PrintSpace\\ComposedBlock@ID  | UID | ART1  |
 | TRME::mets:mets\\mets:structMap\[@TYPE=“logical”\]\\mets:div\\mets:div@DMDID  | UID | modsarticle1  |
 
-### Article Zone ID
-
+### Article Zone ID  
 Provides an ID for the article, as zoned on the image. These fields are
 highly inconsistent and include unique IDs, across the database,
 relative IDs within the issue, and URLs to the web-accessible version of
@@ -100,16 +100,14 @@ the image.  | DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Compon
 | TRME::mets:mets\\mets:structMap\\mets:div\\mets:div\\mets:fptr\\mets:area@FILEID  | FIN | nla.news-issn22083111-s75003-b.tif  |
 | TRME::mets:mets\\mets:structMap\\mets:div\\mets:div\\mets:fptr\\mets:area@FILEID  | FIN | nla.news-issn22083111-s75003-b.xml  |
 
-### Clipped Article Image (Unique)
-
+### Clipped Article Image (Unique)  
 Provides a unique identifier for the article, as segmented on a single
 page. These are unique to each segment of an article spanning multiple
 pages.  | B1GL::issue\\article\\ci  | UID | WOJL-1822-01-03-0002-003-001 |
 | B2GL::issue\\article\\ci  | UID | WOJL-1822-01-03-0002-003-001 |
 | TDAG::issue\\page\\article\\ci | UID | 0FFO-1812-JUL14-001-001-001  |
 
-### Clipped Article Image (Relative)
-
+### Clipped Article Image (Relative)  
 Provides a relative identifier for the article, as segmented on a single
 page. These are sequential to each segment of an article.  | B1GL::issue\\article\\ci\\clip  | NUM | 1 |
 | -- | -- | - |
