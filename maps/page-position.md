@@ -6,9 +6,10 @@ use-site-title: false
 ---
 
 <h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/page-position">View Glossary Entry</a></h4>
-## Technical Definition
 
-Indicates the position of the page within the **issue**.
+## Technical Definition  
+
+Indicates the position of the page within the <a href="https://www.digitisednewspapers.net/maps/issue-number/">**issue**</a>.
 
 ## Category Notes
 
