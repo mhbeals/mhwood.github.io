@@ -7,7 +7,7 @@ use-site-title: false
 
 ## Technical Definition
 
-Provides the measure unit for all values except the **font size**.
+Provides the measure unit for all values except the <a href="https://www.digitisednewspapers.net/maps/font-information/">**font size**</a>.
 
 ## Usage Notes
 
