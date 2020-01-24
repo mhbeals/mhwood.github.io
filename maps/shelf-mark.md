@@ -9,11 +9,10 @@ use-site-title: false
 
 ## Technical Definition
 
-This category contains information linking the **publication**, as a
+This category contains information linking the <a href="https://www.digitisednewspapers.net/maps/newspaper-title/">**publication**</a>, as a
 conceptual unit, to an item or record in an external database or
-catalogue. It does so without specific **date** or other restrictions
-and should be considered to refer to a specific physical **volume rather
-than a volume as numbered by the original publisher.**
+catalogue. It does so without specific <a href="https://www.digitisednewspapers.net/maps/date/">**date**</a> or other restrictions
+and should be considered to refer to a specific physical <a href="https://www.digitisednewspapers.net/maps/volume-number/">**volume**</a> rather than a volume as numbered by the original publisher.
 
 ## Category Notes
 
