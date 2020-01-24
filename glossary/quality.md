@@ -10,14 +10,14 @@ use-site-title: false
 ## Usage Notes
 
 When microfilming or digitising, many collections rely on bound
-**volumes** of many newspaper issues, as the volume format better
+<a href="https://www.digitisednewspapers.net/glossary/volume-number/">**volumes**</a> of many newspaper issues, as the volume format better
 preserves them. For the British Library collections, in those cases
 where volumes that were tightly bound, they were partially disbound and
 then shrink-wrapped and returned to the shelves in a partially bound
 condition for microfilming. For Trove, some state libraries have used
 formerly bound copies of newspapers, in order to get the best quality
 for digitisation. The State Library of South Australia disbinds its
-copies when **microfilming**, as does the Library of Victoria, or they
+copies when <a href="https://www.digitisednewspapers.net/glossary/microfilm-reel/">**microfilming**</a>, as does the Library of Victoria, or they
 loosen the bindings during the microfilming process in order to better
 capture text near the margins. Other digitisers indicate that they do
 not usually disband, as it is not usually possible to rebind them, and
