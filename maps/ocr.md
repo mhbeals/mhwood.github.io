@@ -16,13 +16,13 @@ Creator, Name, Version, Relevance and Confidence Level.
 ## Category Notes
 
 This field is very common, appearing in all except B1GP and B2GP, which
-only provide information about **alternate newspaper titles**. Only DEAL
+only provide information about <a href="https://www.digitisednewspapers.net/maps/alternate-newspaper-title/">**alternate newspaper titles**</a>. Only DEAL
 and TRAL have a processing agency and date.
 
 ## Individual Collection Notes
 
 B1GI: @primary specifies the OCR language is the primary language (see
-**language**).
+<a href="https://www.digitisednewspapers.net/maps/language">**language**</a>).
 
 B2GL: Relevance is a string choice “yes” or “no”.
 
