@@ -9,7 +9,7 @@ use-site-title: false
 
 ## Technical Definition
 
-Specifies the copyright holder of the **issue**. **Access conditions**
+Specifies the copyright holder of the <a href="https://www.digitisednewspapers.net/maps/date">**issue**</a>. **Access conditions**
 provides additional information about the status of a physical object,
 i.e. any restrictions on access.
 
@@ -24,7 +24,7 @@ locator (PURL) link to explain the given status.
 ## Individual Collection Notes
 
 DEMP: There are different fields for the copyright holder for the
-**newspaper title**
+<a href="https://www.digitisednewspapers.net/maps/newspaper-title">**newspaper title**</a>
 (didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\
 dc:rights) and the digital record
 (DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordRights).
