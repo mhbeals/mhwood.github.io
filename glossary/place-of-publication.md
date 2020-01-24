@@ -23,8 +23,7 @@ city would have one or two newspapers, while Berlin and Leipzig had
 dozens each; there were initially no national newspapers. Australia
 retained a similarly regional focus in the nineteenth century:
 Australia’s first newspaper, the *Sydney Gazette* *and New South Wales
-Advertiser*, was printed in 1803, with *The Australian* launching in
-1824. By the mid-1830s there were seven newspapers published in New
+Advertiser*, was printed in 1803, with *The Australian* launching in 1824. By the mid-1830s there were seven newspapers published in New
 South Wales and five weeklies in South Australia. By the 1850s, Tasmania
 had eleven newspapers. In nineteenth-century America, newspapers gained
 wider traction initially through partisan political affiliation, and
