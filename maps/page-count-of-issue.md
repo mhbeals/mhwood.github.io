@@ -9,7 +9,7 @@ use-site-title: false
 
 ## Technical Definition
 
-Total number of pages of the newspaper **issue**.
+Total number of pages of the newspaper <a href="https://www.digitisednewspapers.net/maps/issue-number/">**issue**</a>.
 
 ## Category Notes
 
