@@ -20,7 +20,7 @@ revealed that different newspapers had their own standards: for example,
 a leader for the *Times* in 1855 averages around 1500 words. In contrast
 to the myth that Victorian writers were paid by the word, it was much
 more usual for newspapers to request an article of a certain number of
-**pages**. Although the abolition of Stamp Duty and advances in printing
+<a href="https://www.digitisednewspapers.net/glossary/page-count-of-issue/">**pages**</a>. Although the abolition of Stamp Duty and advances in printing
 made it cheaper to print more pages, articles did not simply get longer:
 the introduction of headlines, integrated advertisements and
 illustrations all influenced article length. Added to this, there was a
