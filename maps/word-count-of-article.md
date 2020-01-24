@@ -12,7 +12,7 @@ The number of words in the article.
 
 ## Category Notes
 
-This field is uncommon, because often issues are zoned by **page**
+This field is uncommon, because often issues are zoned by <a href="https://www.digitisednewspapers.net/maps/page-number">**page**</a>
 rather than by article.
 
 ## Individual Collection Notes
