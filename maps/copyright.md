@@ -9,7 +9,7 @@ use-site-title: false
 
 ## Technical Definition
 
-Specifies the copyright holder of the <a href="https://www.digitisednewspapers.net/maps/date">**issue**</a>. **Access conditions**
+Specifies the copyright holder of the <a href="https://www.digitisednewspapers.net/maps/issue-number/">**issue**</a>. **Access conditions**
 provides additional information about the status of a physical object,
 i.e. any restrictions on access.
 
