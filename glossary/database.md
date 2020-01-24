@@ -11,7 +11,7 @@ use-site-title: false
 
 Many commercial newspaper digitisers were initially driven to produce
 complete runs of newspapers. As the major newspapers have now largely
-been digitised, there is a push to create thematic **collections**. Gale
+been digitised, there is a push to create thematic <a href="https://www.digitisednewspapers.net/glossary/sub-collection/">**collections**</a>. Gale
 includes these collections as part of their wider databases but tag them
 separately as a collection, which is independently searchable. In their
 partnership with the British Library, for example, they undertook
