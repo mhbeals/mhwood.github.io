@@ -13,7 +13,7 @@ A daily broadsheet newspaper in the nineteenth century would typically
 have six or seven columns, though in the UK the abolition of Stamp Duty
 in 1855 meant that the structure of the newspaper changed quite
 dramatically, as advertisements were no longer used to bulk out the
-**page count** but instead were integrated into the paper itself.
+<a href="https://www.digitisednewspapers.net/glossary/page-count-of-issue/">**page count**</a> but instead were integrated into the paper itself.
 Illustrated newspapers might have two or three columns and were
 generally published on smaller paper.
 
