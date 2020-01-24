@@ -7,8 +7,8 @@ use-site-title: false
 
 ## Technical Definition
 
-Provides the dimensions of a component of the image. See **measurement
-unit** for the specific unit used; this is usually “mm10”.
+Provides the dimensions of a component of the image. See <a href="https://www.digitisednewspapers.net/maps/measurement-unit/">**measurement
+unit**</a> for the specific unit used; this is usually “mm10”.
 
 ## Category Notes
 
