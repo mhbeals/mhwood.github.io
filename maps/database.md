@@ -9,8 +9,8 @@ use-site-title: false
 
 ## Technical Definition
 
-Provides the name of the digital database in which the **issue** is
-stored. Distinct from the **Holding Library** information.
+Provides the name of the digital database in which the <a href="https://www.digitisednewspapers.net/maps/issue-number/">**issue**</a> is
+stored. Distinct from the <a href="https://www.digitisednewspapers.net/maps/holding-library/">**Holding Library**</a> information.
 
 ## Category Notes
 
