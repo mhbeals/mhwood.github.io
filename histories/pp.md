@@ -161,16 +161,7 @@ zoning of articles cannot always separate individual articles without
 headlines, a common practice in the mid-nineteenth century, and may
 therefore combine several items into a single digital object.
 
-In 2015, the National Library added a collection of historical newspapers published primarily for a Māori audience between 1842 and 1935. This is based on the digital Niupepa Collection developed and made
-available in 2000 by the New Zealand Digital Library Project, at the
-Department of Computer Science, University of Waikato. The source
-material for this digital collection is “Niupepa 1842–1933”, a
-collection of newspapers published in Māori or for a Māori readership,
-microfilmed by the Alexander Turnbull Library (1988). That same year,
-four titles from Samoa were also added, namely the *Samoa Times and
-South Sea Advertiser* (1888–1896), the *Samoa Times and South Sea
-Gazette* (1877–1881), the *Samoa Weekly Herald* (1892–1900) and
-*Samoanische Zeitung* (1903–1930).
+In 2015, the National Library added a collection of historical newspapers published primarily for a Māori audience between 1842 and 1935. This is based on the digital Niupepa Collection developed and made available in 2000 by the New Zealand Digital Library Project, at the Department of Computer Science, University of Waikato. The source material for this digital collection is “Niupepa 1842–1933”, a collection of newspapers published in Māori or for a Māori readership, microfilmed by the Alexander Turnbull Library (1988). That same year, four titles from Samoa were also added, namely the *Samoa Times and South Sea Advertiser* (1888–1896), the *Samoa Times and South Sea Gazette* (1877–1881), the *Samoa Weekly Herald* (1892–1900) and *Samoanische Zeitung* (1903–1930).
 
 ### Data Quality 
 
