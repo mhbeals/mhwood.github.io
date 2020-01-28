@@ -65,6 +65,6 @@ on how each publication positioned itself.
     between literary and journalistic techniques.” \[Hobbs 2018, 302\]
 
 “Because of the timely nature of newspapers, very few newspapers are
-    considered to be **translations**.” \[[Sagendorf and
-    Moore](https://www.loc.gov/aba/pcc/conser/pdf/ccm/CCM-Module-33.pdf),
-    40\]
+    considered to be **translations**.” \[Sagendorf and
+    Moore,
+    40]\
