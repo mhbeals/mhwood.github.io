@@ -7,8 +7,9 @@ use-site-title: false
 
 ## A
 **[Abbreviated Newspaper Title](newspaper-title.md)**  
-[Access Conditions](copyright.md)  
-[Advertisements](article-category.md)  
+[Access Condition](copyright.md)  
+[Advertisement](article-category.md)  
+[Alignment](paragraph.md)  
 **[Alternate Newspaper Title](alternate-newspaper-title.md)**  
 [Annual](publication-frequency.md)  
 [Article (Document Type)](document-type.md)  
@@ -27,6 +28,7 @@ use-site-title: false
 
 ## C  
 [City Paper](place-of-publication.md)  
+[Classified](article-category.md)  
 [Class Mark](shelf-mark.md)  
 [Colour](illustration-information.md)  
 [Column](starting-column-for-article.md)  
@@ -44,6 +46,8 @@ use-site-title: false
 [Daily Edition](edition.md)  
 [Daily Newspaper](publication-frequency.md)  
 **[Database](database.md)**  
+[Date of Publication](date.md)  
+[Day of Publication](date.md)  
 [Death Notice](article-category.md)  
 [Department](section-heading.md)  
 **[Dimensions](dimensions.md)**  
@@ -93,6 +97,7 @@ use-site-title: false
 **[Language](language.md)**  
 [Letter to the Editor](article-category.md)  
 [Library Location](holding-library.md)  
+[List](sub-collection.md)  
 [London Press](place-of-publication.md)  
 
 ## M  
@@ -102,6 +107,7 @@ use-site-title: false
 [Metropolitan Press (Coverage)](geographic-coverage.md)  
 [Metropolitan Press (Place of Publication)](place-of-publication.md)  
 [Monthly Newspaper](publication-frequency.md)  
+[Month of Publication](date.md)  
 [Morning Edition](edition.md)  
 [Morning Newspaper](publication-frequency.md)  
 [Multiple Editions](edition.md)  
@@ -125,6 +131,7 @@ use-site-title: false
 [Paper Size](dimensions.md)  
 **[Paragraph](paragraph.md)**  
 [Parliamentary Reporting](article-category.md)  
+[Pen Name](attribution.md)  
 [Piece](document-type.md)  
 [Photography](illustration-information.md)  
 [Picture](illustration-information.md)  
@@ -143,6 +150,8 @@ use-site-title: false
 **[Publisher](publisher.md)**  
 
 # Q  
+**[Quality](quality.md)**  
+[Quarterly Newspaper](publication-frequency.md)  
 [Quarto](publication-genre.md)  
   
 # R  
@@ -158,6 +167,7 @@ use-site-title: false
 ## S  
 **[Section Heading](section-heading.md)**  
 [Segment](coordinate.md)  
+[Set Through](quality.md)  
 **[Shelf Mark](shelf-mark.md)**  
 [Sheet](dimensions.md)  
 [Shipping Intelligence](article-category.md)  
@@ -193,6 +203,9 @@ use-site-title: false
 **[Word Count of Article](word-count-of-article.md)**  
 **[Word Count of Page](word-count-of-page.md)**  
 [Wrapper](page-position.md)  
+
+## Y  
+[Year of Publication](date.md)  
 
 ## Z
 [Zoning](coordinate.md)
