@@ -23,7 +23,7 @@ The timelines below provide key dates for each collection, including the version
 </details>
 
 <details>
-<summary> Chronicling America</summary> 
+<summary>Chronicling America</summary> 
 
 | 1982-2011  | United States Newspaper Program preservation programme  |
 | 2005  | Digitisation begins  |
