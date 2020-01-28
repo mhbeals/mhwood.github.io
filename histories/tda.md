@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[*The Times* Digital
+<img src="https://3.bp.blogspot.com/-cVcrsbyDAI8/W5owN3KDa8I/AAAAAAAABaY/gyxyLZkeWFwN6DGXIG2al8WYviTonZucgCPcBGAYYCw/s1600/timesDigital.png" width="300" height="53" align="right">[*The Times* Digital
 Archive](https://www.gale.com/intl/c/the-times-digital-archive) was the
 first online digitised newspaper collection of British newspapers.
 Produced by Gale (then Thomson Gale Publishers), the collection debuted
