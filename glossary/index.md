@@ -14,7 +14,7 @@ use-site-title: false
 [Attribution](attribution.md)  
 
 ## C  
-[Coordinates](coordinate.md)
+[Coordinates](coordinate.md)  
 [Copyright](copyright.md)  
 
 ## D  
