@@ -22,7 +22,7 @@ This is a rare field and is only available in B1JI and DEMP. URI for Dublin Core
 
 ## Individual Collection Notes
 
-B1JI: The [**subCollection**](../subcollection) field can, but does not necessarily, provide
+B1JI: The [**subCollection**](sub-collection.md) field can, but does not necessarily, provide
 geographical information, e.g. “Regional Daily”.
 
 DEMP: Multiple choice options include Landelijk (national newspaper
