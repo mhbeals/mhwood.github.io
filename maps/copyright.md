@@ -19,7 +19,7 @@ The “copyright” field appears in the adapted Dublin Core file
 structures, always as a string. Access condition information is only
 included in the SBB collections. One field gives a string that describes
 its status, and a second field provides a persistent uniform resource
-locator (PURL) link to explain the given status. Dublin Core ‘rights’ URI: http://purl.org/dc/elements/1.1/rights.
+locator (PURL) link to explain the given status. Dublin Core ‘rights’ URI: <a href="http://purl.org/dc/elements/1.1/rights">purl.org/dc/elements/1.1/rights</a>.
 
 ## Individual Collection Notes
 
