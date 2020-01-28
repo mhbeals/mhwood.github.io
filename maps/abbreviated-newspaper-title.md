@@ -30,4 +30,4 @@ B2GL: An ad hoc, unique, four-character abbreviation of the title.
 | B1GL  |  issue\\titleAbbreviation  | STR | WOJL |
 | B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\titleAbbreviation | STR | ANJO |
 | B2GL  |  issue\\titleAbbreviation  | STR | WOJL |
-| PPDI  |  \[abbreviated newspaper title\]  | NUL |  |
+| PPDI  |  \[abbreviated newspaper title\]  | NUL |
