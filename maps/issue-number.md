@@ -17,7 +17,7 @@ a unique identifier for the newspaper issue.
 
 This field is common. In F1ME and PPME, a string including the
 publication [**date**](../date) and [**newspaper title**](../newspaper-title) is given rather than a
-numerical value.
+numerical value. METS LABEL URI: https://www.loc.gov/standards/mets/docs/mets.v1-5.html. MODS:number URI: https://www.loc.gov/standards/mods/userguide/part.html#number. MODS:partNumber URI: https://www.loc.gov/standards/mods/userguide/titleinfo.html#partnumber. 
 
 ## Individual Collection Notes
 
