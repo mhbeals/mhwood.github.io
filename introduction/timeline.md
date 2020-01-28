@@ -9,7 +9,9 @@ The timelines below provide key dates for each collection, including the version
 
 
 <details>
-<summary>British Library 19th Century Newspapers</summary>
+<summary>British Library 19th Century Newspapers</summary>  
+
+
   
 | 1940-2010  | Microfilming of the collection  |  
 | 2001  | British Library begins developing a prototype system for newspaper digitisation  |  
@@ -20,6 +22,8 @@ The timelines below provide key dates for each collection, including the version
 | Sept. 2013  | Version described in the report  |  
 | 2018-present  | Metadata separated into three XML files instead of one  |  
 | Dec. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
@@ -33,28 +37,40 @@ The timelines below provide key dates for each collection, including the version
 | 2011-2013  | Many technical metadata fields reclassified as 'recommended'  |  
 | Jul. 2016  | Expands date range from 1836-1922 to 1690-1963  |  
 | Sept. 2017  | Version described in the report  |  
+
+
 </details>
 
 <details>
 <summary>Delpher</summary>  
+
+
   
 | 1970-present  | Koninklijke Bibliotheek microfilming preservation  |  
 | 1999  | Digitisation begins  |  
 | 2007  | Digital Daily Newspapers/Dutch Digital Databank (DDD) digitisation begins  |  
 | 2013  | Founding of Delpher  |  
 | Nov. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
 <summary>Europeana</summary>  
+
+
   
 | 2012  | Founding of Europeana  |  
 | 2016  | TEL service closed  |  
 | Sept. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
 <summary>Hemeroteca Nacional Digital de México</summary>  
+
+
   
 | 1960  | Creation of the National Newspaper Library's microfilm collection  |  
 | 2000  | Planning for HNDM begins  |  
@@ -63,10 +79,14 @@ The timelines below provide key dates for each collection, including the version
 | 2005  | Founding of Hemeroteca Nacional Digital de México  |  
 | 2015  | Most recent HNDM interface redesign  |  
 | Oct. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
-<summary>Papers Past</summary>   
+<summary>Papers Past</summary>  
+
+ 
   
 | 1983-present  | Newspaper microfilming  |  
 | 2000  | Beginning of Papers Past  |  
@@ -75,6 +95,8 @@ The timelines below provide key dates for each collection, including the version
 | 2005  | National Library of New Zealand pilot project using OCR to generate full text and make newspapers searchable  |  
 | 2007  | Papers Past website relaunched  |  
 | Apr. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
@@ -89,6 +111,8 @@ The timelines below provide key dates for each collection, including the version
 | 2001  | First digitised newspaper collection launched  |  
 | 2006  | Automated encoding of word coordinates and grayscale scanning implemented   |  
 | Oct. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
@@ -100,6 +124,8 @@ The timelines below provide key dates for each collection, including the version
 | 2003  | Final content release (1785-1879)  |  
 | 2007  | Gale acquired by Cengage  |  
 | Apr. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
@@ -113,6 +139,8 @@ The timelines below provide key dates for each collection, including the version
 | Aug. 2008  | Crowdsourced text correction incorporated  |  
 | 2009  | Australian Newspapers service incorporated into Trove  |  
 | Feb. 2018  | Version described in the report  |  
+
+
 </details>
 
 <details>
@@ -122,4 +150,6 @@ The timelines below provide key dates for each collection, including the version
 | 1999  | Berlin State Library installs a reprographic company in the newspaper department  |  
 | 2009  | Digitised newspaper portal launched  |  
 | Dec. 2019  | Version described in the report  |  
+
+
 </details>

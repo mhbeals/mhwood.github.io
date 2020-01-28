@@ -36,6 +36,7 @@ SUBS\_TYPE indicates that a word is hyphenated, and which part of the
 hyphenation is contained. HYP@CONTENT always contains “-”.
 
 ## Instantiations  
+
 | CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String\\SUBS\_TYPE  | STR | HypPart2  |
 | CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | reserves  |  
 | CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |  
