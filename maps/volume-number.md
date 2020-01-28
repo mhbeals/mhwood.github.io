@@ -17,7 +17,7 @@ volume comprises many [**issues**](../issue-number).
 
 This field is relatively uncommon. In F1ME and PPME, volume information
 is located within a string including [**newspaper title**](../newspaper-title) and [**date**](../date)
-information.
+information.  MODS:number URI: https://www.loc.gov/standards/mods/userguide/part.html#number. METS label URI: https://www.loc.gov/standards/mets/docs/mets.v1-5.html#div. 
 
 ## Individual Collection Notes
 
