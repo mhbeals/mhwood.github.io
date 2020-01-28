@@ -9,7 +9,7 @@ use-site-title: false
 
 ## Language Variants
 
-microfilm haspel; Mikrofilmrolle; mikrofilmikela; carrete de microfilm
+Microfilm haspel; Mikrofilmrolle; Mikrofilmikela; Carrete de microfilm.
 
 ## Usage Notes
 
