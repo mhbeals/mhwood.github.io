@@ -7,7 +7,7 @@ use-site-title: false
 
 ## A
 **[Abbreviated Newspaper Title](newspaper-title.md)**  
-[Access Conditions](copyright.md)
+[Access Conditions](copyright.md)  
 [Advertisements](article-category.md)  
 **[Alternate Newspaper Title](alternate-newspaper-title.md)**  
 [Annual](publication-frequency.md)  
@@ -27,17 +27,17 @@ use-site-title: false
 
 ## C  
 [City Paper](place-of-publication.md)  
-[Class Mark](shelf-mark.md)
+[Class Mark](shelf-mark.md)  
 [Colour](illustration-information.md)  
 [Column](starting-column-for-article.md)  
 [Columnist](attribution.md)  
 [Commercial Intelligence](article-category.md)  
-[Confidence Level (OCR](ocr.md)  
+[Confidence Level (OCR)](ocr.md)  
 [Contributor](attribution.md)  
 **[Coordinates](coordinate.md)**  
 **[Copyright](copyright.md)**  
-[Court Reports](article-category.md)  
-[Crime Reports](article-category.md)  
+[Court Reporting](article-category.md)  
+[Crime Reporting](article-category.md)  
 [Crosshead](article-subheading.md)  
 
 ## D  
@@ -45,9 +45,9 @@ use-site-title: false
 [Daily Newspaper](publication-frequency.md)  
 **[Database](database.md)**  
 [Death Notices](article-category.md)  
-[Department](section-heading.md)
+[Department](section-heading.md)  
 **[Dimensions](dimensions.md)**  
-**[Document Type](document-type.md)** 
+**[Document Type](document-type.md)**  
 [Domestic News](article-category.md)  
 
 ## E  
@@ -62,7 +62,7 @@ use-site-title: false
 [Financial News](article-category.md)  
 [Folio](newspaper-title.md)  
 [Font Family](font-information.md)  
-**[Font Information](font-information.md)** 
+**[Font Information](font-information.md)**  
 [Font Size](font-information.md)  
 [Font Type](font-information.md)  
 [Font Variation](font-information.md)  
@@ -91,7 +91,7 @@ use-site-title: false
 
 ## L  
 **[Language](language.md)**  
-[Letters to the Editor](article-category.md)  
+[Letter to the Editor](article-category.md)  
 [Library Location](holding-library.md)  
 [London Press](place-of-publication.md)  
 
@@ -107,9 +107,9 @@ use-site-title: false
 [Multiple Editions](edition.md)  
 
 ## N  
-[News Articles](article-category.md)  
+[News Article](article-category.md)  
 **[Newspaper Title](newspaper-title.md)**  
-[Notices](article-category.md)  
+[Notice](article-category.md)  
 [Number](edition.md)  
 
 ## O  
@@ -124,17 +124,17 @@ use-site-title: false
 **[Page Skew](page-skew.md)**  
 [Paper Size](dimensions.md)  
 **[Paragraph](paragraph.md)**  
-[Parliamentary Reports](article-category.md)  
+[Parliamentary Reporting](article-category.md)  
 [Piece](document-type.md)  
 [Photography](illustration-information.md)  
-[Pictures](illustration-information.md)  
+[Picture](illustration-information.md)  
 **[Place of Publication](place-of-publication.md)**  
 [Printer](publisher.md)  
 [Print Run](publication-date-range.md)  
 [Print Space](dimensions.md)  
 [Proprietor](publisher.md)  
 [Provincial Press (Coverage)](geographic-coverage.md)  
-[Provincial Press (Place of Publication](place-of-publication.md)  
+[Provincial Press (Place of Publication)](place-of-publication.md)  
 **[Publication Date Range](publication-date-range.md)**  
 **[Publication Frequency](publication-frequency.md)**  
 [Publication Format](publication-genre.md)  
@@ -158,7 +158,7 @@ use-site-title: false
 ## S  
 **[Section Heading](section-heading.md)**  
 [Segment](coordinate.md)  
-**[Shelf Mark](shelf-mark.md)**    
+**[Shelf Mark](shelf-mark.md)**  
 [Sheet](dimensions.md)  
 [Shipping Intelligence](article-category.md)  
 [Sidehead](article-subheading.md)  
@@ -180,7 +180,7 @@ use-site-title: false
 [Title Change](alternate-newspaper-title.md)  
 [Titlepiece](newspaper-title.md)  
 [Town Paper (Coverage)](geographic-coverage.md)  
-[Town Paper (Place of Publication](place-of-publication.md)  
+[Town Paper (Place of Publication)](place-of-publication.md)  
 [Typeface](font-information.md)  
 [Typesetting](font-information.md)  
 
