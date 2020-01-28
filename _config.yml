@@ -55,7 +55,7 @@ avatar: "img/atlaslogo.png"
 
 #navbar-col: "#45ADA8"
 #navbar-text-col: "#373737"
-#navbar-children-col: "#45ADA8"
+navbar-children-col: "#FFFFFF"
 
 #page-col: "#594F4"
 
