@@ -15,4 +15,4 @@ M. H. Beals and Emily Bell. (2020). Map of Digitised Newspaper Metadata v.1.0.0 
 
 ## The Dynamic Dataset
 
-M. H. Beals and Emily Bell, eds. (2020). Map of Digitised Newspaper Metadata (Dynamic) [Data set]. [https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads]([https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads])
+M. H. Beals and Emily Bell, eds. (2020). Map of Digitised Newspaper Metadata (Dynamic) [Data set]. [https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads)
