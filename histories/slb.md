@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[ZEFYS](http://zefys.staatsbibliothek-berlin.de) is a “creative acronym”
+<img src="https://blog.sbb.berlin/wp-content/uploads/stabi-logo.png" width="258" height="65" align="right">[ZEFYS](http://zefys.staatsbibliothek-berlin.de) is a “creative acronym”
 for the Newspaper Information System, which was expanded to serve as the
 newspaper portal for the Berlin State Library (SBB). The SBB has the
 largest and most extensive newspaper collection in Germany. In 1993 the
