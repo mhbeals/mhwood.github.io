@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[Chronicling America](https://chroniclingamerica.loc.gov) is a free,
+<img src="https://librarynhs.weebly.com/uploads/4/3/8/3/43831529/editor/chronicling-america.jpg?1557858637" width="217" height="145" align="right">[Chronicling America](https://chroniclingamerica.loc.gov) is a free,
 online repository of newspapers printed in the United States, primarily
 from 1836 to 1922. It is managed as part of the National Digital
 Newspaper Program, a collaboration between the National Endowment for
