@@ -19,6 +19,7 @@ use-site-title: false
 
 ## D  
 [Database](database.md)  
+[Dimensions](dimensions.md)
 [Document Type](document-type.md)  
 
 ## E  
