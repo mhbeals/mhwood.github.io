@@ -21,7 +21,7 @@ after which [**alternate newspaper titles**](../alternative-newspaper-title) wil
 This field appears in all collections (though not all file types) except
 Chronicling America, which only includes the newspaper title in the
 [**issue**](../issue-number) data. Not all collections identify if the title is the printed
-title or a normalised one. URI for MODS sub-element: https://www.loc.gov/standards/mods/userguide/titleinfo.html#title. URI for Dublin Core term: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#title. 
+title or a normalised one. URI for MODS sub-element: <a href="https://www.loc.gov/standards/mods/userguide/titleinfo.html#title">loc.gov/standards/mods/userguide/titleinfo.html#title</a>. URI for Dublin Core term: <a href="http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#title">dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#title</a>. 
 
 ## Individual Collection Notes
 
