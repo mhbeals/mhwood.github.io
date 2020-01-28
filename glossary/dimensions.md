@@ -9,7 +9,7 @@ use-site-title: false
 
 ## Usage Notes
 
-The size of newspapers varied quite dramatically in the nineteenth century, with technological advancements and the repeal of the paper tax making paper cheaper to produce. Some newspapers were published as one large, folded sheet, and major national and regional broadsheets were of a comparable size. Illustrated newspapers are more varied in terms of size, but were typically smaller than broadsheets. Newspapers in the nineteenth century made the best use they 
+The size of newspapers varied quite dramatically in the nineteenth century, with technological advancements and the repeal of the paper tax making paper cheaper to produce. Some newspapers were published as one large, folded sheet, and major national and regional **broadsheets** were of a comparable size. **Illustrated newspapers** are more varied in terms of size, but were typically smaller than broadsheets. Newspapers in the nineteenth century made the best use they 
 could of the available print space, having much smaller margins than other kinds of publication. This was to make the most of 
 paper when paper was expensive; in the UK this was before the abolition of the paper tax in 1861 and improvements in technology made it 
 cheaper, and to make the most of advertising space afterwards. When (rarely) discussed in academic literature, the 
