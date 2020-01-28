@@ -5,6 +5,8 @@ subtitle:
 use-site-title: false
 ---
 
+<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/coordinate">View Metadata Map</a></h4>
+
 ## Technical Definition
 
 Provides coordinates for a component of the image.

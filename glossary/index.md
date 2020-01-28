@@ -14,6 +14,7 @@ use-site-title: false
 [Attribution](attribution.md)  
 
 ## C  
+[Coordinates](coordinate.md)
 [Copyright](copyright.md)  
 
 ## D  
@@ -77,3 +78,6 @@ use-site-title: false
 ## W  
 [Word Count of Article](word-count-of-article.md)  
 [Word Count of Page](word-count-of-page.md)  
+
+## Z
+[Zoning](coordinate.md)
