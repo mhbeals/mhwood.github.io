@@ -16,7 +16,7 @@ it also specifies that it is an electronic edition of the issue.
 ## Category Notes
 
 This field is uncommon and can include a string with the full edition
-title, a number, a multiple-choice option, or a unique identifier. MODS:number URI: https://www.loc.gov/standards/mods/userguide/part.html#number. Dublin Core ‘temporal’ URI: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#temporal.
+title, a number, a multiple-choice option, or a unique identifier. MODS:number URI: <a href="https://www.loc.gov/standards/mods/userguide/part.html#number">loc.gov/standards/mods/userguide/part.html#number</a>. Dublin Core ‘temporal’ URI: <a href="http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#temporal">dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#temporal</a>.
 
 ## Individual Collection Notes
 
