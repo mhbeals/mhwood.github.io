@@ -24,6 +24,7 @@ navbar-links:
     - Methodology:  "introduction/methodology"
     - Aims and Objectives:  "introduction/aims"
     - Acknowledgements:  "introduction/acknowledgements"
+    - Downloads: "introduction/downloads"
   Databases: "histories"
   Metadata Maps: 
     - Understanding Metadata Maps: "maps"
