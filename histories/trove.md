@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[Trove](http://trove.nla.gov.au), originally known as the Single Business
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Trove_%28NLA_website%29_logo.svg/654px-Trove_%28NLA_website%29_logo.svg.png" width="220" height="60" align="right">[Trove](http://trove.nla.gov.au), originally known as the Single Business
 Discovery Service, was launched in 2009 in order to create a single
 point of entry for online discovery services developed by the National
 Library of Australia since 1997, including the Register of Australian
