@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-The Hemeroteca Nacional Digital de México is the online repository of
+<img src="https://www.unamenlinea.unam.mx/recursos/img/81165/default_biblioteca.jpg" width="200" height="200" align="right">The Hemeroteca Nacional Digital de México is the online repository of
 digitised printed material from Mexico. The digital collections were
 derived from materials belonging to the Fondo Reservado (special
 collections) of the Hemeroteca Nacional (National Newspaper Library).
