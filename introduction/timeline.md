@@ -8,8 +8,7 @@ use-site-title: false
 The timelines below provide key dates for each collection, including the version of each database described in this report. Interviews with archivists and providers (as referenced in the glossary) took place in 2018.
 
 
-<details>
-<summary>British Library 19th Century Newspapers</summary>  
+## British Library 19th Century Newspapers
 
 
   
