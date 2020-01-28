@@ -20,7 +20,9 @@ creation of a search relevance ranking; if the word is in the article title, the
 For Trove, when the project was first proposed in 2006, they have based their decisions on other newspaper 
 digitisation projects and what standards were used at that time, including the Netherlands and some US projects such as 
 the Library of Congress programme. However, they did deviate in that they OCR and analysed the data at the article level 
-rather than just the page level, which was common at the time. Newspapers in the nineteenth century made the best use they 
+rather than just the page level, which was common at the time.  
+    
+Newspapers in the nineteenth century made the best use they 
 could of the available print space, having much smaller margins than other kinds of publication. This was to make the most of 
 paper when paper was expensive; in the UK this was before the abolition of the paper tax in 1861 and improvements in technology made it 
 cheaper, and to make the most of advertising space afterwards. When (rarely) discussed in academic literature, the 
