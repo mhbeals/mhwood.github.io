@@ -44,7 +44,7 @@ use-site-title: false
 [Daily Edition](edition.md)  
 [Daily Newspaper](publication-frequency.md)  
 **[Database](database.md)**  
-[Death Notices](article-category.md)  
+[Death Notice](article-category.md)  
 [Department](section-heading.md)  
 **[Dimensions](dimensions.md)**  
 **[Document Type](document-type.md)**  
