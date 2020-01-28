@@ -54,8 +54,8 @@ article also contains the [**date**](..date).
 
 ### Unspecified  
 
-| B1GL  |  issue\\jn  | STR | Berrow\&apos;s Worcester Journal  |
-| B2GL  |  issue\\jn  | STR | Berrow\&apos;s Worcester Journal  |
+| B1GL  |  issue\\jn  | STR | Berrow&apos;s Worcester Journal  |
+| B2GL  |  issue\\jn  | STR | Berrow&apos;s Worcester Journal  |
 | EUME  |  METS:mets\\mets:dmdSec\\mets:mdWrap\[@LABEL=“Bibliographic meta-data of the issue”\]\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:title | STR | Hamburger Nachrichten  |
 | EUME  |  METS:mets\\mets:dmdSec\\mets:mdWrap\[@LABEL=“Bibliographic meta-data of article”\]\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:title  | STR | Hamburger Nachrichten  |
 | EUME  |  METS:mets\\mets:dmdSec\\mets:mdWrap\[@LABEL=“Bibliographic meta-data of table”\]\\mets:xmlData\\mods:mods\\mods:titleInfo\\mods:title  | STR | Hamburger Nachrichten  |
