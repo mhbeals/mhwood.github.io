@@ -13,7 +13,7 @@ use-site-title: false
 improved technology and reduced taxation made illustrations a central
 feature of the nineteenth-century press. Illustrations became central to
 new journalistic genres such as investigative journalism, though
-photography did not become a central part of newspapers in the UK
+**photography** did not become a central part of newspapers in the UK
 until 1904, with the *Daily Mirror*. Illustration technology was most
 significantly used in advertising around the world, with improvements in
 technology ensuring that illustration played a greater role in the press
