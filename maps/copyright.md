@@ -26,8 +26,7 @@ locator (PURL) link to explain the given status. Dublin Core ‘rights’ URI: h
 DEMP: There are different fields for the copyright holder for the
 <a href="https://www.digitisednewspapers.net/maps/newspaper-title">**newspaper title**</a>
 (didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\
-dc:rights) and the digital record
-(DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordRights).
+dc:rights) and the digital record (didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordRights).
 
 ## Instantiations
 
