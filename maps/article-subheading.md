@@ -13,7 +13,7 @@ Smaller titles used to break up the article.
 
 ## Category Notes
 
-This field only appears in the Trove METS file. MODS:subTitle URI: https://www.loc.gov/standards/mods/userguide/titleinfo.html#subtitle. 
+This field only appears in the Trove METS file. MODS:subTitle URI: <a href="https://www.loc.gov/standards/mods/userguide/titleinfo.html#subtitle">loc.gov/standards/mods/userguide/titleinfo.html#subtitle</a>. 
 
 ## Individual Collection Notes
 
