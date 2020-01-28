@@ -14,7 +14,7 @@ Ergänzungstitel.
 
 ## Usage Notes
 
-This is different to sections within the layout.
+This is different to [**sections**](section-heading.md) within the layout.
 
 ## Examples:
 
