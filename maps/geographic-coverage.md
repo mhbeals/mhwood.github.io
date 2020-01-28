@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Geographic Coverage
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Content Data
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Abbreviated Newspaper Title
 subtitle:  
 use-site-title: false

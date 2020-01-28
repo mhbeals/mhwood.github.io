@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Publication Genre
 subtitle:  
 use-site-title: false

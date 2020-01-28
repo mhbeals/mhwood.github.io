@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Shelf Mark
 subtitle:  
 use-site-title: false

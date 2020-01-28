@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title:  Social Interaction Data
 subtitle:  
 use-site-title: false

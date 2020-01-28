@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Issue Date
 subtitle:  
 use-site-title: false

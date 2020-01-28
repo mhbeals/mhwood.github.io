@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Paragraph
 subtitle:  
 use-site-title: false

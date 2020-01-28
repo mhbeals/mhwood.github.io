@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Holding Library
 subtitle:  
 use-site-title: false

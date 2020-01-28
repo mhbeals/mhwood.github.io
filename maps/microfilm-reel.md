@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Microfilm Reel
 subtitle:  
 use-site-title: false

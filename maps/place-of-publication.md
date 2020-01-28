@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Place of Publication
 subtitle:  
 use-site-title: false

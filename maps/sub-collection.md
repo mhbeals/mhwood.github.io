@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Sub-Collection
 subtitle:  
 use-site-title: false

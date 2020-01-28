@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title:  Bibliographic Metadata
 subtitle:  
 use-site-title: false

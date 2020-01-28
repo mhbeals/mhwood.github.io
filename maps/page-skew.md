@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Page Skew
 subtitle:  
 use-site-title: false

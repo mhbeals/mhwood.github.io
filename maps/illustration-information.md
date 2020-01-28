@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Illustration Information
 subtitle:  
 use-site-title: false

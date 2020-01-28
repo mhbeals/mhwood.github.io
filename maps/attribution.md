@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Attribution
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Volume Number
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Comments and Social Tagging
 subtitle:  
 use-site-title: false

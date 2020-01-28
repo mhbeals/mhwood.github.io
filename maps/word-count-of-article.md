@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Word Count of Article
 subtitle:  
 use-site-title: false

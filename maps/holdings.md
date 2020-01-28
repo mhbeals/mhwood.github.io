@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Holdings Metadata
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Coordinates
 subtitle:  
 use-site-title: false

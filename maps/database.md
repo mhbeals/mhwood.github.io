@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Database
 subtitle:  
 use-site-title: false

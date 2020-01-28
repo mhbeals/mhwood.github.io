@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Supplement Title
 subtitle:  
 use-site-title: false

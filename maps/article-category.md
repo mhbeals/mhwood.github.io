@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Article Category
 subtitle:  
 use-site-title: false

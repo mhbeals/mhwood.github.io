@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Starting Column for Article
 subtitle:  
 use-site-title: false

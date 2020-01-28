@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Page Count of Article
 subtitle:  
 use-site-title: false

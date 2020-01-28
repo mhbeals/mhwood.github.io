@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Publication Date Range
 subtitle:  
 use-site-title: false

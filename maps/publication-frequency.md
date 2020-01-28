@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Publication Frequency
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Dimensions
 subtitle:  
 use-site-title: false

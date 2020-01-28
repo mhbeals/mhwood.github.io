@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Copyright
 subtitle:  
 use-site-title: false

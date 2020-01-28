@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Quality
 subtitle:  
 use-site-title: false

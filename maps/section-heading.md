@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Section Heading
 subtitle:  
 use-site-title: false

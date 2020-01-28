@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Edition
 subtitle:  
 use-site-title: false

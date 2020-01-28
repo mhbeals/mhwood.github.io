@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Newspaper Title
 subtitle:  
 use-site-title: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Metadata Type
 subtitle:  
 use-site-title: false

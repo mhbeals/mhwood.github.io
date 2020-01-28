@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: Filename
 subtitle:  
 use-site-title: false
