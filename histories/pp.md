@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection 
 
-[Papers Past](https://paperspast.natlib.govt.nz) began in 2000 with a
+<img src="https://www.oclc.org/content/marketing/publish/en_us/member-stories/te-puna/_jcr_content/par/parsyscolumncontrol_1/col0/highlightbox_4f6/highlightbox/image_4a1b.img.png/1574805784638.png" width="258" height="56" align="right">[Papers Past](https://paperspast.natlib.govt.nz) began in 2000 with a
 project to provide access to nineteenth-century New Zealand newspapers
 and periodicals. The initial aim was to make available 250,000 pages
 within a year. The website was launched in 2001 with 300,000 digitised
