@@ -43,9 +43,9 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 | B2GI  |  issue\\metadataInfo\\assetID  | UID | 3411020871  |  
 | B2GI  |  issue\\page\\assetID  | UID | 3500902290  |  
 | B2GI  |  issue\\page\\article\\assetID  | UID | 3211020871  |  
-| CADI::\_ROOT\\null\[sn\]  | UID | sn85032923  |  
+| CADI  |  \_ROOT\\null\[sn\]  | UID | sn85032923  |  
 | DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:identifier  | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21  |  
-| HNDM::$.publication.\_id  | STR | ObjectId(“558075bd7d1e63c9fea1a0eb”)  |  
+| HNDM  |  $.publication.\_id  | STR | ObjectId(“558075bd7d1e63c9fea1a0eb”)  |  
 | SBMY  |  mets:mets\\mets:amdSec\\mets:digitprovMD\\mets:mdWrap\\mets:xmlData\\dv:links\\dv:reference  | URL | http://www.stabikat.de/DB=1/PPN?PPN=791048292  |  
 | SBMY  |  mets:mets\\mets:amdSec\\mets:digitprovMD\\mets:mdWrap\\mets:xmlData\\dv:links\\dv:presentation  | URL | http://zefys.staatsbibliothek-berlin.de/list/title/zdb/27450028/ |  
 | TDAG  |  issue\\metadatainfo\\newspaperID  | UID | TDAO0001  |  
@@ -124,7 +124,6 @@ Provides a relative identifier for the article, as segmented on a single
 page. These are sequential to each segment of an article.  
 
 | B1GL  |  issue\\article\\ci\\clip  | NUM | 1 |  
-| -- | -- | - |  
 | B1GL  |  issue\\article\\text\\text.cr\\pg@clipref  | NUM | 1 |  
 | B1GI  |  issue\\page\\article\\il@clipref  | NUM | 1 |  
 | B2GL  |  issue\\article\\ci\\clip  | NUM | 1 |  
