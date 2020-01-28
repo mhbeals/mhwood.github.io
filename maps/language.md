@@ -15,7 +15,7 @@ the article text, or the specific block of text.
 
 ## Category Notes
 
-This field appears in all databases.
+This field appears in all databases. Dublin Core language URI: http://purl.org/dc/terms/language. languageTerm URI (MODS), including xml:lang sub-element: https://www.loc.gov/standards/mods/userguide/language.html#languageterm. In ALTO, the language should be recorded at the highest level possible.
 
 ## Individual Collection Notes
 
