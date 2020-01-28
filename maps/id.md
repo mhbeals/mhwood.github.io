@@ -75,8 +75,8 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 
 ### Article (URL)  
 
-| B1GT  |  articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/artemis/<br />NewspapersDetailsPage/Newspapers<br />DetailsWindow?prodId=BNCN\&amp;<br />windowstate=normal\&amp;mode=view\&amp;<br />displayGroupName=DVI-Newspapers\&amp;<br />p=GDCS\&amp;action=e\&amp;documentId<br />=GALE%7CBA3205609147 |  
-| B2GT  |  articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/artemis/<br />NewspapersDetailsPage/Newspapers<br />DetailsWindow?prodId=BNCN\&amp;<br />windowstate=normal\&amp;mode=view\&amp;<br />displayGroupName=DVI-Newspapers\&amp;<br />p=GDCS\&amp;action=e\&amp;documentId<br />=GALE%7CR3211020873  |  
+| B1GT  |  articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/<br />artemis/NewspapersDetailsPage/<br />NewspapersDetailsWindow?prodId<br />=BNCN\&amp;windowstate=normal\<br />&amp;mode=view\&amp;display<br />GroupName=DVI-Newspapers\&amp;<br />p=GDCS\&amp;action=e\&amp;<br />documentId=GALE%7CBA3205609147 |  
+| B2GT  |  articles\\artInfo\\ProductLink  | URL | http://gdc.galegroup.com/gdc/<br />artemis/NewspapersDetailsPage/<br />NewspapersDetailsWindow?prodId<br />=BNCN\&amp;windowstate=normal\<br />&amp;mode=view\&amp;display<br />GroupName=DVI-Newspapers\&amp;<br />p=GDCS\&amp;action=e\&amp;<br />documentId=GALE%7CR3211020873  |  
 | DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Item\\didl:Component\\srw\_dc:dcx\\dc:identifier | URL | http://resolver.kb.nl/resolve?urn=ddd:010419500:mpeg21:a0001  |  
 | SBME  |  mets:mets\\mets:structMap\[@TYPE=“LOGICAL”\]\\mets:div@CONTENTIDS  | URL | http://resolver.staatsbibliothek-berlin.de/SNP27779154-00000000-0-0-0-0  |  
 | TRAP  |  article\\identifier  | URL | http://nla.gov.au/nla.news-article18341291  |  
