@@ -45,7 +45,7 @@ or other inserts for special features or events.”
 
 This field is common in METS files and the British Library adapted
 Dublin Core files. In METS, it is an optional attribute rather than an
-element.
+element.  URI: https://www.loc.gov/standards/mets/docs/mets.v1-5.html#metsType. In MODS, it is a top-level element: https://www.loc.gov/standards/mods/userguide/genre.html. For the suggested MARC genres, see: https://www.loc.gov/standards/valuelist/marcgt.html.
 
 ## Individual Collection Notes
 
