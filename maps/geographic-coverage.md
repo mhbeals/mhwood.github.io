@@ -18,7 +18,7 @@ cities, towns or regions.
 
 ## Category Notes
 
-This is a rare field and is only available in B1JI and DEMP.
+This is a rare field and is only available in B1JI and DEMP. URI for Dublin Core spatial characteristic: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#spatial.
 
 ## Individual Collection Notes
 
