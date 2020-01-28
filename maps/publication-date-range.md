@@ -26,7 +26,7 @@ specific elements, which hold the year, month and day separately.
 ## Category Notes
 
 These fields are uncommon; more usually, only the date for the specific
-issue is given. Start and end dates only appear in B1JI.
+issue is given. Start and end dates only appear in B1JI. URI for Dublin Core property ‘issued’: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#issued.
 
 ## Individual Collection Notes
 
