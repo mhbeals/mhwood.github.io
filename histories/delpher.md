@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[Delpher](http://www.delpher.nl) is the free, online repository of
+<img src="https://www.library.universiteitleiden.nl/binaries/content/gallery/ul2ub/bibliotheken/hoofdafbeeldingen/delpher-logo.jpg/delpher-logo.jpg/d880x320" width="220" height="80" align="right">[Delpher](http://www.delpher.nl) is the free, online repository of
 digitised printed material from the Netherlands. It was created and is
 maintained by the Koninklijke Bibliotheek, the national library of the
 Netherlands. It was officially launched in 2013, bringing together
