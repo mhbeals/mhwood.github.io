@@ -5,6 +5,9 @@ subtitle:
 use-site-title: false
 ---
 
+<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../maps/dimensions">View Glossary Entry</a></h4>
+
+
 ## Technical Definition
 
 Provides the dimensions of a component of the image. See <a href="https://www.digitisednewspapers.net/maps/measurement-unit/">**measurement
