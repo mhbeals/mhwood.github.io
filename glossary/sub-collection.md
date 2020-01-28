@@ -13,7 +13,7 @@ As Trove’s sub-collections can be created by end-users, their variant of
 this field includes the number, names, URLs and the name of creator. In
 the BL collections, this indicates a broader but standardised
 sub-category of publication. In the nineteenth century, newspapers were
-referred to using <a href="https://www.digitisednewspapers.net/glossary/geographic-coverage/">**geographic</a> and** <a href="https://www.digitisednewspapers.net/glossary/publication-genre/">**genre distinctions**</a>, such as the
+referred to using <a href="https://www.digitisednewspapers.net/glossary/geographic-coverage/">**geographic**</a> and <a href="https://www.digitisednewspapers.net/glossary/publication-genre/">**genre distinctions**</a>, such as the
 provincial press, or family papers, though such collections did not
 coalesce around themes the way that digitised collections can.
 
