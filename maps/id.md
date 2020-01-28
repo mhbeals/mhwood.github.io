@@ -96,7 +96,9 @@ of the SBB itself and one referring to the catalogue page of the ZEFYS.
 Provides an ID for the article, as zoned on the image. These fields are
 highly inconsistent and include unique IDs, across the database,
 relative IDs within the issue, and URLs to the web-accessible version of
-the image.  | DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Component@dc:identifier  | UID | ddd:010419500:mpeg21:p001:a0001:zoning |  
+the image.  
+
+| DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Component@dc:identifier  | UID | ddd:010419500:mpeg21:p001:a0001:zoning |  
 | DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Item@dc:identifier  | UID | ddd:010419500:mpeg21:p001:a0001  |  
 | PPAL::alto\\Layout\\Page\\PrintSpace\\ComposedBlock@ID  | UID | P1\_CB00001  |  
 | TRAL::alto\\Layout\\Page\\PrintSpace\\ComposedBlock@ID  | UID | ZONE1-1  |  
@@ -110,14 +112,18 @@ the image.  | DEMP::didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Compon
 
 Provides a unique identifier for the article, as segmented on a single
 page. These are unique to each segment of an article spanning multiple
-pages.  | B1GL::issue\\article\\ci  | UID | WOJL-1822-01-03-0002-003-001 |  
+pages.  
+
+| B1GL::issue\\article\\ci  | UID | WOJL-1822-01-03-0002-003-001 |  
 | B2GL::issue\\article\\ci  | UID | WOJL-1822-01-03-0002-003-001 |  
 | TDAG::issue\\page\\article\\ci | UID | 0FFO-1812-JUL14-001-001-001  |  
 
 ### Clipped Article Image (Relative)
   
 Provides a relative identifier for the article, as segmented on a single
-page. These are sequential to each segment of an article.  | B1GL::issue\\article\\ci\\clip  | NUM | 1 |  
+page. These are sequential to each segment of an article.  
+
+| B1GL::issue\\article\\ci\\clip  | NUM | 1 |  
 | -- | -- | - |  
 | B1GL::issue\\article\\text\\text.cr\\pg@clipref  | NUM | 1 |  
 | B1GI::issue\\page\\article\\il@clipref  | NUM | 1 |  
@@ -133,7 +139,9 @@ page. These are sequential to each segment of an article.  | B1GL::issue\\articl
 The contents of @STYLEREFS declare the Text or Paragraph style of its
 parent element via linking. The value of this @STYLEREFS attribute
 matches the value of the @ID attribute on the \<TextStyle\> or
-\<ParagraphStyle\> element (both children of the \<Styles\> element.  | CAAL::alto\\Styles\\TextStyle@ID  | UID | TS\_10.0  |  
+\<ParagraphStyle\> element (both children of the \<Styles\> element.  
+
+| CAAL::alto\\Styles\\TextStyle@ID  | UID | TS\_10.0  |  
 | CAAL::alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@STYLEREFS  | UID | TS\_10.0  |  
 | DEAL::alto\\Styles\\TextStyle@ID  | UID | TXT\_0  |  
 | DEAL::alto\\Layout\\Page\\PrintSpace\\TextBlock@STYLEREFS  | UID | TXT\_0 PAR\_RIGHT  |  
