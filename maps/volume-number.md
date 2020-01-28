@@ -40,7 +40,7 @@ and the [**date**](../date) of publication as well as a numerical volume number.
 | SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:part\\mods:detail\[@type=“volume”\]\\mods:number  | STR | Vol. 3 |
 | TRME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:part\\mods:detail@mods:number  | NUM | 41  |
 
-**Unique Identifier**  
+### Unique Identifier  
 
 | F1ME  |  mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Suomi no. 1 1841  |
 | PPME  |  mets\\structMap\\div\\div\[@TYPE=“VOLUME”\]@LABEL | STR | Daily Southern Cross no. I 1843-04-22 |
