@@ -31,7 +31,7 @@ information. 
 PPME: The title associated with the bibliographic metadata for the
 article also contains the [**date**](..date).
 
-## Instantiations** 
+## Instantiations
 
 ### Printed Title  
 
