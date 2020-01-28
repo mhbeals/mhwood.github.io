@@ -12,7 +12,9 @@ Provides a unique ID for the component of the image.
 ## Usage Notes
 
 This can be a URL, a <a href="https://www.digitisednewspapers.net/maps/filename/">**filename**</a>, a numerical string, or a string
-incorporating an <a href="https://www.digitisednewspapers.net/maps/abbreviated-newspaper-title/">**abbreviated title**</a>.
+incorporating an <a href="https://www.digitisednewspapers.net/maps/abbreviated-newspaper-title/">**abbreviated title**</a>.  
+  
+  “A string of characters used to identify (or name) some element of a program. The kind of element that may be named depends on the programming language; it may be a variable, a data structure, a procedure, a statement, a higher-level unit, or the program itself.” \[Butterfield, Ngondi and Kerr, 'identifier'\]
 
 ## Category Notes
 
