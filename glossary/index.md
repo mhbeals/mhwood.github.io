@@ -21,7 +21,7 @@ use-site-title: false
 [Author](attribution.md)  
 
 ## B  
-[Book Reviews](article-category.md)  
+[Book Review](article-category.md)  
 [Broadsheet (Genre)](publication-genre.md)  
 [Broadsheet (Size)](dimensions.md)  
 [Byline](attribution.md)  
