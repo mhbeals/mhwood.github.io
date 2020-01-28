@@ -14,10 +14,10 @@ Julkaisun lajityyppi.
 
 ## Usage Notes
 
-Genre*is often used in academic accounts interchangeably with
+Genre is often used in academic accounts interchangeably with
 type and format, although these terms can also be used to
 specify sub-divisions such as broadsheet versus quarto. Genre can
-also refer to [**periodicity** and **frequency**](../publication-frequency), and distinct types such
+also refer to [**periodicity and frequency**](publication-frequency.md), and distinct types such
 as family papers, police gazettes and society papers. The term genre
 was not commonly used in this sense in the nineteenth century.
 
