@@ -16,7 +16,7 @@ Article.
 
 This field appears in several databases, always as a multiple-choice
 option; Dublin Core guidance suggests using a controlled vocabulary of
-keywords. Dublin Core dc:subject URI: http://purl.org/dc/elements/1.1/subject. MODS type attribute (within MODS:genre): https://www.loc.gov/standards/mods/userguide/genre.html.
+keywords. Dublin Core dc:subject URI: <a href="http://purl.org/dc/elements/1.1/subject">purl.org/dc/elements/1.1/subject</a>. MODS type attribute (within MODS:genre): <a href="https://www.loc.gov/standards/mods/userguide/genre.html">loc.gov/standards/mods/userguide/genre.html</a>.
 
 ## Individual Collection Notes
 
