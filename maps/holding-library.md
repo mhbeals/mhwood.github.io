@@ -16,7 +16,7 @@ it is separated into library name and library location.
 ## Category Notes
 
 This field is relatively uncommon despite most collections consulting
-multiple physical collections.
+multiple physical collections. MODS:physicalLocation (and displayLabel sub-element) URI: https://www.loc.gov/standards/mods/userguide/location.html#physicallocation.
 
 ## Individual Collection Notes
 
