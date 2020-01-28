@@ -1,7 +1,7 @@
 ---
 layout: map
 title: British Library 19th Century Newspapers
-subtitle: British Library, United Kingdom and Gale: A Cengage Company.
+subtitle: British Library, United Kingdom and Gale
 use-site-title: false
 ---
 

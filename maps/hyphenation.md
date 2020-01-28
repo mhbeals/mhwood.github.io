@@ -37,21 +37,21 @@ hyphenation is contained. HYP@CONTENT always contains “-”.
 
 ## Instantiations  
 | CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String\\SUBS\_TYPE  | STR | HypPart2  |
-| CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | reserves  |
-| CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |
-| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP  | NUL |  |
-| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | Kruisgoederen |
-| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart2  |
-| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |
-| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | Hamburgrr  |
-| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |
-| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@SUBS\_CONTENT  | STR | Vanhurskaat  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String\\HYP@CONTENT  | STR | \-  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@SUBS\_CONTENT | STR | Vanhurskatt  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |
-| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String\\HYP@CONTENT  | STR | \-  |
-| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | October  |
-| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |
-| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |
+| CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | reserves  |  
+| CAAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |  
+| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP  | NUL |  |  
+| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | Kruisgoederen |  
+| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart2  |  
+| DEAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |  
+| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | Hamburgrr  |  
+| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |  
+| EUAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@SUBS\_CONTENT  | STR | Vanhurskaat  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\TopMargin\\TextBlock\\ TextLine\\String\\HYP@CONTENT  | STR | \-  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@SUBS\_CONTENT | STR | Vanhurskatt  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |  
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Layout\\Page\\BottomMargin\\ PrintSpace\\TextBlock\\TextLine\\String\\HYP@CONTENT  | STR | \-  |  
+| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String @SUBS\_CONTENT  | STR | October  |  
+| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\String@SUBS\_TYPE  | STR | HypPart1  |  
+| PPAL  |  alto\\Layout\\Page\\PrintSpace\\TextBlock\\TextLine\\HYP@CONTENT  | STR | \-  |  
