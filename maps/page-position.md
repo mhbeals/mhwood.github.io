@@ -31,8 +31,8 @@ key here\>.
 
 ## Instantiations
 
-| DEAL::alto\\Layout\\Page@POSITION  | MCH | Single  |
-| TDAG::issue\\page\\pageid@pageIndicator  | MCH | Single  |
-| TRAL::alto\\Layout\\Page@POSITION  | MCH | Single  |
-| TRAP::article\\title\\page\\pageLabel  | STR | Front cover |
-| F1ME::mets\\structMap\\div\\div\\div\\div@TYPE | STR | FRONT  |
+| DEAL  |  alto\\Layout\\Page@POSITION  | MCH | Single  |
+| TDAG  |  issue\\page\\pageid@pageIndicator  | MCH | Single  |
+| TRAL  |  alto\\Layout\\Page@POSITION  | MCH | Single  |
+| TRAP  |  article\\title\\page\\pageLabel  | STR | Front cover |
+| F1ME  |  mets\\structMap\\div\\div\\div\\div@TYPE | STR | FRONT  |

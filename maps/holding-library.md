@@ -26,25 +26,25 @@ Standardised across all collections.
 
 ### Library Name  
 
-| B1GL::issue\\sourceLibrary  | STR | British Library  |
-| B1GI::issue\\metadataInfo\\sourceLibrary\\libraryName  | STR | British Library  |
-| B2GL::issue\\sourceLibrary  | STR | British Library  |
-| B2GI::issue\\metadataInfo\\sourceLibrary\\libraryName  | STR | British Library  |
-| HNME::METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:collection  | STR | Hemeroteca  |
-| TDAG::issue\\sourceLibrary\\libraryName  | STR | Times Newspapers Limited  |
-| TRME::mets:mets\\mets:amdSec\\mets:techMD\\mets:mdWrap\\mets:xmlData\\premis:object\\premis:objectIdentifier\\premis:objectIdentifierType | STR | National Library of Australia |
-| TRME::mets:mets\\mets:amdSec\\premis:object\\premis:objectIdentifier\\premis:objectIdentifierType  | STR | National Library of Australia |
+| B1GL  |  issue\\sourceLibrary  | STR | British Library  |
+| B1GI  |  issue\\metadataInfo\\sourceLibrary\\libraryName  | STR | British Library  |
+| B2GL  |  issue\\sourceLibrary  | STR | British Library  |
+| B2GI  |  issue\\metadataInfo\\sourceLibrary\\libraryName  | STR | British Library  |
+| HNME  |  METS:mets\\METS:dmdSec\\METS:mdWrap\\METS:xmlData\\DC:collection  | STR | Hemeroteca  |
+| TDAG  |  issue\\sourceLibrary\\libraryName  | STR | Times Newspapers Limited  |
+| TRME  |  mets:mets\\mets:amdSec\\mets:techMD\\mets:mdWrap\\mets:xmlData\\premis:object\\premis:objectIdentifier\\premis:objectIdentifierType | STR | National Library of Australia |
+| TRME  |  mets:mets\\mets:amdSec\\premis:object\\premis:objectIdentifier\\premis:objectIdentifierType  | STR | National Library of Australia |
 
 ### Library Location  
 
-| B1GI::issue\\metadataInfo\\sourceLibrary\\libraryLocation | STR | London, United Kingdom |
-| B2GI::issue\\metadataInfo\\sourceLibrary\\libraryLocation | STR | London, United Kingdom |
-| TDAG::issue\\sourceLibrary\\libraryLocation  | STR | London, United Kingdom |
+| B1GI  |  issue\\metadataInfo\\sourceLibrary\\libraryLocation | STR | London, United Kingdom |
+| B2GI  |  issue\\metadataInfo\\sourceLibrary\\libraryLocation | STR | London, United Kingdom |
+| TDAG  |  issue\\sourceLibrary\\libraryLocation  | STR | London, United Kingdom |
 
 ### Library Name and Location  
 
-| CAME::mets\\metsHdr\\agent\\name  | STR | Library of Congress, Washington, DC  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:location\\mods:physicalLocation@displayLabel  | STR | Library of Congress, Washington, DC  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:location\\mods:physicalLocation@displayLabel  | STR | Library of Congress, Washington, DC  |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:physicalLocation@displayLabel | STR | Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:physicalLocation@displayLabel | STR | Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany |
+| CAME  |  mets\\metsHdr\\agent\\name  | STR | Library of Congress, Washington, DC  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:location\\mods:physicalLocation@displayLabel  | STR | Library of Congress, Washington, DC  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:location\\mods:physicalLocation@displayLabel  | STR | Library of Congress, Washington, DC  |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:physicalLocation@displayLabel | STR | Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:physicalLocation@displayLabel | STR | Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany |

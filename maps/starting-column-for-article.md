@@ -19,6 +19,6 @@ the TDA.
 
 ## Instantiations
 
-| B2GL::issue\\article\\sc  | MCH | B |
-| B2GI::issue\\page\\article\\sc | MCH | A |
-| TDAG::issue\\page\\article\\s  | MCH | a |
+| B2GL  |  issue\\article\\sc  | MCH | B |
+| B2GI  |  issue\\page\\article\\sc | MCH | A |
+| TDAG  |  issue\\page\\article\\s  | MCH | a |

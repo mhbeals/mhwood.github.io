@@ -36,28 +36,28 @@ TRAL: String-Choice: “Left”, “Right”, “Center”, “Block”.
 
 ### As an XML Container  
 
-| B1GL::issue\\article\\text\\text.title\\p  | NUL |  |
+| B1GL  |  issue\\article\\text\\text.title\\p  | NUL |  |
 | -- | -- |  |
-| B1GL::issue\\article\\text\\text.cr\\p  | NUL |  |
-| B2GL::issue\\article\\text\\text.title\\p  | NUL |  |
-| SBAT::PcGts\\Page\\TextRegion  | NUL |  |
-| TDAG::issue\\page\\article\\text\\text.cr\\p | NUL |  |
+| B1GL  |  issue\\article\\text\\text.cr\\p  | NUL |  |
+| B2GL  |  issue\\article\\text\\text.title\\p  | NUL |  |
+| SBAT  |  PcGts\\Page\\TextRegion  | NUL |  |
+| TDAG  |  issue\\page\\article\\text\\text.cr\\p | NUL |  |
 
 ### The Description of Text Alignment for Paragraph Text  
 
-| DEAL::alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
-| EUAL::alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
-| F1AL::alto\\Style\\ParagraphStyle@ALIGN  | MCH | Left  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Styles\\ParagraphStyle@ALIGN | MCH | Center |
-| PPAL::alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
-| TRAL::alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Left  |
+| DEAL  |  alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
+| EUAL  |  alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
+| F1AL  |  alto\\Style\\ParagraphStyle@ALIGN  | MCH | Left  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Styles\\ParagraphStyle@ALIGN | MCH | Center |
+| PPAL  |  alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Right  |
+| TRAL  |  alto\\Styles\\ParagraphStyle@ALIGN  | MCH | Left  |
 
 ### Unique Identifier for Paragraph Text  
 
-| DEAL::alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_RIGHT  |
-| EUAL::alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_CENTER |
-| F1AL::alto\\Style\\ParagraphStyle@ID  | UID | PAR\_LEFT  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Styles\\ParagraphStyle@ID | UID | PAR\_CENTER |
-| PPAL::alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_RIGHT  |
-| SBAT::PcGts\\Page\\TextRegion@id  | UID | R0  |
-| TRAL::alto\\Styles\\ParagraphStyle@ID  | UID | PAR1  |
+| DEAL  |  alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_RIGHT  |
+| EUAL  |  alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_CENTER |
+| F1AL  |  alto\\Style\\ParagraphStyle@ID  | UID | PAR\_LEFT  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Styles\\ParagraphStyle@ID | UID | PAR\_CENTER |
+| PPAL  |  alto\\Styles\\ParagraphStyle@ID  | UID | PAR\_RIGHT  |
+| SBAT  |  PcGts\\Page\\TextRegion@id  | UID | R0  |
+| TRAL  |  alto\\Styles\\ParagraphStyle@ID  | UID | PAR1  |

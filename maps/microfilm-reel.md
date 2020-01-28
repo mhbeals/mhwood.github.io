@@ -20,9 +20,9 @@ a digitisation intermediary.
 
 ## Instantiations
 
-| B1GL::issue\\reelID  | NUM | 2359  |
-| B1JI::BL\_newspaper\\BL\_page\\issue\_metadata\\reelID  | NUM | 3633  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel number”\]  | UID | 211102366 |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel sequence number”\] | UID | 529  |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel number”\]  | UID | 211102366 |
-| CAME::mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel sequence number”\] | UID | 530  |
+| B1GL  |  issue\\reelID  | NUM | 2359  |
+| B1JI  |  BL\_newspaper\\BL\_page\\issue\_metadata\\reelID  | NUM | 3633  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel number”\]  | UID | 211102366 |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel sequence number”\] | UID | 529  |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel number”\]  | UID | 211102366 |
+| CAME  |  mets\\dmdSec\\mdWrap\\xmlData\\mods:mods\\mods:relatedItem\\mods:identifier\[@type=“reel sequence number”\] | UID | 530  |

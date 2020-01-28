@@ -20,9 +20,9 @@ Digital Archive.
 
 ## Instantiations
 
-| B1GL::issue\\article\\pc  | NUM | 1 |
+| B1GL  |  issue\\article\\pc  | NUM | 1 |
 | -- | -- | - |
-| B1GI::issue\\page\\article\\pc | NUM | 1 |
-| B2GL::issue\\article\\pc  | NUM | 1 |
-| B2GI::issue\\page\\article\\pc | NUM | 4 |
-| TDAG::issue\\page\\article\\pc | NUM | 1 |
+| B1GI  |  issue\\page\\article\\pc | NUM | 1 |
+| B2GL  |  issue\\article\\pc  | NUM | 1 |
+| B2GI  |  issue\\page\\article\\pc | NUM | 4 |
+| TDAG  |  issue\\page\\article\\pc | NUM | 1 |

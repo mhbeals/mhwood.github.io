@@ -27,6 +27,6 @@ TRAL: String-Choice: “OK”, “Missing”, “Missing in original”, “Dama
 
 ## Instantiations
 
-| B1JI::BL\_newspaper\\BL\_page\\issue\_metadata\\qualityRating | MCH | Fair  |
-| DEAL::alto\\Layout\\Page@QUALITY  | MCH | As in original |
-| TRAL::alto\\Layout\\Page@QUALITY  | MCH | OK  |
+| B1JI  |  BL\_newspaper\\BL\_page\\issue\_metadata\\qualityRating | MCH | Fair  |
+| DEAL  |  alto\\Layout\\Page@QUALITY  | MCH | As in original |
+| TRAL  |  alto\\Layout\\Page@QUALITY  | MCH | OK  |

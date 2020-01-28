@@ -27,7 +27,7 @@ article text.
 
 ## Instantiations
 
-| B1GI::issue\\page\\article\\wordCount | NUM | 20605 |
-| B2GI::issue\\page\\article\\wordCount | NUM | 15396 |
-| TDAG::issue\\page\\article\\wordCount | NUM | 26407 |
-| TRAP::article\\wordCount  | NUM | 1514  |
+| B1GI  |  issue\\page\\article\\wordCount | NUM | 20605 |
+| B2GI  |  issue\\page\\article\\wordCount | NUM | 15396 |
+| TDAG  |  issue\\page\\article\\wordCount | NUM | 26407 |
+| TRAP  |  article\\wordCount  | NUM | 1514  |

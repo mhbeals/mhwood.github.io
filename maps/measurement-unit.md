@@ -20,10 +20,10 @@ This field is common in ALTO files. For all, string-choice: “pixel”,
 
 ## Instantiations
 
-| CAAL::alto\\Description\\MeasurementUnit  | MCH | inch1200 |
-| DEAL::alto\\Description\\MeasurementUnit  | MCH | pixel  |
-| EUAL::alto\\Description\\MeasurementUnit  | MCH | mm10  |
-| F1AL::alto\\Description\\MeasurementUnit  | MCH | mm10  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Description\\MeasurementUnit | MCH | mm10  |
-| PPAL::alto\\Description\\MeasurementUnit  | MCH | mm10  |
-| TRAL::alto\\Description\\MeasurementUnit  | MCH | pixel  |
+| CAAL  |  alto\\Description\\MeasurementUnit  | MCH | inch1200 |
+| DEAL  |  alto\\Description\\MeasurementUnit  | MCH | pixel  |
+| EUAL  |  alto\\Description\\MeasurementUnit  | MCH | mm10  |
+| F1AL  |  alto\\Description\\MeasurementUnit  | MCH | mm10  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Description\\MeasurementUnit | MCH | mm10  |
+| PPAL  |  alto\\Description\\MeasurementUnit  | MCH | mm10  |
+| TRAL  |  alto\\Description\\MeasurementUnit  | MCH | pixel  |

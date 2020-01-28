@@ -18,4 +18,4 @@ This field appears in B1JI only.
 
 ## Instantiations
 
-| B1JI::BL\_newspaper\\BL\_page\\pageImage\\pageSkew | NUM | \-10 |
+| B1JI  |  BL\_newspaper\\BL\_page\\pageImage\\pageSkew | NUM | \-10 |

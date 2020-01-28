@@ -20,5 +20,5 @@ This field only appears in DEMP and SBME.
 
 ## Instantiations
 
-| DEMP::didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:source  | UID | KB C 22  |
-| SBME::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:shelfLocator | UID | Ztg 1424 |
+| DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dc:source  | UID | KB C 22  |
+| SBME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:location\\mods:shelfLocator | UID | Ztg 1424 |

@@ -46,34 +46,34 @@ PPAL: Font style: list of any combination of font styles. String-Choice:
 
 ### Font Size  
 
-| CAAL::alto\\Styles\\TextStyle@FONTSIZE  | NUM | 10  |
-| DEAL::alto\\Styles\\TextStyle@FONTSIZE  | NUM | 9  |
-| EUAL::alto\\Styles\\TextStyle@FONTSIZE  | NUM | 15  |
-| F1AL::alto\\Style\\TextStyle@FONTSIZE  | NUM | 15  |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Styles\\TextStyle@FONTSTYLE | NUM | 9  |
-| PPAL::alto\\TextStyle@FONTSIZE  | NUM | 10  |
-| TRAL::alto\\Styles\\TextStyle@FONTSIZE  | NUM | 7.7 |
+| CAAL  |  alto\\Styles\\TextStyle@FONTSIZE  | NUM | 10  |
+| DEAL  |  alto\\Styles\\TextStyle@FONTSIZE  | NUM | 9  |
+| EUAL  |  alto\\Styles\\TextStyle@FONTSIZE  | NUM | 15  |
+| F1AL  |  alto\\Style\\TextStyle@FONTSIZE  | NUM | 15  |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Styles\\TextStyle@FONTSTYLE | NUM | 9  |
+| PPAL  |  alto\\TextStyle@FONTSIZE  | NUM | 10  |
+| TRAL  |  alto\\Styles\\TextStyle@FONTSIZE  | NUM | 7.7 |
 
 ### Font Style  
 
-| CAAL::alto\\Styles\\TextStyle@FONTSTYLE | STR | small caps |
-| DEAL::alto\\Styles\\TextStyle@FONTSTYLE | STR | bold  |
-| EUAL::alto\\Styles\\TextStyle@FONTSTYLE | STR | bold  |
-| F1AL::alto\\Style\\TextStyle@FONTSTYLE  | STR | bold  |
-| PPAL::alto\\TextStyle@FONTSTYLE  | STR | italics  |
+| CAAL  |  alto\\Styles\\TextStyle@FONTSTYLE | STR | small caps |
+| DEAL  |  alto\\Styles\\TextStyle@FONTSTYLE | STR | bold  |
+| EUAL  |  alto\\Styles\\TextStyle@FONTSTYLE | STR | bold  |
+| F1AL  |  alto\\Style\\TextStyle@FONTSTYLE  | STR | bold  |
+| PPAL  |  alto\\TextStyle@FONTSTYLE  | STR | italics  |
 
 ### Font Type  
 
-| CAAL::alto\\Styles\\TextStyle\\FONTTYPE1 | MCH | Serif |
+| CAAL  |  alto\\Styles\\TextStyle\\FONTTYPE1 | MCH | Serif |
 
 ### Font Width  
 
-| CAAL::alto\\Styles\\TextStyle\\FONTWIDTH | MCH | proportional |
+| CAAL  |  alto\\Styles\\TextStyle\\FONTWIDTH | MCH | proportional |
 
 ### Font Family  
 
-| DEAL::alto\\Styles\\TextStyle@FONTFAMILY  | STR | Times New Roman |
-| EUAL::alto\\Styles\\TextStyle@FONTFAMILY  | STR | Fraktur  |
-| F1AL::alto\\Style\\TextStyle@FONTFAMILY  | STR | Times New Roman |
-| F2AL::pageOCRDATA\\content\\altoXML\\alto\\Styles\\TextStyle@FONTFAMILY | STR | Fraktur  |
-| PPAL::alto\\TextStyle@FONTFAMILY  | STR | Times New Roman |
+| DEAL  |  alto\\Styles\\TextStyle@FONTFAMILY  | STR | Times New Roman |
+| EUAL  |  alto\\Styles\\TextStyle@FONTFAMILY  | STR | Fraktur  |
+| F1AL  |  alto\\Style\\TextStyle@FONTFAMILY  | STR | Times New Roman |
+| F2AL  |  pageOCRDATA\\content\\altoXML\\alto\\Styles\\TextStyle@FONTFAMILY | STR | Fraktur  |
+| PPAL  |  alto\\TextStyle@FONTFAMILY  | STR | Times New Roman |

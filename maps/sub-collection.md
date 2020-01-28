@@ -27,5 +27,5 @@ There may be more than one list element.
 
 ## Instantiations
 
-| B1JI::BL\_newspaper\\BL\_page\\title\_metadata\\subCollection | STR | Regional Daily  |
-| TRAP::article\\list  | STR | Beacher-Craggs Family |
+| B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\subCollection | STR | Regional Daily  |
+| TRAP  |  article\\list  | STR | Beacher-Craggs Family |

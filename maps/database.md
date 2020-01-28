@@ -24,8 +24,8 @@ TDAG: Provides a UID for the collection.
 
 ## Instantiations
 
-| B2GL::issue\\module  | STR | 19th Century British Library Newspapers: Part II |
-| B2GL::issue\\ztag  | STR | BLD  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification@authority  | UID | ZVDD  |
-| SBMA::mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:identifier@type | UID | zdb  |
-| TDAG::issue\\metadatainfo\\dviCollectionID  | UID | TDAOC0001  |
+| B2GL  |  issue\\module  | STR | 19th Century British Library Newspapers: Part II |
+| B2GL  |  issue\\ztag  | STR | BLD  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:classification@authority  | UID | ZVDD  |
+| SBMA  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:identifier@type | UID | zdb  |
+| TDAG  |  issue\\metadatainfo\\dviCollectionID  | UID | TDAOC0001  |
