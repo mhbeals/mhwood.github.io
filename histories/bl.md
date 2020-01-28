@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[Parts I and II of the *British Library’s 19<sup>th</sup> Century
+<img src="https://www2.le.ac.uk/projects/insularmss/images-logos/bl-logo/image" alt="British Library logo" width="128" height="256" align="right">[Parts I and II of the *British Library’s 19<sup>th</sup> Century
 Newspapers* collection](https://www.gale.com/intl/c/british-library-newspapers-part-i and
 https://www.gale.com/intl/c/british-library-newspapers-part-ii), now
 part of the *British Library Newspapers* collection, were created as
