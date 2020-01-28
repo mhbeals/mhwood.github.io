@@ -7,9 +7,8 @@ use-site-title: false
 
 ## History of the Collection
 
-<img src="https://www2.le.ac.uk/projects/insularmss/images-logos/bl-logo/image" alt="British Library logo" width="100" height="200" align="right">[Parts I and II of the *British Library’s 19<sup>th</sup> Century
-Newspapers* collection](https://www.gale.com/intl/c/british-library-newspapers-part-i and
-https://www.gale.com/intl/c/british-library-newspapers-part-ii), now
+<img src="https://www2.le.ac.uk/projects/insularmss/images-logos/bl-logo/image" alt="British Library logo" width="100" height="200" align="right">[Parts I](https://www.gale.com/intl/c/british-library-newspapers-part-i) and [II](https://www.gale.com/intl/c/british-library-newspapers-part-ii) of the *British Library’s 19<sup>th</sup> Century
+Newspapers* collection, now
 part of the *British Library Newspapers* collection, were created as
 part of a public-private partnership between the British Library and
 Gale, a Cengage company. The British Library began developing a
