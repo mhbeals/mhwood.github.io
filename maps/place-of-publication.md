@@ -17,7 +17,7 @@ publication location of an [**alternate title for this newspaper**](../alternate
 
 ## Category Notes
 
-This field is relatively uncommon.
+This field is relatively uncommon. URI for Dublin Core spatial characteristic: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#spatial. 
 
 ## Individual Collection Notes
 
