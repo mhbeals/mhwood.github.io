@@ -20,7 +20,7 @@ from other newspapers continued unabated. This was also complicated by
 the 1842 Act, binding copyright to the author, when the majority of
 newspapers published articles anonymously. An 1881 judgement classed
 newspapers as books for copyright purposes, but there was still need for
-further rulings to specify which **article categories** were protected.
+further rulings to specify which [**article categories**](article-category.md) were protected.
 In America, there was no copyright protection for foreign authors until
 the 1891 Chace Act. This meant that the reprinting of articles remained
 an integral feature of nineteenth-century American journalism. The Berne
