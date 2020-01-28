@@ -14,7 +14,7 @@ Specifies the nature of the piece of writing, generally “article”.
 ## Category Notes
 
 This field appears in only three databases and always as a
-multiple-choice option. MODS:genre URI: https://www.loc.gov/standards/mods/userguide/genre.html. In METS, it is an optional string attribute. URI: https://www.loc.gov/standards/mets/docs/mets.v1-5.html#metsType.
+multiple-choice option. MODS:genre URI: <a href="https://www.loc.gov/standards/mods/userguide/genre.html">loc.gov/standards/mods/userguide/genre.html</a>. In METS, it is an optional string attribute. URI: <a href="https://www.loc.gov/standards/mets/docs/mets.v1-5.html#metsType">loc.gov/standards/mets/docs/mets.v1-5.html#metsType</a>.
 
 ## Individual Collection Notes
 
