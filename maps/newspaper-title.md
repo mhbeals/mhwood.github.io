@@ -47,7 +47,7 @@ article also contains the [**date**](..date).
 | B1GL  |  issue\\citation\\titlegroup\\marcTitle  | STR | Berrow\&apos;s Worcester Journal  |
 | B1GP  |  PubInfo\\PublicationTitle  | STR | Aberdeen Journal  |
 | B1JI  |  BL\_newspaper\\BL\_page\\title\_metadata\\normalisedTitle  | STR | Aberdeen Journal  |
-| B2GL issue\\citation\\titlegroup\\marcTitle  | STR | Berrow\&apos;s Worcester Journal  |
+| B2GL  |  issue\\citation\\titlegroup\\marcTitle  | STR | Berrow\&apos;s Worcester Journal  |
 | B2GP  |  PubInfo\\PublicationTitle  | STR | The York Herald  |
 | DEMP  |  didl:DIDL\\didl:Item\\didl:Component\\didl:Resource\\ srw\_dc:dcx\\dc:title | STR | Delftsche courant : nieuwsblad voor Delft en Delfland |
 | TRAP  |  article\\title  | STR | The Queenslander (Brisbane, Qld. : 1866-1939)  |
