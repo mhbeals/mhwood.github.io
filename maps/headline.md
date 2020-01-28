@@ -16,7 +16,7 @@ the result of OCR. Distinct from a [**section heading**](../section-heading).
 
 This field is common but does not refer specifically to headlines in the
 sense of front-page news items, nor does it make a distinction between
-headline and article title. Dublin Core URI: http://purl.org/dc/terms/title. MODS:title URI: https://www.loc.gov/standards/mods/userguide/titleinfo.html#title.
+headline and article title. Dublin Core URI: <a href="http://purl.org/dc/terms/title/">purl.org/dc/terms/title</a>. MODS:title URI: <a href="https://www.loc.gov/standards/mods/userguide/titleinfo.html#title">loc.gov/standards/mods/userguide/titleinfo.html#title</a>.
 
 ## Individual Collection Notes
 
