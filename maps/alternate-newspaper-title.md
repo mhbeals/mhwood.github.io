@@ -17,7 +17,7 @@ of the publication. Standardised title information can be found in
 
 ## Category Notes
 
-This field appears most commonly in the adapted Dublin Core format.
+This field appears most commonly in the adapted Dublin Core format. URI for MODS sub-element: https://www.loc.gov/standards/mods/userguide/titleinfo.html#title. This is the same sub-element type as for newspaper title. Dublin Core ‘alternative’ term URI: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#terms-alternative. Dublin Core ‘isVersionOf’ URI: http://www.dublincore.org/specifications/dublin-core/dcmi-terms/#terms-isVersionOf. 
 
 ## Individual Collection Notes
 
