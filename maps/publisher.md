@@ -22,7 +22,7 @@ the MARC records of the holding library.
 
 ## Individual Collection Notes
 
-DEMP: Dublin Core URI: http://purl.org/dc/elements/1.1/publisher   
+DEMP: Dublin Core URI: <a href="http://purl.org/dc/elements/1.1/publisher">purl.org/dc/elements/1.1/publisher</a>.   
 F2AL: Provides two fields for publisher information, the original
 publisher and the latest publisher.
 
