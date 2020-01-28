@@ -17,7 +17,7 @@ this is normalised and in others it is the date as printed on the image.
 ## Category Notes
 
 This field is common, but there are various date formats (e.g. month
-only, day of the week).
+only, day of the week). Dublin Core ‘date’ URI: http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=elements#date. MODS:dateIssued URI: https://www.loc.gov/standards/mods/userguide/origininfo.html#dateissued, which may be in textual or structured form.
 
 ## Individual Collection Notes
 
