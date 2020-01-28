@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-[Europeana](https://www.europeana.eu) is a collection of collections,
+<img src="http://www.europeana-newspapers.eu/wp-content/uploads/2013/09/europeana_newspapers_forwebsite1.jpg" width="300" height="157" align="right">[Europeana](https://www.europeana.eu) is a collection of collections,
 drawing from more than 2,000 cultural heritage partners all throughout
 Europe. The full Europeana platform contains over 50 million artworks,
 artefacts, books, films and music from European museums, galleries,
