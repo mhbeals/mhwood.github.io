@@ -67,4 +67,4 @@ on how each publication positioned itself.
 “Because of the timely nature of newspapers, very few newspapers are
     considered to be **translations**.” \[Sagendorf and
     Moore,
-    40]\
+    40\]
