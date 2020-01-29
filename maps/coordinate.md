@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/coordinate">View Metadata Map</a></h4>
+<h4 style="text-align:center;font-style:italic;margin-top:-20px;margin-bottom:50px;"><a href="../../glossary/coordinate">View Glossary Entry</a></h4>
 
 ## Technical Definition
 
@@ -20,6 +20,7 @@ DEAL: Expressed in pixels rather than default 1/10 of mm.
 ## Instantiations 
 
 ### Page (4-Point)
+
 | B1JI  |  BL\_newspaper\\BL\_page\\pageImage\\pageCoordinates | COO | 79,915,344,925,613  |  
 | B2GL  |  issue\\article\\text\\text.cr\\pg@pos  | COO | 1219, 1491, 1298, 1528 |   
 | TDAG  |  issue\\page\\article\\text\\text.cr\\pg@pos  | COO | 34,406,3060,4943  |  
