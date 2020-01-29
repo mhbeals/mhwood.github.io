@@ -785,10 +785,10 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 763			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Descriptor\	didl:Statement	DID	STR	ocr		A statement is a literal textual value that contains information but not an asset. Each Item and each Component has a Descriptor which describes the role of the element in the newspaper issue. The roles are listed in the Statement element of the Descriptor.	Data	XML_ELEMENT	763		763	
 764			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Descriptor\didl:Statement\@	dc:type	DUB	STR	role		Document type.	Data	XML_ATTRIBUTE		765		
 765			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Descriptor\didl:Statement\@	mimeType	W3C	STR	text/plain		Multipurpose Internet Mail Extensions (MIME) type is a standardised way to indicate the nature and format of a document.	Technical	XML_ATTRIBUTE		765		"764, 765"
-766			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	dcx:filename	DUB	FIN	DDD_010069811_0001_articletext.xml		Filename of article text XML.	Data	XML_ATTRIBUTE		800		
-767			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	dcx:md5_checksum	DUB	STR	3c4c0c0bb15a1b994f59d0f90e34c569		Checksum of newspaper issue.	Data	XML_ATTRIBUTE		800		
-800			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	mimeType	W3C	STR	text/xml		Multipurpose Internet Mail Extensions (MIME) type is a standardised way to indicate the nature and format of a document.	Technical	XML_ATTRIBUTE		800		"766, 767, 800, 769"
-769			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	ref	W3C	URL	http://resolver.kb.nl/resolve?urn=ddd:010069811:mpeg21:a0001:ocr		Persistent URLs to the files.	Data	XML_ATTRIBUTE		800		
+766			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	dcx:filename	DUB	FIN	DDD_010069811_0001_articletext.xml		Filename of article text XML.	Data	XML_ATTRIBUTE		768		
+767			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	dcx:md5_checksum	DUB	STR	3c4c0c0bb15a1b994f59d0f90e34c569		Checksum of newspaper issue.	Data	XML_ATTRIBUTE		768		
+768			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	mimeType	W3C	STR	text/xml		Multipurpose Internet Mail Extensions (MIME) type is a standardised way to indicate the nature and format of a document.	Technical	XML_ATTRIBUTE		768		"766, 767, 768, 769"
+769			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\didl:Resource\@	ref	W3C	URL	http://resolver.kb.nl/resolve?urn=ddd:010069811:mpeg21:a0001:ocr		Persistent URLs to the files.	Data	XML_ATTRIBUTE		768		
 770			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\	didl:Descriptor	DID	NUL			Each Item and each Component has a Descriptor which describes the role of the element in the newspaper issue. The roles are listed in the Statement element of the Descriptor.	Container	XML_ELEMENT	772			
 771			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\	didl:Resource	DID	NUL			"Resources represent the physical files that make up the newspaper issue. These are referred to by a URL (e.g. a URL to an image, an XML file or a PDF file). These are persistent URLs to the files. They are listed in the ref-attribute of the Resource element. In these cases there is an extra dcx:md5_checksum attribute, listing the checksum of the file."	Container	XML_ELEMENT	772			
 772			DEMP	didl:DIDL\didl:Item\didl:Item\didl:Item\didl:Component\@	dc:identifier	DUB	FIN	ddd:010069811:mpeg21:a0001:metadata		Filename for descriptive metadata of article.	Data	XML_ATTRIBUTE		772	"770, 771"	772
@@ -1773,7 +1773,7 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 1755			F2AL	pageOCRDATA\@	scriptVersion	BEX	STR	b727b701d496fd13238499683a0aceae			Technical	XML_ATTRIBUTE		1750		
 1756			F2AL	pageOCRDATA\@	xmlns	W3C	STR	kk-ocr		Declares the XML namespace.	Technical	XML_ATTRIBUTE		1750		
 1757			F2AL	pageOCRDATA\@	xmlns:xsi	W3C	URL	http://www.w3.org/2001/XMLSchema-instance		Declares the XML namespace.	Technical	XML_ATTRIBUTE		1750		
-1758			F2AL	pageOCRDATA\@	XMLVersion	W3C	NUM	0.2		XML version.	Technical	XML_ATTRIBUTE		1750	"1760, 1761, 1762, 1763, 1764, 1765, 1766, 1767, 1800, 1769, 1770, 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779, 1780"	"1781, 1782, 1783"
+1758			F2AL	pageOCRDATA\@	XMLVersion	W3C	NUM	0.2		XML version.	Technical	XML_ATTRIBUTE		1750	"1760, 1761, 1762, 1763, 1764, 1765, 1766, 1767, 1768, 1769, 1770, 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779, 1780"	"1781, 1782, 1783"
 1759			F2AL	pageOCRDATA\@	xsi:schemaLocation	W3C	STR	kk-ocr kk-ocr.xsd		Indicates the location of the schema.	Technical	XML_ATTRIBUTE		1750		
 1760			F2AL	pageOCRDATA\metadata\	bindingIdentifier	BEX	NUM	984738			Data	XML_ELEMENT	1758			
 1761			F2AL	pageOCRDATA\metadata\	browseURL	BEX	URL	http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21		URL connected to OCR.	Data	XML_ELEMENT	1758			
@@ -1783,12 +1783,12 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 1765			F2AL	pageOCRDATA\metadata\	imageURL	BEX	URL	http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21			Data	XML_ELEMENT	1758			
 1766			F2AL	pageOCRDATA\metadata\	issue	BEX	NUM	11			Data	XML_ELEMENT	1758			
 1767	Language	Language of the Page	F2AL	pageOCRDATA\metadata\	language	BEX	STR	fin		Language of page.	Data	XML_ELEMENT	1758			
-1800			F2AL	pageOCRDATA\metadata\	lastModified	BEX	DAT	2012-04-12T00:04:00		Date electronic record last modified. Used format is XMLDateTime.	Data	XML_ELEMENT	1758			
+1768			F2AL	pageOCRDATA\metadata\	lastModified	BEX	DAT	2012-04-12T00:04:00		Date electronic record last modified. Used format is XMLDateTime.	Data	XML_ELEMENT	1758			
 1769	Publisher		F2AL	pageOCRDATA\metadata\	latestPublisher	BEX	STR	SLEY-Kirjat Oy		Publisher name (latest publisher).	Data	XML_ELEMENT	1758			
 1770			F2AL	pageOCRDATA\metadata\	licence	BEX	STR	ESIVERSIO - EI EDELLEENJAKELUUN			Data	XML_ELEMENT	1758			
 1771	OCR		F2AL	pageOCRDATA\metadata\	ocrVersion	BEX	NUL			Container for OCR version information.	Container	XML_ELEMENT	1758			
 1772	Publisher		F2AL	pageOCRDATA\metadata\	originalPublisher	BEX	NUL	SLEY-Kirjat Oy		Publisher name (original publisher).	Data	XML_ELEMENT	1758			
-1773	Page Number	Unique Identifier	F2AL	pageOCRDATA\metadata\	pageIdentifier	BEX	NUM	8007234		Unique ID for page.	Data	XML_ELEMENT	1758			
+1773	Page Number	Unique Identifier	F2AL	pageOCRDATA\metadata\	pageIdentifier	BEX	NUM	7687234		Unique ID for page.	Data	XML_ELEMENT	1758			
 1774			F2AL	pageOCRDATA\metadata\	PageLabel	BEX	NUL				Container	XML_ELEMENT	1758			
 1775			F2AL	pageOCRDATA\metadata\	pageOrder	BEX	NUM	21			Data	XML_ELEMENT	1758			
 1776			F2AL	pageOCRDATA\metadata\	pdfURL	BEX	URL	http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf			Data	XML_ELEMENT	1758			
@@ -2663,7 +2663,7 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 2642			TRME	mets:mets\	mets:fileSec	MET	NUL			"Lists, describes, and links to the files that make up the complex digital object described by the METS file. For a newspaper issue those files typically include page-level images (in TIFF and/or JPEG 2000 format), ALTO XML files describing the layout and content of each individual page, and page-level and/or issue-level PDF files."	Container	XML_ELEMENT	2639		"2741, 2742"	
 2643			TRME	mets:mets\	mets:metsHdr	MET	NUL			Container for electronic record creation and modification dates.	Container	XML_ELEMENT	2639		"2653, 2654"	"2655, 2656"
 2644			TRME	mets:mets\	mets:structMap	MET	NUL			Lists all files of the issue and can be used to store a page type map and the pagination.	Container	XML_ELEMENT	2639		2755	"2756, 2757"
-2645			TRME	mets:mets\	mets:structMap	MET	NUL			Describes the logical structure of a complex digital object.	Container	XML_ELEMENT	2639		2767	"2800, 2769"
+2645			TRME	mets:mets\	mets:structMap	MET	NUL			Describes the logical structure of a complex digital object.	Container	XML_ELEMENT	2639		2767	"2768, 2769"
 2646			TRME	mets:mets\	mods:dmdSec	MOD	NUL			Container of descriptive metadata.	Container	XML_ELEMENT	2639		2688	2689
 2647			TRME	mets:mets\@	xlmns:mets	W3C	URL	http://www.loc.gov/METS/		Declares the XML namespace.	Technical	XML_ATTRIBUTE		2639		
 2648			TRME	mets:mets\@	xlmns:xsi	W3C	URL	http://www.w3.org/2001/XMLSchema-instance		Declares the XML namespace.	Technical	XML_ATTRIBUTE		2639		
@@ -2786,7 +2786,7 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 2765			TRME	mets:mets\mets:structMap\mets:div\mets:div\@	TYPE	MET	STR	page		Indicates that the information provided is page number.	Technical	XML_ATTRIBUTE		2758		
 2766			TRME	mets:mets\mets:structMap\mets:div\mets:div\mets:fptr\@	FILEID	MET	FIN	nla.news-issn22083111-s75000-b.tif		Page filename.	Data	XML_ATTRIBUTE		2761		
 2767			TRME	mets:mets\mets:structMap\	mets:div	MET	NUL			Should be used to create correlations to the single pages of the document.	Container	XML_ELEMENT	2645		"2770, 2771"	"2772, 2773"
-2800			TRME	mets:mets\mets:structMap\@	ID	MET	UID	structmap2		The structMap ID.	Technical	XML_ATTRIBUTE		2645		
+2768			TRME	mets:mets\mets:structMap\@	ID	MET	UID	structmap2		The structMap ID.	Technical	XML_ATTRIBUTE		2645		
 2769			TRME	mets:mets\mets:structMap\@	TYPE	MET	STR	logical	"PHYSICAL, LOGICAL"	Indicates type of structural map.	Technical	XML_ATTRIBUTE		2645		
 2770			TRME	mets:mets\mets:structMap\mets:div\	mets:div	MET	NUL			Should be used to create correlations to the single pages of the document.	Container	XML_ELEMENT	2767		2776	"2774, 2775, 2777"
 2771			TRME	mets:mets\mets:structMap\mets:div\	mets:div	MET	NUL			Should be used to create correlations to the single pages of the document.	Container	XML_ELEMENT	2767		"2791, 2792"	"2793, 2794"
@@ -2981,7 +2981,7 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 2960			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:identifier@	type	MOD	STR	zdb			Technical	XML_ATTRIBUTE		2959		
 2961			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\	mods:relatedItem	MOD	NUL			Container for information about the newspaper (e.g. name and ISSN).	Container	XML_ELEMENT	2954		2963	2962
 2962			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem@	type	MOD	STR	original	"host, original"	Indicates that the information provided relates to host or original newspaper.	Technical	XML_ATTRIBUTE		2961		
-2963			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem\	mods:identifier	MOD	DAT	24028006		Contains external identifiers (a string to identify external representations of the same dataset).	Technical	XML_ELEMENT	2961			2964
+2963			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem\	mods:identifier	MOD	DAT	24027686		Contains external identifiers (a string to identify external representations of the same dataset).	Technical	XML_ELEMENT	2961			2964
 2964			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem\mods:identifier@	type	MOD	STR	zdb			Technical	XML_ATTRIBUTE		2963		
 2965			SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem\	mods:titleInfo	MOD	NUL			Container element that provides title information.	Container	XML_ELEMENT	2954		"2966, 2967, 2968"	
 2966	Newspaper Title	Printed Title	SBME	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:relatedItem\mods:titleInfo\	mods:title	MOD	STR	Baruther Heimatland		Newspaper title (as printed).	Data	XML_ELEMENT	2965			
@@ -3145,7 +3145,7 @@ ydpi:300"		"A description of any setting of the processing application. For exam
 3124			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:identifier@	type	MOD	STR	gbv-ppn	"gbv-ppn, purl, zdb"		Technical	XML_ATTRIBUTE		3123		
 3125			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\	mods:relatedItem	MOD	NUL			Container for information about the newspaper (e.g. name and ISSN).	Container	XML_ELEMENT	3092		3127	3126
 3126			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem@	type	MOD	STR	original	"host, original"	Indicates that the information provided relates to host or original newspaper.	Technical	XML_ATTRIBUTE		3125		
-3127			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\	mods:identifier	MOD	DAT	24028006		Contains external identifiers (a string to identify external representations of the same dataset).	Data	XML_ELEMENT	3125			3128
+3127			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\	mods:identifier	MOD	DAT	24027686		Contains external identifiers (a string to identify external representations of the same dataset).	Data	XML_ELEMENT	3125			3128
 3128	Database		SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:relatedItem\mods:identifier@	type	MOD	STR	zdb		Database name (abbreviated).	Data	XML_ATTRIBUTE		3127		
 3129			SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\	mods:titleInfo	MOD	NUL			Container element that provides title information.	Container	XML_ELEMENT	3092		"3130, 3131, 3132"	
 3130	Newspaper Title	Printed Title	SBMA	mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:titleInfo\	mods:title	MOD	STR	Baruther Heimatland		Newspaper title (as printed).	Data	XML_ELEMENT		3129		
