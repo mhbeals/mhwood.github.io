@@ -79,7 +79,7 @@ TDAG: Specifies that this is the source issue number.
 | EUME  |  METS:mets\\mets:structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\mets:div\\@LABEL  | STR | Hamburger Nachrichten no. 613 31.12.1932  |
 | F1ME  |  mets@LABEL  | STR | Suomi no. 1 1841  |
 | F1ME  |  mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div\\div\\div@LABEL  | STR | Suomi no. 1 1841  |
-| F1ME mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div@LABEL  | STR | Suomi no. 1 1841  |
+| F1ME  |  mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div@LABEL  | STR | Suomi no. 1 1841  |
 | PPDI  |  \[abbreviatedTitle\]\_\[yearmonthday\]  | UID |  |
 | PPME  |  mets\\@LABEL  | STR | Daily Southern Cross no. I 1843-04-22  |
 | PPME  |  mets\\structMap\[@LABEL=“Logical Structure” @TYPE=“LOGICAL”\]\\div@LABEL  | STR | Daily Southern Cross no. I 1843-04-22  |
