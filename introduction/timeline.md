@@ -4,6 +4,11 @@ title: Timeline
 subtitle:
 use-site-title: false
 ---
+<style>
+    table {width:100%;}
+    td:nth-child(1) {width: 15%;}
+    td:nth-child(2) {width: 85%;}
+</style>
 
 The timelines below provide key dates for each collection, including the version of each database described in this report. Interviews with archivists and providers (as referenced in the glossary) took place in 2018.
 
