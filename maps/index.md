@@ -58,11 +58,12 @@ The data type and collection IDs are as follows:
 | URL | A url  |
 
 ### Collection IDs
-| B1GI  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Issue Metadata XML File  |
-| B1GP  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Publication Metadata XML File  |
-| B1GT  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Text Content XML File  |
-| B2GI  | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives  | GIFT  | Issue Metadata XML File  |
-| B2GP  | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives  | GIFT  | Publication Metadata XML File  |
+
+| B1GI  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Issue Metadata XML File  |  
+| B1GP  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Publication Metadata XML File  |  
+| B1GT  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Current Text-Mining Drives  | GIFT  | Text Content XML File  |  
+| B2GI  | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives  | GIFT  | Issue Metadata XML File  |  
+| B2GP  | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives  | GIFT  | Publication Metadata XML File  |  
 | B2GT  | British Library 19<sup>th</sup> Century Newspapers, Part II, Gale’s Current Text-Mining Drives  | GIFT  | Text Content XML File  |
 | B1JI  | British Library 19<sup>th</sup> Century Newspapers, Part I, British Library’s Text-Mining Drives | Bespoke  | Content and Metadata XML File  |
 | B1GL  | British Library 19<sup>th</sup> Century Newspapers, Part I, Gale’s Legacy Text-Mining Drives  | GIFT  | Content and Metadata XML File  |
