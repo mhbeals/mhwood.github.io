@@ -23,7 +23,6 @@ It is always a numeric field.
 ## Instantiations
 
 | B1GL  |  issue\\ip  | NUM | 4 |
-| -- | -- | - |
 | B1GI  |  issue\\metadataInfo\\ip  | NUM | 4 |
 | B1JI  |  BL\_newspaper\\BL\_page\\issue\_metadata\\pageCount | NUM | 4 |
 | B2GL  |  issue\\ip  | NUM | 4 |
