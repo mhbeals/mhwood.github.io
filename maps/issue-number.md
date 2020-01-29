@@ -66,6 +66,7 @@ TDAG: Specifies that this is the source issue number.
 | TRME  |  mets:mets\\mets:dmdSec\\mets:mdWrap\\mets:xmlData\\mods:mods\\mods:relatedItem\\mods:part\\mods:detail\\mods:number  | NUM | 2044  |
 
 **Unique Identifier**  
+
 | B1GL  |  issue\\id  | UID | WOJL-1822-01-03  |
 | B1GL  |  issue\\newspaperId  | UID | NCBL0081  |
 | B1GI  |  issue\\metadataInfo\\PSMID  | UID | WO1\_ANJO\_1798\_01\_02  |
