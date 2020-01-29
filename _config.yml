@@ -19,22 +19,35 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About the Atlas:
+  About:
     - The Project: "introduction/project"
     - Methodology:  "introduction/methodology"
     - Aims and Objectives:  "introduction/aims"
     - Acknowledgements:  "introduction/acknowledgements"
-    - Downloads: "introduction/citation"
-  Databases: "histories"
+  Databases: 
+    - Introduction: "histories"
+    - British Library: "bl" 
+	  - Chronicling America: "ca"  
+	  - Delpher: "delpher" 
+	  - Europeana: "europeana"  
+  	- Hemeroteca Nacional: "hndm" 
+  	- Papers Past: "pp" 
+  	- Suomen Kansalliskirjaston: "nlf"
+  	- Times Digital Archive: "tda"
+  	- Trove: "trove"
+  	- ZEFYS: "slb" 
   Metadata Maps: 
-    - Understanding Metadata Maps: "maps"
-    - Content Data: "maps/content"
-    - Citation Data: "maps/citation"
-    - Bibliographic Metadata: "maps/bibliographic"
-    - Holdings Metadata: "maps/holdings"
-    - Descriptive Metadata: "maps/descriptive"
-    - User-Generated Data: "maps/social"
-    - Technical Metadata: "maps/technical"
+    - Introduction: "maps"
+    - Content: "maps/content"
+    - Citation: "maps/citation"
+    - Bibliographic: "maps/bibliographic"
+    - Holdings: "maps/holdings"
+    - Descriptive: "maps/descriptive"
+    - User-Generated: "maps/social"
+    - Technical: "maps/technical"
+  Resources: 
+    - Downloads: "introduction/citation"
+    - Web Resources: "introduction/web"
   Reference:
     - Abbreviations: "introduction/abbreviations"
     - Bibliography: "introduction/bibliography"
