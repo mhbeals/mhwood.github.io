@@ -9,19 +9,21 @@ The timelines below provide key dates for each collection, including the version
 
 ## Microfilming Era
 
-| 1940-2010  | British Library 19th Century Newspapers: British Library newspaper microfilming  |  
+| 1940-2010     | British Library 19th Century Newspapers: British Library newspaper microfilming  |  
 | 1951-present  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Suomen Kansalliskirjaston newspaper microfilming  |  
-| 1960  | Hemeroteca Nacional Digital de México: Hemeroteca Nacional microfilm newspaper microfilming  |  
-| 1970-present  | Delpher: Koninklijke Bibliotheek newspaper microfilming  |  
-| 1982-2011  | Chronicling America: United States Newspaper Program preservation programme  |  
+| 1960          | Hemeroteca Nacional Digital de México: Hemeroteca Nacional microfilm newspaper microfilming  |  
+| 1970-present  | Delpher: Koninklijke Bibliotheek newspaper microfilming  | 
+| 1974-present  | Times Digital Archive: *The Times* newspaper microfilming  |  
+| 1982-2011     | Chronicling America: United States Newspaper Program preservation programme  |  
 | 1983-present  | Papers Past: National Library of New Zealand newspaper microfilming  | 
-| 1997-present  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Microfilming process moved to the National Centre for Preservation and Digitisation  |
+
 
 ## Digitisation Era
 
 | 1990  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Helsinki University Library Center for Microfilming and Conservation established  |  
 | 1992  | Trove: ANPlan established  |  
 | 1993  | ZEFYS: Newspaper department established at the Berlin State Library |  
+| 1997  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Microfilming process moved to the National Centre for Preservation and Digitisation  |
 | 1998  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Formation of the Nordic digitisation project TIDEN  |  
 | 1999  | Delpher: Digitisation begins  |  
 | 1999  | ZEFYS: Berlin State Library installs a reprographic company in the newspaper department  |  
@@ -62,7 +64,8 @@ The timelines below provide key dates for each collection, including the version
 | 2011  | Chronicling America: United States Newspaper Program ceases operations  |  
 | 2011-2013  | Chronicling America: Many technical metadata fields reclassified as 'recommended'  |  
 | 2012  | Europeana: Founding |  
-| 2013  | Delpher: Founding  |  | 2015  | Hemeroteca Nacional Digital de México: Most recent HNDM interface redesign  |  
+| 2013  | Delpher: Founding  |  
+| 2015  | Hemeroteca Nacional Digital de México: Most recent HNDM interface redesign  |  
 | 2016  | Europeana: TEL service closed  |  
 | 2016 (Jul.)  | Chronicling America: Expands date range from 1836-1922 to 1690-1963  |  
 | 2018  | British Library 19th Century Newspapers: Metadata separated into three XML files instead of one  |  
