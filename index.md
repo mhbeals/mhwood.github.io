@@ -76,7 +76,7 @@ opportunities for those who wish to engage with newspaper archives, but
 as with all historical archives, digital collections require researchers
 to be mindful of their shape, provenance and structure before any
 conclusion can be drawn. It is the responsibility of both digitiser and
-researcher to understand both the map and also the terrain.
+researcher to understand both the map and the terrain.
 
 ## Suggested Citation
 
