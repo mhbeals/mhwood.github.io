@@ -38,7 +38,7 @@ stored in the digital file alongside the raw content or text, and
 provides a controlled vocabulary designed to be used across disciplines,
 within academia and beyond.
 
-This report draws upon multiple taxonomies: our own [open access dataset](doi:10.6084/m9.figshare.11560110), 
+This report draws upon multiple taxonomies: our own [open access dataset](http://www.doi.org/10.6084/m9.figshare.11560110), 
 which provides a full catalogue of
 metadata fields across the collections, academic and industry
 discussions­­ of the newspaper as a journalistic form and historical
