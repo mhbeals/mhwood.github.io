@@ -37,7 +37,6 @@ TRAL: String-Choice: “Left”, “Right”, “Center”, “Block”.
 ### As an XML Container  
 
 | B1GL  |  issue\\article\\text\\text.title\\p  | NUL |  |
-| -- | -- |  |
 | B1GL  |  issue\\article\\text\\text.cr\\p  | NUL |  |
 | B2GL  |  issue\\article\\text\\text.title\\p  | NUL |  |
 | SBAT  |  PcGts\\Page\\TextRegion  | NUL |  |
