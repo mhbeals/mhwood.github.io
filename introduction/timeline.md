@@ -4,12 +4,6 @@ title: Timeline
 subtitle:
 use-site-title: false
 ---
----
-layout: page
-title: Timeline
-subtitle:
-use-site-title: false
----
 
 The timelines below provide key dates for each collection, including the version of each database described in this report. Interviews with archivists and providers (as referenced in the glossary) took place in 2018.
 
@@ -21,13 +15,13 @@ The timelines below provide key dates for each collection, including the version
 | 1970-present  | Delpher: Koninklijke Bibliotheek newspaper microfilming  |  
 | 1982-2011  | Chronicling America: United States Newspaper Program preservation programme  |  
 | 1983-present  | Papers Past: National Library of New Zealand newspaper microfilming  | 
+| 1997-present  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Microfilming process moved to the National Centre for Preservation and Digitisation  |
 
 ## Digitisation Era
 
 | 1990  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Helsinki University Library Center for Microfilming and Conservation established  |  
 | 1992  | Trove: ANPlan established  |  
 | 1993  | ZEFYS: Newspaper department established at the Berlin State Library |  
-| 1997-present  | Suomen Kansalliskirjaston digitoidut sanomalehdet: All Finnish newspapers microfilmed at the National Centre for Preservation and Digitisation  |  
 | 1998  | Suomen Kansalliskirjaston digitoidut sanomalehdet: Formation of the Nordic digitisation project TIDEN  |  
 | 1999  | Delpher: Digitisation begins  |  
 | 1999  | ZEFYS: Berlin State Library installs a reprographic company in the newspaper department  |  
