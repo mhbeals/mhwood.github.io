@@ -59,7 +59,7 @@ starting from 0.
 | CADI  |  sn\\year\\month\\day\\edition\\null\[sequence\]  | STR | seq-1  |
 | DEMP  |  didl:DIDL\\didl:Item\\didl:Item@dc:identifier  | UID | ddd:010419500:mpeg21:p001  |
 | DEMP  |  didl:DIDL\\didl:Item\\didl:Item\\didl:Component\\didl:Resource\\srw\_dc:dcx\\dcx:recordIdentifier | UID | ddd:010419500:mpeg21:p001  |
-| F2AL  |  pageOCRDATA\\metadata\\pageIdentifier  | NUM | 7687234  |
+| F2AL  |  pageOCRDATA\\metadata\\pageIdentifier  | NUM | 8007234  |
 | HNDM  |  $.publication.pagina.publicacion\_id  | STR | ObjectId(“558075bd7d1e63c9fea1a0eb”) |
 | HNDM  |  $.publication.pagina.\_id  | STR | ObjectId(“558a32a47d1ed64f16885023”) |
 | TDAG  |  issue\\page\\pageid  | UID | 0FFO-1812-JUL14-001  |
