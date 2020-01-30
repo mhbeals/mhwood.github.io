@@ -145,6 +145,8 @@ p {
 
 **Steven Claeyssens** - Koninklijke Bibliotheek  
 
+**Tim Sherratt** - Associate Professor of Digital Heritage, University of Canberra
+
 **Ye Liu\*** - PhD Student, North Carolina State University  
   
 #### \* Member of the Oceanic Exchanges Project Team
