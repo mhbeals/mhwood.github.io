@@ -76,7 +76,7 @@ navbar-children-col: "#FFFFFF"
 # page-img: "/img/sunrise.jpg"
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-157422555-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-157422555-1"
