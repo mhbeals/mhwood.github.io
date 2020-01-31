@@ -75,6 +75,15 @@ navbar-children-col: "#FFFFFF"
 # footer-img: "/img/sunrise.jpg"
 # page-img: "/img/sunrise.jpg"
 
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-157422555-1"
+
+# Google Tag Manager ID
+#gtm: ""
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
