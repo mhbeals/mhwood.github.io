@@ -46,8 +46,8 @@ The timelines below provide key dates for each collection, including the version
 | 2002  | Hemeroteca Nacional Digital de México: First HNDM interface launched  |  
 | 2002  | Times Digital Archive: First content release (1936-46)  |  
 | 2002-2003  | Times Digital Archive: Initial 1785-1985 material digitised  |  
-| 2003  | Times Digital Archive: Final content release (1785-1879)  |  
 | 2003  | Times Digital Archive: Second content release (1880-1985)  |  
+| 2003  | Times Digital Archive: Final content release (1785-1879)  |  
 | 2004  | British Library 19th Century Newspapers: Founding |  
 | 2004-2007  | British Library 19th Century Newspapers: First digitisation phase (British Library 19th Century Newspapers Part I)  |  
 | 2005  | Chronicling America: Digitisation begins  |  
@@ -61,8 +61,8 @@ The timelines below provide key dates for each collection, including the version
 | 2007  | Times Digital Archive: Gale acquired by Cengage  |  
 | 2007  | Trove: Digitisation begins  |  
 | 2008  | Trove: Founding of Trove  |  
-| 2008 (Aug.)  | Trove: Crowdsourced text correction incorporated  |  
 | 2008 (Jul.)  | Trove: Australian Newspapers Beta service launched  |  
+| 2008 (Aug.)  | Trove: Crowdsourced text correction incorporated  |  
 | 2008-2009  | British Library 19th Century Newspapers: Second digitisation phase (British Library 19th Century Newspapers Part II)  |  
 | 2009  | Trove: Australian Newspapers service incorporated into Trove  |  
 | 2009  | ZEFYS: Digitised newspaper portal launched  |  
