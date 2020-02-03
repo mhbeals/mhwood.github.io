@@ -23,6 +23,7 @@ This site presents data, visualizations, interactive exhibits, and both computat
 
 + [Passim: A tool for detecting and aligning similar passages in text](https://github.com/dasmiq/passim)
 + [Scissors-and-Paste Console: A tool for detecting reused newspaper material](https://github.com/mhbeals/sap_console)
++ [DigitalNZ API](https://digitalnz.org/developers)  
 + [Trove API Console: A tool for exploring the Trove API](https://troveconsole.herokuapp.com)
 
 ## Unoffical Guides and Tutorials
