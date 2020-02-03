@@ -17,6 +17,10 @@ masthead of periodicals, and could provide further information about
 However, most collections do not contain fields for newspaper subtitles.
 
 ## Examples:
+<figure>
+   <img src="https://commons.wikimedia.org/wiki/File:The_Graphic_-_Newspaper_title.png" width="400" height="95" align="center">
+   <figcaption>Masthead of <i>The Graphic</i>, 11 January 1890, showing subtitle "An Illustrated Weekly Newspaper". <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Graphic_-_Newspaper_title.png/1600px-The_Graphic_-_Newspaper_title.png">Wikimedia Commons</a>.</figcaption>
+</figure>  
 
 “**Mottos**, related titles, or statements of geographic or other
     intended audience may appear with the title in the masthead, but
