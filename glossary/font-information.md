@@ -20,7 +20,11 @@ formalised. <a href="https://www.digitisednewspapers.net/maps/ocr">**OCR**</a> s
 will not always recognise them correctly. 
 
 ## Examples: 
-
+<figure>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Miller_%26_Richard_Newspaper_type_specimen_%2812509383444%29.jpg/1562px-Miller_%26_Richard_Newspaper_type_specimen_%2812509383444%29.jpg" width="400" height="350" align="center">
+   <figcaption>Miller & Richard Newspaper type specimen. <a href="https://commons.wikimedia.org/wiki/File:Miller_%26_Richard_Newspaper_type_specimen_(12509383444).jpg">Wikimedia Commons</a>.</figcaption>
+</figure>  
+  
 "The increased use of machine **typesetting**, improvements in inking and newsprint production technologies and changing fashions in layout increasingly affected font choice, though not always offering greater freedom: the new technologies of monotype and linotype along with a zeal for economically efficient standardization of line size and ease of justification for unmarked text restricted the possibilities of type design." \[DCNJ AGJ/AK, 643-44\]  
   
 "Columns are basic units of design in newspapers and periodicals that distinguish serials from most printed books and predate later additions of page design such as tiered headlines, subheads, **font variation** and imaginative layout." \[DCNJ LRB/AK, 134\]
