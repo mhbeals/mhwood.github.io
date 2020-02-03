@@ -36,7 +36,11 @@ hand-key and check titles and headlines.
 ## Examples:
 
 ### Front-page headlines
-
+<figure>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg" width="300" height="150" align="center">
+    <figcaption>Headline from the <i>Corydon Democrat</i>, 4 July 1863. <a href="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg">Wikimedia Commons</a>.</figcaption>
+</figure>  
+  
 “Newspapers at the beginning of the nineteenth century made no
     effort, in their vertical display, to put a **headline** over the main
     story or to make sure that the main story began at the top of a
@@ -62,6 +66,10 @@ hand-key and check titles and headlines.
     343\]
 
 ### Individual article titles
+<figure>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg" width="150" height="330" align="center">
+   <figcaption>Newspaper cutting from <i>Daily Northwestern</i>, 26 May 1890, with the article title "Prince Victor".  <a href="https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg">Wikimedia Commons</a>.</figcaption>
+</figure>  
 
 “The *Chronicle* again demonstrated its support for Nield with a
     report (29 Sept. 1894) **entitled** ‘Labour Meeting at Crewe:
