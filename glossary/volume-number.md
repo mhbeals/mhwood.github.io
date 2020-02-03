@@ -49,7 +49,7 @@ in plastic for preservation.
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/The_Una_%28newspaper%29.jpg" width="370" height="175" align="center">
    <figcaption>Masthead of <i>The Una</i>, 1 February 1853, showing volume and number information (Vol. 1 No. 1). <a href="https://upload.wikimedia.org/wikipedia/commons/4/42/The_Una_%28newspaper%29.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>  
-
+  
 “I was at that time writing in the *Morning Chronicle* newspaper (of
     which one series had lately been collected and published in two
     **volumes**, illustrated by my esteemed friend Mr. George
