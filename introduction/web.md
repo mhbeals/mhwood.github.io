@@ -21,10 +21,13 @@ This site presents data, visualizations, interactive exhibits, and both computat
 
 ## Tools
 
++ [DigitalNZ API Console: A tool for exploring the Papers Past API](https://digitalnz.org/developers)  
 + [Passim: A tool for detecting and aligning similar passages in text](https://github.com/dasmiq/passim)
 + [Scissors-and-Paste Console: A tool for detecting reused newspaper material](https://github.com/mhbeals/sap_console)
-+ [DigitalNZ API Console: A tool for exploring the Papers Past API](https://digitalnz.org/developers)  
-+ [Trove API Console: A tool for exploring the Trove API](https://troveconsole.herokuapp.com)
++ [Trove API Console: A tool for exploring the Trove API](https://troveconsole.herokuapp.com)  
++ [The Waterloo Directory of English Newspapers and Periodicals, 1800-1900: A bibliography of publications, personal names, issuing bodies, publishing towns, title pages and subjects](http://www.victorianperiodicals.com/series3/index.asp)  
++ [The Wellesley Index to Victorian Periodicals, 1824-1900: A tool to identify anonymous contributors to periodicals](http://wellesley.chadwyck.co.uk/marketing/index.jsp)  
++ [Wikipedia: List of online newspaper archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives)  
 
 ## Unoffical Guides and Tutorials
 
