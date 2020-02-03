@@ -114,6 +114,7 @@ use-site-title: false
 
 ## N  
 [News Article](article-category.md)  
+**[Newspaper Subtitle](newspaper-subtitle.md)**  
 **[Newspaper Title](newspaper-title.md)**  
 [Notice](article-category.md)  
 [Number](edition.md)  
