@@ -39,8 +39,12 @@ title was generally used -- or a standardised shortened version (e.g.
 
 ## Examples:
 
-### Referring to the name of the newspaper
-
+### Referring to the name of the newspaper  
+<figure>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/British_Herald.png" width="500" height="300" align="center">
+   <figcaption>Masthead of the <i>British Herald</i>, 1 January 1861. <a href="https://commons.wikimedia.org/wiki/File:British_Herald.png">Wikimedia Commons</a>.</figcaption>
+</figure>  
+ 
 “A common feature of many Victorian periodicals and newspapers,
     **mastheads**, along with the **title pages** of volume reissues and
     part-issue wrappers and covers, sought to establish an instant
