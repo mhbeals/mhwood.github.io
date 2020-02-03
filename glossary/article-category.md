@@ -29,7 +29,7 @@ systematic index of the topics in that newspaper in which articles can
 be located by broad subject headings, [**date of publication**](../date), or
 [**title**](../newspaper-title) keywords.
 
-The Gale collections have used the standard section headings form *The
+The Gale collections have used the standard section headings from *The
 Times* as a model for metadata categorisation of other papers because of
 its relatively clear structure. In Delpher, section headings are
 generated semi-automatically and checked by an operator.
