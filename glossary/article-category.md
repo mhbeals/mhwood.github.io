@@ -38,7 +38,7 @@ generated semi-automatically and checked by an operator.
 <img src="../img/palmersindex.jpg" width="450" height="600">  
   
 > Sample page from Palmer's *Index to The Times Newspaper*, 1885 (Winter Quarter): 6.
-> [Archive.org](https://archive.org/details/palmersindextot30unkngoog/page/n13/mode/2up). 
+> [Archive.org](https://archive.org/details/palmersindextot30unkngoog/page/n13/mode/2up).  
   
 “A listing of the holdings of the National Library of India at
     Calcutta notes that the *Calcutta Star* contained: **Advertisements,
