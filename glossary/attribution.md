@@ -31,7 +31,7 @@ correspondents” in the Anglophone press, also played an important role.
 ## Examples:
 
 ### Writers’ names within the newspaper layout  
-![Fig. 1](../img/pen-name.jpg)
+![Fig. 1](../img/penname.jpg)
 > Example of printed names in *The Tasmanian*, 21 September 1889: 7. Each department has one dedicated pen-name (Jason for Aquatic Notes, Kuklos for Cycling Notes, and Kaeda for Fox Terrier Notes) under which all news items are published. [Trove](http://nla.gov.au/nla.news-page22090149).   
   
 “The **headnote** introduces the name pointedly though neatly, and
