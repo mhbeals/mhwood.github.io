@@ -37,6 +37,9 @@ as printed in that instance.
 
 ### Referring to discrete departments of the newspaper
 
+![Fig. 1](../img/section-heading.jpg)
+> Example of section headings, including News in Brief, Births, Deaths, Funerals, Shipping, Government Notices and Sporting, in *The Australian Star*, 25 January 1899: 1. [Trove](http://nla.gov.au/nla.news-page24827567).  
+  
 “For single-**section** newspapers, the pages or parts of pages only
     require a modest labelling in scale with the layout, a panel or
     reverse block, and preferably in the same place on every page.”
