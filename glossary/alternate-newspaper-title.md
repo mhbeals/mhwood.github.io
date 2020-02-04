@@ -33,8 +33,8 @@ Australia for its physical collection.
 ## Examples:
 
 “**Title changes** can also reflect the consolidation of a journal
-    within a particular niche market, such as the London, Provincial,
-    and Colonial Press News: A Literary and Business Journal which
+    within a particular niche market, such as the *London, Provincial,
+    and Colonial Press News: A Literary and Business Journal* which
     eventually dropped the subtitle as it specialized solely on the
     press trade.” \[DNCJ, MBT, 631\]
 
