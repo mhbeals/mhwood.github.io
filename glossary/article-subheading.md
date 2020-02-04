@@ -28,7 +28,9 @@ edge of the text. Europeana also allows for a top heading above the main
 title, though this would usually not appear until the twentieth century.
 
 ## Examples:
-
+![Fig. 1](../img/subheading.jpg)
+> Example of crossheads in *De Tĳd*, 26 May 1881. [Delpher](https://resolver.kb.nl/resolve?urn=ddd:010265778:mpeg21:p001).  
+  
 “Columns are basic units of design in newspapers and periodicals
     that distinguish serials from most printed books and predate later
     additions of page design such as tiered headlines, **subheads**,
@@ -44,3 +46,6 @@ title, though this would usually not appear until the twentieth century.
 
 “**Sub-headings** appear rather late in the first half of the 20th
     century.” \[Europeana Newspapers 2015, 40\]
+    
+![Fig. 2](../img/sidehead.jpg)
+> Example of sidehead used between crossheads in *The Sydney Morning Herald*, 23 June 1846: 2. [Trove](http://nla.gov.au/nla.news-page1518106).  
