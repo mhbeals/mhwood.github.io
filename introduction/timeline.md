@@ -79,12 +79,12 @@ The timelines below provide key dates for each collection, including the version
 
 | 2013 (Sept.)  | British Library 19th Century Newspapers: Jisc Version |  
 | 2017 (Sept.)  | Chronicling America |  
+| 2018 (Feb.)  | Trove |  
 | 2018 (Apr.)  | Papers Past |  
 | 2018 (Apr.)  | Times Digital Archive  |  
-| 2018 (Dec.)  | British Library 19th Century Newspapers: Gale Version  |  
-| 2018 (Feb.)  | Trove |  
-| 2018 (Nov.)  | Delpher |  
+| 2018 (Sept.)  | Europeana |  
 | 2018 (Oct.)  | Hemeroteca Nacional Digital de México |  
 | 2018 (Oct.)  | Suomen Kansalliskirjaston digitoidut sanomalehdet |  
-| 2018 (Sept.)  | Europeana |  
+| 2018 (Nov.)  | Delpher |  
+| 2018 (Dec.)  | British Library 19th Century Newspapers: Gale Version  |  
 | 2019 (Dec.)  | ZEFYS |  
