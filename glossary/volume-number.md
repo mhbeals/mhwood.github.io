@@ -45,11 +45,6 @@ involve the dis-binding of volumes, followed by the re-wrapping issues
 in plastic for preservation.
 
 ## Examples:
-<figure>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/The_Una_%28newspaper%29.jpg" width="370" height="175" align="center">
-   <figcaption>Masthead of <i>The Una</i>, 1 February 1853, showing volume and number information (Vol. 1 No. 1). <a href="https://commons.wikimedia.org/wiki/File:The_Una_(newspaper).jpg">Wikimedia Commons</a>.</figcaption>
-</figure>  
-
 ![Fig. 1](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Una_%28newspaper%29.jpg)
 > Masthead of *The Una*, 1 February 1853, showing volume and number information (Vol. 1 No. 1).
 > [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Una_(newspaper).jpg).  
