@@ -73,4 +73,8 @@ night before.
     coverage note spatial, the information value may not be high in
     daily newspapers, but in newspapers which are edited only once or
     twice a week or in irregular intervals an exact **date** can be of
-    higher value.” \[Europeana Newspapers 2015, 47\]
+    higher value.” \[Europeana Newspapers 2015, 47\]  
+    
+<img src="../img/date.jpg" height="500" width="300"/>  
+
+> Example of an article printed under an earlier date. Court reported dated 15 September 1869 in *Brisbane Courier*, 16 September 1869: 2. [Trove](http://nla.gov.au/nla.news-article1296066). 
