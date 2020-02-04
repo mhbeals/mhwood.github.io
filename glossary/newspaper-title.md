@@ -57,7 +57,10 @@ title was generally used -- or a standardised shortened version (e.g.
     number, the **name** of the newspaper and often a simple title
     indicating content, such as ‘news’, ‘comment’ or ‘sport’.”
     \[Franklin, 201\]
-
+      
+![Fig. 2](../img/folio.jpg)
+> Example of a folio from *The Argus*, 17 January 1865. [Trove](http://nla.gov.au/nla.news-page214586).
+  
 “From that point the newspaper’s **title**, which in previous issues
     appeared as it had since its inception, the *Watchman, and Jamaica
     Free Press*, ran simply as the *Jamaica Watchman*, dropping ‘Free
