@@ -30,8 +30,11 @@ Trove, the decision whether to digitise the change in title as a new
 publication mirrors curatorial changes by the National Library of
 Australia for its physical collection.
 
-## Examples:
-
+## Examples:  
+ 
+![Fig. 1](../img/title-changes.png)
+> An example of a title change: the *Adelaide Chronicle and South Australian Advertiser* became the *Adelaide Chronicle and South Australian Literary Record* in May 1840, to indicate a stronger focus on literature. Pages from Trove: [17 December 1839](https://trove.nla.gov.au/newspaper/page/22337878) and [18 May 1842](http://nla.gov.au/nla.news-page22340133).  
+  
 “**Title changes** can also reflect the consolidation of a journal
     within a particular niche market, such as the *London, Provincial,
     and Colonial Press News: A Literary and Business Journal* which
