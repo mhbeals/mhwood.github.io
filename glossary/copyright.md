@@ -13,7 +13,7 @@ Urheberrecht; Tekijänoikeus; Derechos de autor.
 
 ## Usage Notes
 
-Copyright in the nineteenth century was a controversial topic. In the
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg/800px-Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg" width="400" height="270" align="right">Copyright in the nineteenth century was a controversial topic. In the
 UK, the 1842 Copyright Act, which focused on copyright for books, did
 not mention newspapers directly; as such, the reprinting of articles
 from other newspapers continued unabated. This was also complicated by
@@ -45,8 +45,10 @@ technically be in the public domain in the UK, the British Library
 retains copyright for the digital files because of the skill, judgement
 and labour used in the creation of the digital image. Each database
 history contains additional details about copyright within their
-collection.
-
+collection.  
+  
+> Illustration: *The Pirate Publisher—An International Burlesque that has the Longest Run on Record* by Joseph Ferdinand Keppler, published as a centrefold in *Puck*, vol. 18, no. 468 (24 February 1886). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg).  
+  
 ## Examples:
 
 “The extent of **copyright** in news material itself was still at
@@ -64,4 +66,4 @@ collection.
     and proposed a royalty upon every copy sold.” \[Vizetelly, 1.393\]
 
 “**Tekijänoikeus** jaetaan moraalisiin ja taloudellisiin
-    oikeuksiin.”
+    oikeuksiin.”  
