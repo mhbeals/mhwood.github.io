@@ -72,7 +72,7 @@ generated semi-automatically and checked by an operator.
     entertainments**, and a series of **other advertisements**—all
     spread over four pages.” \[Thérenty, 35\]
     
-<img src="../img/feuilleton.jpg" width="400" height="600"/>  
+<img src="https://www.digitisednewspapers.net/img/feuilleton.jpg" width="400" height="600"/>  
   
 > Page showing the feuilleton division, *Provinciale Overijsselsche en Zwolsche courant*, 12 July 1882: 1.
 > [Delpher](https://resolver.kb.nl/resolve?urn=MMHCO01:000061804:mpeg21:p001).  
