@@ -15,7 +15,10 @@ paper when paper was expensive; in the UK this was before the abolition of the p
 cheaper, and to make the most of advertising space afterwards. When (rarely) discussed in academic literature, the 
 margins are a point of interest when they grow larger, representing a shift to a more ‘respectable’ format or audience. 
 
-## Examples:
+## Examples:  
+<img src="../img/margins.png" width="600" height="400">  
+  
+> Comparison of two Dutch newspapers from 21 September 1896, the *[Nederlandsche Staats-Courant](http://resolver.kb.nl/resolve?urn=MMKB08:000171184:mpeg21:p001)* and the *[Algemeen Handelsbad](http://resolver.kb.nl/resolve?urn=ddd:010127360:mpeg21:p001)*. Delpher.
 
 "The **size of the paper** varied: in 1865 it was 8 pages of 40cm; from 1872 the size increased to 45cm; by 1890 it was 50cm." \[DNCJ DHL, 595\]  
   
