@@ -35,7 +35,7 @@ its relatively clear structure. In Delpher, section headings are
 generated semi-automatically and checked by an operator.
 
 ## Examples:
-<img src="../img/palmersindex.jpg" width="450" height="600"/>  
+<img src="https://www.digitisednewspapers.net/img/palmersindex.jpg" width="450" height="600"/>  
   
 > Sample page from Palmer's *Index to The Times Newspaper*, 1885 (Winter Quarter): 6.
 > [Archive.org](https://archive.org/details/palmersindextot30unkngoog/page/n13/mode/2up).  
