@@ -30,8 +30,10 @@ correspondents” in the Anglophone press, also played an important role.
 
 ## Examples:
 
-### Writers’ names within the newspaper layout
-
+### Writers’ names within the newspaper layout  
+![Fig. 1](../img/pen-name.jpg)
+> Example of printed names in *The Tasmanian*, 21 September 1889: 7. Each department has one dedicated pen-name (Jason for Aquatic Notes, Kuklos for Cycling Notes, and Kaeda for Fox Terrier Notes) under which all news items are published. [Trove](http://nla.gov.au/nla.news-page22090149).   
+  
 “The **headnote** introduces the name pointedly though neatly, and
     no one else among the *Morning Post*’s contributors of verse at this
     period seems to have used it, in relation to ‘Sappho’ or otherwise,
@@ -101,7 +103,9 @@ correspondents” in the Anglophone press, also played an important role.
     correspondent, he served as a regular staff **reporter**.” \[Kwiat,
     106\]
 
-### Non-professional or occasional writers
+### Non-professional or occasional writers  
+![Fig. 2](../img/special-reporter.jpg)
+> Example of special reporter in *Australian Town and Country Journal*, 25 January 1896: 17. [Trove](http://nla.gov.au/nla.news-page5329095).  
 
 “One of the most prolific **contributors** was Thomas L. Masson.
     Whilst working as a travelling salesman in New York, Masson
