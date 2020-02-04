@@ -36,7 +36,7 @@ hand-key and check titles and headlines.
 ## Examples:
 
 ### Front-page headlines
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg" width="300" height="150" align="center">  
+![Fig. 1](https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg)
 > Headline from the *Corydon Democrat*, 4 July 1863.
 > [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg).  
   
@@ -65,11 +65,10 @@ hand-key and check titles and headlines.
     343\]
 
 ### Individual article titles
-<figure>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg" width="150" height="330" align="center">
-   <figcaption>Newspaper cutting from <i>Daily Northwestern</i>, 26 May 1890, with the article title "Prince Victor".  <a href="https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg">Wikimedia Commons</a>.</figcaption>
-</figure>  
-
+![Fig. 2](https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg)
+> Newspaper cutting from *Daily Northwestern*, 26 May 1890, with the article title "Prince Victor".
+> [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg).  
+  
 “The *Chronicle* again demonstrated its support for Nield with a
     report (29 Sept. 1894) **entitled** ‘Labour Meeting at Crewe:
     Messers Compton and the Factory Girls’.” \[Bunting, 141\]
