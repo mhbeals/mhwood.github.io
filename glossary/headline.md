@@ -36,10 +36,9 @@ hand-key and check titles and headlines.
 ## Examples:
 
 ### Front-page headlines
-<figure>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg" width="300" height="150" align="center">
-    <figcaption>Headline from the <i>Corydon Democrat</i>, 4 July 1863. <a href="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg">Wikimedia Commons</a>.</figcaption>
-</figure>  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg" width="300" height="150" align="center">  
+> Headline from the *Corydon Democrat*, 4 July 1863.
+> [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg).  
   
 “Newspapers at the beginning of the nineteenth century made no
     effort, in their vertical display, to put a **headline** over the main
