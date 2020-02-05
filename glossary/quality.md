@@ -29,7 +29,10 @@ disbinding for the microfilming process and were not preserved after
 filming.
 
 ## Examples:
-
+<img src="http://www.digitisednewspapers.net/img/set-through.jpg">  
+  
+> Example of 'set through' in *De Oostpost*, 14 August 1862: 1. [Delpher](http://resolver.kb.nl/resolve?urn=ddd:011061216:mpeg21:p001).  
+  
 “Other examples of problems the OCR will have to overcome include;
     problems with ‘set through’, (able to see the printing on the
     reverse of the page through the paper), often due to poor
