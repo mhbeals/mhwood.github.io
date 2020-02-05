@@ -35,6 +35,10 @@ specific printing of a book rather than a newspaper.
 
 ### As a geographical variant
 
+<img src="../img/edition.jpg">  
+          
+> Masthead of *The Sportsman*, 14 October 1885: 1. Melbourne edition. [Trove](http://nla.gov.au/nla.news-page23309066).
+
 “Most were short-lived but the London **edition** of the *Detroit
     Free Press*, which was composed almost entirely of American humour,
     sold between 100,000 and 300,000 weekly copies during the 1880s and
@@ -51,7 +55,6 @@ specific printing of a book rather than a newspaper.
     \[Bateson, 155\]
 
 ### Multiple issues on the same day
-
 “Daily newspapers and some weeklies had multiple **editions** in the
     nineteenth century, that is successive **editions**, usually with
     the same date.” \[DNCJ, LRB, 431\]
@@ -59,7 +62,11 @@ specific printing of a book rather than a newspaper.
 “More important in every way was the offer I received from Mr. J. R.
     Robinson, my former colleague on the *Weekly Chronicle*, who had now
     become editor of the *Express*, the then evening **edition** of the
-    *Daily News*, to do some work for him…” \[Yates, 1.285\]
+    *Daily News*, to do some work for him…” \[Yates, 1.285\]  
+    
+<img src="../img/evening.jpg">  
+  
+> Masthead of *The Tasmanian and Austral-Asiatic Review*, 24 January 1834: 1. Friday evening edition. [Trove](http://nla.gov.au/nla.news-page25184391).  
 
 ### To distinguish between issues on different days
 
