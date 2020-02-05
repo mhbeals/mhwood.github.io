@@ -35,7 +35,10 @@ newspapers could be delivered up to one hundred miles for a penny.
 ## Examples:
 
 ### As a formal part of the printed text
-
+<img src="https://www.digitisednewspapers.net/img/imprint.jpg">  
+  
+> Imprint ("Hobart Town; printed by Andrew Bent") from *The Hobart Town Gazette and Southern Reporter*, 18 January 1817: 2. [Trove](https://trove.nla.gov.au/newspaper/page/40483).  
+  
 “It has become the fashion of late years to discard the **imprint**
     from many jobs, such as programmes, bills of fare, and the like. The
     omission of it, however, is contrary to law, and renders the printer
