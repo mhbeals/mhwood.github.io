@@ -35,7 +35,7 @@ its relatively clear structure. In Delpher, section headings are
 generated semi-automatically and checked by an operator.
 
 ## Examples:
-<img src="https://www.digitisednewspapers.net/img/palmersindex.jpg" width="450" height="600" align="middle">  
+<img src="https://www.digitisednewspapers.net/img/palmersindex.jpg" width="450" height="600">  
   
 > Sample page from Palmer's *Index to The Times Newspaper*, 1885 (Winter Quarter): 6.
 > [Archive.org](https://archive.org/details/palmersindextot30unkngoog/page/n13/mode/2up).  
@@ -50,7 +50,11 @@ generated semi-automatically and checked by an operator.
     House of Commons reports, Parliamentary miscellanea, Precis of
     miscellaneous events, Europe–births, marriages and deaths**. (‘South
     Asian Library and Research Notes’ 134–35)” \[Simons, 389\]
-
+  
+<img src="https://www.digitisednewspapers.net/img/departments.jpg" width="650" height="450">  
+  
+> Sample of department headings, including Markets, Married, Birth, Death, Public Amusements, Sporting Intelligence and Varieties, from *The Courier*, 17 October 1853: 2. [Trove](trove.nla.gov.au/newspaper/page/640983). 
+  
 “Journalistic genres such as **news articles, editorial comment,
     foreign correspondence, political debate, court reports, financial
     bulletins, illustrations, sports coverage and even
