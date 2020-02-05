@@ -16,7 +16,7 @@ Seitennummer; Número de Página; Sivunumero, Paginanummer.
 In contrast to the myth that Victorian writers were paid by the word, it
 was much more usual for newspapers to request an article of a certain
 number of pages. The size of a newspaper [**issue**](../issue-number) in the nineteenth
-century varied substantially depending on the publication [**genre**](../publication-genre), the
+century varied substantially depending on the publication [**genre**](../publication-genre), **format**, [**periodicity**](../publication-frequency.md), [**edition**](../edition.md), and audience. In 1859 the *Glasgow Herald*, for example, had eight pages Monday and Friday, and four pages Tuesday to Thursday. Added to this, the
 newspapers expanded as improvements in technology reduced the price of
 paper. The decision was not always a straightforward expansion: the
 *Sheffield Weekly Telegraph* switched to a smaller paper size in 1887
