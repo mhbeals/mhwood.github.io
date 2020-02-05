@@ -28,6 +28,10 @@ editor, and printer.
 
 ### As a production role
 
+<img src="https://www.digitisednewspapers.net/img/imprint.jpg">  
+  
+> Imprint ("Hobart Town; printed by Andrew Bent") from *The Hobart Town Gazette and Southern Reporter*, 18 January 1817: 2. [Trove](https://trove.nla.gov.au/newspaper/page/40483).  
+
 “newspapers tend to spring from printers and periodicals from
     **publishers**” \[DNCJ, MdW, 515\]
 
