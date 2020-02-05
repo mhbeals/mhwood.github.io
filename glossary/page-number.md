@@ -25,7 +25,11 @@ consisted of four pages. In Delpher, page numbers are generated
 semi-automatically and checked by an operator.
 
 ## Examples:
-
+<img src="https://www.digitisednewspapers.net/img/page-count.jpg">  
+          
+>Masthead of *Fitzroy City Press* including page count, 7 February 1890: 1. [Trove](http://nla.gov.au/nla.news-page6612372).
+  
+  
 “**pages** have to be read sequentially (or, the skipping of pages
     has to be done in sequence); the entire contents of an article, or
     of a page, has to be read, for the user to avoid missing relevant
