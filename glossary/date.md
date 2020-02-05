@@ -77,4 +77,4 @@ night before.
     
 <img src="../img/date.jpg" height="500" width="300"/>  
 
-> Example of an article printed under an earlier date. Court reported dated 15 September 1869 in *Brisbane Courier*, 16 September 1869: 2. [Trove](http://nla.gov.au/nla.news-article1296066). 
+> Example of an article printed under an earlier date. Court report dated 15 September 1869 in *Brisbane Courier*, 16 September 1869: 2. [Trove](http://nla.gov.au/nla.news-article1296066). 
