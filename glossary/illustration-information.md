@@ -20,7 +20,10 @@ technology ensuring that illustration played a greater role in the press
 globally in the second half of the nineteenth century.
 
 ## Examples:
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Boston_Brass_Band_newspaper_illustration_MET_MIDP2005.126.4.jpg" height="500" width="400">  
+  
+> Example of an illustrated newspaper. *Gleason's Pictorial*, 20 September 1851. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boston_Brass_Band_newspaper_illustration_MET_MIDP2005.126.4.jpg).  
+  
 “Drawing on emergent reprographic media, initially wood engraving
     (which allowed text and **illustration** to be printed together)
     and, to a more limited extent, lithography and then a variety of
@@ -45,3 +48,6 @@ globally in the second half of the nineteenth century.
     of newspaper text down into its smaller information units (articles,
     **pictures**, advertisements).” \[Edmund King, 175\]
 
+<img src="https://www.digitisednewspapers.net/img/illustration.jpg" height="500" width="340">
+
+> Example of an illustration within a news item. *De Grondwet*, 17 October 1899: 1. [Delpher](https://resolver.kb.nl/resolve?urn=ddd:110620710:mpeg21:p001). 
