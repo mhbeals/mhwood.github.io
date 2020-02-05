@@ -25,7 +25,7 @@ this threatens the physical object. In those cases, the pages can be
 harder to read as the binding interferes with the scanning process.
 Owing to policies attached to federal funding for microfilming in the
 United States, many of the physical collections were damaged during
-disbanding for the microfilming process and were not preserved after
+disbinding for the microfilming process and were not preserved after
 filming.
 
 ## Examples:
