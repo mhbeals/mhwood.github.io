@@ -32,7 +32,7 @@ Indonesia, Papua New Guinea, and the Pacific islands.
 ## Examples:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Maidenhead-Advertiser-First-Newspaper-Edition.jpg">
 
-> Front page of the *Maidenhead Advertiser*, 28 July 1869. The masthead provides a list of towns in which the newspaper is distributed. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maidenhead-Advertiser-First-Newspaper-Edition.jpg).
+> Front page of the *Maidenhead Advertiser*, 28 July 1869. The publisher's statement provides a list of towns in which the newspaper is distributed. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maidenhead-Advertiser-First-Newspaper-Edition.jpg).
 
 “The letter campaign of 1894 was just the beginning of a life spent
     agitating for representation and equality for poor women. Nield’s
