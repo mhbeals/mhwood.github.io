@@ -92,7 +92,10 @@ commonly in the literature.
     (painettu lehti, journaali)”
 
 ### **A special issue** 
-
+<img src="https://www.digitisednewspapers.net/img/special-issue.jpg">  
+          
+> Special issue of *The Sportsman*, 3 November 1884: 1. Special "Cup" edition. [Trove](https://trove.nla.gov.au/newspaper/page/23308755).
+  
 “… the first account of his activities does not appear in the
     *Mercury* until its **special issue** of January 9, 1813, devoted to
     the proceedings of the special commission at York.” \[Rosengarten,
