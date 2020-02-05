@@ -70,6 +70,6 @@ Indonesia, Papua New Guinea, and the Pacific islands.
 “On syytä huomioida, että jakoalueen kuntien lukumäärä ei ole sama
     asia kuin suuri painos tai laaja maantieteellinen **kattavuus**“
   
-<img src="../img/coverage.jpg">  
+<img src="https://www.digitisednewspapers.net/img/coverage.jpg">  
   
 > Masthead of *The Voice of Jacob. or, the Hebrews' Monthly Miscellany*, 5 September 1842: 17. Sydney edition. [Trove](https://trove.nla.gov.au/newspaper/page/22337446).
