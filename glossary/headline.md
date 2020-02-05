@@ -36,7 +36,7 @@ hand-key and check titles and headlines.
 ## Examples:
 
 ### Front-page headlines
-![Fig. 1](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg/512px-Corydon_Democrat_headline%2C_July_4_1862.jpg)
+![Headline from Corydon Democrat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Corydon_Democrat_headline%2C_July_4_1862.jpg/512px-Corydon_Democrat_headline%2C_July_4_1862.jpg)
 > Headline from the *Corydon Democrat*, 4 July 1863.
 > [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corydon_Democrat_headline,_July_4_1862.jpg).  
   
@@ -65,7 +65,7 @@ hand-key and check titles and headlines.
     343\]
 
 ### Individual article titles
-![Fig. 2](https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg)
+![Newspaper cutting from Daily Northwestern](https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg)
 > Newspaper cutting from *Daily Northwestern*, 26 May 1890, with the article title "Prince Victor".
 > [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/83/AlVicarticle.jpg).  
   
@@ -86,7 +86,10 @@ hand-key and check titles and headlines.
     utilized for this purpose.” \[Europeana Newspapers 2015, 38\]
 
 ### Recurring column titles
-
+<img src="https://www.digitisednewspapers.net/img/ladies-column.jpg">  
+  
+> "Ladies Column" in *The Herald*, 1 January 1890: 4. [Trove](http://nla.gov.au/nla.news-page26236852).
+  
 “This penny satirical journal was started during the Reform
     agitation, and originated those periodical comments on magisterial
     decisions which subsequently became general in the newspapers, under
