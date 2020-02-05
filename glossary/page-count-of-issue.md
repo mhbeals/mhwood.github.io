@@ -25,7 +25,10 @@ the publisher was suffering financial hardship, as was the case of the
 *Caledonian Mercury* near the end of its run.
 
 ## Examples:
-
+<img src="https://www.digitisednewspapers.net/img/pages.jpg">  
+  
+> Front page, including page count of the issue, of *The Sydney Morning Herald*, 11 August 1888. [Trove](https://trove.nla.gov.au/newspaper/page/1389177).
+  
 “Its **four pages** carried classified advertisements and London
     Gazette announcements, shipping news, London, foreign and local
     news, Parliamentary reports, prices and advertising.” \[DNCJ, WHF,
