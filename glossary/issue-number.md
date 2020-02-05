@@ -26,7 +26,10 @@ commonly in the literature.
 ## Examples:
 
 ### As a physical object
-
+<img src="https://www.digitisednewspapers.net/img/issue-number.jpg">  
+          
+> Masthead, with issue number above, of *Het Niews van den Dag*, 13 June 1870: 1. [Delpher](https://resolver.kb.nl/resolve?urn=ddd:000017257:mpeg21:p001). 
+  
 “The last **issue** in the Mitchell Library, Sydney, is marked,
     ‘Vol. xl., No. 4503,’ and dated ‘October 20, 1842.’ It
     was:--’Printed and Published by Richard Sanderson, Proprietor, at
