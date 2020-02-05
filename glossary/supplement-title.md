@@ -17,7 +17,7 @@ Ergänzungstitel.
 This is different to [**sections**](section-heading.md) within the layout.
 
 ## Examples:
-<img src="../img/supplement.jpg" width="300" height="500">  
+<img src="https://www.digitisednewspapers.net/img/supplement.jpg" width="300" height="500">  
 
 > Supplement to the *Sydney Gazette and New South Wales Advertiser*, 7 August 1813: 1. [Trove](http://nla.gov.au/nla.news-page7080).   
   
