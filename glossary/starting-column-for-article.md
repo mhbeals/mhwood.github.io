@@ -20,7 +20,10 @@ generally published on smaller paper.
 ## Examples:
 
 ### As a synonym for regular feature or article:
-
+<img src="https://www.digitisednewspapers.net/img/ladies.jpg">
+  
+> "Ladies' Column" in *Northern Times*, 14 February 1857: 4. [Trove](http://nla.gov.au/nla.news-article128754288).  
+  
 “In order to answer this question we must track the journey of the
     joke from its origins in New York, through its refinement in the
     papers of the mid-West, its perfection in a Wild West weekly, its
@@ -38,7 +41,10 @@ generally published on smaller paper.
     576\]
 
 ### As a physical layout indicator:
-
+<img src="https://www.digitisednewspapers.net/img/column-comparison.png" height="450" width="700">
+  
+> Comparison of two page layouts from 27 January 1872 from *Sydney Punch* ([page 3](http://nla.gov.au/nla.news-page28010651)) and *The Australasian* ([page 4](http://nla.gov.au/nla.news-page11284731)). Trove. 
+  
 “This delay roughly mirrors the life cycle of two other jokes
     published in the same **column**, both of which circulated in the
     American press during the first half of January.” \[Nicholson 2012,
