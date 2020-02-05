@@ -35,9 +35,13 @@ newspapers could be delivered up to one hundred miles for a penny.
 ## Examples:
 
 ### As a formal part of the printed text
+<img src="https://www.digitisednewspapers.net/img/statement.jpg">  
+  
+> Imprint ("Printed and published by James Yeates, machine printer. Main street, Bairnsdale, for the proprietors") under the masthead of *Bairnsdale Advertiser and Tambo and Omeo Chronicle*, 23 January 1897: 1. [Trove](https://trove.nla.gov.au/newspaper/page/8380268).
+
 <img src="https://www.digitisednewspapers.net/img/imprint2.jpg">  
   
-> Imprint ("Gedrukt bij Le Roy & Co te Soerabaya" \[Printed at Le Roy & Co in Surabaya\]) from *De Oostpost*, 31 October 1862: 4. [Delpher](http://resolver.kb.nl/resolve?urn=ddd:011061282:mpeg21:p004).
+> Imprint ("Gedrukt bij Le Roy & Co te Soerabaya" \[Printed at Le Roy & Co in Surabaya\]) from final page of *De Oostpost*, 31 October 1862: 4. [Delpher](http://resolver.kb.nl/resolve?urn=ddd:011061282:mpeg21:p004).
   
 “It has become the fashion of late years to discard the **imprint**
     from many jobs, such as programmes, bills of fare, and the like. The
