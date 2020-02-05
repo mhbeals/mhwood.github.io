@@ -27,6 +27,10 @@ however, include these multiple [**editions**](../edition).
 
 ## Examples:
 
+<img src="https://www.digitisednewspapers.net/img/frequency.jpg">  
+          
+> Sample showing frequency information ("published three times a week on Tuesday, Thursday, and Saturday") from *Australasian Chronicle*, 4 June 1842: 1. [Trove](https://trove.nla.gov.au/newspaper/page/4232078).
+
 “In the nineteenth century, there were many frequencies –
     **morning**, **evening**, **fortnightly**, **monthly,**
     **quarterly** and **annual**.” \[DNCJ, MWT, 234\]
