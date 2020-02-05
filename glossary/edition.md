@@ -35,7 +35,7 @@ specific printing of a book rather than a newspaper.
 
 ### As a geographical variant
 
-<img src="../img/edition.jpg">  
+<img src="https://www.digitisednewspapers.net/img/edition.jpg">  
           
 > Masthead of *The Sportsman*, 14 October 1885: 1. Melbourne edition. [Trove](http://nla.gov.au/nla.news-page23309066).
 
@@ -64,7 +64,7 @@ specific printing of a book rather than a newspaper.
     become editor of the *Express*, the then evening **edition** of the
     *Daily News*, to do some work for him…” \[Yates, 1.285\]  
     
-<img src="../img/evening.jpg">  
+<img src="https://www.digitisednewspapers.net/img/evening.jpg">  
   
 > Masthead of *The Tasmanian and Austral-Asiatic Review*, 24 January 1834: 1. Friday evening edition. [Trove](http://nla.gov.au/nla.news-page25184391).  
 
