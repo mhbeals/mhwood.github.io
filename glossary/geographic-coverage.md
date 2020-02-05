@@ -30,6 +30,9 @@ beyond Australia, digitising newspapers from countries including
 Indonesia, Papua New Guinea, and the Pacific islands.
 
 ## Examples:
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Maidenhead-Advertiser-First-Newspaper-Edition.jpg">
+
+> Front page of the *Maidenhead Advertiser*, 28 July 1869. The masthead provides a list of towns in which the newspaper is distributed. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maidenhead-Advertiser-First-Newspaper-Edition.jpg).
 
 “The letter campaign of 1894 was just the beginning of a life spent
     agitating for representation and equality for poor women. Nield’s
@@ -66,3 +69,7 @@ Indonesia, Papua New Guinea, and the Pacific islands.
 
 “On syytä huomioida, että jakoalueen kuntien lukumäärä ei ole sama
     asia kuin suuri painos tai laaja maantieteellinen **kattavuus**“
+  
+<img src="../img/coverage.jpg">  
+  
+> Masthead of *The Voice of Jacob. or, the Hebrews' Monthly Miscellany*, 5 September 1842: 17. Sydney edition. [Trove](https://trove.nla.gov.au/newspaper/page/22337446).
