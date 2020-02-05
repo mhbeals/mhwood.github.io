@@ -75,6 +75,6 @@ night before.
     twice a week or in irregular intervals an exact **date** can be of
     higher value.” \[Europeana Newspapers 2015, 47\]  
     
-<img src="../img/date.jpg" height="500" width="300"/>  
+<img src="http://www.digitisednewspapers.net/img/date.jpg" height="500" width="300"/>  
 
 > Example of an article printed under an earlier date. Court report dated 15 September 1869 in *Brisbane Courier*, 16 September 1869: 2. [Trove](http://nla.gov.au/nla.news-article1296066). 
