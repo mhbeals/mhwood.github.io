@@ -29,16 +29,14 @@ Selecting which of these editions to digitise, or all of them, is an
 issue under discussion with the Library’s current *Heritage Made
 Digital* digitisation programme. The term was used, though not commonly,
 in the nineteenth century, where “edition” more usually referred to a
-specific printing of a book rather than a newspaper. edition’ more
-usually referred to a specific printing of a book rather than a
-newspaper.
+specific printing of a book rather than a newspaper.
 
 ## Examples:
 
 ### As a geographical variant
 
-“Most were short-lived but the London **edition** of the Detroit
-    Free Press, which was composed almost entirely of American humour,
+“Most were short-lived but the London **edition** of the *Detroit
+    Free Press*, which was composed almost entirely of American humour,
     sold between 100,000 and 300,000 weekly copies during the 1880s and
     1890s.” \[Nicholson 2012, 285\] 
 
