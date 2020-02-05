@@ -32,7 +32,7 @@ Australia for its physical collection.
 
 ## Examples:  
  
-<img src="../img/title-changes.png" align="middle">  
+<img src="https://www.digitisednewspapers.net/img/title-changes.png">  
   
 > An example of a title change: the *Adelaide Chronicle and South Australian Advertiser* became the *Adelaide Chronicle and South Australian Literary Record* in May 1840, to indicate a stronger focus on literature. Pages from Trove: [17 December 1839](https://trove.nla.gov.au/newspaper/page/22337878) and [18 May 1842](http://nla.gov.au/nla.news-page22340133).  
   
