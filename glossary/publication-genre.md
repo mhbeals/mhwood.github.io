@@ -73,3 +73,7 @@ genre for the [**run**](../publication-date-range).
     \[Nicholson 2012, 277\]
 
 “Tiettyä **lajityyppiä** ohjaavat tietyt säännönmukaisuudet.”
+  
+<img src="https://www.digitisednewspapers.net/img/genre.jpg">  
+  
+> Example showing departments including Shipping Intelligence, Commercial and Markets, Ship Mails, Married, Birth, Died, Original Correspondence, Local Intelligence, Supreme Court and Sydney, from *Colonial Times*, 10 August 1852: 2. [Trove](https://trove.nla.gov.au/newspaper/page/674622).
