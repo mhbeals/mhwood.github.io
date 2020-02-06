@@ -66,4 +66,4 @@ however, include these multiple [**editions**](../edition).
 
 <img src="https://www.digitisednewspapers.net/img/daily.jpg">  
           
-> Sample showing frequency information in the masthead from *The Argus*, 24 February 1851: 1. [Trove](https://trove.nla.gov.au/newspaper/page/505251).
+> Sample showing frequency information in the masthead ("Published daily—Sundays excepted") from *The Argus*, 24 February 1851: 1. [Trove](https://trove.nla.gov.au/newspaper/page/505251).
