@@ -27,8 +27,11 @@ semi-automatically and checked by an operator.
 ## Examples:
 <img src="https://www.digitisednewspapers.net/img/page-count.jpg">  
           
->Masthead of *Fitzroy City Press* including page count, 7 February 1890: 1. [Trove](http://nla.gov.au/nla.news-page6612372).
+> Masthead of *The Fitzroy City Press* including page count, 7 February 1890: 1. [Trove](http://nla.gov.au/nla.news-page6612372).
   
+<img src="https://www.digitisednewspapers.net/img/page-number.jpg">  
+          
+> Folio, showing page number, of the *Evening News*, 24 July 1885: 3. [Trove](https://trove.nla.gov.au/newspaper/page/11785234).
   
 “**pages** have to be read sequentially (or, the skipping of pages
     has to be done in sequence); the entire contents of an article, or
