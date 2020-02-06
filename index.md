@@ -4,7 +4,7 @@ title: The Atlas
 subtitle: Mapping the Histories and Data of Digitised Newspapers Collections Around the World
 use-site-title: true
 ---
-[![Fig.1](https://www.digitisednewspapers.net/img/numbers.jpg)](https://www.digitisednewspapers.net/img/infographic.jpg)
+[![Fig.1](https://www.digitisednewspapers.net/img/numbers.jpg)](https://www.digitisednewspapers.net/img/graphic.jpg)
   
 Between 2017 and 2019, [*Oceanic Exchanges*](http://www.oceanicexchanges.org), 
 funded through the Transatlantic
