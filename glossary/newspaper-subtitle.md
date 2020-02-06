@@ -23,7 +23,7 @@ However, most collections do not contain fields for newspaper subtitles.
   
 <img src="https://www.digitisednewspapers.net/img/motto.jpg">  
           
-> Masthead including subtitle ("Devoted to the Interests of Judaism in the Australasian Colonies") and motto in Hebrew and English, *The Jewish Herald*, 12 December 1879: 1. [Trove](http://nla.gov.au/nla.news-page17711427).  
+> Masthead including subtitle ("Devoted to the Interests of Judaism in the Australasian Colonies") and motto in Hebrew (מי לד' אלי) and English ("'Who is on the Lord's side, let him come to me!'—Exodus xxxii, 26"), *The Jewish Herald*, 12 December 1879: 1. [Trove](http://nla.gov.au/nla.news-page17711427).  
   
 “**Mottos**, related titles, or statements of geographic or other
     intended audience may appear with the title in the masthead, but
