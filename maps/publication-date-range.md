@@ -19,8 +19,7 @@ years of publication.
 
 Newspaper start date and end date provide the full ISO date
 for the publication’s first and last [**issue**](../issue-number). Instantiations are
-divided into container elements Instantiations are divided into
-container elements, which hold no specific data, and attributes or
+divided into container elements, which hold no specific data, and attributes or
 specific elements, which hold the year, month and day separately.
 
 ## Category Notes
