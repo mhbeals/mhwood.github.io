@@ -86,3 +86,5 @@ Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara
 Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of
 Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*.
 Loughborough: 2020. [DOI: 10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059)
+
+<img src="https://www.digitisednewspapers.net/img/Mapping-Digitised-Newspaper-Metadata (1).jpg">
