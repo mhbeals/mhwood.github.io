@@ -180,7 +180,7 @@ required, components of the data files.
 ### Backend Structure
 
 The data for each issue is stored in multiple image and text files
-within a numerical directory structure, organised by unique batch
+within a [alphanumerical directory structure](https://chroniclingamerica.loc.gov/data/batches/), organised by unique batch
 identifiers. Each batch contains several unique titles, listed by their
 canonical Library of Congress Call Number. Within each title
 subdirectory, files are separated into subdirectories by issue date.
