@@ -9,8 +9,8 @@ use-site-title: false
 
 ## Technical Definition
 
-Specifies the printed title for a section; distinct from an article
-headline or title.
+Specifies the printed title for a section; distinct from an [**article
+headline or title**](headline.md).
 
 ## Category Notes
 
