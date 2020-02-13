@@ -32,26 +32,26 @@ If you would like to add a clarification (e.g. explaining a term, adding in a ne
 ## Metadata Maps
 If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the *Atlas*. We also welcome corrections and additions. 
   
-The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. 
+The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
-Assigning an **NUID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as @ID) should be filled separately **where they contain different information**. If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
+Assigning an **NUID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as [@ID](https://www.digitisednewspapers.net/maps/id/)) should be filled separately **where they contain different kinds of information** (e.g. @ID might be a newspaper ID, an issue ID, or an article ID). If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
 > mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:name[@type="personal"]\mods:role\mods:namePart@
   
-Assign a **collection ID** (which is usually a 4-character abbreviation of the database name, followed by the type of file e.g. PPAL is Papers Past ALTO). When recording **XPaths**, ensure attributes are indicated by an @ symbol and record the name of the field itself separately under **Name**. Record the **format** as accurately as possible for each field (e.g. even if it is a METS file, it might use MIX or another XML standard for specific elements).  
+Assign a **collection ID** (which should be a 2-character abbreviation of the database name, followed by a 2-character abbreviation of the type of file e.g. PPAL for Papers Past ALTO). When recording **XPaths**, ensure attributes are indicated by an @ symbol and record the name of the field itself separately under **Name**. Record the **format** as accurately as possible for each field (e.g. even if it is a METS file, it might use MIX or another XML standard for specific elements).  
   
 **Content types** are as follows: 
   
-| BOO | A Boolean char such as 0/1 or Y/N  |
-| COO | A set of numeric coordinates to delineate a segment of an image |
-| DAT | A single date  |
-| DAR | A range of dates  |
-| FIN | A filename  |
-| STR | An open-ended string of content (alphanumeric)  |
-| MCH | Multiple pre-defined choices  |
-| NUL | Holds no content; used as a container element for other fields  |
-| NUM | Numeric value; may include the symbols . , -  |
-| UID | Any form of unique ID or acronym  |
-| URL | A url  |
+| BOO | A **Boolean** char such as 0/1 or Y/N  |
+| COO | A set of numeric **coordinates** to delineate a segment of an image |
+| DAT | A single **date**  |
+| DAR | A **range** of dates  |
+| FIN | A **filename**  |
+| STR | An open-ended **string** of content (alphanumeric)  |
+| MCH | **Multiple choices** (pre-defined)  |
+| NUL | Holds no content; used as a **container** element for other fields  |
+| NUM | **Numeric** value; may include the symbols . , -  |
+| UID | Any form of unique **ID** or acronym  |
+| URL | A **URL**  |
     
 **Example content** should be copied from the sample metadata. Where a whole article is contained in one field, this should be truncated. **Multiple choice values** should be included in a separate column, as found in metadata documentation or inferred from the metadata sample. Once these fields are defined, you can fill out the **Category** and **Sub-Category**. Please use the categories from our *Atlas*, unless mapping something that does not already have an entry. The categories are the main entry titles, and sub-categories are indicated under Instantiations where applicable.
   
