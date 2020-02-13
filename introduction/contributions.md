@@ -10,10 +10,18 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 **All updates should be written in markdown, following [GitHub's guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).**
 
 ## Simple Edits
+[Database histories](https://www.digitisednewspapers.net/histories/) can be found in the 'histories' folder. [Metadata maps](https://www.digitisednewspapers.net/maps/) can be found in the 'maps' folder. [Glossary entries](https://www.digitisednewspapers.net/glossary/) can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.
 
-### I found a typo!
+### I found a typo!  
+Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
 
 ### I want to add a link or clarification
+We welcome new links to other relevant pages in the *Atlas*, other URIs for fields, and documentation pertaining to the collections we have analysed. If you would like to add a new external [Resource](https://www.digitisednewspapers.net/introduction/web/), please see the relevant sections at the bottom of this page.  
+  
+Adding links in markdown is very easy. Just surround your chosen term with square brackets, and put the link in brackets immediately after.  
+>    \[Like this\](link)
+  
+If you would like to add a clarification (e.g. explaining a term, adding in a new key date in a database history, expanding on a point in a metadata map or glossary entry), please go to the relevant file (in the folders indicated above) and make the change directly. Please specify in the commit what the change is and submit a pull request. We will review and approve the submitted request.
 
 ## Database Histories
 
@@ -168,17 +176,16 @@ These can be drawn from nineteenth-century primary sources, but should primarily
   
 ## Resources, Tools and Example Projects
 
-### Resources
-
-For written or visual resources discussing or aiding the use of digitised newspapers and metadata
-
-### Tools
-
-For scripts or other tools to manipulate or make use of digitised newspaper databases
+We hope the *Atlas* will be a place for users not only to learn about digitised newspaper collections and metadata, but also  to find other [resources](https://www.digitisednewspapers.net/introduction/web/) — particularly (but not exclusively) scripts and tools that have used our guide and/or dataset. You are very welcome to add links to the following:
 
 ### Example Projects
 
-External projects using digitised newspaper data
+External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines).
 
- 
+### Tools
 
+Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does.
+  
+### Resources
+
+Written or visual resources discussing or aiding the use of digitised newspapers and metadata.
