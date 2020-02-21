@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Issues with Editions; Editions with Issues
-use-site-title: true
 ---
+
 **This is the first of a series of blog posts that will expand on elements of the *Atlas*, including selection 
 decisions, lessons learned from our archival partners, and some of the ontological issues we found when 
 working with digitised newspaper metadata.**
