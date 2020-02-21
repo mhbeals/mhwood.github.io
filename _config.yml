@@ -17,6 +17,7 @@ navbar-links:
     - Methodology:  "introduction/methodology"
     - Aims and Objectives:  "introduction/aims"
     - Acknowledgements:  "introduction/acknowledgements"
+    - Latest News: "news"
   Databases: 
     - Introduction: "histories"
     - British Library: "histories/bl" 
