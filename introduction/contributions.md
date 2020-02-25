@@ -14,13 +14,13 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) and submit a pull request. [Database histories](https://www.digitisednewspapers.net/histories/) can be found in the 'histories' folder. [Metadata maps](https://www.digitisednewspapers.net/maps/) can be found in the 'maps' folder. [Glossary entries](https://www.digitisednewspapers.net/glossary/) can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.
 
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50"><b>Typographical Errors</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Typographical Errors</b></summary>
   
 Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
 </details>
-
+</br>
 <details>
-  <summary><b>Links</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Links</b></summary>
   
 We welcome new links to other relevant pages in the *Atlas*, other URIs for fields, and documentation pertaining to the collections we have analysed. If you would like to add a new external [Resource](https://www.digitisednewspapers.net/introduction/web/), please see the relevant sections at the bottom of this page.  
   
@@ -33,12 +33,12 @@ If you would like to add a clarification (e.g. explaining a term, adding in a ne
 ## Database Histories
 
 <details>
-  <summary><b>Building a new Database History</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Building a new Database History</b></summary>
   
 </details>
-
+<br/>
 <details>
-  <summary><b>Updating an existing Database History</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Updating an existing Database History</b></summary>
   
 </details> 
 
@@ -46,7 +46,7 @@ If you would like to add a clarification (e.g. explaining a term, adding in a ne
 If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the *Atlas*. We also welcome corrections and additions. 
 
 <details>
-  <summary><b>Inputting Metadata Information</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Inputting Metadata Information</b></summary>
    
 The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
@@ -83,9 +83,9 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
 </details>
-
+<br/>
 <details>
-  <summary><b>Updating Existing Metadata Maps</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Updating Existing Metadata Maps</b></summary>
   
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
@@ -97,16 +97,16 @@ Under **Instantiations**, please add the collection ID, XPath, content type and 
   
 Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page. 
 </details>
-
+<br/>
 <details>
-  <summary><b>Building a New Map</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Building a New Map</b></summary>
   
 If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\].
 
 The standard map entry is as follows:
 
 <details>
-  <summary><b>Map page template</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Map page template</b></summary>
   
     ---
     layout: map
@@ -140,9 +140,9 @@ As described above, **Category Notes** should primarily be used to make general 
   
 Ensure you list the new [collection ID](https://www.digitisednewspapers.net/maps/) on the overview page, indicating format and file type. 
 </details>
-
+<br/>
 <details>
-  <summary><b>Upload Changes to the Dynamic Data Set</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Upload Changes to the Dynamic Data Set</b></summary>
 
 Please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
 </details>
@@ -152,7 +152,7 @@ Please update the cells in a clearly delimited batch (i.e. do one set at a time,
 If you work with a particular aspect of newspaper history or otherwise have an in-depth knowledge of it, we encourage you to add a glossary entry for it to the *Atlas*. We also welcome corrections and additions. 
 
 <details>
-  <summary><b>Updating an Existing Glossary Entry</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Updating an Existing Glossary Entry</b></summary>
 
 The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries. 
   
@@ -162,16 +162,16 @@ For **language variants**, please simply add the term alongside the existing var
   
 We are particularly interested to record variant terms and their use (for example, frequency versus periodicity) and more granular detail (such as the distinctions between daily, weekly, and monthly publications). These alternate terms can also be added to the [glossary index](https://www.digitisednewspapers.net/glossary/). 
 </details>  
-  
+<br/>  
 <details>
-  <summary><b>Creating a new entry</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Creating a new entry</b></summary>
 
 We welcome new entries in our glossary. The glossary is not meant to be an exhaustive guide to newspaper history and layout as there is a wealth of scholarly literature on this subject, but should be tied to what is present in the metadata.
   
 Please create a new glossary entry under [http://atlasofdigitisednewspapers.github.io/glossary/](http://atlasofdigitisednewspapers.github.io/glossary/) as \[chosen-title.md\]. 
 
 <details>
-  <summary><b>Glossary page template</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Glossary page template</b></summary>
   
     ---
     layout: page
@@ -202,25 +202,26 @@ This section should include relevant information about the entry's evolution in 
   
 **Examples**  
 These can be drawn from nineteenth-century primary sources, but should primarily focus on how periodicals researchers, historians, digitisers, archivists and library scientists have used the term. Please add any new sources to our [bibliography](https://www.digitisednewspapers.net/introduction/bibliography/) using MLA referencing. A good starting point is *[Victorian Periodicals Review](https://muse.jhu.edu/journal/304)* or the *Dictionary of Nineteenth-Century Journalism* (ed. Marysa Demoor and Laurel Brake, 2009) for historical uses, and published [IFLA proceedings](https://www.ifla.org/annual-conference/proceedings) for archive and library science usage.
-  
+</details>
+
 ## Resources, Tools and Example Projects
 
 We hope the *Atlas* will be a place for users not only to learn about digitised newspaper collections and metadata, but also  to find other [resources](https://www.digitisednewspapers.net/introduction/web/) — particularly (but not exclusively) scripts and tools that have used our guide and/or dataset. You are very welcome to add links to the following:
 
 <details>
-  <summary><b>Example Projects</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Example Projects</b></summary>
 
 External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines).
 </details>
-
+<br/>
 <details>
-  <summary><b>Tools</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Tools</b></summary>
 
 Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does.
 </details>
-  
+<br/>  
 <details>
-  <summary><b>Resources</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"> <b>Resources</b></summary>
 
 Written or visual resources discussing or aiding the use of digitised newspapers and metadata.
 </details>
