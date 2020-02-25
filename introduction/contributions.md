@@ -30,17 +30,24 @@ Adding links in markdown is very easy. Just surround your chosen term with squar
 If you would like to add a clarification (e.g. explaining a term, adding in a new key date in a database history, expanding on a point in a metadata map or glossary entry), please go to the relevant file (in the folders indicated above) and make the change directly. Please specify in the commit what the change is and submit a pull request. We will review and approve the submitted request.
 </details>
 
-
-
 ## Database Histories
 
-### Building a new Database History
+<details>
+  <summary><b>Building a new Database History</b></summary>
+  
+</details>
 
-### Updating an existing Database History
+<details>
+  <summary><b>Updating an existing Database History</b></summary>
+  
+</details> 
 
 ## Metadata Maps
 If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the *Atlas*. We also welcome corrections and additions. 
-  
+
+<details>
+  <summary><b>Inputting Metadata Information</b></summary>
+   
 The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
 Assigning an **NUID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as [@ID](https://www.digitisednewspapers.net/maps/id/)) should be filled separately **where they contain different kinds of information** (e.g. @ID might be a newspaper ID, an issue ID, or an article ID). If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
@@ -75,8 +82,11 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 43  | issue\article\text\text.title\p\  | wd  | 40 |  |  | 44  |
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
-    
-### Updating existing maps
+</details>
+
+<details>
+  <summary><b>Updating Existing Metadata Maps</b></summary>
+  
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
 **Category Notes** should be used to link to URIs for the field type or make general comments about the fields. If you are only adding instantiations from one collection, it is unlikely that you will need to make significant changes to this section.
@@ -86,9 +96,15 @@ Once the above process has been completed, fields that map to existing categorie
 Under **Instantiations**, please add the collection ID, XPath, content type and sample content.
   
 Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page. 
+</details>
 
-### Building a new map
+<details>
+  <summary><b>Building a New Map</b></summary>
   
+If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\].
+
+The standard map entry is as follows:
+
 <details>
   <summary><b>Map page template</b></summary>
   
@@ -114,8 +130,7 @@ Please also add your new [collection ID](https://www.digitisednewspapers.net/map
     | [Collection ID]  |  [XPath including element/attribute name] | [Content type] | [Example content] |
 </details>
 
-
-If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\]. It should also be added to the relevant index ([Content](https://www.digitisednewspapers.net/maps/content/), [Citation](https://www.digitisednewspapers.net/maps/citation/), [Bibliographic](https://www.digitisednewspapers.net/maps/bibliographic/), [Holdings](https://www.digitisednewspapers.net/maps/holdings/), [Descriptive](https://www.digitisednewspapers.net/maps/descriptive), [User-Generated](https://www.digitisednewspapers.net/maps/social/), [Technical](https://www.digitisednewspapers.net/maps/technical/)).
+It should also be added to the relevant index ([Content](https://www.digitisednewspapers.net/maps/content/), [Citation](https://www.digitisednewspapers.net/maps/citation/), [Bibliographic](https://www.digitisednewspapers.net/maps/bibliographic/), [Holdings](https://www.digitisednewspapers.net/maps/holdings/), [Descriptive](https://www.digitisednewspapers.net/maps/descriptive), [User-Generated](https://www.digitisednewspapers.net/maps/social/), [Technical](https://www.digitisednewspapers.net/maps/technical/)).
   
 **Technical Definition** should contain the broadest description of the category. It might indicate whether this is generally a field taken from a MARC record, or as printed on the object, etc. It should cross-reference other categories where appropriate by linking to the relevant page, to show how it is distinct from existing entries. 
   
@@ -124,18 +139,19 @@ As described above, **Category Notes** should primarily be used to make general 
 **Instantiations** can be divided into sub-categories where sensible, marked with a section heading. Collection ID, XPath, content type and sample content should be included in the table. These sub-categories should also be indicated in the dataset. 
   
 Ensure you list the new [collection ID](https://www.digitisednewspapers.net/maps/) on the overview page, indicating format and file type. 
+</details>
 
-#### A new version of a static dataset
+<details>
+  <summary>Upload Changes to the Dynamic Data Set</summary>
 
-For data from a database that periodically releases new versions, but the older versions still exist, please add rows in a clearly delimited batch and send to us as a pull request. We will review new submissions and either accept or send comments back for revisions.
-
-#### Changes to a dynamic static set
-
-If the database updates on a periodic or rolling basis and replaces older versions, please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
+Please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
+</details>
 
 ## Glossary Entries
 
-### Updating an existing glossary entry  
+<details>
+  <summary><b>Updating an existing glossary entry</b></summary>
+
 The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries. 
   
 For **language variants**, please simply add the term alongside the existing variants.
@@ -143,8 +159,14 @@ For **language variants**, please simply add the term alongside the existing var
 **Usage notes** encompasses both the history of the term and its use in digitised newspaper collections. When adding information to this section, please also add any sources to our [bibliography](https://www.digitisednewspapers.net/introduction/bibliography/) using MLA style. We especially welcome historical information concerning the development of the newspaper in non-Anglophone countries. Please ensure these usage notes are focused on the nineteenth-century newspaper rather than modern newspapers. 
   
 We are particularly interested to record variant terms and their use (for example, frequency versus periodicity) and more granular detail (such as the distinctions between daily, weekly, and monthly publications). These alternate terms can also be added to the [glossary index](https://www.digitisednewspapers.net/glossary/). 
+</details>  
   
-### Creating a new entry  
+<details>
+  <summary><b>Creating a new entry</b></summary>
+
+We welcome new entries in our glossary. The glossary is not meant to be an exhaustive guide to newspaper history and layout as there is a wealth of scholarly literature on this subject, but should be tied to what is present in the metadata.
+  
+Please create a new glossary entry under [http://atlasofdigitisednewspapers.github.io/glossary/](http://atlasofdigitisednewspapers.github.io/glossary/) as \[chosen-title.md\]. 
 
 <details>
   <summary><b>Glossary page template</b></summary>
@@ -167,10 +189,6 @@ We are particularly interested to record variant terms and their use (for exampl
     ### [Sub-Type Examples]
      
 </details>
-
-We welcome new entries in our glossary. The glossary is not meant to be an exhaustive guide to newspaper history and layout as there is a wealth of scholarly literature on this subject, but should be tied to what is present in the metadata.
-  
-Please create a new glossary entry under [http://atlasofdigitisednewspapers.github.io/glossary/](http://atlasofdigitisednewspapers.github.io/glossary/) as \[chosen-title.md\]. 
   
 Ensure you also add the new entry to [http://atlasofdigitisednewspapers.github.io/glossary/](http://atlasofdigitisednewspapers.github.io/glossary/)index.md as a link (the entries are in alphabetical order), so that it is visible on the [glossary page](https://www.digitisednewspapers.net/glossary/).
   
@@ -187,14 +205,20 @@ These can be drawn from nineteenth-century primary sources, but should primarily
 
 We hope the *Atlas* will be a place for users not only to learn about digitised newspaper collections and metadata, but also  to find other [resources](https://www.digitisednewspapers.net/introduction/web/) — particularly (but not exclusively) scripts and tools that have used our guide and/or dataset. You are very welcome to add links to the following:
 
-### Example Projects
+<details>
+  <summary><b>Example Projects</b></summary>
 
 External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines).
+</details>
 
-### Tools
+<details>
+  <summary><b>Tools</b></summary>
 
 Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does.
+</details>
   
-### Resources
+<details>
+  <summary><b>Resources</b></summary>
 
 Written or visual resources discussing or aiding the use of digitised newspapers and metadata.
+</details>
