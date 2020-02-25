@@ -8,17 +8,17 @@ use-site-title: false
 <p>The <em>Atlas of Digitised Newspapers and Metadata</em> is the result of the two-year project <em>Oceanic Exchanges</em>. Now that the project has concluded, we are hoping that you, the GLAM, digital humanities and periodical studies community will help develop and expand our initial work. In order to ensure consistency and robustness of the information, we ask that you contribute to the <em>Atlas</em> using the procedures listed below.  If you have any questions, or want to discuss a possible addition more informally, feel free to contact <a href="/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/blob/master/introduction/m.h.beals@lboro.ac.uk">Melodee Beals</a> or <a href="/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/blob/master/introduction/e.bell@lboro.ac.uk">Emily Bell</a>.</p>
 
 <p><strong>All updates should be written in markdown, following <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">GitHub's guidelines</a>.</strong></p>
-<h2><a id="user-content-simple-edits" class="anchor" aria-hidden="true" href="#simple-edits"></a>Simple Edits</h2>
+<h2><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><a id="user-content-simple-edits" class="anchor" aria-hidden="true" href="#simple-edits"></a>Simple Edits</h2>
 
 <p>To make changes, please go to our <a href="https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io">GitHub</a> and submit a pull request. <a href="https://www.digitisednewspapers.net/histories/" rel="nofollow">Database histories</a> can be found in the 'histories' folder. <a href="https://www.digitisednewspapers.net/maps/" rel="nofollow">Metadata maps</a> can be found in the 'maps' folder. <a href="https://www.digitisednewspapers.net/glossary/" rel="nofollow">Glossary entries</a> can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Typographical Errors</b></summary>
+  <summary><b>Typographical Errors</b></summary>
 
 <p>Thank you for spotting it! Please find the relevant page on our <a href="https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io">GitHub</a> (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.</p>
-</details>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Links</b></summary>
+  <summary><b>Links</b></summary>
 
 <p>We welcome new links to other relevant pages in the <em>Atlas</em>, other URIs for fields, and documentation pertaining to the collections we have analysed. If you would like to add a new external <a href="https://www.digitisednewspapers.net/introduction/web/" rel="nofollow">Resource</a>, please see the relevant sections at the bottom of this page.</p>
 
@@ -29,20 +29,20 @@ use-site-title: false
 </blockquote>
 
 <p>If you would like to add a clarification (e.g. explaining a term, adding in a new key date in a database history, expanding on a point in a metadata map or glossary entry), please go to the relevant file (in the folders indicated above) and make the change directly. Please specify in the commit what the change is and submit a pull request. We will review and approve the submitted request.</p>
-</details>
-<h2><a id="user-content-database-histories" class="anchor" aria-hidden="true" href="#database-histories"></a>Database Histories</h2>
+</details><br/>
+<h2><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><a id="user-content-database-histories" class="anchor" aria-hidden="true" href="#database-histories"></a>Database Histories</h2>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Building a new Database History</b></summary>
-</details>
+  <summary><b>Building a new Database History</b></summary>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Updating an existing Database History</b></summary>
-</details> 
-<h2><a id="user-content-metadata-maps" class="anchor" aria-hidden="true" href="#metadata-maps"></a>Metadata Maps</h2>
+  <summary><b>Updating an existing Database History</b></summary>
+</details><br/> 
+<h2><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><a id="user-content-metadata-maps" class="anchor" aria-hidden="true" href="#metadata-maps"></a>Metadata Maps</h2>
 
 <p>If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the <em>Atlas</em>. We also welcome corrections and additions.</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Inputting Metadata Information</b></summary>
+  <summary><b>Inputting Metadata Information</b></summary>
 
 <p>The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to <a href="https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110" rel="nofollow">our dataset</a>.</p>
 
@@ -117,10 +117,10 @@ use-site-title: false
 </tr>
 </tbody>
 </table>
-</details>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Updating Existing Metadata Maps</b></summary>
+  <summary><b>Updating Existing Metadata Maps</b></summary>
 
 <p>Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.</p>
 
@@ -131,16 +131,16 @@ use-site-title: false
 <p>Under <strong>Instantiations</strong>, please add the collection ID, XPath, content type and sample content.</p>
 
 <p>Please also add your new <a href="https://www.digitisednewspapers.net/maps/" rel="nofollow">collection ID</a> to the introductory page.</p>
-</details>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Building a New Map</b></summary>
+  <summary><b>Building a New Map</b></summary>
 
 <p>If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under <a href="http://atlasofdigitisednewspapers.github.io/maps/" rel="nofollow">http://atlasofdigitisednewspapers.github.io/maps/</a> as [chosen-title.md].</p>
 
 <p>The standard map entry is as follows:</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Map page template</b></summary>
+  <summary><b>Map page template</b></summary>
 <pre><code>---
 layout: map
 title: [Title]
@@ -162,7 +162,7 @@ use-site-title: false
  
 | [Collection ID]  |  [XPath including element/attribute name] | [Content type] | [Example content] |
 </code></pre>
-</details>
+</details><br/>
 
 <p>It should also be added to the relevant index (<a href="https://www.digitisednewspapers.net/maps/content/" rel="nofollow">Content</a>, <a href="https://www.digitisednewspapers.net/maps/citation/" rel="nofollow">Citation</a>, <a href="https://www.digitisednewspapers.net/maps/bibliographic/" rel="nofollow">Bibliographic</a>, <a href="https://www.digitisednewspapers.net/maps/holdings/" rel="nofollow">Holdings</a>, <a href="https://www.digitisednewspapers.net/maps/descriptive" rel="nofollow">Descriptive</a>, <a href="https://www.digitisednewspapers.net/maps/social/" rel="nofollow">User-Generated</a>, <a href="https://www.digitisednewspapers.net/maps/technical/" rel="nofollow">Technical</a>).</p>
 
@@ -173,18 +173,18 @@ use-site-title: false
 <p><strong>Instantiations</strong> can be divided into sub-categories where sensible, marked with a section heading. Collection ID, XPath, content type and sample content should be included in the table. These sub-categories should also be indicated in the dataset.</p>
 
 <p>Ensure you list the new <a href="https://www.digitisednewspapers.net/maps/" rel="nofollow">collection ID</a> on the overview page, indicating format and file type.</p>
-</details>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Upload Changes to the Dynamic Data Set</b></summary>
+  <summary><b>Upload Changes to the Dynamic Data Set</b></summary>
 
 <p>Please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.</p>
-</details>
-<h2><a id="user-content-glossary-entries" class="anchor" aria-hidden="true" href="#glossary-entries"></a>Glossary Entries</h2>
+</details><br/>
+<h2><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><a id="user-content-glossary-entries" class="anchor" aria-hidden="true" href="#glossary-entries"></a>Glossary Entries</h2>
 
 <p>If you work with a particular aspect of newspaper history or otherwise have an in-depth knowledge of it, we encourage you to add a glossary entry for it to the <em>Atlas</em>. We also welcome corrections and additions.</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Updating an Existing Glossary Entry</b></summary>
+  <summary><b>Updating an Existing Glossary Entry</b></summary>
 
 <p>The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries.</p>
 
@@ -193,16 +193,16 @@ use-site-title: false
 <p><strong>Usage notes</strong> encompasses both the history of the term and its use in digitised newspaper collections. When adding information to this section, please also add any sources to our <a href="https://www.digitisednewspapers.net/introduction/bibliography/" rel="nofollow">bibliography</a> using MLA style. We especially welcome historical information concerning the development of the newspaper in non-Anglophone countries. Please ensure these usage notes are focused on the nineteenth-century newspaper rather than modern newspapers.</p>
 
 <p>We are particularly interested to record variant terms and their use (for example, frequency versus periodicity) and more granular detail (such as the distinctions between daily, weekly, and monthly publications). These alternate terms can also be added to the <a href="https://www.digitisednewspapers.net/glossary/" rel="nofollow">glossary index</a>.</p>
-</details>  
+</details><br/>  
     
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Creating a new entry</b></summary>
+  <summary><b>Creating a new entry</b></summary>
 
 <p>We welcome new entries in our glossary. The glossary is not meant to be an exhaustive guide to newspaper history and layout as there is a wealth of scholarly literature on this subject, but should be tied to what is present in the metadata.</p>
 
 <p>Please create a new glossary entry under <a href="http://atlasofdigitisednewspapers.github.io/glossary/" rel="nofollow">http://atlasofdigitisednewspapers.github.io/glossary/</a> as [chosen-title.md].</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Glossary page template</b></summary>
+  <summary><b>Glossary page template</b></summary>
 <pre><code>---
 layout: page
 title: [Title]
@@ -220,7 +220,7 @@ use-site-title: false
 
 ### [Sub-Type Examples]
 </code></pre>
-</details>
+</details><br/>
 
 <p>Ensure you also add the new entry to <a href="http://atlasofdigitisednewspapers.github.io/glossary/" rel="nofollow">http://atlasofdigitisednewspapers.github.io/glossary/</a>index.md as a link (the entries are in alphabetical order), so that it is visible on the <a href="https://www.digitisednewspapers.net/glossary/" rel="nofollow">glossary page</a>.</p>
 
@@ -232,24 +232,24 @@ This section should include relevant information about the entry's evolution in 
 
 <p><strong>Examples</strong>  
 These can be drawn from nineteenth-century primary sources, but should primarily focus on how periodicals researchers, historians, digitisers, archivists and library scientists have used the term. Please add any new sources to our <a href="https://www.digitisednewspapers.net/introduction/bibliography/" rel="nofollow">bibliography</a> using MLA referencing. A good starting point is <em><a href="https://muse.jhu.edu/journal/304" rel="nofollow">Victorian Periodicals Review</a></em> or the <em>Dictionary of Nineteenth-Century Journalism</em> (ed. Marysa Demoor and Laurel Brake, 2009) for historical uses, and published <a href="https://www.ifla.org/annual-conference/proceedings" rel="nofollow">IFLA proceedings</a> for archive and library science usage.</p>
-</details>
-<h2><a id="user-content-resources-tools-and-example-projects" class="anchor" aria-hidden="true" href="#resources-tools-and-example-projects"></a>Resources, Tools and Example Projects</h2>
+</details><br/>
+<h2><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><a id="user-content-resources-tools-and-example-projects" class="anchor" aria-hidden="true" href="#resources-tools-and-example-projects"></a>Resources, Tools and Example Projects</h2>
 
 <p>We hope the <em>Atlas</em> will be a place for users not only to learn about digitised newspaper collections and metadata, but also  to find other <a href="https://www.digitisednewspapers.net/introduction/web/" rel="nofollow">resources</a> — particularly (but not exclusively) scripts and tools that have used our guide and/or dataset. You are very welcome to add links to the following:</p>
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Example Projects</b></summary>
+  <summary><b>Example Projects</b></summary>
 
 <p>External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines).</p>
-</details>
+</details><br/>
   
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Tools</b></summary>
+  <summary><b>Tools</b></summary>
 
 <p>Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does.</p>
-</details>
+</details><br/>
     
 <details>
-  <summary><img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"><b>Resources</b></summary>
+  <summary><b>Resources</b></summary>
 
 <p>Written or visual resources discussing or aiding the use of digitised newspapers and metadata.</p>
-</details>
+</details><br/>
