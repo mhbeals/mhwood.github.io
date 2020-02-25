@@ -14,7 +14,7 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) and submit a pull request. [Database histories](https://www.digitisednewspapers.net/histories/) can be found in the 'histories' folder. [Metadata maps](https://www.digitisednewspapers.net/maps/) can be found in the 'maps' folder. [Glossary entries](https://www.digitisednewspapers.net/glossary/) can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.
 
 <details>
-  <summary><b>Typographical Errors</b></summary>
+  <summary><img src="../../img/pointinghand.png" width="50"><b>Typographical Errors</b></summary>
   
 Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
 </details>
