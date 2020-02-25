@@ -4,6 +4,8 @@
 title: The Atlas
 # Short description of your site
 description: Mapping the Histories and Metadata of Digitised Newspapers Collections Around the World
+
+# Build settings
 markdown: CommonMarkGhPages
 
 # url is the the website domain URL without a trailing slash
