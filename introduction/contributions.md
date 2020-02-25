@@ -142,15 +142,17 @@ Ensure you list the new [collection ID](https://www.digitisednewspapers.net/maps
 </details>
 
 <details>
-  <summary>Upload Changes to the Dynamic Data Set</summary>
+  <summary><b>Upload Changes to the Dynamic Data Set</b></summary>
 
 Please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
 </details>
 
 ## Glossary Entries
 
+If you work with a particular aspect of newspaper history or otherwise have an in-depth knowledge of it, we encourage you to add a glossary entry for it to the *Atlas*. We also welcome corrections and additions. 
+
 <details>
-  <summary><b>Updating an existing glossary entry</b></summary>
+  <summary><b>Updating an Existing Glossary Entry</b></summary>
 
 The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries. 
   
