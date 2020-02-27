@@ -61,7 +61,7 @@ well as their state of conservation and the metadata about the
 newspapers themselves. Therefore, the quality of the microfilm varies
 leading to variation in the quality of the digitised images and OCR.
 
-#### Preservation and Access
+### Preservation and Access
 
 The library continues to use microfilm as its main preservation strategy
 for the newspaper collection. In recent years the library has turned its
