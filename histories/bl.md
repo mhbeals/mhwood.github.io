@@ -106,7 +106,7 @@ a representative sample of the wider collection, covering the
 metropolitan and provincial press, ranging in political and geographical
 coverage, and representing both English- and Welsh-language titles.
 
-#### Preservation and Access
+### Preservation and Access
 
 The British Library digitises newspapers as part of its remit to
 preserve its collections. Its policy is to provide access through
