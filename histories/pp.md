@@ -136,7 +136,7 @@ titles up to 1950; and additional Pacific material. A record of user
 requests is kept, and those requests are used to help prioritise titles
 for digitisation.
 
-#### Preservation and Access 
+### Preservation and Access 
 
 A separate record for the digitised title is created in the library
 catalogue, which contains a link to the title page on Papers Past. This
