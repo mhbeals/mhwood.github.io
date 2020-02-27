@@ -17,5 +17,5 @@ After using the *Atlas,* we hope that readers will understand the great wealth o
 
 ## Suggested Citation
 
-Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059)
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059).
 
