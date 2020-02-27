@@ -346,7 +346,7 @@ analysis for purposes of performing personal or non-commercial research
 purposes but cannot be duplicated or shared without expressed
 permission.
 
-#### Re-Publication
+### Re-Publication
 
 As part of the user agreement, XML, OCR and image data cannot be
 re-published in any form, physical or digital, without the express
