@@ -203,21 +203,21 @@ files, containing metadata, article segmentation, and page facsimiles.
 
 ## Rights and Usage
 
-## Web Interface 
+### Web Interface 
 
 *The Times Digital Archive is* accessible by institutional subscription
 or purchase and is currently held by many public or national libraries
 worldwide; there is currently no individual subscription model
 available.
 
-## API
+### API
 
 API access is not currently available. However, users can create batches
 of specific issues or titles for bulk download through the Gale [Digital
 Scholar Lab](https://www.gale.com/intl/primary-sources/digital-scholar-lab), a
 separate subscription service.
 
-## Direct Download or Drives
+### Direct Download or Drives
 
 Gale Cengage makes content from its collections available to academic
 researchers for data mining and analysis through physical hard drives
@@ -229,7 +229,7 @@ individual text for large-scale analysis for purposes of performing
 personal or non-commercial research but cannot be duplicated or shared
 without expressed permission.
 
-## Re-Publication
+### Re-Publication
 
 As part of the user agreement, XML, OCR and image data cannot be
 re-published in any form, physical or digital, without the express
