@@ -60,7 +60,7 @@ associated with newspapers are now also available for other published
 material within Trove, including government gazettes, journals
 (magazines and newsletters) and books as well as special collections
 
-#### Consulted Libraries
+### Consulted Libraries
 
 Most of the newspapers within Trove were scanned from microfilm
 collections held by members of the National and State Libraries
@@ -82,7 +82,7 @@ nominated and funded newspapers for digitisation. This includes local,
 state and federal governments, historical societies, archives,
 universities, community groups, foreign embassies and businesses.
 
-#### Microfilming Projects
+### Microfilming Projects
 
 Established in 1992 as the National Plan for Australian Newspapers,
 ANPlan brought together independent programmes of preservation by the
@@ -104,9 +104,9 @@ have been compounded by decreased industry support, including
 manufacture and repair of microform readers and duplicators as well as
 user preference for digital delivery.
 
-#### Digitisation Projects
+### Digitisation Projects
 
-##### Selection
+#### Selection
 
 It was the aim of the ANDP to make freely available all Australian
 newspapers published prior to 1955. During the initial phase of the
@@ -156,7 +156,7 @@ As of December 2019, the library maintains online lists of [current titles](http
 [forthcoming titles](https://help.nla.gov.au/trove/for-digitisation-partners/newspapers-coming-soon))
 and [new additions](https://trove.nla.gov.au/%20newspaper/rss/titles)).
 
-##### Preservation 
+### Preservation 
 
 Although their 2010 five-year plan included discussion of ongoing
 microfilming for preservation, the most recent strategy document for
@@ -167,7 +167,7 @@ implement agreed minimum scanning standards for newspapers across all
 member libraries and detailed guidance on digitisation from both
 microfilm and hardcopy is available on the [Trove Digitisation Partners webpage](https://help.nla.gov.au/trove/for-digitisation-partners).
 
-##### Access
+### Access
 
 The Trove newspapers collection provides users access to the most
 comprehensive selection of historical Australian newspapers in a single
@@ -178,9 +178,9 @@ discretion of individual libraries and where conservation status allows,
 users may still consult original hardcopies of historical newspapers
 that have been digitised.
 
-### Composition of the Collection
+## Composition of the Collection
 
-#### Selection Available
+### Selection Available
 
 As of December 2019, Trove Digitised Newspapers provides access to over
 25 million pages across almost fifteen-hundred Australian newspapers
@@ -197,9 +197,9 @@ newspaper titles already digitised is available on Trove, as well as a
 [list of newspaper titles selected for digitisation for the current
 year](http://www.nla.gov.au/content/new-titles-coming).
 
-#### Data Quality
+### Data Quality
 
-##### Text
+#### Text
 
 A single contractor was responsible for OCR and content analysis in the
 initial phase, while a panel of OCR and content analysis providers have
@@ -247,7 +247,7 @@ undertaken research into how to evaluate the improvement of crowdsourced
 corrections in order to improve the reliability of their
 machine-readable text as the number of digitised pages increases.
 
-##### Images
+#### Images
 
 During its digitisation programme, the majority of Trove newspapers were
 scanned from 35mm master negative silver gelatin microfilm reels or
@@ -259,7 +259,7 @@ page for OCR purposes. They are required to be formatted as a TIFF 6.0
 at 400 PPI, compressed to LZW for the colour master image and CCITT
 Group 4 for the bitonal image.
 
-#### Metadata Schema
+### Metadata Schema
 
 The OCR metadata contained within Trove utilises the METS XML schema is
 used for structural metadata and ALTO XML for the OCR content. The
@@ -269,7 +269,7 @@ OCR processing facilities. Additional metadata regarding user
 annotations and corrections is held in a separate metadata schema
 accessible via the API.
 
-#### Backend Structure
+### Backend Structure
 
 The data for each issue is stored in multiple image and text files, with
 two digital image files, including a raw greyscale TIFF image and a
@@ -290,9 +290,9 @@ individual newspaper title so that all file names are unique for a
 title. Image files are named sequentially based on the order in which
 they appear in the microfilm.
 
-### User Interface Structure
+## User Interface Structure
 
-#### Web Interface
+### Web Interface
 
 The current user interface allows users to perform a simple or advanced
 search of the underlying descriptive metadata and OCR text or to browse
@@ -312,7 +312,7 @@ downloading an image, the article is segmented and then embedded into an
 HTML to facilitate printing onto A4 paper. A new web interface is
 currently in development.
 
-#### API
+### API
 
 The Trove API provides users with machine-readable access to the
 underlying data of the Trove collections, including user-generated data,
@@ -326,14 +326,14 @@ Materials can be accessed using a URL-based request, which assists users
 in formatting their requests. A full technical description of the API is
 available through the Trove Help pages.
 
-#### Direct Download or Drives
+### Direct Download or Drives
 
 The Australian Government Gazettes and the Australian Aborigines’
 advocate are available for bulk download through the Trove Help.
 
-### Rights and Usage
+## Rights and Usage
 
-#### Web Interface
+### Web Interface
 
 The Trove web interface is freely accessible to all users, worldwide.
 All material obtained from the web interface may be used freely for
@@ -341,14 +341,14 @@ personal research. When browsed or searched through the user interface,
 users are presented with a full citation to the digitised image and
 text.
 
-#### API
+### API
 
 The API is free and open, with a key that is automatically obtainable
 for personal use. Commercial use requires explicit approval by Trove.
 Material derived from the Trove API may be used under the same
 conditions as that derived from the web interface.
 
-#### Re-Publication
+### Re-Publication
 
 Digitised newspapers up to 1954, whether delivered through the web
 interface or the API, are available to users as greyscale or colour
@@ -359,3 +359,9 @@ can do this. Before reproducing any newspaper articles, the user is
 asked to confirm whether they are out of copyright. If the article is
 out of copyright, it is free to use; however, proper attribution and
 citation should be applied when using all newspaper content.
+  
+## Suggested Citation
+
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. "Trove." *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges.* Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](https://figshare.com/articles/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059).
+
+
