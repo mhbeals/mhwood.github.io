@@ -174,3 +174,7 @@ the rights and usage for each newspaper.
 All digitised newspapers assembled in ZEFYS are dedicated to the public
 domain. Specific terms of use apply for the sub-collections “Amtspresse
 Preußens” and “DDR Presse”.
+  
+## Suggested Citation
+
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. "ZEFYS." *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges.* Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](https://figshare.com/articles/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059).
