@@ -70,7 +70,7 @@ the most general requirement is that the data provider populates the
 dc:type field with one of the following terms: Newspaper Title,
 Newspaper Issue, Analytic serial, Newspaper, journal, or printed serial.
 
-#### Preservation and Access
+### Preservation and Access
 
 Since Europeana is an aggregator platform for digitised cultural
 heritage, it does not undertake any preservation activities itself, but
