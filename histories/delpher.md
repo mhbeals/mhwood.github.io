@@ -271,3 +271,8 @@ domain and may be used or republished for both personal and commercial
 purposes. Items that remain under third-party copyright may not be
 redistributed or republished, in print or digitally. They may, however,
 be linked to directly.
+  
+## Suggested Citation
+
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. "Delpher." *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges.* Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](https://figshare.com/articles/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059).
+
