@@ -239,3 +239,7 @@ into the public domain, the dataset as a single object should be
 properly attributed in derivative works. Users cannot deliver
 in-copyright digitised material onwards without the permission of the
 rights holder.
+  
+## Suggested Citation
+
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Sebastian Padó, Miriam Peña Pimentel, Mila Oiva, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. "Suomen Kansalliskirjaston digitoidut sanomalehdet." *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges.* Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](https://figshare.com/articles/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059).
