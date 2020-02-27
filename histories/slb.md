@@ -20,7 +20,7 @@ from abroad that were held in card catalogue form at the library. In
 currently gives access to 193 newspaper titles with roughly 7 million
 pages overall.
 
-## Consulted Libraries
+### Consulted Libraries
 
 Digitised newspapers published in ZEYFS typically stem from the
 collection of the Staatsbibliothek zu Berlin. However, in some cases
@@ -33,7 +33,7 @@ University of California, Los Angeles. The British Library contributed
 around 13,000 volumes, and the Federal Press and Information Office
 provided 40,000 volumes and packages.
 
-## Preservation Projects
+### Preservation Projects
 
 Newspapers have been included in the Prussian legal deposit regulations
 since 1699, though it was not until 1824 that an amendment added a
@@ -64,7 +64,7 @@ capture. Preservation microfilming is still supported on a small scale
 and the German Research Associate has mandated that the newly created
 microfilm be listed in the ZDB catalogue.
 
-## Digitisation Projects
+### Digitisation Projects
 
 In addition to the continuous digitisation of newspapers based on user
 demand, the Berlin State Library carried out a number of specific
@@ -75,7 +75,7 @@ digitised three popular newspapers from the German Democratic Republic
 most recently the Europeana “Rise of Literacy” project, which digitised
 the *Vossische* *Zeitung*.
 
-## Selection
+#### Selection
 
 The primary driver behind digitisation at the Berlin State Library has
 been user demand. In addition, the aim of the “Digitisation of the
@@ -83,7 +83,7 @@ Amtspresse Preußens” project was to create a collection of the most
 influential political press of the last third of the nineteenth century,
 together with a commentary and a search function.
 
-## Preservation and Access
+### Preservation and Access
 
 Microfilm is used as the main means for preservation of the Berlin State
 Library newspaper collection. Hard copies that have been microfilmed are
@@ -94,7 +94,7 @@ replacement of the microfilm masters for archiving purposes.
 
 ## Composition of the Collection
 
-## Selection Available
+### Selection Available
 
 ZEFYS provides access to 193 newspaper titles, or 311,234 issues,
 between 1857 and 1939. The main focus of digitisation is on newspapers
@@ -104,9 +104,9 @@ Nachrichten* (founded 1740), foreign German-language papers such as
 *Deutsche La Plata-Zeitung*, and Russian-language papers published in
 Berlin. A full list of titles can be found on the [ZEFYS website](http://zefys.staatsbibliothek-berlin.de/index.php?id=list).
 
-## Data Quality
+### Data Quality
 
-## Text
+#### Text
 
 Only about 50% of the digitised newspapers available in ZEFYS have been
 processed with OCR. Currently, the OCR text is neither used for full
@@ -122,21 +122,21 @@ done using ABBYY FineReader 10 and 11 because of its layout segmentation
 performance, which is much better than that delivered by open source OCR
 engines for historic newspaper layouts.
 
-## Images
+#### Images
 
 Images are captured with 300 PPI and 8-bit colour (greyscale) in TIFF
 format with 90% JPEG compression. This slightly decreases file size
 without negative effects for OCR/OLR processing or viewing images on the
 web.
 
-## Metadata Schema 
+### Metadata Schema 
 
 For the digitised newspapers, the Berlin State Library follows the
 METS/MODS profile for digitised newspapers, established in collaboration
 with the [German Digital Library](https://wiki.deutsche-digitale-bibliothek.de/display/DFD/Anwendungsprofile+und+Best+Practice+Guides\#AnwendungsprofileundBestPracticeGuides-GesamtaufnahmeeinerZeitung).
 ALTO is used to store the OCR full text.
 
-## Backend Structure
+### Backend Structure
 
 Digitised newspapers are organised by title, with subdirectories for
 year and date of issue. In the case of multiple editions on a single
@@ -144,19 +144,19 @@ day, issues are separated by unique identifiers.
 
 ## User Interface Structure
 
-## Web Interface
+### Web Interface
 
 The ZEFYS portal allows users to search and access the digitised
 newspapers by title and date of the issue. Titles can be browsed by year
 and country of publication.
 
-## API
+### API
 
 The Berlin State Library provides an API for the digitised newspapers,
 which allows retrieval of images, full text and metadata. It is
 documented at [https://lab.sbb.berlin/5393/?lang=en](https://lab.sbb.berlin/5393/?lang=en).
 
-## Direct Download or Drives
+### Direct Download or Drives
 
 Currently, the API is the only way to bulk-download digitised newspapers
 from ZEFYS. On request, full exports of images, full text and metadata
