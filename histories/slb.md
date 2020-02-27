@@ -164,12 +164,12 @@ can be provided via external hard disk.
 
 ## Rights and Usage
 
-## Web Interface
+### Web Interface
 
 The title-level metadata displayed in ZEFYS provides information about
 the rights and usage for each newspaper.
 
-## Re-Publication
+### Re-Publication
 
 All digitised newspapers assembled in ZEFYS are dedicated to the public
 domain. Specific terms of use apply for the sub-collections “Amtspresse
