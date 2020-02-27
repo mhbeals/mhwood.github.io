@@ -21,7 +21,7 @@ collection included all newspapers and journals published in Finland
 between 1771 and 1929 and is comprised of over 880,000 newspaper issues,
 containing 6.2 million pages of content.
 
-#### Consulted Libraries
+### Consulted Libraries
 
 The digitisation of Finnish newspapers was undertaken as part of the
 Nordic Project TIDEN, comprised of the Royal Library of Sweden, the
@@ -31,7 +31,7 @@ generally based on microfilms held by the Suomen Kansalliskirjasto, with
 some digitised from physical objects and new issues received
 electronically.
 
-#### Microfilming Projects
+### Microfilming Projects
 
 Newspapers had been the primary focus of reformatting programmes
 throughout Scandinavia since the 1950s and microfilming has been used as
@@ -60,7 +60,7 @@ Currently, a greater number of filming projects include supplements as
 well as borrowed materials (in order to complete runs) than was
 previously the case.
 
-#### Digitisation Projects
+### Digitisation Projects
 
 The initial work undertaken by the University of Helsinki as part of
 TIDEN was funded by the Nordic Council of Scientific Information
@@ -77,7 +77,7 @@ from the Nordic Council for Scientific Information, with additional
 funding from the Ministry of Education allocation to the Finnish
 National Library.
 
-##### Selection
+#### Selection
 
 The digitized historical newspaper collection of the National Library of
 Finland is based upon the newspapers acquired through free deposit laws
@@ -93,9 +93,9 @@ project, the next stages covered the newspapers from 1861 – 1890,
 work followed the alphabetical order of newspapers within the chosen
 timeframe.
 
-### Composition of the Collection
+## Composition of the Collection
 
-#### Selection Available
+### Selection Available
 
 The digitised collection contains all Finnish newspapers held by the
 Suomen Kansalliskirjasto for the years 1771–1929, with later years
@@ -123,9 +123,9 @@ German language publications during the 1820s and 1830s. Out of the
 total number of newspaper pages in the collection, 1,063,648 are in
 Finnish, 892,191 in Swedish, 8,997 in Russian, and 2,551 in German.
 
-#### Data Quality
+### Data Quality
 
-##### Text
+#### Text
 
 The majority of nineteenth-century newspapers digitised by the Suomen
 Kansalliskirjasto were printed using Gothic (Fraktur, blackletter)
@@ -146,7 +146,7 @@ relatively good quality rating of about 69-75%; around 25-30% of the
 collections needs further processing in order to improve the overall
 quality of the data.
 
-##### Images
+#### Images
 
 The publicly available images from the collection are available as a PDF
 or JPEG file with a resolution of 300 PPI, the latter of which is made
@@ -154,14 +154,14 @@ available through a structured URL based on an item’s unique identifier.
 High resolution images are stored at the server of the National Library
 of Finland and released as part of [METS packages](https://digi.kansalliskirjasto.fi/opendata) in TIFF format.
 
-#### Metadata Schema
+### Metadata Schema
 
 The data hosted by the National Library of Finland uses the METS XML
 schema for structural metadata, ALTO XML for the OCR content, MIX11 for
 technical metadata, and MODS12 for descriptive and bibliographic
 metadata.
 
-#### Backend Structure
+### Backend Structure
 
 The main database contains metadata, page data, and file data containing
 the archive directory information. The database offers page images of
@@ -180,9 +180,9 @@ ISSN, year, date, issue and page. For example:
 
 `0355-8347\_1881-07-01\_13\_012.xml`
 
-### User Interface Structures 
+## User Interface Structures 
 
-#### Web Interface
+### Web Interface
 
 The web interface allows users to perform a simple or advanced search of
 the underlying descriptive metadata and OCR text. The advanced search
@@ -198,13 +198,13 @@ manually selected snippets can be downloaded using icons at the left of
 the viewer, and the metadata and OCR text can be viewed in retractable
 widgets.
 
-#### API
+### API
 
 There is currently no API system in place for accessing the newspaper
 data, though bulk data from the collection can be obtained through web
 crawling tools, using the aforementioned standardised file structure.
 
-#### Direct Download or Drives
+### Direct Download or Drives
 
 There are currently several options for obtaining the newspaper data in
 bulk format. The Digital Collections maintain an [Open Data website](https://digi.kansalliskirjasto.fi/opendata) in Finnish and English
@@ -219,9 +219,9 @@ downloadable via the Language Bank of Finland. The dataset includes all
 those newspapers and journals that had been digitised by the end of the
 year 2013. This includes all published newspapers 1875–1920.
 
-### Rights and Usage
+## Rights and Usage
 
-#### Web Interface
+### Web Interface
 
 All out-of-copyright material obtained from the Suomen
 Kansalliskirjaston digitoidut sanomalehdet web interface may be used
@@ -231,7 +231,7 @@ clearly labelled and provide the specific conditions of use for that
 item; users may not redistribute in-copyright digitised material without
 permission from the rights holder.
 
-#### API and Direct Download
+### API and Direct Download
 
 Users are allowed access to archive (ZIP) files of all out-of-copyright
 texts, images and metadata. Although individual texts have been released
