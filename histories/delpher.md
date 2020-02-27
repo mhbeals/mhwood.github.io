@@ -128,7 +128,7 @@ set of newspapers digitised from the beginning of the project. As more
 and more newspapers were digitised during the following years this
 initial selection is becoming less relevant by now.
 
-#### Preservation and Access
+### Preservation and Access
 
 The Koninklijke Bibliotheek considers the digitisation of both microfilm
 and original newspapers as part of its preservation strategy. It has
