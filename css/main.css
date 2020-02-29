@@ -6,6 +6,16 @@ layout: null
 
 /* --- General --- */
 
+body::selection {
+  background-color: #222;
+  color: white;
+}
+
+body::-moz-selection {
+  background-color: #222;
+  color: white;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
