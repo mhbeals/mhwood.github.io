@@ -57,8 +57,7 @@ Please also add your new [collection ID](https://www.digitisednewspapers.net/map
 
 ### <a name="new"></a>Building a New Map
   
-<details>
-  <summary><b>Map page template</b></summary>
+<b>Map page template</b>
   
     ---
     layout: map
@@ -80,7 +79,6 @@ Please also add your new [collection ID](https://www.digitisednewspapers.net/map
     ### [Sub-Category Title]
      
     | [Collection ID]  |  [XPath including element/attribute name] | [Content type] | [Example content] |
-</details>
 
 
 If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\]. It should also be added to the relevant index ([Content](https://www.digitisednewspapers.net/maps/content/), [Citation](https://www.digitisednewspapers.net/maps/citation/), [Bibliographic](https://www.digitisednewspapers.net/maps/bibliographic/), [Holdings](https://www.digitisednewspapers.net/maps/holdings/), [Descriptive](https://www.digitisednewspapers.net/maps/descriptive), [User-Generated](https://www.digitisednewspapers.net/maps/social/), [Technical](https://www.digitisednewspapers.net/maps/technical/)).

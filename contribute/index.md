@@ -33,8 +33,6 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Map](metadata_maps#new)
  
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating the Dynamic Dataset](metadata_maps#dataset)
-
 <br>
 ## Glossary Entries
 
