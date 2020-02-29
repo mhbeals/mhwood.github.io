@@ -16,8 +16,7 @@ We are particularly interested to record variant terms and their use (for exampl
   
 ### <a name="new"></a>Creating a new entry  
 
-<details>
-  <summary><b>Glossary page template</b></summary>
+<b>Glossary page template</b>
   
     ---
     layout: page
@@ -35,8 +34,6 @@ We are particularly interested to record variant terms and their use (for exampl
     ## Examples
     
     ### [Sub-Type Examples]
-     
-</details>
 
 We welcome new entries in our glossary. The glossary is not meant to be an exhaustive guide to newspaper history and layout as there is a wealth of scholarly literature on this subject, but should be tied to what is present in the metadata.
   
