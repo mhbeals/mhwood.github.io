@@ -38,9 +38,9 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 <br>
 ## Glossary Entries
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](gloassary_entries#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](glossary_entries#existing)
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](gloassary_entries#new)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](glossary_entries#new)
 
 <br>
 ## Resources, Tools and Example Projects
