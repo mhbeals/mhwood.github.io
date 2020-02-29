@@ -46,7 +46,7 @@ There are three **field types**: mappable data, containers, and technical. Techn
     
  <a name="existing"></a>
 
-### Updating Existing Maps
+### Updating existing Maps
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
 **Category Notes** should be used to link to URIs for the field type or make general comments about the fields. If you are only adding instantiations from one collection, it is unlikely that you will need to make significant changes to this section.

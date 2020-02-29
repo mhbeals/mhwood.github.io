@@ -23,7 +23,7 @@ To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNe
 <p/>
 ## Database Histories
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Database History](database_histories#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an existing Database History](database_histories#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Database History](database_histories#new)
 
@@ -32,14 +32,14 @@ To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNe
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database](metadata_maps#new_db)
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps](metadata_maps#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating existing Maps](metadata_maps#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Map](metadata_maps#new)
  
 <p/>
 ## Glossary Entries
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](glossary_entries#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an existing Glossary Entry ](glossary_entries#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](glossary_entries#new)
 

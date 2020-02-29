@@ -172,7 +172,7 @@ for project work by the British Library.
 
 #### Gale Legacy Text Mining Drives
 
-Before 2018, the Gale Text Mining Drive contained metadata and text
+Before 2016, the Gale Text Mining Drive contained metadata and text
 content in a single XML file. Although similar in coverage to the
 METS/ALTO schema used by many public institutions, Gale established a
 bespoke metadata schema to label information consistently across its

@@ -5,11 +5,11 @@ subtitle:  Database Histories
 use-site-title: false
 ---
 
-With so many collections around the world, we appreciate efforts by the library, archive and scholarly community to keep the Atlas up to date and growing. Wwhile we appreciate and will accept contributions from both database providers and end-users, we ask that you include references or other provenance details (such as your role within the organisation) to the "pull request" message, so that we can better evaluate claims before integrating them into the *Atlas*. This is especially the case for details regarding policies, funding or governance.
+With so many collections around the world, we appreciate efforts by the library, archive and scholarly community to keep the Atlas up to date and growing. While we appreciate and will accept contributions from both database providers and end-users, we ask that you include references or other provenance details (such as your role within the organisation) to the "pull request" message, so that we can better evaluate claims before integrating them into the *Atlas*. This is especially the case for details regarding policies, funding or governance.
 
-### Updating an Existing Database History
+### Updating an existing Database History
 
-Over the course of time, databases evolve, and we want to reflect this in our histories. The areas you will most likely wish to update in an existing database history are its history, its composition and its techincal or access details.
+Over the course of time, databases evolve, and we want to reflect this in our histories. The areas you will most likely wish to update in an existing database history are its history, its composition and its technical or access details.
 
 #### History
 
@@ -17,11 +17,11 @@ We have attempted to provide an overview of each collection's history, in chrono
 
 #### Composition
 
-If a database has removed a selection of titles or dates, or has discontinued use of materials from a particular source, please replace the current information with a note that the material was previously included, but has since been removed, rather than simply delete the original information. If you feel the selection was never available, and has been included in error, please delete the relevant lines and indicate this in your pull request.
+If a database has removed a selection of titles or dates or has discontinued use of materials from a particular source, please replace the current information with a note that the material was previously included, but has since been removed, rather than simply delete the original information. If you feel the selection was never available, and has been included in error, please delete the relevant lines and indicate this in your pull request.
 
 #### Technical Details
 
-If a database has altered their techincal specifications, backend structure or metadata schema, rather than replace the existing information, please indicate the new techincal information by *adding a new sub-section to the relevant sub heading*.  For an example of this, see the [British Libary 19th Century Newspapers](../../histories/bl.md) entry:
+If a database has altered their technical specifications, backend structure or metadata schema, rather than replace the existing information, please indicate the new technical information by *adding a new sub-section to the relevant sub heading*.  For an example of this, see the [British Library 19th Century Newspapers](../../histories/bl.md) entry:
 
 	### Metadata Schema
 
@@ -31,7 +31,7 @@ If a database has altered their techincal specifications, backend structure or m
 
 	#### Gale Legacy Text Mining Drives
 
-	Before 2018, the Gale Text Mining Drive contained metadata and text
+	Before 2016, the Gale Text Mining Drive contained metadata and text
 	content in a single XML file. Although similar in coverage to the
 	METS/ALTO schema used [...]
 
@@ -47,13 +47,13 @@ If a database has altered their techincal specifications, backend structure or m
 	has been used by BL Labs Competition winners and award recipients in
 	supported projects. [...]
 
-In the case of changes to the user interface or access requirements, please *replace* the exisiting information in these sub-sections.
+In the case of changes to the user interface or access requirements, please *replace* the existing information in these sub-sections.
 
  <a name="new"></a>
  
 ### Building a New Database History
 
-If you would like a new collection or database added to the *Atlas*, you will need to provide a fully referenced collection history, technical specifications, and interface and access information. To begin your entry, use the following history template:
+If you would like a new collection or database added to the *Atlas*, you will need to provide a fully referenced collection history with technical specifications, interface descriptions and access information. To begin your entry, use the following history template:
 
 <b>Database history template</b>
   
@@ -92,13 +92,13 @@ If you would like a new collection or database added to the *Atlas*, you will ne
 
 	### Selection Available
 	
-	[A brief summary of the main contours of the collection in terms of chronology, geography, language, periodical type and major thematic sub-collections. This should give an indication of percentages as well as absolute numbers of titles, issues and pages in these catagories]
+	[A brief summary of the main contours of the collection in terms of chronology, geography, language, periodical type and major thematic sub-collections. This should give an indication of percentages as well as absolute numbers of titles, issues and pages in these categories]
 
 	### Data Quality
 
 	#### Text
 
-	[A brief summary of the quality of the text, namely the OCR or manually-corrected metadata and datafields within the database, and how this was gauged. This should attempt to give an overall indication of accuracy as well as discuss which parts of the collection (language, period, geography, time of digitisation) are likely to have better or worse than average accuracy ratings]
+	[A brief summary of the quality of the text, namely the OCR or manually-corrected metadata and data fields within the database, and how this was gauged. This should attempt to give an overall indication of accuracy as well as discuss which parts of the collection (language, period, geography, time of digitisation) are likely to have better or worse than average accuracy ratings]
 
 	#### Images
 	
@@ -106,7 +106,7 @@ If you would like a new collection or database added to the *Atlas*, you will ne
 
 	### Metadata Schema
 	
-	[A summary of the metadata schemas employed by the collection in the data, metadata and structure files. Links to bespoke standards or documentation should be suplied if available]
+	[A summary of the metadata schemas employed by the collection in the data, metadata and structure files. Links to bespoke standards or documentation should be supplied if available]
 
 	### Backend Structure
 	
@@ -140,12 +140,13 @@ If you would like a new collection or database added to the *Atlas*, you will ne
 
 	### Re-Publication
 	
-	[A brief summary, including links to relevant documentation or notices, on the ability of users to republish text or images from the collection for personal, scholarly and commerical purposes]
-	
+	[A brief summary, including links to relevant documentation or notices, on the ability of users to republish text or images from the collection for personal, scholarly and commercial purposes]
+
+<p/>	
 #### A Completed Entry
 
 Once you have completed your entry, submit a pull request, placing a full bibliography in your pull request comment as well as by editing the [bibliography page](../../introduction/bibliography).
 
 #### A Partial Entry	
 	
-It is important for the consistency of the *Atlas* that all sections be completed prior to publication. If you feel you can only provide information for a sub-section of the history, please begin the project and then post your contribution to [GitHub Issues](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/issues) so that other members of the community can contribute to or complete the entry.
+It is important for the consistency of the *Atlas* that all sections be completed prior to publication. If you feel you can only provide information for a sub-section of the history, please begin the project and then please push your entries to the `_inprogress` folder, and post details of your contribution to [GitHub Issues](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/issues) so that other members of the community can contribute to or complete the entry.
