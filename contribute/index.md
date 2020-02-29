@@ -6,6 +6,9 @@ use-site-title: false
 ---
 
 The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year project *Oceanic Exchanges*. Now that the project has concluded, we are hoping that you, the GLAM, digital humanities and periodical studies community will help develop and expand our initial work. In order to ensure consistency and robustness of the information, we ask that you contribute to the *Atlas* using the procedures listed below. If you have any questions, or want to discuss a possible addition more informally, feel free to contact [Melodee Beals](m.h.beals@lboro.ac.uk) or [Emily Bell](e.bell@lboro.ac.uk).
+
+To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) and submit a pull request. [Database histories](https://www.digitisednewspapers.net/histories/) can be found in the 'histories' folder. [Metadata maps](https://www.digitisednewspapers.net/maps/) can be found in the 'maps' folder. [Glossary entries](https://www.digitisednewspapers.net/glossary/) can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.
+
  
 **All updates should be written in markdown, following [GitHub's guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).**
 

@@ -5,8 +5,6 @@ subtitle:  Simple Edits
 use-site-title: false
 ---
 
-To make changes, please go to our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) and submit a pull request. [Database histories](https://www.digitisednewspapers.net/histories/) can be found in the 'histories' folder. [Metadata maps](https://www.digitisednewspapers.net/maps/) can be found in the 'maps' folder. [Glossary entries](https://www.digitisednewspapers.net/glossary/) can be found in the 'glossary' folder. All other pages (including the bibliography, timeline, resources and all the information under About) can be found in the 'introduction' folder.
-
 ### Additional details 
 If you would like to add a clarification (e.g. explaining a term, adding in a new key date in a database history, expanding on a point in a metadata map or glossary entry), please go to the relevant file (in the folders indicated above) and make the change directly. Please specify in the commit what the change is and submit a pull request. We will review and approve the submitted request.
 

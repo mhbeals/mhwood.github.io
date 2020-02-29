@@ -10,12 +10,12 @@ We hope the *Atlas* will be a place for users not only to learn about digitised 
 
 ### Example Projects
 
-External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines).
+External projects using digitised newspaper data. Please provide a short summary of the project (3-5 lines) and a link to a relevant website.
 
 ### Tools
 
-Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does.
+Scripts or other tools to manipulate or make use of digitised newspaper databases. Please include a few words to explain what the tool does as well as a link to the relevant website or Github repository.
   
 ### Resources
 
-Written or visual resources discussing or aiding the use of digitised newspapers and metadata.
+Written or visual resources discussing or aiding the use of digitised newspapers and metadata. Please provide a short summary as well as a link to the resource.

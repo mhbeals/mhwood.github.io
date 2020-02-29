@@ -11,7 +11,7 @@ If you have, or can request, sample metadata from a digitised newspaper collecti
 
 The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
-Assigning an **NUID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as [@ID](https://www.digitisednewspapers.net/maps/id/)) should be filled separately **where they contain different kinds of information** (e.g. @ID might be a newspaper ID, an issue ID, or an article ID). If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
+Assigning an **UID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as [@ID](https://www.digitisednewspapers.net/maps/id/)) should be filled separately **where they contain different kinds of information** (e.g. @ID might be a newspaper ID, an issue ID, or an article ID). If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
 > mets:mets\mets:dmdSec\mets:mdWrap\mets:xmlData\mods:mods\mods:name[@type="personal"]\mods:role\mods:namePart@
   
 Assign a **collection ID** (which should be a 2-character abbreviation of the database name, followed by a 2-character abbreviation of the type of file e.g. PPAL for Papers Past ALTO). When recording **XPaths**, ensure attributes are indicated by an @ symbol and record the name of the field itself separately under **Name**. Record the **format** as accurately as possible for each field (e.g. even if it is a METS file, it might use MIX or another XML standard for specific elements).  
@@ -38,7 +38,7 @@ There are three **field types**: mappable data, containers, and technical. Techn
 
 **Parent**, **Attributed**, **Child(ren)** and **Attributes** should be used to create a hierarchy of the fields using the NUIDs. Starting with the root element, please indicate which elements are nested under others by using the Parent and Children columns, separating entries with a comma. For attributes, please ensure the field is filled out in both directions (indicating both the element that has attributes, and for the attribute which element it belongs to). For example:
 
-| **NUID**  | **Xpath**  | **Name**  | **Parent**  | **Attributed**  | **Child(ren)**  | **Attributes**  |
+| **UID**  | **Xpath**  | **Name**  | **Parent**  | **Attributed**  | **Child(ren)**  | **Attributes**  |
 | -- | -- | -- | -- | -- | -- | -- |
 | 43  | issue\article\text\text.title\p\  | wd  | 40 |  |  | 44  |
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
