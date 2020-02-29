@@ -3,9 +3,12 @@ layout: page
 title: How to Contribute
 subtitle:  Metadata Maps
 use-site-title: false
+---
 
 If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the *Atlas*. We also welcome corrections and additions. 
   
+### <a name="new_db">Mapping a New Database</a>
+
 The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
 Assigning an **NUID** (starting after the highest number in our [existing dataset]( https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110)), enter a new line for every element and attribute in the metadata sample. Even repeated fields (such as [@ID](https://www.digitisednewspapers.net/maps/id/)) should be filled separately **where they contain different kinds of information** (e.g. @ID might be a newspaper ID, an issue ID, or an article ID). If the same field is used but with different attributes, this can be indicated in the XPath with square brackets, for example:
@@ -41,7 +44,7 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
     
-### Updating existing maps
+### <a name="existing">Updating Existing Maps</a>
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
 **Category Notes** should be used to link to URIs for the field type or make general comments about the fields. If you are only adding instantiations from one collection, it is unlikely that you will need to make significant changes to this section.
@@ -52,7 +55,7 @@ Under **Instantiations**, please add the collection ID, XPath, content type and 
   
 Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page. 
 
-### Building a new map
+### <a name="new">Building a New Map</a>
   
 <details>
   <summary><b>Map page template</b></summary>
@@ -90,10 +93,6 @@ As described above, **Category Notes** should primarily be used to make general 
   
 Ensure you list the new [collection ID](https://www.digitisednewspapers.net/maps/) on the overview page, indicating format and file type. 
 
-#### A new version of a static dataset
+### <a name="dataset">A new version of a static dataset</a>
 
-For data from a database that periodically releases new versions, but the older versions still exist, please add rows in a clearly delimited batch and send to us as a pull request. We will review new submissions and either accept or send comments back for revisions.
-
-#### Changes to a dynamic static set
-
-If the database updates on a periodic or rolling basis and replaces older versions, please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
+For data from a database that periodically releases new versions, but the older versions still exist, please add rows in a clearly delimited batch and send to us as a pull request. We will review new submissions and either accept or send comments back for revisions. If the database updates on a periodic or rolling basis and replaces older versions, please update the cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.

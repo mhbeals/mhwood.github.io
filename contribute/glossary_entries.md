@@ -3,8 +3,9 @@ layout: page
 title: How to Contribute
 subtitle: Glossary Entries
 use-site-title: false
+---
 
-### Updating an existing glossary entry  
+### <a name="existing">Updating an existing glossary entry  </a>
 The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries. 
   
 For **language variants**, please simply add the term alongside the existing variants.
@@ -13,7 +14,7 @@ For **language variants**, please simply add the term alongside the existing var
   
 We are particularly interested to record variant terms and their use (for example, frequency versus periodicity) and more granular detail (such as the distinctions between daily, weekly, and monthly publications). These alternate terms can also be added to the [glossary index](https://www.digitisednewspapers.net/glossary/). 
   
-### Creating a new entry  
+### <a name="new">Creating a new entry  </a>
 
 <details>
   <summary><b>Glossary page template</b></summary>

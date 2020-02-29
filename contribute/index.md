@@ -11,36 +11,38 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 
 ## Simple Edits
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits#details)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits#details)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Links](simple_edits#links)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Links](simple_edits#links)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits#typos)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits#typos)
 
 ## Database Histories
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Database History](database_histories#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Database History](database_histories#existing)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Database History](database_histories#new)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Database History](database_histories#new)
 
 ## Metadata Maps
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps](metadata_maps#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database](metadata_maps#new_db)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Map](metadata_maps#new)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps](metadata_maps#existing)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Map](metadata_maps#new)
  
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating the Dynamic Dataset](metadata_maps#dataset)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating the Dynamic Dataset](metadata_maps#dataset)
 
 ## Glossary Entries
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](gloassary_entries#existing)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](gloassary_entries#existing)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](gloassary_entries#new)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](gloassary_entries#new)
 
 ## Resources, Tools and Example Projects
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Example Projects](resources#projects)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Example Projects](resources#projects)
 
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Tools](resources#tools)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Tools](resources#tools)
  
-### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Resources](resources#resources)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Resources](resources#resources)

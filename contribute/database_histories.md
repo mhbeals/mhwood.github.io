@@ -3,7 +3,8 @@ layout: page
 title: How to Contribute
 subtitle:  Database Histories
 use-site-title: false
+---
 
-### Building a new Database History
+### <a name="existing">Updating an existing Database History</a>
 
-### Updating an existing Database History
+### <a name="new">Building a new Database History</a>
