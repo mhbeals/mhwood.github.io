@@ -7,7 +7,8 @@ use-site-title: false
 
 If you have, or can request, sample metadata from a digitised newspaper collection, we encourage you to add it to the *Atlas*. We also welcome corrections and additions. 
   
-### <a name="new_db"></a>Mapping a New Database
+ <a name="new_db"></a>
+### Mapping a New Database
 
 The first step when adding a new instantiation is to map the relationships between the metadata elements and attributes using your sample file. If you are using Excel or any other spreadsheet software, ensure you can save as a .tsv file and ensure your headings correspond to [our dataset](https://figshare.com/articles/Full_Map_of_Digitised_Newspaper_Metadata/11560110).
   
@@ -44,7 +45,8 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
     
-### <a name="existing"></a>Updating Existing Maps
+ <a name="existing"></a>
+### Updating Existing Maps
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
 **Category Notes** should be used to link to URIs for the field type or make general comments about the fields. If you are only adding instantiations from one collection, it is unlikely that you will need to make significant changes to this section.
@@ -55,7 +57,8 @@ Under **Instantiations**, please add the collection ID, XPath, content type and 
   
 Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page. 
 
-### <a name="new"></a>Building a New Map
+ <a name="new"></a>
+### Building a New Map
   
 <b>Map page template</b>
   
