@@ -9,7 +9,6 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
  
 **All updates should be written in markdown, following [GitHub's guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).**
 
-    
 ## Simple Edits
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits#details)
@@ -18,14 +17,14 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits#typos)
 
-    
+<br>
 ## Database Histories
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Database History](database_histories#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Database History](database_histories#new)
 
-    
+<br>
 ## Metadata Maps
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database](metadata_maps#new_db)
@@ -36,14 +35,14 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
  
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating the Dynamic Dataset](metadata_maps#dataset)
 
-    
+<br>
 ## Glossary Entries
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](gloassary_entries#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](gloassary_entries#new)
 
-    
+<br>
 ## Resources, Tools and Example Projects
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Example Projects](resources#projects)
