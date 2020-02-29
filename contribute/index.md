@@ -17,14 +17,14 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits#typos)
 
-<br>
+&npsb;
 ## Database Histories
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Database History](database_histories#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Database History](database_histories#new)
 
-<br>
+&npsb;
 ## Metadata Maps
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database](metadata_maps#new_db)
@@ -33,14 +33,14 @@ The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year p
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Building a New Map](metadata_maps#new)
  
-<br>
+&npsb;
 ## Glossary Entries
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an Existing Glossary Entry ](glossary_entries#existing)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Entry ](glossary_entries#new)
 
-<br>
+&npsb;
 ## Resources, Tools and Example Projects
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Example Projects](resources#projects)
