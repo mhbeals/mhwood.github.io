@@ -9,6 +9,7 @@ use-site-title: false
 
 If you would like to add a clarification (e.g. explaining a term, adding in a new key date in a database history, expanding on a point in a metadata map or glossary entry), please go to the relevant file and make the change directly. Please specify in the commit what the change is and submit a pull request. We will review and approve the submitted request.
 
+<a name="typos"></a>
 ### Links
 
 We welcome new links to other relevant pages in the *Atlas*, other URIs for fields, and documentation pertaining to the collections we have analysed. If you would like to add a new external [Resource](https://www.digitisednewspapers.net/introduction/web/), please see the relevant sections at the bottom of this page.  
@@ -18,7 +19,7 @@ Adding links in markdown is very easy. Just surround your chosen term with squar
 
 
 <a name="database_histories"></a>
-### Typographical erros
+### Typographical errors
 
 Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
 
@@ -57,19 +58,19 @@ If a database has altered their technical specifications, backend structure or m
 	content into three XML files: title or publication-level metadata,
 	issue-level metadata, and issue-level content data [...]
 
-<a name="glossary_entries"></a> 
-
 	#### British Library Project Drives
 
 	A pre-processed version of the data is held by British Library Labs and
 	has been used by BL Labs Competition winners and award recipients in
 	supported projects. [...]
 
+<a name="glossary_entries"></a> 
+
 In the case of changes to the user interface or access requirements, please *replace* the existing information in these sub-sections.
 
-<a name="resources"></a> 
-
 ### Updating an existing glossary entry  
+
+<a name="resources"></a> 
 
 The glossary entries are intended to provide a short literature review of each term 'in the wild', as well as an account of how it was understood in the nineteenth century. We also welcome additional language variants, usage notes and examples to our existing entries. 
   

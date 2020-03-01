@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Contribute
-subtitle:  Metadata Maps
+subtitle:  Integrating a New Database into Metadata Maps
 use-site-title: false
 ---
 
@@ -45,7 +45,8 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 43  | issue\article\text\text.title\p\  | wd  | 40 |  |  | 44  |
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
-    
+
+<p/>    
 ### Updating Existing Maps in the Atlas
 
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.

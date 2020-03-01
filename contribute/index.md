@@ -38,22 +38,23 @@ If you wish to make a substantial contribution to the project, such as a new pag
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps for a New Database](metadata_maps#existing)
 
+<p/>
 ### Creating New Atlas Entries
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Metadata Map for a New Category](metadata_maps#new)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Glossary Entry for a New Category](glossary_entries)
  
+<p/>
+## Simple Edits
 
-### Simple Edits
-
-If you wish to make a minor change or update to an existing page, plese follow the instructions below.
+If you wish to make a minor change or update to an existing page, please follow the guidelines below, and then make a pull request to the Atlas repository.
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Links](simple_edits)
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Typos](simple_edits#typos)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating an existing Database History](simple_edits#database_histories)
 
