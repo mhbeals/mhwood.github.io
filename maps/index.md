@@ -25,6 +25,20 @@ each element. With this information, the reader should be able to
 understand the different structures of these collections and develop
 computational means for robustly comparing datasets.
 
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Content](content)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Citation](citation)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Bibliographic](bibliographic)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Holdings](holdings)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Descriptive](descriptive)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [User-Generated](social)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Technical](technical)
+
 These maps represent data and metadata that is comparable, to
 varying degrees, across the collection. They have been grouped
 teleological, by their most likely use: content, citation, bibliography,
