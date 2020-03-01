@@ -5,6 +5,10 @@ subtitle:
 use-site-title: false
 ---
 
+[Content Data](content)   |  [Citation Metadata](citation)        |  [Bibliographic Metadata](bibliographic)
+[Holdings Information](holdings) |  [Descriptive Metadata](descriptive)  | [User-Generated Metadata](social)
+[Technical Metadata](technical)
+
 This report contains a series of maps to better align and compare data
 from different digitised newspaper collections. Each page is devoted to
 a low-resolution category of the metadata, such as *title*, *publisher*
@@ -24,20 +28,6 @@ identifiers, and key information regarding the nature of the data in
 each element. With this information, the reader should be able to
 understand the different structures of these collections and develop
 computational means for robustly comparing datasets.
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Content](content)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Citation](citation)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Bibliographic](bibliographic)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Holdings](holdings)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Descriptive](descriptive)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [User-Generated](social)
-
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Technical](technical)
 
 These maps represent data and metadata that is comparable, to
 varying degrees, across the collection. They have been grouped

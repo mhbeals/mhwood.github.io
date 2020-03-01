@@ -19,7 +19,7 @@ p {
 </style>
 
 
-#### This report would not have been possible without the support, advice and knowledge of researchers, digitisers, librarians and archivists around the world.
+<p style="text-align:center;font-weight: bold;">This report would not have been possible without the support, advice and knowledge of researchers, digitisers, librarians and archivists around the world.</p>
 
 ## Contributors to the Database Histories
 
