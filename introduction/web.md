@@ -1,11 +1,23 @@
 ---
 layout: page
-title: Web Resources
+title: Resources
 subtitle:  
 use-site-title: false
 ---
 
-## Projects
+## The Atlas 
+
+Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. [DOI:10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059).
+
+## The Static Dataset (30 January 2020)
+
+M. H. Beals and Emily Bell. (2020). *Map of Digitised Newspaper Metadata v.1.0.0 [Data set]*. Figshare. [DOI:10.6084/m9.figshare.11560110](http://www.doi.org/10.6084/m9.figshare.11560110).
+
+## The Dynamic Dataset
+
+M. H. Beals and Emily Bell, eds. (2020). *Map of Digitised Newspaper Metadata (Dynamic) [Data set]*. [https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/tree/master/downloads).
+
+## External Projects
 
 ### [The Oceanic Exchanges Project](http://www.oceanicexchanges.org)
 
@@ -19,7 +31,7 @@ The Scissors and Paste Database is a collection of manual transcriptions from Br
 
 This site presents data, visualizations, interactive exhibits, and both computational and literary publications drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines. 
 
-## Tools
+## External Tools
 
 + [DigitalNZ API Console: A tool for exploring the Papers Past API](https://digitalnz.org/developers)  
 + [Passim: A tool for detecting and aligning similar passages in text](https://github.com/dasmiq/passim)

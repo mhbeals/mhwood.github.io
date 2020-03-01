@@ -15,40 +15,20 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  About the Atlas:
+  Latest News: "news"
+  The Atlas:
     - The Project: "introduction/project"
     - Methodology:  "introduction/methodology"
     - Aims and Objectives:  "introduction/aims"
+    - Database Histories: "histories"
+    - Metadata Maps: "maps"
+    - Resources: "introduction/web"
     - Acknowledgements:  "introduction/acknowledgements"
-    - Latest News: "news"
-  Databases: 
-    - Introduction: "histories"
-    - British Library: "histories/bl" 
-    - Chronicling America: "histories/ca" 
-    - Delpher: "histories/delpher" 
-    - Europeana: "histories/europeana"  
-    - Hemeroteca Nacional: "histories/hndm" 
-    - Papers Past: "histories/pp" 
-    - Suomen Kansalliskirjaston: "histories/nlf"
-    - Times Digital Archive: "histories/tda"
-    - Trove: "histories/trove"
-    - ZEFYS: "histories/slb" 
-  Metadata Maps: 
-    - Introduction: "maps"
-    - Content: "maps/content"
-    - Citation: "maps/citation"
-    - Bibliographic: "maps/bibliographic"
-    - Holdings: "maps/holdings"
-    - Descriptive: "maps/descriptive"
-    - User-Generated: "maps/social"
-    - Technical: "maps/technical"
-  Resources: 
+  Reference: 
     - Abbreviations: "introduction/abbreviations"
     - Bibliography: "introduction/bibliography"
-    - Downloads: "introduction/citation"
     - Glossary: "glossary"
     - Timeline: "introduction/timeline"
-    - Web Resources: "introduction/web"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
