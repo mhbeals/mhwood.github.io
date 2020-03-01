@@ -5,9 +5,9 @@ subtitle:
 use-site-title: false
 ---
 
-[Content Data](content)   |  [Citation Metadata](citation)        |  [Bibliographic Metadata](bibliographic)
-[Holdings Information](holdings) |  [Descriptive Metadata](descriptive)  | [User-Generated Metadata](social)
-[Technical Metadata](technical)
+[Content Data](content)          |  [Citation Metadata](citation)        | [Bibliographic Metadata](bibliographic)  |
+[Holdings Information](holdings) |  [Descriptive Metadata](descriptive)  | [User-Generated Metadata](social)        |
+[Technical Metadata](technical)  |                                       |                                          |
 
 This report contains a series of maps to better align and compare data
 from different digitised newspaper collections. Each page is devoted to
