@@ -37,6 +37,8 @@ Assign a **collection ID** (which should be a 2-character abbreviation of the da
 There are three **field types**: mappable data, containers, and technical. Technical data refers to namespace information and other data that is not likely to be of interest to researchers. Containers are elements that do not directly hold any data themselves. Fields containing data should otherwise be categorised as mappable data. **Element type** is either XML_ELEMENT, XML_ATTRIBUTE or directory_structure_layer. 
 
 **Parent**, **Attributed**, **Child(ren)** and **Attributes** should be used to create a hierarchy of the fields using the NUIDs. Starting with the root element, please indicate which elements are nested under others by using the Parent and Children columns, separating entries with a comma. For attributes, please ensure the field is filled out in both directions (indicating both the element that has attributes, and for the attribute which element it belongs to). For example:
+ 
+ <a name="existing"></a>
 
 | **UID**  | **Xpath**  | **Name**  | **Parent**  | **Attributed**  | **Child(ren)**  | **Attributes**  |
 | -- | -- | -- | -- | -- | -- | -- |
@@ -44,23 +46,24 @@ There are three **field types**: mappable data, containers, and technical. Techn
 | 44  | issue\article\text\text.title\p\wd\@  | pos  |  | 43 |  |   |
 | 45  | issue\article\text\text.cr\  | pg  | 38 |  | 46 | 47, 48, 49  |
     
- <a name="existing"></a>
+### Updating Existing Maps in the Atlas
 
-### Updating existing Maps
 Once the above process has been completed, fields that map to existing categories and sub-categories should be added to the appropriate map. Please use our existing headings.
   
 **Category Notes** should be used to link to URIs for the field type or make general comments about the fields. If you are only adding instantiations from one collection, it is unlikely that you will need to make significant changes to this section.
   
 **Individual Collection Notes** is a heading for you to add any quirks of the data from your new collection, such as inconsistencies when compared with our other collections, and multiple choice options. 
+
+<a name="new"></a>
   
 Under **Instantiations**, please add the collection ID, XPath, content type and sample content.
   
-Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page. 
-
- <a name="new"></a>
+Please also add your new [collection ID](https://www.digitisednewspapers.net/maps/) to the introductory page (maps/index.md). 
  
 ### Building a New Map
   
+If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\]. It should also be added to the relevant index ([Content](https://www.digitisednewspapers.net/maps/content/), [Citation](https://www.digitisednewspapers.net/maps/citation/), [Bibliographic](https://www.digitisednewspapers.net/maps/bibliographic/), [Holdings](https://www.digitisednewspapers.net/maps/holdings/), [Descriptive](https://www.digitisednewspapers.net/maps/descriptive), [User-Generated](https://www.digitisednewspapers.net/maps/social/), [Technical](https://www.digitisednewspapers.net/maps/technical/)).
+
 <b>Map page template</b>
   
     ---
@@ -83,9 +86,6 @@ Please also add your new [collection ID](https://www.digitisednewspapers.net/map
     ### [Sub-Category Title]
      
     | [Collection ID]  |  [XPath including element/attribute name] | [Content type] | [Example content] |
-
-
-If you find a field that does not already have a category or sub-category that is of use to researchers, please create a new map under [http://atlasofdigitisednewspapers.github.io/maps/](http://atlasofdigitisednewspapers.github.io/maps/) as \[chosen-title.md\]. It should also be added to the relevant index ([Content](https://www.digitisednewspapers.net/maps/content/), [Citation](https://www.digitisednewspapers.net/maps/citation/), [Bibliographic](https://www.digitisednewspapers.net/maps/bibliographic/), [Holdings](https://www.digitisednewspapers.net/maps/holdings/), [Descriptive](https://www.digitisednewspapers.net/maps/descriptive), [User-Generated](https://www.digitisednewspapers.net/maps/social/), [Technical](https://www.digitisednewspapers.net/maps/technical/)).
   
 **Technical Definition** should contain the broadest description of the category. It might indicate whether this is generally a field taken from a MARC record, or as printed on the object, etc. It should cross-reference other categories where appropriate by linking to the relevant page, to show how it is distinct from existing entries. 
   
@@ -97,4 +97,4 @@ Ensure you list the new [collection ID](https://www.digitisednewspapers.net/maps
 
 #### Multiple Versions
 
-For data from a database that periodically releases new versions, but the older versions still exist, please *add* rows in clearly delimited batches and send them to us as a pull request. We will review new submissions and either accept or send comments back for revisions. If the database updates on a periodic or rolling basis and replaces older versions, please *update* the existing cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
+For metadata from a database that periodically releases new versions, but the older versions still exist, please *add* rows in clearly delimited batches and send them to us as a pull request. If the database updates on a periodic or rolling basis and replaces older versions, please *update* the existing cells in a clearly delimited batch (i.e. do one set at a time, rather than lots of different types of update/additions) and send to us as a pull request. We will review the changes and either accept or send comments back for revisions.
