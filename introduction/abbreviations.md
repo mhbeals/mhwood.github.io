@@ -66,6 +66,7 @@ use-site-title: false
 | PURL     | Persistent Uniform Resource Locator                                                                                  |
 | PREMIS   | Preservation Metadata: Implementation Strategies                                                                     |
 | SBB      | Staatsbibliothek zu Berlin (Berlin State Library)                                                                    |
+| SRU     | Search/Retrieve via URL                                                                                             |
 | SRGB     | Standard Red Green Blue                                                                                              |
 | TDA      | Times Digital Archive                                                                                                |
 | UID      | Unique Identifier                                                                                                    |
