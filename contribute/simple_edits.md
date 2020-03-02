@@ -21,8 +21,7 @@ Adding links in markdown is very easy. Just surround your chosen term with squar
 <a name="database_histories"></a>
 ### Typographical errors
 
-Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated above) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
-
+Thank you for spotting it! Please find the relevant page on our [GitHub](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) (in the folders as indicated on our [How to Contribute page](https://www.digitisednewspapers.net/contribute/)) and fix it directly, indicating in the commit what the change is, and submit a pull request. We will review and approve corrections.
 
 ### Updating an existing Database History
 
