@@ -42,7 +42,7 @@ the principles outlined by the *Collections as Data* project, including
 lowering barriers to use, sharing documentation, fostering
 interoperability, and doing so in an open access format.
 
-*The* *Atlas of Digitised Newspapers and Metadata* arose out of the need
+The *Atlas of Digitised Newspapers and Metadata* arose out of the need
 for the data from different datasets to be transformed into a single
 unitary standard that could be inputted into project workflows across
 the project. At the most basic level, what was needed was a bespoke JSON
