@@ -27,6 +27,7 @@ use-site-title: false
 | ENMAP    | Europeana Newspaper METS ALTO Profile                                                                                |
 | DDD      | Databank Digitale Dagbladen                                                                                          |
 | GIFT     | Gale Interchange Format                                                                                              |
+| GLAM     | Galleries, Libraries, Archives and Museums                                                                                              |
 | HNDM     | Hemeroteca Nacional Digital de México                                                                                |
 | HTML     | Hypertext Markup Language                                                                                            |
 | ICC      | International Colour Consortium                                                                                      |
