@@ -17,7 +17,7 @@ Please note that while we greatly appreciate, and will gladly accept, contributi
 
 ### File Structure
 
-You can find the relevant pages of the Atlas under:
+You can find the relevant pages of the *Atlas* under:
 
 - Templates for new pages: The '_inprogress' folder.
 - [Database histories](https://www.digitisednewspapers.net/histories/): The 'histories' folder
@@ -33,12 +33,12 @@ If you wish to make a substantial contribution to the project, such as a new pag
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Database History](database_histories)
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database to the Atlas Ontology](metadata_maps)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database to the *Atlas* Ontology](metadata_maps)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps for a New Database](metadata_maps#existing)
 
 <p/>
-### Creating New Atlas Entries
+### Creating New *Atlas* Entries
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Metadata Map for a New Category](metadata_maps#new)
 
@@ -47,7 +47,7 @@ If you wish to make a substantial contribution to the project, such as a new pag
 <p/>
 ## Simple Edits
 
-If you wish to make a minor change or update to an existing page, please follow the guidelines below, and then make a pull request to the Atlas repository.
+If you wish to make a minor change or update to an existing page, please follow the guidelines below, and then make a pull request to the *Atlas* repository.
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits)
 
