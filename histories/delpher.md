@@ -105,28 +105,23 @@ Although the Koninklijke Bibliotheek owns the largest collection of
 Dutch newspapers, several titles exist only in libraries and archives
 elsewhere in the Netherlands or in other European nations. The selection
 process of the DDD project started with the installation of an advisory
-board, consisting of press-historians and journalists, charged with
+board, consisting of press historians and journalists, charged with
 selecting a number of major national newspapers as well as influential
 and long-standing colonial, regional and local publications. As the
 digitisation of these newspapers was primarily seen as serving academic
 researchers, the advisory commission was comprised largely of Dutch
 academics and journalists who were explicitly asked to consider the
 scientific significance or press history relevance of the proposed
-selection. Next to that as well as a geographical, as well as a
-political and religious dispersion should be included in the selection.
+selection, as well as geographical, political and religious significance.
 The committee first defined what publications qualify as a newspaper: a
 product of a printing press, thus having been made into multiple
-identical copies, have been published at a set periodicity and day, have
-had a high content relating to current affairs of all types and have
-been available for purchase by the general public. Then chronological
+identical copies, published at a set periodicity and day, high amount of content relating to current affairs of all types, and available for purchase by the general public. Then chronological
 periods were defined, based on important developments in the history of
 the press: 1618–1800, 1800–1814, 1814–1869, 1869–1914, 1914–1965 and
 1965–1995. For each period a set of criteria was developed, that was
 used to select a set of important, trend-setting and representative
 newspapers for each period. The aim of this was to have a representative
-set of newspapers digitised from the beginning of the project. As more
-and more newspapers were digitised during the following years this
-initial selection is becoming less relevant by now.
+set of newspapers digitised from the beginning of the project. As more and more newspapers were digitised over the following years, this initial selection became less relevant.
 
 ### Preservation and Access
 
