@@ -15,7 +15,7 @@ libraries and archives.
 
 A thematic newspapers collection within Europeana was established in
 July 2019. It mainly builds on the [Europeana Newspapers project
-(2012-2015)](http://www.europeana-newspapers.eu) that was funded by the
+(2012–2015)](http://www.europeana-newspapers.eu) that was funded by the
 European Commission’s ICT Policy Support Programme, as part of the
 Competitiveness and Innovation framework Programme (CIP). The project
 received an initial €5.2 million with a maximum European Commission
@@ -32,27 +32,27 @@ collection” subsite of the main Europeana platform.
 
 The following full Europeana Newspapers project partners have typically
 contributed a public domain subset of their digitised newspaper
-collections to the project: National Library of Austria, National
-Library of France, National Library of Netherlands, Dr. Friedrich
-Teßmann State Library, National Library of Estonia, National Library of
-Latvia, National Library of Finland, State and University Library of
-Hamburg, Berlin State Library, University Library of Belgrade, National
-Library of Poland, and National Library of Turkey. Furthermore, these
+collections to the project: National Library of Austria; National
+Library of France; National Library of Netherlands; Dr. Friedrich
+Teßmann State Library; National Library of Estonia; National Library of
+Latvia; National Library of Finland; State and University Library of
+Hamburg; Berlin State Library; University Library of Belgrade; National
+Library of Poland; and National Library of Turkey. Furthermore, these
 associate partners have shared some data, but generally only metadata:
-National and University Library of Slovenia, National and University
-Library of Iceland, Royal Library of Belgium, National and University
-Library of Zagreb, St. Cyril and Methodius National Library of Bulgaria,
-National Library of Romania, National Library of Luxembourg, National
-Library of the Czech Republic, National Library of Spain, National
-Library of Portugal, National Library of Wales, National Library of
-Serbia, and National and University Library of Slovakia.
+National and University Library of Slovenia; National and University
+Library of Iceland; Royal Library of Belgium; National and University
+Library of Zagreb; St. Cyril and Methodius National Library of Bulgaria;
+National Library of Romania; National Library of Luxembourg; National
+Library of the Czech Republic; National Library of Spain; National
+Library of Portugal; National Library of Wales; National Library of
+Serbia; and National and University Library of Slovakia.
 
 ### Microfilming Projects
 
 Europeana draws from existing databases, so it does not undertake any
 microfilming or material preservation but relies solely on the capture
 processes of its project partners, some of which have individual entries
-within this Atlas.
+within this *Atlas*.
 
 ### Digitisation Projects
 
@@ -68,7 +68,7 @@ several tiers of quality requirements and recommendations for metadata,
 text and image content. For inclusion within the thematic collection,
 the most general requirement is that the data provider populates the
 dc:type field with one of the following terms: Newspaper Title,
-Newspaper Issue, Analytic serial, Newspaper, journal, or printed serial.
+Newspaper Issue, Analytic Serial, Newspaper, Journal, or Printed Serial.
 
 ### Preservation and Access
 
