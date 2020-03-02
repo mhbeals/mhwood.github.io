@@ -68,7 +68,7 @@ digitisation providers and libraries in Mexico, the United States, the
 United Kingdom, the Netherlands, Germany, Finland, Australia and New
 Zealand. The earnest engagement of these providers allowed us to better
 understand the histories of these collections, their selection and
-processing of historical newspapers, and their development or adaption
+processing of historical newspapers, and their development or adaptation
 of metadata for describing them.
 
 As we finalised our master list of data and metadata fields, we
