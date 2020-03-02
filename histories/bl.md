@@ -60,7 +60,7 @@ external microfilm providers have also been used, notably MicroFormat
 (now a part of Stor-a-File), under contract to the BL. Microfilming of
 newspapers from other libraries was undertaken as part of a number of
 co-operative projects, most significantly Newsplan 2000, in which
-at-risk newspapers titles from libraries across the UK we microfilmed
+at-risk newspapers titles from libraries across the UK were microfilmed
 and distributed to the partner libraries, with master copies held by the
 BL and the National Library of Wales. The project was funded by the
 Heritage Lottery Fund with additional financial support from the
@@ -73,7 +73,7 @@ microfilmed, producing 30,476 reels of microfilm.
 The British Library’s initial nineteenth-century newspaper digitisation
 project took place in two phases. The first took place between 2004 and
 2007 while the second ran from 2008 to 2009. The second phase was
-specifically aimed at expanding the digital collections coverage of
+specifically aimed at expanding the digital collection's coverage of
 regional and local news as well as including the eighteenth-century
 issues of existing titles. Owing to budget constraints and available
 technology, newspapers were not directly scanned to digital files in
@@ -88,7 +88,7 @@ each page, as well as bitonal and greyscale images and processed OCR
 text. Although this is a static collection, the BL has continued to
 expand its newspaper digitisation: over 30 million pages have been
 produced since 2010 through the BL’s relationship with Findmypast,
-augmented recently by the BL-funded ‘Heritage Made Digital’ programme.
+augmented recently by the BL-funded Heritage Made Digital programme.
 
 #### Selection
 
@@ -129,7 +129,7 @@ in Wales, and two in Ireland. Many of the titles published in Scotland,
 Wales, and Ireland are primarily held by their respective national
 libraries, which have pursued separate digitisation projects. The
 Library aimed to provide the full date range of each selected title to
-the extent allowable by physical collection and within the project
+the extent allowable by the physical collection and within the project
 criteria (1800–1900). Thus, titles such as the *Glasgow Herald*, which
 began publication in 1783 and continues today, was only digitised from
 1820–1900, or from the first issue held by the British Library until the
@@ -144,12 +144,11 @@ appearing after 1874.
 #### Text
 
 Each page was processed into machine-readable text by Prime OCR. Part I
-was processed by Apex, with the hand keying or OCR correction of article
+was processed by Apex, with the hand-keying or OCR correction of article
 titles. Part II was captured by Gale, who re-keyed articles titles for
 both parts and later commissioned the keying of article subheadings from
 an external contractor. Independent studies have suggested that the
-overall OCR quality of Part I and Part II is approximately 60-85% but
-varies widely within and between titles.
+overall OCR quality of Part I and Part II is approximately 60-85%, but this varies widely within and between titles.
 
 #### Image
 
@@ -256,7 +255,7 @@ term frequency. Once selected, users are presented with the chosen
 article and options to navigate the issue or other search results. Users
 can adjust the image contrast and brightness to improve legibility and
 download it using standard browser context menus. The image may also be
-downloaded as a PDF and can the plain text of the OCR content.
+downloaded as a PDF and or the plain text of the OCR content.
 Bibliographical information, images and text content can also be saved
 to cloud storage on Gale’s servers or through integrations with Google
 Drive and OneDrive.
@@ -338,12 +337,12 @@ researchers for data mining and analysis through physical hard drives
 for a nominal “cost recovery” charge. This includes directories, title
 manifests, XMLs and image files. In the United Kingdom, as part of the
 original agreement with JISC, the underlying data can be accessed by
-request and a cost recovery fee by all higher education institutions.
+request and a cost recovery fee by all Higher Education Institutions.
 Elsewhere, the data is only accessible to those with institutional
 purchase to the relevant Gale products. Material obtained on text mining
 drives may be used to examine individual text or for large-scale
 analysis for purposes of performing personal or non-commercial research
-purposes but cannot be duplicated or shared without expressed
+purposes but cannot be duplicated or shared without express
 permission.
 
 ### Re-Publication
