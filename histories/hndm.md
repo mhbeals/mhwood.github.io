@@ -122,14 +122,14 @@ modules are being developed, particularly ones that allow the library to
 administer the digital collection, such as uploading new images, adding
 or modifying new metadata.
 
-The dataset’s XML archive, containing the OCR of the digitized images,
+The dataset’s XML archive, containing the OCR of the digitised images,
 works with three metadata schemes (Dublin Core, custom OCR/XML data, and
 METS)*. In the OC*Red documents, the METS metadata schema includes, at
 the beginning of the file, a publication description in Dublin Core with
 date, title, city, state, country, category, collection and language. It
 is followed by an OCR structure that divides page content into columns,
 regions, paragraphs, lines, and words with an associated coordinate,
-allowing the search terms to be highlighted by user.
+allowing the search terms to be highlighted by users.
 
 ## User Interface Structure
 
@@ -140,7 +140,7 @@ The current user interface was designed in-house and released in 2015.
 The interface allows users to perform simple searches by title, year or
 place, or advanced searches which combine the previous options together
 with language, type of access and frequency of publication. The
-interface also includes indexes which allows users to restrict their
+interface also includes indexes which allow users to restrict their
 searches by country, state, city, type of access, language, frequency of
 publication, title and dates. Users can also search by word, which uses
 the system’s underlying OCR files, and the results highlight the search
@@ -157,7 +157,7 @@ The HNDM does not allow bulk downloads or access to any of its files,
 neither the images nor the OCR. Newspaper titles can be printed or
 downloaded one at a time as PDFs. However, in both cases the print
 version is either extremely large, showing only one part of the image,
-or extremely small image, with the newspaper page occupying just a
+or extremely small, with the newspaper page occupying just a
 fraction of the PDF page. This renders the print option unviable. Users
 who would like printouts must go to the HNDM office located in the
 library.
@@ -181,7 +181,7 @@ purposes and due credit must be given to the HNDM.
 ### Web Interface
 
 The complete collection can be searched and, in the results, metatextual
-information is presented and a thumbnail image of the newspaper. Closed
+information is presented with a thumbnail image of the newspaper. Closed
 access newspapers are indicated with an icon and the PDFs cannot be
 accessed.
 
@@ -189,7 +189,7 @@ accessed.
 
 Direct access to the OCR and image files is not available. Open access
 PDFs cannot can be printed. Digital content cannot be incorporated into
-any digital platform or application without prior authorization by the
+any digital platform or application without prior authorisation by the
 HNDM.
   
 ## Suggested Citation
