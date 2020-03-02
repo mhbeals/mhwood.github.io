@@ -32,7 +32,7 @@ licensing agreements for text-mining. Once the project began, two
 additional English-language collections—Papers Past from the National
 Library of New Zealand and the (London) Times Digital Archive by
 commercial publisher Gale—were made available to the team. Because these
-datasets, alongside the *Trove* newspaper collection of the National
+datasets, alongside the Trove newspaper collection of the National
 Library of Australia, were well known to team members and were quickly
 accessible to researchers under clear licensing schema, they have been
 included in the *Atlas* despite being beyond its initial North Atlantic
@@ -69,7 +69,7 @@ across all collections. Instead, our aim is to provide a specific type
 of map for this rough and often perilous terrain; to allow everyone,
 regardless of their previous experience, to explore these collections in
 relative safety. It is hoped that the electronic version of this *Atlas*
-will continue to be updated the most recent surveys of these
+will continue to be updated with the most recent surveys of these
 collections, as well as with additional databases. To this end, we
 hereby release the collection, open access, on GitHub, so that the
 community of periodical researchers and digitisers may strive not to
