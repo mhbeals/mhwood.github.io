@@ -69,6 +69,7 @@ use-site-title: false
 | SRU     | Search/Retrieve via URL                                                                                             |
 | SRGB     | Standard Red Green Blue                                                                                              |
 | TDA      | Times Digital Archive                                                                                                |
+| TEL      | The European Library                                                                                                |
 | UID      | Unique Identifier                                                                                                    |
 | UNAM     | Universidad Nacional Autónoma de México (National Autonomous University of Mexico)                                   |
 | URL      | Uniform Resource Locator                                                                                             |
