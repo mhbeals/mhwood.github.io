@@ -8,24 +8,24 @@ use-site-title: false
 ## History of the Collection
 
 <img src="https://pro.europeana.eu/thumbs/450x450c/Europeana_Professional/Aggregation%20Landscape/medium_KansallisK_BLUE_eng_resized.png" width="200" height="174" align="right">The [*Suomen Kansalliskirjaston digitoidut sanomalehdet*](https://digi.kansalliskirjasto.fi/search?formats=NEWSPAPER)
-has its origins in the Helsinki University Library Center for Microfilming and
+has its origins in the Helsinki University Library Centre for Microfilming and
 Conservation, established in Mikkeli in 1990. Now known as the Centre
 for Preservation and Digitisation, part of the Suomen Kansalliskirjasto
-(National Library of Finland), the Centre joined three other libraries
+(National Library of Finland), the centre joined three other libraries
 in 1998 to form the Nordic digitisation project TIDEN. In 2001, the
 National Library launched its initial digital newspaper collection with
 36,000 of an intended 90,000 pages of forty-four different Finnish
 titles published between 1771 and 1860. In 2005, the collection received
 1.9 million page-requests and 160,000 unique visits. By 2018, the
 collection included all newspapers and journals published in Finland
-between 1771 and 1929 and is comprised of over 880,000 newspaper issues,
+between 1771 and 1929 and comprised over 880,000 newspaper issues,
 containing 6.2 million pages of content.
 
 ### Consulted Libraries
 
 The digitisation of Finnish newspapers was undertaken as part of the
-Nordic Project TIDEN, comprised of the Royal Library of Sweden, the
-National Library of Norway, the University Library of Aarhus (Denmark),
+Nordic Project TIDEN, comprising the Royal Library of Sweden; the
+National Library of Norway; the University Library of Aarhus (Denmark);
 and the Helsinki University Library. The digitised collections are
 generally based on microfilms held by the Suomen Kansalliskirjasto, with
 some digitised from physical objects and new issues received
@@ -66,7 +66,7 @@ The initial work undertaken by the University of Helsinki as part of
 TIDEN was funded by the Nordic Council of Scientific Information
 (NORDINFO) and the Ministry of Education in Finland. These initial
 digitisation tests were important in defining best practice for future
-microfilm digitisation projects, and its findings were published
+microfilm digitisation projects, and the findings were published
 alongside other recommendations by the International Federation of
 Library Associations and Institutions in its 2002 supplement on
 *Microfilming for Digitisation and Optical Character Recognition*. In
@@ -79,17 +79,17 @@ National Library.
 
 #### Selection
 
-The digitized historical newspaper collection of the National Library of
+The digitised historical newspaper collection of the National Library of
 Finland is based upon the newspapers acquired through free deposit laws
-since the 18th century. At the time of TIDEN, the Finnish legislation
+since the eighteenth century. At the time of TIDEN, the Finnish legislation
 defined a newspaper as “a printed product published at least once a
 week”. Historical newspapers had been microfilmed systematically from
 the 1950s onwards and the aim was to digitise the whole older collection
 step-by-step, using microfilm as an intermediary. The first Finnish
 newspaper was published in 1771, and the first collection to be
-digitized was from this year forward until about 1860. After the TIDEN
-project, the next stages covered the newspapers from 1861 – 1890,
-1891-1900 and 1901-1910 according to the allocated funding. Digitization
+digitised was from this year forward until about 1860. After the TIDEN
+project, the next stages covered the newspapers from 1861–1890,
+1891–1900 and 1901–1910 according to the allocated funding. Digitisation
 work followed the alphabetical order of newspapers within the chosen
 timeframe.
 
@@ -112,7 +112,7 @@ using the filter on the newspaper web interface.
 Following the general trend, the volume of newspaper publishing in
 Finland increased towards the turn of the century: when all issues from
 1771 to 1910 are counted, 82.7% of the data is from 1890–1910, and 92.3%
-is from the last four decades, 1870-1910. The majority of the newspapers
+is from the last four decades, 1870–1910. The majority of the newspapers
 are in Finnish and Swedish, but there are some pages in Russian and
 German, and other languages. Different languages dominated the Finnish
 public sphere in different periods: more than 50% of the publications
@@ -129,14 +129,14 @@ Finnish, 892,191 in Swedish, 8,997 in Russian, and 2,551 in German.
 
 The majority of nineteenth-century newspapers digitised by the Suomen
 Kansalliskirjasto were printed using Gothic (Fraktur, blackletter)
-typeface, with a minority of printed using Antiqua; the difficulty of
-standard OCR software to recognise of the former typeface is well known.
+typeface, with a minority of printed using Antiqua; the difficulty
+standard OCR software has recognising the former typeface is well known.
 By 2006, the Suomen Kansalliskirjasto had implemented automated encoding
 of word coordinates and grayscale scanning, utilising the digitising
 software DocWorks (CCS), with OCR by ABBYY Finereader, and structuring
 metadata in-house by combining OCR data with catalogue information. The
 next phase of development focused on automating OCR for both Fraktur and
-Roman, on the same page and conforming to international METS encoding
+Roman on the same page, and conforming to international METS encoding
 standards. Analysis of parallel samples and word error rates showed that
 about 69% of all word tokens can be recognised with the modern Finnish
 morphological analyser, Omorfi. If orthographical variation is
@@ -226,7 +226,7 @@ year 2013. This includes all published newspapers 1875–1920.
 All out-of-copyright material obtained from the Suomen
 Kansalliskirjaston digitoidut sanomalehdet web interface may be used
 freely but it is requested that they be cited using standard citation
-conventions. Any materials that remains under third-party copyright are
+conventions. Any materials that remain under third-party copyright are
 clearly labelled and provide the specific conditions of use for that
 item; users may not redistribute in-copyright digitised material without
 permission from the rights holder.
