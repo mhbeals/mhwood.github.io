@@ -15,7 +15,9 @@ url: "https://www.digitisednewspapers.net"
 
 # List of links in the navigation bar
 navbar-links:
-  Latest News: "news"
+  News and Updates:
+    - How to Contribute: "contribute"
+    - News: "news"
   The Atlas:
     - The Project: "introduction/project"
     - Methodology:  "introduction/methodology"
