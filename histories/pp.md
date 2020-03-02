@@ -37,8 +37,8 @@ combined the holdings of the Auckland War Memorial Museum, the Auckland
 City Libraries and the Hocken Library, University of Otago with those of
 the Turnbull Library in order to get the most comprehensive coverage of
 three titles from the 1840s: the *Auckland Chronicle and New Zealand
-Colonist*, A*uckland Times*, *New Zealand Herald and Auckland Gazette*.
-Likewise, the digitisation of *Niupepa: the Maori Newspapers* used
+Colonist*, *Auckland Times*, and *New Zealand Herald and Auckland Gazette*.
+Likewise, the digitisation of Niupepa: the Māori Newspapers used
 digital files from the University of Waikato, which had been originally
 created from microfiche made from the Turnbull Library holdings. In some
 cases, if the Turnbull Library does not hold the master or intermediate
@@ -126,10 +126,10 @@ expanding geographic and temporal coverage and addressing user demand,
 considering also copyright status and the quality and availability of
 microfilm. It is managed by the library’s Digitisation Team, with
 selections approved by a small, in-house committee consisting of the
-Digitisation team, the Service Manager of Papers Past, the Curator of
+Digitisation Team, the Service Manager of Papers Past, the Curator of
 Newspapers and Serials, and the Microfilm Librarian. Previously,
 digitisation has been prioritised for particular events; for example,
-for the centenary of WWI led to the digitisation of materials from
+the centenary of WWI led to the digitisation of materials from
 1914–1918. Current priorities for selection are: geographical gap
 filling; additional material in *te reo Māori*; extending existing
 titles up to 1950; and additional Pacific material. A record of user
@@ -172,7 +172,7 @@ collection.
 
 #### Image
 
-The *Papers Past* newspapers were digitised from microfilm as 400 PPI
+The Papers Past newspapers were digitised from microfilm as 400 PPI
 bitonal images. Images were originally delivered to users as
 archival-quality TIFF files, to eliminate the need to reformat or host
 duplicate images. These were served through a proprietary viewer called
