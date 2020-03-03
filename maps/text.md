@@ -9,7 +9,7 @@ use-site-title: false
 ## Technical Definition
 
 Article text content. For text content in article titles, See title of
-the article . For text content in subheadings, see [**article subheading.**](../article-subheading)
+the article. For text content in subheadings, see [**article subheading.**](../article-subheading)
 
 ## Category Notes
 
