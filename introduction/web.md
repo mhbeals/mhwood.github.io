@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-## The Atlas 
+## The Atlas
 
 Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. [DOI:10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059).
 
@@ -29,7 +29,7 @@ The Scissors and Paste Database is a collection of manual transcriptions from Br
 
 ### [The Viral Texts Project](https://viraltexts.org)
 
-This site presents data, visualizations, interactive exhibits, and both computational and literary publications drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines. 
+This site presents data, visualizations, interactive exhibits, and both computational and literary publications drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines.
 
 ## External Tools
 
@@ -40,6 +40,10 @@ This site presents data, visualizations, interactive exhibits, and both computat
 + [The Waterloo Directory of English Newspapers and Periodicals, 1800-1900: A bibliography of publications, personal names, issuing bodies, publishing towns, title pages and subjects](http://www.victorianperiodicals.com/series3/index.asp)  
 + [The Wellesley Index to Victorian Periodicals, 1824-1900: A tool to identify anonymous contributors to periodicals](http://wellesley.chadwyck.co.uk/marketing/index.jsp)  
 + [Wikipedia: List of online newspaper archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives)  
+
+### [Trove Newspaper Harvester](https://glam-workbench.github.io/trove-harvester/)
+
+This tool harvests metadata (and optionally full text and PDFs) from searches in Trove's digitised newspapers. It's available both as a Python command-line tool, and embedded in easy-to-use Jupyter notebooks that can be run online without installing any software. The harvested metadata is saved in a CSV file. If requested, the OCRd text of every article (stripped of HTML tags) will be saved in a separate text file. This repository also includes examples of analysing the harvest results using Jupyter notebooks.
 
 ## Unoffical Guides and Tutorials
 
