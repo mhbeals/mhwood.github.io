@@ -223,8 +223,8 @@ p {
 
 + Harvey, Ross. “Selection of Newspapers for Digitization and Preservation: A User Perspective.” *International Newspaper Librarianship for the 21st Century.* Ed. Hartmut Walravens. K. G. Saur, 2006. 103–13. 
 
-+ Hauswedell, Tessa, Julianne Nyhan, Melodee Beals, Melissa Terras and Emily Bell. “Of Global Reach Yet of Situated Contexts: An Examination of the Implicit and Explicit Selection Criteria that Shape Digital Archives of Historical Newspapers.” *Archival Science: International Journal on Recorded Information*, forthcoming. 
-
++ Hauswedell, Tessa, Julianne Nyhan, Melodee Beals, Melissa Terras and Emily Bell. “Of Global Reach Yet of Situated Contexts: An Examination of the Implicit and Explicit Selection Criteria that Shape Digital Archives of Historical Newspapers.” *Archival Science: International Journal on Recorded Information*, 2020, [doi:10.1007/s10502-020-09332-1](https://doi.org/10.1007/s10502-020-09332-1). 
+  
 + Hellema, Marian and René Voorburg. *Searching & Harvesting Delpher Newspapers*. Koninklijke Bibliotheek, 2015. 
 
 + Hellema, Marian. *APIs to the Historical Newspaper Collection.* Koninklijke Bibliotheek, 2015. 
