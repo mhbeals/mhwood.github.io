@@ -18,7 +18,7 @@ service, the Australian Research Repositories Online to the World
 The [digitised newspaper collection](http://trove.nla.gov.au/newspapers) was included alongside these
 aggregated resources in 2010. It
 was an extension of the Australian Newspaper Plan (ANPlan) founded in
-1992, aims to make freely available as many Australian newspapers as
+1992, and aims to make freely available as many Australian newspapers as
 possible and make sure that they remain available in perpetuity,
 regardless of future technological change.
 
@@ -32,7 +32,7 @@ the newspaper collection has come from various sources. As of 2015, the
 National and State Libraries Australia, other cultural heritage and
 research organisations, as well as community groups had directly funded
 the digitisation of about half of the newspaper pages available on
-Trove. This includes the State Library of NSW who alongside the National
+Trove. This includes the State Library of New South Wales who alongside the National
 Library have been the most significant contributor to digitisation of
 newspapers and journals. The infrastructure costs are borne by the
 National Library without an additional appropriation from the government
@@ -58,7 +58,7 @@ interface protocols.
 The digitisation, delivery and crowd enhancement services originally
 associated with newspapers are now also available for other published
 material within Trove, including government gazettes, journals
-(magazines and newsletters) and books as well as special collections
+(magazines and newsletters) and books as well as special collections.
 
 ### Consulted Libraries
 
@@ -116,20 +116,20 @@ National, State and Territory libraries. When digitisation began in
 2007, the library deliberately chose one title from each state and
 territory in order to be geographically representative. Afterwards,
 particular attention was paid to the oldest or biggest newspapers from
-each state but there was a general desire among the partners not to
+each state, though there was a general desire among the partners not to
 focus exclusively on newspapers with the largest circulation but also to
 represent smaller or more remote communities with less reliable physical
 access to research libraries. Under this devolved model, State and
 Territory libraries nominated the newspaper titles or issues for
-digitisation and provided the microfilm from their collections while the
+digitisation and provided the microfilm from their collections, while the
 National Library also selected titles for digitisation, its focus
-shifting year on year to address important themes, such as WWI, and
+shifting year on year to address important themes, such as WWI, and to
 represent non-geographical communities. This selection process involved
 the consultation of newspaper historians and a microfilm supplier. This
 has led to some unevenness in periodisation across the collections, but
 this will diminish as digitisation continues. In general, this devolved
 decision-making process considered user demand, historical significance,
-geographical and regional coverage and microfilm status. The initial
+geographical and regional coverage, and microfilm status. The initial
 selection process, therefore, largely depended upon librarian expertise
 of significance and user demand, as well as the availability of
 microfilm copies of sufficient quality for digitisation.
@@ -152,9 +152,9 @@ significantly increase its digitisation output. Australian newspapers
 pre-1955 are a finite set, and digitisation of the entire corpus into
 Trove is a long-term goal.
 
-As of December 2019, the library maintains online lists of [current titles](https://trove.nla.gov.au/%20newspaper/about)),
+As of December 2019, the library maintains online lists of [current titles](https://trove.nla.gov.au/newspaper/about)),
 [forthcoming titles](https://help.nla.gov.au/trove/for-digitisation-partners/newspapers-coming-soon))
-and [new additions](https://trove.nla.gov.au/%20newspaper/rss/titles)).
+and [new additions](https://trove.nla.gov.au/newspaper/rss/titles)).
 
 ### Preservation 
 
@@ -183,12 +183,12 @@ that have been digitised.
 ### Selection Available
 
 As of December 2019, Trove Digitised Newspapers provides access to over
-25 million pages across almost fifteen-hundred Australian newspapers
+25 million pages across almost 1,500 Australian newspapers
 from each state and territory, from the earliest published newspaper in
 1803 to 1954, when copyright is assumed to have expired. There are also
-fifty titles with digitised issues after 1954, nine after 2000, which
+fifty titles with digitised issues after 1954, and nine after 2000, which
 have been made available with the agreement of the publisher. This
-includes *the Canberra Times,* the *Australian Women’s Weekly, Woroni*
+includes the *Canberra Times,* the *Australian Women’s Weekly, Woroni*
 and the *Chaser.* In addition to the English-language press, the
 collections also include Australian publications in community languages
 such as Chinese, Japanese, Danish, Estonian, French, German, Italian,
@@ -217,7 +217,7 @@ non-systematic inclusion of end-user corrections. During the initial
 processing, titles, sub-titles, authors and the first four lines of each
 zoned article are re-keyed, resulting in 99% percent accuracy for these
 components. Once online, Trove users are encouraged to help improve the
-accuracy of the OCR text by allowing line-by-line correction and some
+accuracy of the OCR text by allowing line-by-line correction, and some
 users have self-organised into volunteer groups to undertake systematic
 corrections of certain parts of the collections. As of December 2019,
 over 333 million column-lines of the OCR text had been manually updated
@@ -228,7 +228,7 @@ of changes being made to family notices and other material useful to
 genealogical research. A history of these changes is recorded, allowing
 staff to roll-back vandalism, and the web interface searches both the
 original OCR and corrections to it. Articles that have or have not
-undergone manual corrections can be filtered using the web-interface
+undergone manual corrections can be filtered using the web interface
 facet “has:corrections”, while the API will return the number of
 corrections and the last date the article was modified.
 
@@ -238,7 +238,7 @@ considerably depending the condition and typography of the original
 item. As these corrections are updated hourly, the OCR quality of the
 collection should be specifically tested for any sub-corpus used at the
 time of analysis. Moreover, periodicals in Chinese, Estonian, French,
-German, and Italian, currently have a greater variance in OCR quality
+German, and Italian currently have a greater variance in OCR quality
 than the English-level titles, owing to software limitations. These
 provisos acknowledged, independent research undertaken in 2013 showed a
 general OCR accuracy of 80-90%, with the late 1840s rising to 94% and
@@ -261,8 +261,7 @@ Group 4 for the bitonal image.
 
 ### Metadata Schema
 
-The OCR metadata contained within Trove utilises the METS XML schema is
-used for structural metadata and ALTO XML for the OCR content. The
+The OCR metadata contained within Trove utilises the METS XML schema for structural metadata and ALTO XML for the OCR content. The
 descriptive and bibliographic metadata is largely based on
 human-inputted records, either by library staff or by human operators at
 OCR processing facilities. Additional metadata regarding user
@@ -328,8 +327,8 @@ available through the Trove Help pages.
 
 ### Direct Download or Drives
 
-The Australian Government Gazettes and the Australian Aborigines’
-advocate are available for bulk download through the Trove Help.
+The Australian *Government Gazettes* and the *Australian Aborigines
+Advocate* are available for bulk download through the Trove Help.
 
 ## Rights and Usage
 
