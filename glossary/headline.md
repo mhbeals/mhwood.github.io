@@ -88,7 +88,7 @@ hand-key and check titles and headlines.
 ### Recurring column titles
 <img src="https://www.digitisednewspapers.net/img/ladies-column.jpg">  
   
-> "Ladies Column" in *The Herald*, 1 January 1890: 4. [Trove](http://nla.gov.au/nla.news-page26236852).
+> "Ladies' Column" in *The Herald*, 1 January 1890: 4. [Trove](http://nla.gov.au/nla.news-page26236852).
   
 “This penny satirical journal was started during the Reform
     agitation, and originated those periodical comments on magisterial
