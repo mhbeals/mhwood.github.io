@@ -187,7 +187,7 @@ analysis tools, such as term clusters and frequency. Individual results
 can be viewed at article, page, or issue level. At article level, the
 searched terms are highlighted, and users can navigate the issue by
 moving to other pages or articles within it or refining their search
-terms. Then can also adjust the image contrast and brightness to improve
+terms. Then users can also adjust the image contrast and brightness to improve
 legibility and download it using standard browser context menus. The
 image may also be downloaded as a PDF as can the plain text of the OCR
 content. Bibliographic information and a suggested citation are provided
@@ -227,7 +227,7 @@ with institutional subscriptions or purchases of the relevant Gale
 products. Material obtained on text mining drives may be used to examine
 individual text for large-scale analysis for purposes of performing
 personal or non-commercial research but cannot be duplicated or shared
-without expressed permission.
+without express permission.
 
 ### Re-Publication
 
