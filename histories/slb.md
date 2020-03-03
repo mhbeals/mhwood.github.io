@@ -22,7 +22,7 @@ pages overall.
 
 ### Consulted Libraries
 
-Digitised newspapers published in ZEYFS typically stem from the
+Digitised newspapers published in ZEFYS typically stem from the
 collection of the Staatsbibliothek zu Berlin. However, in some cases
 there have also been collaborations with other libraries or archives to
 digitise historical German newspapers from their holdings that are not
@@ -61,31 +61,31 @@ the increased efficiency of digitisation, this also preserves the paper
 originals and internal evaluations of its OCR have shown that there is
 next to no quality loss when the microfilm master is used for image
 capture. Preservation microfilming is still supported on a small scale
-and the German Research Associate has mandated that the newly created
+and the German Research Foundation has mandated that the newly created
 microfilm be listed in the ZDB catalogue.
 
 ### Digitisation Projects
 
 In addition to the continuous digitisation of newspapers based on user
 demand, the Berlin State Library carried out a number of specific
-newspaper digitisation projects such as the “Amtspresse Preußens”, which
-digitised the Prussian political press collection, “DDR Presse”, which
+newspaper digitisation projects such as the Amtspresse Preußens, which
+digitised the Prussian political press collection, DDR Presse, which
 digitised three popular newspapers from the German Democratic Republic
 (for reasons of copyright, these are only available after log-in), and
-most recently the Europeana “Rise of Literacy” project, which digitised
+most recently the Europeana Rise of Literacy project, which digitised
 the *Vossische* *Zeitung*.
 
 #### Selection
 
 The primary driver behind digitisation at the Berlin State Library has
-been user demand. In addition, the aim of the “Digitisation of the
-Amtspresse Preußens” project was to create a collection of the most
+been user demand. In addition, the aim of the Digitisation of the
+Amtspresse Preußens project was to create a collection of the most
 influential political press of the last third of the nineteenth century,
-together with a commentary and a search function.
+together with commentary and a search function.
 
 ### Preservation and Access
 
-Microfilm is used as the main means for preservation of the Berlin State
+Microfilm is used as the main means of preservation of the Berlin State
 Library newspaper collection. Hard copies that have been microfilmed are
 not typically available for manual inspection and visitors are instead
 directed to the microfilm. Digitisation is done mainly for reasons of
@@ -172,8 +172,8 @@ the rights and usage for each newspaper.
 ### Re-Publication
 
 All digitised newspapers assembled in ZEFYS are dedicated to the public
-domain. Specific terms of use apply for the sub-collections “Amtspresse
-Preußens” and “DDR Presse”.
+domain. Specific terms of use apply for the sub-collections Amtspresse
+Preußens and DDR Presse.
   
 ## Suggested Citation
 
