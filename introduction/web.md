@@ -41,14 +41,11 @@ A tool for exploring the Papers Past API
 
 #### [DigitalNZ in the GLAM Workbench](https://glam-workbench.github.io/digitalnz/)
 
-This is a collection of Jupyter notebooks that help researchers use data from the DigitalNZ API. These include:
-
-* [Visualise a search in Papers Past](https://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-pasthttps://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-past)
-* [Harvest data from Papers Past](https://glam-workbench.github.io/digitalnz/#harvest-data-from-papers-past)
+This is a collection of Jupyter notebooks that help researchers use data from the DigitalNZ API. These include [Visualise a search in Papers Past](https://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-pasthttps://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-past) and [Harvest data from Papers Past](https://glam-workbench.github.io/digitalnz/#harvest-data-from-papers-past).
 
 #### [Passim](https://github.com/dasmiq/passim)
 
-A tool for detecting and aligning similar passages in text
+A tool for detecting and aligning similar passages in text.
 
 #### [QueryPic](http://dhistory.org/querypic/)
 
@@ -60,7 +57,7 @@ This Jupyter notebook demonstrates a method for selecting a newspaper article at
 
 #### [Scissors-and-Paste Console](https://github.com/mhbeals/sap_console)
 
-A tool for detecting reused newspaper material
+A tool processing manifests of reused newspaper material, allowing for the creation of likely dissemination chains and accounting for typical travel times.
 
 #### [Trove API Console](https://troveconsole.herokuapp.com)  
 
@@ -72,20 +69,7 @@ This tool harvests metadata (and optionally full text and PDFs) from searches in
 
 #### [Trove Newspapers in the GLAM Workbench](https://glam-workbench.github.io/trove-newspapers/)
 
-This is a collection of Jupyter notebooks that help researchers find, use, and share data about Trove's digitised newspapers. For example, there are notebooks that explain how to visualise searches using API facets:
-
-* [Visualise Trove newspaper searches over time](https://glam-workbench.github.io/trove-newspapers/#visualise-trove-newspaper-searches-over-time)
-* [Map Trove newspaper articles by place of publication](https://glam-workbench.github.io/trove-newspapers/#map-trove-newspaper-results-by-place-of-publication)
-
-Other notebooks provide high-level overviews of the contents of Trove's database of digitised newspapers:
-
-* [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-statehttps://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state)
-* [Beyond the copyright cliff of death](https://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-deathhttps://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-death)
-
-Some notebooks extend the functionality of the Trove web interface and API to extract additional data and connect it to other systems:
-
-* [Save a Trove newspaper article as an image](https://glam-workbench.github.io/trove-newspapers/#save-a-trove-newspaper-article-as-an-image)
-* [Upload Trove newspaper articles to Omeka-S](https://glam-workbench.github.io/trove-newspapers/#upload-trove-newspaper-articles-to-omeka-s)
+This is a collection of Jupyter notebooks that help researchers find, use, and share data about Trove's digitised newspapers. For example, there are notebooks that explain how to visualise searches using API facets &mdash; [Visualise Trove newspaper searches over time](https://glam-workbench.github.io/trove-newspapers/#visualise-trove-newspaper-searches-over-time) and [Map Trove newspaper articles by place of publication](https://glam-workbench.github.io/trove-newspapers/#map-trove-newspaper-results-by-place-of-publication). Other notebooks provide high-level overviews of the contents of Trove's database of digitised newspapers &mdash; [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-statehttps://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state) and [Beyond the copyright cliff of death](https://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-deathhttps://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-death). Some notebooks extend the functionality of the Trove web interface and API to extract additional data and connect it to other systems &mdash; [Save a Trove newspaper article as an image](https://glam-workbench.github.io/trove-newspapers/#save-a-trove-newspaper-article-as-an-image) and [Upload Trove newspaper articles to Omeka-S](https://glam-workbench.github.io/trove-newspapers/#upload-trove-newspaper-articles-to-omeka-s).
 
 #### [Trove places](https://troveplaces.herokuapp.com/map/)
 
