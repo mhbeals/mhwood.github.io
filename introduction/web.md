@@ -39,9 +39,24 @@ This site presents data, visualizations, interactive exhibits, and both computat
 
 A tool for exploring the Papers Past API
 
+#### [DigitalNZ in the GLAM Workbench](https://glam-workbench.github.io/digitalnz/)
+
+This is a collection of Jupyter notebooks that help researchers use data from the DigitalNZ API. These include:
+
+* [Visualise a search in Papers Past](https://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-pasthttps://glam-workbench.github.io/digitalnz/#visualise-a-search-in-papers-past)
+* [Harvest data from Papers Past](https://glam-workbench.github.io/digitalnz/#harvest-data-from-papers-past)
+
 #### [Passim](https://github.com/dasmiq/passim)
 
 A tool for detecting and aligning similar passages in text
+
+#### [QueryPic](http://dhistory.org/querypic/)
+
+This is a simple web-based tool that visualises searches in Trove and Papers Past's digitised newspapers. Just enter keywords to see the number of matching articles per year. The charts can be saved, shared, and regenerated.
+
+#### [Random newspaper articles from Trove](https://glam-workbench.github.io/trove-random/#get-an-random-newspaper-article-from-trove)
+
+This Jupyter notebook demonstrates a method for selecting a newspaper article at random from Trove's digitised newspaper database. You can supply your own queries or specific facet values to limit the result set. This method is used in [@TroveNewsBot](https://wragge.github.io/trovenewsbot2019/) and the remixable [Trove Title Bot](https://glitch.com/~trove-title-bot-2) starter kit.
 
 #### [Scissors-and-Paste Console](https://github.com/mhbeals/sap_console)
 
@@ -49,11 +64,32 @@ A tool for detecting reused newspaper material
 
 #### [Trove API Console](https://troveconsole.herokuapp.com)  
 
- A tool for exploring the Trove API
+This tool helps you construct and test queries to the Trove API without the need for an API key.
 
 #### [Trove Newspaper Harvester](https://glam-workbench.github.io/trove-harvester/)
 
 This tool harvests metadata (and optionally full text and PDFs) from searches in Trove's digitised newspapers. It's available both as a Python command-line tool, and embedded in easy-to-use Jupyter notebooks that can be run online without installing any software. The harvested metadata is saved in a CSV file. If requested, the OCRd text of every article (stripped of HTML tags) will be saved in a separate text file. This repository also includes examples of analysing the harvest results using Jupyter notebooks.
+
+#### [Trove Newspapers in the GLAM Workbench](https://glam-workbench.github.io/trove-newspapers/)
+
+This is a collection of Jupyter notebooks that help researchers find, use, and share data about Trove's digitised newspapers. For example, there are notebooks that explain how to visualise searches using API facets:
+
+* [Visualise Trove newspaper searches over time](https://glam-workbench.github.io/trove-newspapers/#visualise-trove-newspaper-searches-over-time)
+* [Map Trove newspaper articles by place of publication](https://glam-workbench.github.io/trove-newspapers/#map-trove-newspaper-results-by-place-of-publication)
+
+Other notebooks provide high-level overviews of the contents of Trove's database of digitised newspapers:
+
+* [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-statehttps://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state)
+* [Beyond the copyright cliff of death](https://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-deathhttps://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-death)
+
+Some notebooks extend the functionality of the Trove web interface and API to extract additional data and connect it to other systems:
+
+* [Save a Trove newspaper article as an image](https://glam-workbench.github.io/trove-newspapers/#save-a-trove-newspaper-article-as-an-image)
+* [Upload Trove newspaper articles to Omeka-S](https://glam-workbench.github.io/trove-newspapers/#upload-trove-newspaper-articles-to-omeka-s)
+
+#### [Trove places](https://troveplaces.herokuapp.com/map/)
+
+This is a map-based interface to Trove's digitised newspaper titles. Either click on the map to view the 10 newspapers published closest to that spot, or browse the publication places of all titles. The location data is available for download as a CSV file.
 
 #### [The Waterloo Directory of English Newspapers and Periodicals, 1800-1900](http://www.victorianperiodicals.com/series3/index.asp)  
 
