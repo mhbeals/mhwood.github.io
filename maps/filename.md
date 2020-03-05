@@ -18,7 +18,7 @@ CAAL: The name of the image file from which the OCR text was created.
 
 DEAL: The name of the image file from which the OCR text was created.
 
-DEMP: dcx:coordinates@image is the access image file name, whie
+DEMP: dcx:coordinates@image is the access image file name, while
 dc:identifier is the article PDF.
 
 F1AL: The name of the image file from which the OCR text was created.
