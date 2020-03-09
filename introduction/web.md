@@ -33,6 +33,10 @@ The Scissors and Paste Database is a collection of manual transcriptions from Br
 
 This site presents data, visualizations, interactive exhibits, and both computational and literary publications drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines.
 
+#### [Impresso Project](https://impresso-project.ch/)
+
+The objective of this project is to enable critical text mining of newspaper archives with the implementation of a technological framework to extract, process, link, and explore data from print media archives. Supported by an interdisciplinary composed of computational linguists, digital humanists, designers, historians, librarians and archivists, Impresso will tackle the challenges of content enrichment and data representation, visualisation and analysis.
+
 ## External Tools
 
 #### [DigitalNZ API Console](https://digitalnz.org/developers)  
@@ -71,7 +75,7 @@ This tool harvests metadata (and optionally full text and PDFs) from searches in
 
 This is a collection of Jupyter notebooks that help researchers find, use, and share data about Trove's digitised newspapers. For example, there are notebooks that explain how to visualise searches using API facets &mdash; [Visualise Trove newspaper searches over time](https://glam-workbench.github.io/trove-newspapers/#visualise-trove-newspaper-searches-over-time) and [Map Trove newspaper articles by place of publication](https://glam-workbench.github.io/trove-newspapers/#map-trove-newspaper-results-by-place-of-publication). Other notebooks provide high-level overviews of the contents of Trove's database of digitised newspapers &mdash; [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-statehttps://glam-workbench.github.io/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state) and [Beyond the copyright cliff of death](https://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-deathhttps://glam-workbench.github.io/trove-newspapers/#beyond-the-copyright-cliff-of-death). Some notebooks extend the functionality of the Trove web interface and API to extract additional data and connect it to other systems &mdash; [Save a Trove newspaper article as an image](https://glam-workbench.github.io/trove-newspapers/#save-a-trove-newspaper-article-as-an-image) and [Upload Trove newspaper articles to Omeka-S](https://glam-workbench.github.io/trove-newspapers/#upload-trove-newspaper-articles-to-omeka-s).
 
-#### [Trove places](https://troveplaces.herokuapp.com/map/)
+#### [Trove Places](https://troveplaces.herokuapp.com/map/)
 
 This is a map-based interface to Trove's digitised newspaper titles. Either click on the map to view the 10 newspapers published closest to that spot, or browse the publication places of all titles. The location data is available for download as a CSV file.
 
@@ -92,12 +96,12 @@ A dynamic and user-contributed list of online digitised newspaper collections
 
 #### [A Closer Look at Newspaper Items via the Trove API](https://stumblingfuture.wordpress.com/2014/03/15/a-closer-look-at-newspaper-items-via-the-trove-api/)
 
-A blog post on using the previous Trove API
+A blog post on using the previous Trove API.
 
 #### [An Introduction to the Trove API](https://stumblingfuture.wordpress.com/2014/03/11/an-introduction-to-the-trove-api/)
 
-A blog post providing an introductory guide to the previous Trove API
+A blog post providing an introductory guide to the previous Trove API.
 
 #### [Using the Trove API with Excel Spreadsheets](https://stumblingfuture.wordpress.com/2014/03/13/using-the-trove-api-with-excel-spreadsheets/)
 
-A blog post on organising API results with Excel spreadsheets
+A blog post on organising API results with Excel spreadsheets.
