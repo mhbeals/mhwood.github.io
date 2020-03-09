@@ -7,7 +7,7 @@ use-site-title: false
 
 ## History of the Collection
 
-<img src="https://pro.europeana.eu/thumbs/450x450c/Europeana_Professional/Aggregation%20Landscape/medium_KansallisK_BLUE_eng_resized.png" width="200" height="174" align="right">The [*Suomen Kansalliskirjaston digitoidut sanomalehdet*](https://digi.kansalliskirjasto.fi/search?formats=NEWSPAPER)
+<img src="https://pro.europeana.eu/thumbs/450x450c/Europeana_Professional/Aggregation%20Landscape/medium_KansallisK_BLUE_eng_resized.png" width="200" height="174" align="right">The [Suomen Kansalliskirjaston digitoidut sanomalehdet](https://digi.kansalliskirjasto.fi/search?formats=NEWSPAPER)
 has its origins in the Helsinki University Library Centre for Microfilming and
 Conservation, established in Mikkeli in 1990. Now known as the Centre
 for Preservation and Digitisation, part of the Suomen Kansalliskirjasto
