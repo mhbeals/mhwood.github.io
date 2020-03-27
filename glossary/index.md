@@ -86,8 +86,8 @@ use-site-title: false
 ## I    
 **[Illustration](illustration-information.md)**  
 [Imprint](place-of-publication.md)  
-**[Issue Number](issue-number.md)**  
 **[Issue Date](date.md)**  
+**[Issue Number](issue-number.md)**  
 [Item](document-type.md)  
   
 # J  
@@ -103,9 +103,9 @@ use-site-title: false
 ## M  
 [Margin](dimensions.md)  
 [Masthead](newspaper-title.md)  
-**[Microfilm Reel](microfilm-reel.md)**  
 [Metropolitan Press (Coverage)](geographic-coverage.md)  
 [Metropolitan Press (Place of Publication)](place-of-publication.md)  
+**[Microfilm Reel](microfilm-reel.md)**  
 [Monthly Newspaper](publication-frequency.md)  
 [Month of Publication](date.md)  
 [Morning Edition](edition.md)  
@@ -124,18 +124,18 @@ use-site-title: false
 [Owner](publisher.md)  
 
 ## P  
-**[Page Number](page-number.md)**  
 **[Page Count of Article](page-count-of-article.md)**  
 **[Page Count of Issue](page-count-of-issue.md)**  
+**[Page Number](page-number.md)**  
 **[Page Position](page-position.md)**  
 **[Page Skew](page-skew.md)**  
 [Paper Size](dimensions.md)  
 **[Paragraph](paragraph.md)**  
 [Parliamentary Reporting](article-category.md)  
 [Pen Name](attribution.md)  
-[Piece](document-type.md)  
 [Photography](illustration-information.md)  
 [Picture](illustration-information.md)  
+[Piece](document-type.md)  
 **[Place of Publication](place-of-publication.md)**  
 [Printer](publisher.md)  
 [Print Run](publication-date-range.md)  
@@ -144,8 +144,8 @@ use-site-title: false
 [Provincial Press (Coverage)](geographic-coverage.md)  
 [Provincial Press (Place of Publication)](place-of-publication.md)  
 **[Publication Date Range](publication-date-range.md)**  
-**[Publication Frequency](publication-frequency.md)**  
 [Publication Format](publication-genre.md)  
+**[Publication Frequency](publication-frequency.md)**  
 **[Publication Genre](publication-genre.md)**  
 [Publication Type](publication-genre.md)  
 **[Publisher](publisher.md)**  
@@ -169,8 +169,8 @@ use-site-title: false
 **[Section Heading](section-heading.md)**  
 [Segment](coordinate.md)  
 [Set Through](quality.md)  
-**[Shelf Mark](shelf-mark.md)**  
 [Sheet](dimensions.md)  
+**[Shelf Mark](shelf-mark.md)**  
 [Shipping Intelligence](article-category.md)  
 [Sidehead](article-subheading.md)  
 [Society Gossip](article-category.md)  
