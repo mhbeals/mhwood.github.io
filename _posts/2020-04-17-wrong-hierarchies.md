@@ -5,7 +5,7 @@ sub-title: Appreciating the Value of Non-Authoritative Metadata into Digitised N
 author: M. H. Beals
 ---
 
-In our [last](https://www.digitisednewspapers.net/2020-04-03-found-indices, we discussed the possibilities and initial 
+In our [last](https://www.digitisednewspapers.net/2020-04-03-found-indices), we discussed the possibilities and initial 
 efforts made by librarians and other collection holders to provide access, and in some cases even integrate, existing 
 newspaper indices into digitised newspaper collections. These historical ontologies—systems of categorisation and 
 structures of knowledge—were constructed by individuals who maintained a certain claim to authority. This authority
@@ -96,11 +96,11 @@ we can work together to find other site of social curation.
 
 ## Bibliography
 
-Ayres, Marie-Louise Singing for their supper’: Trove, Australian newspapers, and the crowd." Paper presented at: IFLA WLIC 2013 - Singapore - Future Libraries: Infinite Possibilities in Session 153 - Newspapers. 2013. http://library.ifla.org/id/eprint/245
+Ayres, Marie-Louise Singing for their supper’: Trove, Australian newspapers, and the crowd." Paper presented at: IFLA WLIC 2013 - Singapore - Future Libraries: Infinite Possibilities in Session 153 - Newspapers. 2013. [http://library.ifla.org/id/eprint/245](http://library.ifla.org/id/eprint/245).
 
-Noll, Michael G. and Christopher Meinel,  "The Metadata Triumvirate: Social Annotations, Anchor Texts and Search Queries," in Web Intelligence and Intelligent Agent Technology, IEEE/WIC/ACM International Conference on, null, 2008 pp. 640-647. DOI: 10.1109/WIIAT.2008.341 
+Noll, Michael G. and Christopher Meinel,  "The Metadata Triumvirate: Social Annotations, Anchor Texts and Search Queries," in Web Intelligence and Intelligent Agent Technology, IEEE/WIC/ACM International Conference on, null, 2008 pp. 640-647. [DOI: 10.1109/WIIAT.2008.341](http://dx.doi.org/10.1109/WIIAT.2008.341).
 
-Recker, Mimi M. and David A. Wiley "A Non-authoritative Educational Metadata Ontology for Filtering and Recommending Learning Objects", Interactive Learning Environments, 9:3, (2001), 255-271, DOI:10.1076/ilee.9.3.255.3568.
+Recker, Mimi M. and David A. Wiley "A Non-authoritative Educational Metadata Ontology for Filtering and Recommending Learning Objects", Interactive Learning Environments, 9:3, (2001), 255-271, [DOI:10.1076/ilee.9.3.255.3568](http://dx.doi.org/10.1076/ilee.9.3.255.3568).
 
-Taylor, Joel and Laura Kate Gibson. “Digitisation, Digital Interaction and Social Media: Embedded Barriers to Democratic Heritage” International Journal of Heritage Studies 5 (2016), 408-420. DOI: 10.1080/13527258.2016.1171245
+Taylor, Joel and Laura Kate Gibson. “Digitisation, Digital Interaction and Social Media: Embedded Barriers to Democratic Heritage” International Journal of Heritage Studies 5 (2016), 408-420. [DOI:10.1080/13527258.2016.1171245](http://dx.doi.org/10.1080/13527258.2016.1171245).
 
