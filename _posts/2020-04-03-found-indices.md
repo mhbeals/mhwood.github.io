@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ask for an Inch, We'll Give you a Mile: Integrating Authoritative Metadata into Digitised Newspaper Collections
+title: Ask for an Inch, We'll Give you a Mile; or, Integrating Authoritative Metadata into Digitised Newspaper Collections
 author: M. H. Beals
 ---
 In our last, we spoke of the seemingly unnecessary loss of ontological information that occurred as we moved from 
