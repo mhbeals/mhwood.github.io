@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wrong Hierarchies; or, Appreciating the Value of Non-Authoritative Metadata into Digitised Newspaper Collections
+title: Wrong Hierarchies; or, Appreciating the Value of Non-Authoritative Metadata for Digitised Newspaper Collections
 author: M. H. Beals
 ---
 
