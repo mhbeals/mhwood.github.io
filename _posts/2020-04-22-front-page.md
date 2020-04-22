@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read All About It: Designing a Front Page
+title: Read All About It &mdash; Designing a Front Page
 author: Emily Bell
 ---
 
