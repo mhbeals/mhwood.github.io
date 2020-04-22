@@ -22,7 +22,7 @@ articles would provide a remarkable training set for automatic processes that so
 segmentation.
 
 The first, on the other hand, most neatly fits within standard digitisation processes. It is perhaps for this reason that 
-book-like indices, such as*Palmer's Index of the Times*, have already been digitised multiple times, though most of these 
+book-like indices, such as *Palmer's Index of the Times*, have already been digitised multiple times, though most of these 
 remain firmly behind paywalls or Google Books's snippet view.  Their digitisation is problematic for an almost opposite reason.
 Because of the lack of manual processing required, little if any manual processing is likely to be undertaken. Rather than 
 convert these indices into digital subject-headings for digital collections, they are given the same agnostic full-text 
