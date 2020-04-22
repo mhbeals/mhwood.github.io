@@ -4,9 +4,6 @@ title: Read All About It: Designing a Front Page
 author: Emily Bell
 ---
 
-**Our blog posts expand on elements of the *Atlas*, including selection decisions, lessons learned from our archival partners, 
-and some of the ontological issues we found when working with digitised newspaper metadata.**
-  
 The face of the newspaper has changed substantially over time, and also varies widely between publications. We take for 
 granted that modern newspapers have [image-laden](https://www.digitisednewspapers.net/glossary/illustration-information/) 
 spreads on the [front cover](https://www.digitisednewspapers.net/glossary/page-position/), including attention-grabbing
