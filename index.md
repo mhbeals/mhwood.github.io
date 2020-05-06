@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Atlas
-subtitle: Mapping the Histories and Data of Digitised Newspapers Collections Around the World
+subtitle: Mapping the Histories and Data of Digitised Newspaper Collections Around the World
 use-site-title: true
 ---
 
