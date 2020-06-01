@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Musings on a Multimodal Analysis of Scissors-and-Paste Journalism 
+title: Flips & Clicks
+subtitle: Musings on a Multimodal Analysis of Scissors-and-Paste Journalism 
 ---
 
 *This originally appeared as a 4-part blog series in April 2014. It has been consolidated here 1 June 2020.*
