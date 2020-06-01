@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: M. H. Beals | Digital Historian of Migration and Media
+title: M. H. Beals
 
 # Short description of your site
 description: Official Homepage of M. H. Beals
@@ -19,11 +19,11 @@ description: Official Homepage of M. H. Beals
 
 # List of links in the navigation bar
 navbar-links:
-  Curriculum Vitae: "curiculumvitae"
+  Curriculum Vitae: "curriculumvitae"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/photo.jpg"
+avatar: "/img/mhbeals3-150x150.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -46,8 +46,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
+navbar-img: "/img/background.png"
+footer-img: "/img/background.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -55,7 +55,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: M. H. Beals
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -96,7 +96,7 @@ url-pretty: "mhbeals.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-23785062-1"
+google_analytics: "UA-23785062-1"
 
 # Google Tag Manager ID
 #gtm: ""
