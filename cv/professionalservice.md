@@ -9,7 +9,7 @@ subtitle: Professional Service
 | 2015-2017    | General Reviews Editor | Journal for Eighteenth-Century Studies |
 | 2014-Present | History Editor         | Open Library of the Humanities         |
 | 2013-2014    | History Reviews Editor | Journal for Eighteenth-Century Studies |
-| 2009-2011    | Commissioning Editor, Historical Insights   |  Higher Education Academy        |
+| 2009-2011    | Commissioning Editor  |  Historical Insights         |
 
 ### Advisory Boards
 
