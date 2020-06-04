@@ -4,8 +4,6 @@ title: M. H. Beals
 subtitle: Invited Talks and Workshops
 ---
 
-## Research
-
 "Exploring the Atlas of Digitised Newspapers: Enhancing Access to and
 Collaborative Research with Digitised Historical Newspapers" Workshop at
 Digital Humanities, Ottawa (2020) Event Made Virtual owing to Covid-19.
@@ -15,6 +13,9 @@ Institute's Collaboration Workshop (2020)
 
 "Ontologies and Interoperability" at the Software Sustainability
 Institute's Collaboration Workshop (2020)
+
+"Breaking Black Boxes: The Importance of Developing Your Own Research
+Tools" at the Centre for Media History, Macquarrie University (2018)
 
 "Historical Portals: Preservation, Access and Community Building with
 Digital Newspaper Archives" History Research Seminar. Sheffield Hallam
@@ -26,6 +27,9 @@ Keynote at This & That Camp, Sussex Humanities Lab (2016)
 "Understanding 19th-Century Reprint Culture with Plagiarism Detection
 Software" at the Media and Communication History Seminar Series,
 Loughborough University (2016)
+
+"Peer-to-Peer Learning, off and online" at RHS New to Teaching Workshop
+(2016)
 
 "Retraction-less Reprints; or, rumours of his death have been greatly
 exaggerated" at the Centre for Nineteenth-Century Studies, University of
@@ -45,17 +49,6 @@ at the Eighteenth-Century Seminar at the University of Warwick (2014)
 "Virgin, Number, Whore: Satire and the Surplus Women Problem, 1790-1840″
 at the Institute of Historical Research’s Women’s History Seminar (2014)
 
-"Network News: Emigration Advice in the Glasgow Advertiser" at the
-University of Northampton Department of History Seminar Series (2011)
-
-## Pedagogy and Research Development
-
-"Breaking Black Boxes: The Importance of Developing Your Own Research
-Tools" at the Centre for Media History, Macquarrie University (2018)
-
-"Peer-to-Peer Learning, off and online" at RHS New to Teaching Workshop
-(2016)
-
 "Help Them Try Harder: Integrating the Digital in Historical Thinking"
 at Digital Humanities at the University of Warwick Workshop Series
 (2014)
@@ -74,3 +67,6 @@ Research Student Conference (2013)
 
 "Exemplar(y) History: Academic Writing in First-Year History Modules" at
 What Do History Students Want (2011)
+
+"Network News: Emigration Advice in the Glasgow Advertiser" at the
+University of Northampton Department of History Seminar Series (2011)
