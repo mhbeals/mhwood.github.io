@@ -28,7 +28,8 @@ navbar-links:
     - Invited Talks and Workshops: "cv/talks"
     - Conference Papers: "cv/papers"
     - Public Outreach: "cv/media"
-    - Academic Service: "cv/service"
+    - Professional Service: "cv/professionalservice"
+    - Departmental Service: "cv/departmentalservice"
     - Teaching: "cv/teaching"
     
 # Image to show in the navigation bar - image must be a square (width = height)
