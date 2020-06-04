@@ -5,8 +5,6 @@ subtitle: Conference Papers
 ---
 
 
-## Research 
-
 "Mapping Metadata and Chronicling Collections: Reassessing Digitised
 Newspapers" at Research Society for Victorian Periodicals, Temple
 University, Philadelphia (2020) Event Postponed owing to Covid-19.
@@ -47,6 +45,9 @@ Studies Conference (2016)
 "Boutique Big Data: Reintegrating Close and Distant Reading of
 19th-Century Newspapers" at the Institute of Historical Research (2015)
 
+"Slow Down\!: Teaching Students to Encode their Close Reading" at
+Teaching History in Higher Education (2015)
+
 "Hunt or Gather, Share or Steal: Scottish News Networks, 1790-1840″ at
 the Research Society for Victorian Periodicals Annual Conference (2014)
 
@@ -63,6 +64,10 @@ at the 10th European Social Science History Conference (2014)
 Emigration in late-Georgian Scotland" at the Migration History Workshop
 (2013)
 
+"Historiography Blogging: Re-integrating Unassessed Work into the
+Student Experience" at the The Higher Education Academy’s 15th Annual
+Teaching and Learning Conference for Historians, 2013 (2013)
+
 "Frenemies: British Emigration, US Expansion and the War of 1812″ at the
 2nd Warwick-Boston Conference on the Atlantic World (2012)
 
@@ -78,15 +83,6 @@ Glasgow (2012)
 "Plagiarising Presses: Georgian Information Networks in Scotland’s
 Imperial News" at Numbers are your Friends: Network Science in
 Historical Research (2011)
-
-## Pedagogy
-
-"Slow Down\!: Teaching Students to Encode their Close Reading" at
-Teaching History in Higher Education (2015)
-
-"Historiography Blogging: Re-integrating Unassessed Work into the
-Student Experience" at the The Higher Education Academy’s 15th Annual
-Teaching and Learning Conference for Historians, 2013 (2013)
 
 "Home and Away: Internationalisation and First Year Transition in HE
 History" at the 13th Annual Teaching and Learning in History Conference
