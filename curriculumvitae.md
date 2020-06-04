@@ -1,11 +1,8 @@
 ---
 layout: page
-title: M. H. Beals
+title: Curriculum Vitae
+subtitle: M. H. Beals
 ---
-
-[ORCID: 0000-0002-2907-3313](http://orcid.org/0000-0002-2907-3313)  
-[Lecturer in Digital History, Loughborough University](http://www.lboro.ac.uk/departments/phir/staff/academic/melodee-beals-.html)  
-[m.h.beals@lboro.ac.uk](mailto:m.h.beals@lboro.ac.uk)
 
 ## Publications
 
