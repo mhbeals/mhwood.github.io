@@ -20,9 +20,11 @@ description: Official Homepage of M. H. Beals
 # List of links in the navigation bar
 navbar-links:
   Curriculum Vitae: 
-    - Education and Career History: "cv/education"
+    - Education: "cv/education" 
+    - Career History: "cv/career"
     - Publications: "cv/publications"
-    - Awards and Funding: "cv/awards"
+    - Awards: "cv/awards"
+    - Funding: "cv/funding"
     - Invited Talks and Workshops: "cv/talks"
     - Conference Papers: "cv/papers"
     - Public Outreach: "cv/media"
