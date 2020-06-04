@@ -13,15 +13,15 @@ subtitle: Professional Service
 
 ### Advisory Boards
 
-| 2018-Present | Advisory Board Member, Heritage Made Digital | British Library         |
-| 2018-Present | Advisory Board Member, Living with Machines | Turing Institute         |
-| 2010-2011    | Advisory Board Member, History Lab+ | Institute of Historical Research |
+| 2018-Present | Heritage Made Digital | British Library         |
+| 2018-Present | Living with Machines | Turing Institute         |
+| 2010-2011    | History Lab+ | Institute of Historical Research |
 
 ### Committee Membership
 
-| 2016-Present | Convenor, Digital History Seminar | Institute of Historical Research                  |
-| 2013-2015    | Committee Member, UK and Ireland Regional Group                            | History SOTL                   |
-| 2013-2015    | Gale Dissertation Prize Selection Committee | Research Society for Victorian Periodicals     |
-| 2011-2014    | Committee Member, History Lab+           |  Institute of Historical Research |
-| 2009-2011    | Committee Member, Public History Committee         |  Historical Association                |
-| 2009-2010    | Research Associate, Teaching International Students     | Higher Education Academy          |
+| 2016-Present | Digital History Seminar | Institute of Historical Research                  |
+| 2013-2015    | UK and Ireland Regional Group                            | History SOTL                   |
+| 2013-2015    | Gale Dissertation Prize | Research Society for Victorian Periodicals     |
+| 2011-2014    | History Lab+           |  Institute of Historical Research |
+| 2009-2011    | Public History Committee         |  Historical Association                |
+| 2009-2010    | Teaching International Students     | Higher Education Academy          |
