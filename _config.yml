@@ -19,7 +19,15 @@ description: Official Homepage of M. H. Beals
 
 # List of links in the navigation bar
 navbar-links:
-  Curriculum Vitae: "curriculumvitae"
+  Curriculum Vitae: 
+    - Education and Career History: "cv/education"
+    - Publications: "cv/publications"
+    - Awards and Funding: "cv/awards"
+    - Invited Talks and Workshops: "cv/talks"
+    - Conference Papers: "cv/papers"
+    - Public Outreach: "cv/media"
+    - Academic Service: "cv/service"
+    - Teaching: "cv/teaching"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
