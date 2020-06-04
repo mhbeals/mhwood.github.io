@@ -8,11 +8,11 @@ subtitle: Funded Projects
 
 | 2017 |  Oceanic Exchanges               | Digging into Data                  |
 | 2015 | Georgian Pingbacks              | Loughborough University            |
-| 2014 |Edges & Nodes, Scissors & Paste | Faculty of Development and Society, Sheffield Hallam University |
+| 2014 |Edges & Nodes, Scissors & Paste | Sheffield Hallam University |
 
 ### Pedagogy
 
-| 2011 |  Social Writing in History         | Institute of Advanced Teaching and Learning, Warwick University          |
+| 2011 |  Social Writing in History         | Institute of Advanced Teaching and Learning         |
 | 2011 |  Curriculum Design for History     | JISC Curriculum Design & Delivery |
 | 2009 |  International Students in History | UKCISA and Prime Minister's Intitative 2                            |
 
