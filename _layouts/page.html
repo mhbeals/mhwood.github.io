@@ -5,15 +5,15 @@ layout: base
 {% include header.html type="page" %}
 
 <style>
-	h2 {text-align: center;}
-	h3 {text-align: center;}
+	h2 {text-align: center; margin-top: 75px;}
+	h3 {text-align: center; margin-top: 50px;}
 	table {width:100%;}
 </style>
 
 
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 ">
+    
       {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">
@@ -27,6 +27,6 @@ layout: base
           {% include just_comments.html %}
         </div>
 	    {% endif %}
-    </div>
+    
   </div>
 </div>
