@@ -13,14 +13,6 @@ Southern Scotland. Oxford: Peter Lang, 2011.
 
 ### Peer Reviewed Journal Articles
 
-### In Preparation
-
-"Improving Computational Analysis with Humanities Narrative-Building
-Methodologies" with Emily Bell, *Digital Humanities Quarterly*, for
-submission in autumn 2020
-
-### Published
-
 "Of Global Reach Yet of Situated Contexts: An Examination of the
 Implicit and Explicit Selection Criteria that Shape Digital Archives of
 Historical Newspapers." Tessa Hauswedell, Julianne Nyhan, M. H. Beals,
@@ -89,11 +81,6 @@ Lavender. History Subject Centre (2011)
 "International Students in History: A Comparative Study in First Year
 Transition" History Subject Centre (2010)
 
-### Textbooks
-
-*Digital Histor*y: *An Introduction*. London: Bloomsbury (Under
-contract)
-
 ### Other Scholarly Contributions
 
 "Transforming Data for Reuse and Re-publication with XML and XSL," *The
@@ -156,94 +143,62 @@ Dumfries (2009)
 | 2011-2012    | Teaching Fellow               | University of Warwick        |
 | 2009-2011    | Associate Lecturer and Tutor  | University of Warwick        |
 | 2009-2011    | Academic Coordinator          | History Subject Centre (HEA) |
-| 2006-2008    | Graduate Teaching Assistant   | University of Glasgow        |
-| 2004-2005    | Catalogue Intern              | American Antiquarian Society |
 
 ## Honours and Awards
 
-| 2020      | Calibre Award, International Research (Shortlisted) | Loughborough University                |
 | 2019      | Calibre Award, Open Research (Shortlisted)          | Loughborough University                |
-| 2018      | Visiting Researcher                                 | Victoria University, Wellington (NZ)   |
-| 2018      | Short-Term Fellow (Alternate)                       | American Antiquarian Society (USA)     |
 | 2018      | Resident Scholar                                    | National Library of New Zealand        |
 | 2018      | Petherick Reader                                    | National Library of Australia          |
-| 2018      | One-Day Software Development: 1<sup>st</sup> Prize  | Software Sustainability Institute      |
+| 2018      | Hack-Day Software Development: 1<sup>st</sup> Prize  | Software Sustainability Institute      |
 | 2017-2018 | University Fellow                                   | Loughborough University                |
 | 2017      | Senior Fellow                                       | Higher Education Academy               |
 | 2016      | Research Award                                      | British Library Labs                   |
 | 2016      | Best Research Poster Presentation                   | Digital Humanities, Krakow             |
 | 2015      | Fellow                                              | Software Sustainability Institute      |
-| 2014      | New Generation Thinkers (Shortlisted)               | AHRC & BBC Radio 3                     |
 | 2011      | Fellow                                              | Royal Historical Society               |
 | 2005-2008 | Post Graduate Scholarship                           | Faculty of Arts, University of Glasgow |
 | 2005-2008 | Overseas Research Student Award Scheme              | Universities UK                        |
 | 2004      | The H. Donaldson Jordan Prize in History            | Clark University                       |
 | 2004      | The George Billias Prize in American History        | Clark University                       |
 
-## Leadership and Management
-
-| 2019-Present | Principal Investigator (EPG)          | Line Management, Research & Impact Strategy      |
-| 2018-2019    | Conference Host (SSI / Lboro)         | Event Management                                 |
-| 2018-2019    | First-Year Module Leader (Lboro)      | Line Management (Part-Time Tutors)               |
-| 2018-2019    | Internationalisation Lead (Lboro)     | Working Group Management, Strategy               |
-| 2018-2019    | Co-Principal Investigator (AHRC/ESRC) | International Line Management, Research Strategy |
-| 2016-2017    | Programme Director (Lboro)            | Work-setting, Departmental Strategy              |
-| 2015         | Subject Leader (Hallam)               | Line Management, Work-setting, School Strategy   |
-| 2011-12      | Principal Investigator (IATL)         | Line Management, Research Strategy               |
-
 ## Funded Projects
 
 ### Research
 
-| 2017 | £1.5m  | Oceanic Exchanges               | Digging into Data                  |
-| 2015 | £300   | Georgian Pingbacks              | Loughborough University            |
-| 2014 | £2,000 | Edges & Nodes, Scissors & Paste | Faculty of Development and Society |
+| 2017 |  Oceanic Exchanges               | Digging into Data                  |
+| 2015 | Georgian Pingbacks              | Loughborough University            |
+| 2014 |Edges & Nodes, Scissors & Paste | Faculty of Development and Society, Sheffield Hallam University |
 
 ### Pedagogy
 
-| 2011 | £1,374 | Social Writing in History         | IATL, Warwick University          |
-| 2011 | £500   | Curriculum Design for History     | JISC Curriculum Design & Delivery |
-| 2009 | £2,500 | International Students in History | UKCISA                            |
+| 2011 |  Social Writing in History         | Institute of Advanced Teaching and Learning, Warwick University          |
+| 2011 |  Curriculum Design for History     | JISC Curriculum Design & Delivery |
+| 2009 |  International Students in History | UKCISA and Prime Minister's Intitative 2                            |
 
 ### Event and Workshops
 
-| 2016 | £3,000 | Data Management in History | Software Sustainability Institute |
-| 2011 | £2,200 | Numbers are your Friends   | Roberts Funding                   |
+| 2016 | Data Management in History | Software Sustainability Institute |
+| 2011 |  Numbers are your Friends   | Roberts Funding                   |
 
 ### Enterprise, Impact and Outreach 
 
-| 2019 | £83.7k | Empowering Users of Digital Collections | Enterprise Projects Grant |
-| 2016 | £5,000 | Georgian Pingbacks                      | Enterprise Projects Grant |
-| 2014 | £1,500 | Fortitude and Frailty                   | Being Human Festival      |
-
-## Postgraduate Supervision
-
-### Supervision
-
-| 2019-Present | Jiaxin Zhang (Loughborough)    | Literary Representations of Sport in the Song Ci |
-| 2017-Present | Olivia Mitchell (Loughborough) | Media Representations of the Begums of Bhopal    |
-
-### Proposal Development, Supervisory Team and Good Will Contributions 
-
-| 2015-2016 | Rob Burgess (Sheffield Hallam)       | American Cold War Visual Culture (MRes)              |
-| 2015      | Steven Burke (Sheffield Hallam)      | 19th Century British Military Culture (PhD)          |
-| 2014-2015 | Michael O’Donnell (Sheffield Hallam) | Minority Language Rights in Arizona, 1960–2000 (PhD) |
+| 2019 | Empowering Users of Digital Collections | Enterprise Projects Grant |
+| 2016 | Georgian Pingbacks                      | Enterprise Projects Grant |
+| 2014 | Fortitude and Frailty                   | Being Human Festival      |
 
 ## Departmental Service
 
-| 2019-Present | Academic Representative        | Open Research Working Group (Loughborough)        |
-| 2018-2019    | Internationalisation Lead      | School of Social Sciences (Loughborough)          |
-| 2018-2019    | Academic Representative        | Open Research Policy Working Group (Loughborough) |
-| 2016         | Member                         | PHIR Dissertation Working Group (Loughborough)    |
-| 2016-2017    | Social Sciences Representative | Student IT Facilities Group (Loughborough)        |
-| 2016-2019    | Academic Representative        | Open Access Advisory Working Group (Loughborough) |
-| 2016-2017    | Programme Director             | History Subject Group (Loughborough)              |
-| 2015         | Subject Leader                 | History Subject Group (Sheffield Hallam)          |
-| 2014-2015    | Year Tutor                     | Level 4 / Part A (Sheffield Hallam)               |
-| 2014-2015    | Course Leader                  | MA History (Sheffield Hallam)                     |
-| 2013-2014    | Admissions Tutor               | History Subject Group (Sheffield Hallam)          |
-| 2013-2014    | Convenor                       | Research Seminar Series (Sheffield Hallam)        |
-| 2011-2012    | Study Abroad Liaison           | University of California (Warwick)                |
+| 2019-Present | Academic Representative        | Open Research Working Group (Loughborough University)        |
+| 2018-2019    | Academic Representative        | Open Research Policy Working Group (Loughborough University) |
+| 2016-2017    | Social Sciences Representative | Student IT Facilities Group (Loughborough University)        |
+| 2016-2019    | Academic Representative        | Open Access Advisory Working Group (Loughborough University) |
+| 2016-2017    | Programme Director             | History Subject Group (LoughLoughborough Universityborough)              |
+| 2015         | Subject Leader                 | History Subject Group (Sheffield Hallam University)          |
+| 2014-2015    | Year Tutor                     | Level 4 / Part A (Sheffield Hallam University)               |
+| 2014-2015    | Course Leader                  | MA History (Sheffield Hallam University)                     |
+| 2013-2014    | Admissions Tutor               | History Subject Group (Sheffield Hallam University)          |
+| 2013-2014    | Convenor                       | Research Seminar Series (Sheffield Hallam University)        |
+| 2011-2012    | Study Abroad Liaison           | University of California (University of Warwick)                |
 
 ## Professional Service
 
@@ -254,12 +209,6 @@ Dumfries (2009)
 | 2013-2014    | History Reviews Editor | Journal for Eighteenth-Century Studies |
 | 2009-2011    | Commissioning Editor   | Historical Insights (HEA & IHR)        |
 
-### Postgraduate External Examining
-
-| 2018-2019 | MA Digital Histories (Proposed) | Coventry University      |
-| 2018      | MA Digital History (Proposed)   | York St. John University |
-| 2018      | PhD Progressive Viva            | Edge Hill University     |
-
 ### Advisory Boards
 
 | 2018-Present | Advisory Board Member | Heritage Made Digital, British Library         |
@@ -268,18 +217,12 @@ Dumfries (2009)
 
 ### Committee Membership
 
-| 2016-Present | Convenor                                    | Digital History Seminar (IHR)                  |
+| 2016-Present | Convenor                                    | Digital History Seminar (Institute of Historical Research)                  |
 | 2013-2015    | Committee Member                            | History SOTL, UK and Ireland                   |
 | 2013-2015    | Gale Dissertation Prize Selection Committee | Research Society for Victorian Periodicals     |
 | 2011-2014    | Committee Member                            | History Lab+, Institute of Historical Research |
-| 2009-2011    | Committee Member                            | Public History Committee (HA)                  |
-| 2009-2010    | Research Associate                          | Teaching International Students (HEA)          |
-
-### Mentorship Roles
-
-| 2018-2019 | Teaching & Learning Mentor and Observer | Recognition of Teaching for Researchers (Lboro) |
-| 2016-2017 | Teaching & Learning Mentor              | East Midlands Centre for T\&L in History        |
-| 2014-2018 | Teaching & Learning Mentor and Observer | Teaching in Higher Education (Hallam)           |
+| 2009-2011    | Committee Member                            | Public History Committee (Historical Association)                  |
+| 2009-2010    | Research Associate                          | Teaching International Students (Higher Education Academy)          |
 
 ## Invited Talks and Workshops
 
