@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae
-subtitle: M. H. Beals
+title: M. H. Beals
+subtitle: Curriculum Vitae
 ---
 
 ## Publications
