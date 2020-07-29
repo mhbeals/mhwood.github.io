@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshops: Introducing the *Atlas of Digitised Newspapers*
+title: Workshops: Exploring the *Atlas of Digitised Newspapers*
 author: Emily Bell
 ---
 Are you a researcher working with digitised newspapers, an archivist or librarian in the GLAM sector interested in how large national collections are structured, or
