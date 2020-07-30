@@ -15,9 +15,9 @@ The plan is to create a collaborative space for researchers, as well as archivis
 We're offering two different times, so check this [time zone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20200515T140000&p1=136) to confirm the time 
 in your location.
  
-**[Workshop 1: 8-10am BST, 19 August](https://www.eventbrite.co.uk/e/114960931240)**
+**[Workshop 1: 8-10am BST, 19 August](https://www.eventbrite.co.uk/e/exploring-the-atlas-of-digitised-newspapers-registration-114960931240?aff=AtlasWebsite)**
   
-**[Workshop 2: 4-6pm BST, 20 August](https://www.eventbrite.co.uk/e/114986441542)**
+**[Workshop 2: 4-6pm BST, 20 August](https://www.eventbrite.co.uk/e/exploring-the-atlas-of-digitised-newspapers-registration-114986441542?aff=AtlasWebsite)**
   
 ### About the Workshop 
   
