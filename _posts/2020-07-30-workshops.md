@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Workshops
-subtitle: Exploring the *Atlas of Digitised Newspapers*
+title: Exploring the Atlas of Digitised Newspapers
 author: Emily Bell
 ---
-Are you a researcher working with digitised newspapers, an archivist or librarian in the GLAM sector interested in how large national collections are structured, or
-a software engineer developing new ways of working with largescale collections and big data? Join us for a 2-hour workshop in which we will discuss the issues
-arising from the research that led to the *Atlas of Digitised Newspapers and Metadata*, and provide a space for wider discussions about digitised collections past, present and future.
+Are you an archivist or librarian in the GLAM sector interested in how large national collections are structured, or a software engineer
+developing new ways of working with largescale collections and big data? Are you a researcher working with digitised newspapers? 
+
+Join us for a 2-hour workshop in which we will discuss the issues arising from the research that led to the *Atlas of Digitised ewspapers and Metadata*, and provide a space for wider discussions about digitised collections past, present and future.
   
 Our research has analysed the history and structure of ten national collections, and the event will offer opportunities to discuss the findings of our work, 
 which gives a guide to digitised newspapers around the world, while also including broader discussions about the future of periodicals research and digitisation projects. 
