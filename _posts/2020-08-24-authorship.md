@@ -6,8 +6,8 @@ author: Emily Bell
   
 Although [*The Waterloo Directory*](http://www.victorianperiodicals.com/series3/index.asp) offers a valuable index of names, it is 
 striking that there has been, arguably, greater interest in identifying 
-[individual authorship]( https://www.digitisednewspapers.net/glossary/attribution/) in Victorian periodicals than in newspapers, 
-as shown by leading projects like [*The Wellesley Index*](http://wellesley.chadwyck.co.uk), which identifies authors across forty-five 
+[individual authorship]( https://www.digitisednewspapers.net/glossary/attribution/) in Victorian periodicals than in newspapers. This is evident in 
+the scope of leading projects like [*The Wellesley Index*](http://wellesley.chadwyck.co.uk), which identifies authors across forty-five 
 Victorian periodicals, and Jeremy Parrott’s discovery of an annotated set of Charles Dickens’s journal *All the Year Round* in 2015: 
   
 [![Dickens Society Youtube](http://img.youtube.com/vi/djh0RnvYs_Q/0.jpg)](https://www.youtube.com/embed/djh0RnvYs_Q)
