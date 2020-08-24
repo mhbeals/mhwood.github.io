@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Videos
+title: The Structure of the Atlas of Digitised Newspapers and Metadata
 subtitle: 
 use-site-title: false
 ---
 
 
-[![Researching the Atlas of Digitised Newspapers and Metadata YouTube Video](https://img.youtube.com/vi/ZPQD_rjT0cM/0.jpg)](https://www.youtube.com/watch?v=ZPQD_rjT0cM)
+[![The Structure of the Atlas of Digitised Newspapers and Metadata YouTube Video](https://img.youtube.com/vi/ZPQD_rjT0cM/0.jpg)](https://www.youtube.com/watch?v=ZPQD_rjT0cM)
   
-This video will take you the main product of our Ontologies collaboration, *The Atlas of Digitised Newspaper and Metadata*. The *Atlas* represents the culmination of two years 
+This video will take you through the main product of our Ontologies collaboration, *The Atlas of Digitised Newspaper and Metadata*. The *Atlas* represents the culmination of two years 
 of research into the histories, structures and potentialities of these collections and our hopes for a more integrated ecosystem of digitised historical material in the future.
  The *Atlas* began its life as a Google Sheets spreadsheet and a series of blog posts during the early months of our project, the latter of which are still available on the 
  [*Oceanic Exchanges* website](https://oceanicexchanges.org/news/).
