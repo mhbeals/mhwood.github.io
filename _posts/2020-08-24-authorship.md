@@ -49,7 +49,7 @@ writer. But to gain a better understanding of press history, we need both. Secon
 in an efficient, useful, and practically-implementable way, or will it always be a later-stage project of recovery?
   
 ## Bibliography
-Cortina-Borja, Mario and Constantinos Chappas. “A Stylometric Analysis of Newspapers, Periodicals and News Scripts.” *Journal of Quantitative Linguistics*, vol. 13, no. 2-3, 2006, 285–312. doi:10.1080/09296170600892538.
+Cortina-Borja, Mario and Constantinos Chappas. “A Stylometric Analysis of Newspapers, Periodicals and News Scripts.” *Journal of Quantitative Linguistics*, vol. 13, no. 2-3, 2006, 285–312. [doi:10.1080/09296170600892538](xhttps://www.tandfonline.com/doi/abs/10.1080/09296170600892538).
   
 Klaussner, Carmen, John Nerbonne, Çağrı Çöltekin. “Finding Characteristic Features in Stylometric Analysis.” *Digital Scholarship in the Humanities*, vol. 30, 2015, 114–129. [https://doi.org/10.1093/llc/fqv048](https://doi.org/10.1093/llc/fqv048). 
   
