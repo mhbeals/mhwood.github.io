@@ -60,12 +60,12 @@ and the main lessons learned from participants' work with digitised newspaper co
 ### Context
 [Link to video](contribute-context.md)
   
-### Histories
+### Database Histories
 [Link to video](contribute-history.md)
   
-### Maps
+### Metadata Maps
 [Link to video](contribute-map.md)
   
-### Data
+### Collection Data
 [Link to video](contribute-data.md)
   
