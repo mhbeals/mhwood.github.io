@@ -20,7 +20,7 @@ This video provides overview of the project, as well as our conclusions on the c
 This video includes a detailed discussion of the creation of the *Atlas*, and a section-by-section guide through its contents.
 
 ## Workshop Introduction
-[Link to video and transcript]()
+[Link to video and transcript](introduction.md)
   
 In this introductory session, we invited participants to consider what interaction with digitised newspapers might look like in 2030, and how we might get there.
   
@@ -44,7 +44,7 @@ These groups considered the more technical questions and what the next technolog
 sensible way (i.e. without lots of string fields)? What methods and approaches might be used in enabling researchers to work across fields in collections, with 
 all the messiness and inconsistencies?
   
-[Link to videos]()
+[Link to videos](challenges.md)
   
 You can also find summary blog posts of these discussions in our 
 [news section](https://www.digitisednewspapers.net/news/).
@@ -53,15 +53,19 @@ You can also find summary blog posts of these discussions in our
 In the final section of the workshop, we answered questions that arose during the event and broadened the discussion to consider collections not present in the *Atlas*, 
 and the main lessons learned from participants' work with digitised newspaper collections. 
   
-[Link to videos]()
+[Link to videos](closing.md)
 
 ## How to Contribute to the *Atlas*
   
 ### Context
+[Link to video](contribute-context.md)
   
 ### Histories
+[Link to video](contribute-history.md)
   
 ### Maps
+[Link to video](contribute-map.md)
   
 ### Data
+[Link to video](contribute-data.md)
   
