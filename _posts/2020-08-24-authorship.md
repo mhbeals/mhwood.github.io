@@ -3,7 +3,6 @@ layout: post
 title: Ascertaining Authorship
 author: Emily Bell
 ---
-By Emily Bell
   
 Although [*The Waterloo Directory*](http://www.victorianperiodicals.com/series3/index.asp) offers a valuable index of names, it is 
 striking that there has been, arguably, greater interest in identifying 
