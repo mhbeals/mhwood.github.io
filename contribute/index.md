@@ -5,8 +5,11 @@ subtitle:
 use-site-title: false
 ---
 
-The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year *Oceanic Exchanges* project. Now that the project has concluded, we are hoping that you, the GLAM, digital humanities and periodical studies community, will help develop and expand our initial work. In order to ensure consistency and robustness of the information, we ask that you contribute to the *Atlas* using the procedures listed below. 
-
+The *Atlas of Digitised Newspapers and Metadata* is the result of the two-year *Oceanic Exchanges* project. Now that the project has concluded, we are hoping that you, the GLAM, digital humanities and periodical studies community, will help develop and expand our initial work. In order to ensure consistency and robustness of the information, we ask that you contribute to the *Atlas* using the procedures listed below. We have three main avenues for contributors:
+  1. **Issues**: Please post questions and comments you'd like to share with the community. We also invite you to answer and comment on other people's contributions.
+  2. **Wiki**: Do you have resources, information, links or other useful data that it not appropriate for the *Atlas*, or is not developed yet into a formal contribution? Please add it here.
+  3. **Changes to the *Atlas*, including corrections, context, adding new collections**: Please see the guidance below.
+  
 ## Basic procedures
 
 Whether you wish to make a simple or substantial contribution to the *Atlas*, we ask that you use the Github 'pull request' mechanism to do so. To make changes, clone [our respository](https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io) and make changes to your version of the website. Once you are happy with your changes, submit a pull request. We will then approve it, merging it with the current online *Atlas*, or send your comments to help improve or finalise the edits. All updates should be written in markdown rather than HTML, following [GitHub's guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
