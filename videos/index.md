@@ -5,16 +5,16 @@ subtitle:
 use-site-title: false
 ---
 
-On this page you will find a series of videos from our [*Atlas* workshops](https://www.digitisednewspapers.net/2020-07-30-workshops/) which took place in August 2020, and two
-introductory videos which provide insight onto the creation of the *Atlas* and the data contained within the ten initial digitised collections described by the project.
-Each link will take you to the embedded video and a transcript.
+On this page you will find a series of videos from our [*Atlas* workshops](https://www.digitisednewspapers.net/2020-07-30-workshops/) which took place in August 2020, two
+introductory videos which provide insight onto the creation of the *Atlas* and the data contained within the ten initial digitised collections described by the project, and videos walking you through how to contribute.
+Each link will take you to the video and a transcript.
 
-## Researching the Atlas of Digitised Newspapers and Metadata
+## Researching the *Atlas of Digitised Newspapers and Metadata*
 [Link to video and transcript](researching-atlas.md)
   
 This video provides overview of the project, as well as our conclusions on the current structure and documentation of digitised newspapers collections across the world.
 
-## The Structure of the Atlas of Digitised Newspapers and Metadata
+## The Structure of the *Atlas of Digitised Newspapers and Metadata*
 [Link to video and transcript]()
   
 This video includes a detailed discussion of the creation of the *Atlas*, and a section-by-section guide through its contents.
