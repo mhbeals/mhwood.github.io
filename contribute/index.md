@@ -31,14 +31,16 @@ If you wish to make a substantial contribution to the project, such as a new pag
 
 ### Integrating a New Database
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Database History](database_histories)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> Creating a New Database History: [written guide](database_histories), [video](videos/contribute-history)
 
-#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Mapping a New Database to the *Atlas* Ontology](metadata_maps)
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> Mapping a New Database to the *Atlas* Ontology: [written guide](metadata_maps), [video](videos/contribute-map)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Updating Existing Maps for a New Database](metadata_maps#existing)
 
 <p/>
 ### Creating New *Atlas* Entries
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Maps Video Guide](videos/contribute-map)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Creating a New Metadata Map for a New Category](metadata_maps#new)
 
@@ -50,6 +52,8 @@ If you wish to make a substantial contribution to the project, such as a new pag
 If you wish to make a minor change or update to an existing page, please follow the guidelines below, and then make a pull request to the *Atlas* repository.
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Correcting Details](simple_edits)
+
+#### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Context](videos/contribute-context)
 
 #### <img src="../../img/pointinghand.png" width="50" style="margin:0px 20px 0px 0px"> [Adding Links](simple_edits)
 
