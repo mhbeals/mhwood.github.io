@@ -10,7 +10,7 @@ introductory videos which provide insight onto the creation of the *Atlas* and t
 Each link will take you to the embedded video and a transcript.
 
 ## Researching the Atlas of Digitised Newspapers and Metadata
-[Link to video and transcript]()
+[Link to video and transcript](researching-atlas.md)
   
 This video provides overview of the project, as well as our conclusions on the current structure and documentation of digitised newspapers collections across the world.
 
