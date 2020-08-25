@@ -8,7 +8,7 @@ Although [*The Waterloo Directory*](http://www.victorianperiodicals.com/series3/
 striking that there has been, arguably, greater interest in identifying 
 [individual authorship]( https://www.digitisednewspapers.net/glossary/attribution/) in Victorian periodicals than in newspapers. This is evident in 
 the scope of leading projects like [*The Wellesley Index*](http://wellesley.chadwyck.co.uk), which identifies authors across forty-five 
-Victorian periodicals, and Jeremy Parrott’s discovery of an annotated set of Charles Dickens’s journal *All the Year Round* in 2015: 
+Victorian periodicals, [*The Curran Index*](http://curranindex.org/) which builds extensively on *Wellesley*, and Jeremy Parrott’s discovery of an annotated set of Charles Dickens’s journal *All the Year Round* in 2015: 
   
 [![Dickens Society Youtube](http://img.youtube.com/vi/djh0RnvYs_Q/0.jpg)](https://www.youtube.com/embed/djh0RnvYs_Q)
   
@@ -26,7 +26,7 @@ writer’s letters and reprinted collections for reference to it. However, this 
 idea of who has written the piece, and knowledge of (and access to) the archival materials relating to that particular author. It 
 also relies on 1. the writer wanting to preserve that piece of writing under their name, and 2. the writer remembering exactly which 
 pieces they contributed, neither of which is always a given, in light of the vast output of such writers in the period, changing career trajectories that might lead to a writer distancing themselves from their early work, and so on. This is a particular kind of scholarship, and serves best those who are interested in major figures like Charles Dickens, or major journalists like W. T. Stead, Edmund Yates or George Augustus Sala. If these authors didn’t collect their own works, others certainly did, whether contemporaneously or later.
-
+  
 Stylometric analysis can also be used to identify features of language unique to specific writers, but editors, tasked with ensuring 
 a consistent tone across the newspaper, muddy the waters. This has been shown by Parrott, whose discovery demonstrated that articles 
 attributed to Dickens were written by his ‘young men’, the journalists who worked beneath him – and later complained about his 
@@ -48,12 +48,25 @@ collections? For people seeking information about their local area or family his
 writer. But to gain a better understanding of press history, we need both. Secondly, is there a way to improve authorship metadata 
 in an efficient, useful, and practically-implementable way, or will it always be a later-stage project of recovery?
   
+With thanks to [Andrew Hobbs](https://twitter.com/hobbb) and [Catherine Waters](https://twitter.com/Catherine_Faver), this post has been updated with some further suggestions for identifying contributions:
+
+* Attributions can also, occasionally, be found by looking at cross-references journalists made to other writers' reports
+* Within a specific period, you might be able to identify a regular, known correspondent
+* Special correspondents might be identified in their obituary within the papers they wrote for
+* Jubilee and centenary supplements, or histories of specific publishers, might also contain names
+* The edition that has been digitised might be a Contributors Department marked copy, as is the case with some issues of *The Times*, with a record of the authorship or source of published editorial material. This would involve manual searching as there is no index, which raises questions about the availability of metadata for paratextual annotations.
+
+<a href="https://twitter.com/hobbb/status/1298209010697609217?s=20">
+<img src="https://github.com/AtlasOfDigitisedNewspapers/AtlasOfDigitisedNewspapers.github.io/blob/master/img/Hobbs-tweet.png?raw=true"></a>
+  
 ## Bibliography
 Cortina-Borja, Mario and Constantinos Chappas. “A Stylometric Analysis of Newspapers, Periodicals and News Scripts.” *Journal of Quantitative Linguistics*, vol. 13, no. 2-3, 2006, 285–312. [doi:10.1080/09296170600892538](xhttps://www.tandfonline.com/doi/abs/10.1080/09296170600892538).
   
 Klaussner, Carmen, John Nerbonne, Çağrı Çöltekin. “Finding Characteristic Features in Stylometric Analysis.” *Digital Scholarship in the Humanities*, vol. 30, 2015, 114–129. [https://doi.org/10.1093/llc/fqv048](https://doi.org/10.1093/llc/fqv048). 
   
 Sala, George Augustus. *The Life and Adventures of George Augustus Sala*. 2 vols. C. Scribner’s Sons, 1895.
+
+*The Curran Index*. Database. Ed. Gary Simons, 2017. [curranindex.org](http://curranindex.org/). Accessed 25 August 2020.
   
 *The Waterloo Directory of English Newspapers and Periodicals: 1800–1900*. Database. Ed. John S. North, 2009. [www.victorianperiodicals.com/series3/index.asp](www.victorianperiodicals.com/series3/index.asp). Accessed 28 November 2019.
   
