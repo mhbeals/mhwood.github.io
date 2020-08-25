@@ -50,10 +50,10 @@ in an efficient, useful, and practically-implementable way, or will it always be
   
 With thanks to [Andrew Hobbs](https://twitter.com/hobbb) and [Catherine Waters](https://twitter.com/Catherine_Faver), this post has been updated with some further suggestions for identifying contributions:
 
-* Attributions can also, occasionally, be found by looking at cross-references journalists made to other writers' reports
-* Within a specific period, you might be able to identify a regular, known correspondent
-* Special correspondents might be identified in their obituary within the papers they wrote for
-* Jubilee and centenary supplements, or histories of specific publishers, might also contain names
+* Attributions can also, occasionally, be found by looking at cross-references journalists made to other writers' reports;
+* Within a specific period, you might be able to identify a regular, known correspondent;
+* Special correspondents might be identified in their obituary within the papers they wrote for;
+* Jubilee and centenary supplements, or histories of specific publishers, might also contain names;
 * The edition that has been digitised might be a Contributors Department marked copy, as is the case with some issues of *The Times*, with a record of the authorship or source of published editorial material. This would involve manual searching as there is no index, which raises questions about the availability of metadata for paratextual annotations.
 
 <a href="https://twitter.com/hobbb/status/1298209010697609217?s=20">
