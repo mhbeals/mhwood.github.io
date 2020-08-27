@@ -5,9 +5,9 @@ subtitle:
 use-site-title: false
 ---
 
-On this page you will find a series of videos from our [*Atlas* workshops](https://www.digitisednewspapers.net/2020-07-30-workshops/) which took place in August 2020, two
-introductory videos which provide insight onto the creation of the *Atlas* and the data contained within the ten initial digitised collections described by the project, and videos walking you through how to contribute.
-Each link will take you to the video and a transcript.
+On this page you will find a series of videos from our [*Atlas* workshops](https://www.digitisednewspapers.net/2020-07-30-workshops/), which took place 
+in August 2020, as well introductory videos that provide insight onto the creation of the *Atlas*, the data contained within the ten initial digitised 
+collections described by the project and how to contribute to the expansion of the *Atlas* in the future. Each link will take you to the video and a transcript.
 
 ## Researching the *Atlas of Digitised Newspapers and Metadata*
 [Link to video and transcript](researching-atlas.md)
@@ -17,15 +17,12 @@ This video provides overview of the project, as well as our conclusions on the c
 ## The Structure of the *Atlas of Digitised Newspapers and Metadata*
 [Link to video and transcript]()
   
-This video includes a detailed discussion of the creation of the *Atlas*, and a section-by-section guide through its contents.
+This video includes a detailed discussion of the creation of the *Atlas*, and a section-by-section guide to its contents.
 
 ## Workshop Introduction
 [Link to video and transcript](introduction.md)
   
-In this introductory session, we invited participants to consider what interaction with digitised newspapers might look like in 2030, and how we might get there.
-  
-The workshop
-participants then broke into groups to discuss a series of challenges. 
+In this introductory session, we invited participants to consider what interaction with digitised newspapers might look like in 2030, and how we might get there. The workshop participants then broke into groups to discuss a series of challenges. 
   
 ## Challenge Feedback
 *Historical / Literary Scholarship Challenge:*
@@ -58,14 +55,22 @@ and the main lessons learned from participants' work with digitised newspaper co
 ## How to Contribute to the *Atlas*
   
 ### Context
+This video provides information on how to add additional contextual information to the *Atlas*, including related projects and resources.
+
 [Link to video](contribute-context.md)
   
 ### Database Histories
+This video provides a guide to adding database histories to the *Atlas* and providing updated information to existing ones.
+
 [Link to video](contribute-history.md)
   
 ### Metadata Maps
+This video provides a guide to adding metadata maps to the *Atlas* and updating existing maps with additional database metadata fields.
+
 [Link to video](contribute-map.md)
   
 ### Collection Data
+This video provides a guide to contributing new or updated entries to the dynamic metadata data set.
+
 [Link to video](contribute-data.md)
   
