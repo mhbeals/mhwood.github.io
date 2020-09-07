@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Videos
-subtitle: 
+title: Exploring the Atlas of Digitised Newspapers and Metadata Workshop
+subtitle: Videos and Transcriptions
 use-site-title: false
 ---
 
