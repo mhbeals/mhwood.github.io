@@ -76,81 +76,62 @@ Great, thank you Emily. So I guess I will stay here for a few minutes after the 
 
 #### From Workshop 1
 
-- For 2030, I am hoping for high OCR and NER quality standards, cross-language search capabilities, and widely accepted open licences, for a start ;-)
-- Open access, including wider and easier bulk download. Going through the web will never be as quick or flexible as doing things on my own computer.
-- More visual friendly. A lot of websites are too ugly and hard to deal with. More user friendly.
-- +1 on open access, also user-friendly front ends that immediately let people see what they can do with collections and how they can contribute (even just a big "help out checking OCRed text!" button; it's so important to let people feel like they can participate/help with their own expertise)
-- Hopes for 2030 to be able to search through newspaper databases in a much easier format. Sometimes certain keywords bring up the newspapers required but it can take a while to find the ones needed for your research topic and can be very time-consuming. 
-- Hopes for 2030: I agree we need a balance between standardisation and design for specific audiences. I think more open access would help here as the data could be made available to be used in different interfaces.
-- I hope there will be at least some standardised cross collection systems for comparing data. Even something as simple as an NGram facility would be very useful
-- 2030 - linkages across knowledge systems
-- Hopes for 2030:  I agree on the need for balance. Personally, I hope for interoperable (Meta-)Datasets and Fulltexts to view in different, specialised Front-Ends  
-- Also, automated OCR correction: especially as so many errors in c18th text are predictable due to long s and ligatures.
-- By 2030 (I can only speak for English Language Newspapers) I would want to see a collaborative "one online index" to all newspapers whether digital or non digital held by institutions and other holders with appropriate meta  
-- More hopes: Also more detail on version changes as some collections change continuously and that can make ongoing projects problematic
-- Open access, some common metadata standards, users feeding back their enhancements to metadata at the end of projects
-- I wish for platforms which provide newspaper corpus composition and analysis, but much more independent from specific collections and their specific interfaces
-- By 2030: I hope to see improved OCR accuracy and search functionality.
-- I couldn’t do my work without the assistance of librarians. So more librarians - and better paid - in 2030!
-- I would like to see improved searchability, better quality scans and more user friendly platforms. I also want to be able to access published layouts as well as just text.
-- I would echo the desire to access published layouts as well as just text.  For those of us who work within book and publishing history, seeing the actual artefact is essential.
-- I think there is an argument for multiple frontends to cater for different users needs
-- I would like to see more collaborative working together in areas such as workflows, processing pipelines, interfaces, etc so that we can see more standardisation of approaches (and Libraries not all having to develop unique solutions from scratch)
-- A special issue for me are small archives: they often have relevant local newspapers, but no resources for digitization process. Could institutions who digitize larger collections support such small archives?
-- Just finding relevent guidance is difficult, so even publishing guidance on best practice is valuable
-- Trove in Australia seems to have a good partnership model for smaller archives. The accessibility it opens up for remote communities is a real boon
-- Also, integrate machine translation in systems to help with multilingual access. MT has a lot of issues overall, but particular systems are getting remarkably good for some language pairs, or at least good enough to make projects substantially  better. You mentioned in the videos that you had to rely on some project collaborators to do unpaid translation work; this is a perennial problem, and relying on human translators will never be enough.
-- This is what we do with the Texas Digital Newspaper Program--coordinating with local partners (public libraries and publishers together) to obtain grant funding to build open access to their newspaper collections. Working with publishers+libraries here enables us to obtain publisher permission for open access. 
-- In my digital project  I included the OCR coupled with a snapshot of the actual image which can be expanded which I think users find helpful, to validate  
-- We are working on downloadable textual dumps in various formats—including plain text  and tsv, to enable research, for people to use in various analytic apps with no programming knowledge.
-- My team created an annotated index for a 40 year run of one magazine--invaluable, but a lot of work!
-- I use data from the hard drive of the TDA because we needed the full text for many years (a corpus linguistic approach). I use the interface to contextualise by browsing particular days / examples
-- Yes, download options would be amazing because then I could standardise the software used for analysis
-- I would like to be able to both search by text but also browse issues because sometimes I don’t have enough key words to find what I’m looking for.
-- Reason why bulk downloads: it’s quicker and more flexible doing things on your own computer rather than over the web via a restrictive interface.
-- APIs have been useful in the past for my research (on dictionaries, not newspapers though), but depends on response format!
-- I really like using Gale DSL but my University doesn’t have a subscription
-- I use the Trove API and find that it is extremely useful (and I’’m only getting started).
-- Just an example for something that can only - or best be done with the entire collection: word embedding
-- Keeping non-academic users in mind can be important for funding--persuading governments and other bodies that there is a wide interest in such resources. Family history might finance our research!
-- No data provider could ever foresee what the researchers would want to do with it, so bulk downloads is actually the easiest option to make everybody potentially happy :)
-- From an initial UK and Ireland perspective the Findmypast / BL collaboration has made much more content available
+- As someone who is working on mapping (in the geographical sense)–would I fit in the literary/historical or information science groups?
+- Wikipedia and ICON provide great links. Can be found here: https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives
+- What is ICON?
+-  A wide international collection that I would very much like to include (and would be happy to be involved in the inclusion work) is JPRESS: https://web.nli.org.il/sites/JPress/English/Pages/default.aspx the Jewish Historical Press platform.
+- I would have loved more visualisations about data flows
+- Is there any consideration of the number and distribution of newspapers not digitised? Any way to think about the gaps in digitisation through the Atlas?
+- Could this project enable data migration from any organisation holding digital newspapers? Why narrow it down to specific collections? Is this a matter of capacity? 
+-  A ‘how to’ on digitisation would be awesome!!!
+- Another subheading to add to the individual resources in the Atlas might be documentation to describe what is available there
+-  Emily—your point about political alignments is a minefield of course especially in a commercial/freelance newspaper market where publications are reliant on a wide range of contributors--never trust the editorial platform!
+- In the Atlas it would be great to expand the date range and range of databases I did put a list of titles with links online years ago breaking down the titles embedded in the collections
+- In Germany, we (e.g. the National Library) are building a National Newspaper Portal to bring together various German historical newspapers. It is a huge collaborative Project and will be online later this year. We would sure love to contribute to the Atlas 
+- There are printer copies, probably retained for tax purposes which provide considerable insight e.g. ex Edinburgh Evening Courant archive
+- On Politics it does change–for UK you might consider the early editions of the Newspaper Press Directory
+- @[name], that is good news, I am looking forward to it!
+- I would love to answer this too…
+- [name]–sounds great! I look forward to using that material!
+- I’ll second this argument, my experience of planning digitisation work, finding the pitfalls and the prior art to is very valuable.
+- Maybe the circulation figures?
+- equally for us, knowing how users might use the collections and prefer to use the collections can guide how we make our collections available
+- I'd love to use a condensed version of the story of this project to explain the potential of metadata to researchers who don't know anything about it, because you did interesting things with materials that every researcher is familiar with, and it sounds like you experience all the joys and pitfalls of metadata in a way that's really engaging
+- It’s very hard work to digitalise at the moment–from indexing creating the meta, transporting the papers, getting them scanned, running the OCR, and finally publishing them 
+-  Academic collaborations to increase and improve metadata would be very useful
 
 #### From Workshop 2
 
-- Not behind paywalls?
-- A way of searching across multiple collections
-- Better fulltext searching (OCR, hyphens etc!)
-- Ability to use the texts as a linguistic corpus
-- Ways of incorporating user-generated content (tags, transcription, etc)
-- Better integration with assistive technologies.
-- Greater diversity in news content that's been digitized
-- Clear bibliographical data on original copy used for digitization— which exact copy, held at which library, scanned under which set of parameters (Were blank pages scanned? What was the method for dealing with foldouts?).
-- Greater awareness of what other institutions are doing, leading to less duplication of efforts
-- Access made quicker and easier.
-- A way of searching under editorial role–to be easily able to check who was editing at a certain type. Though practically this is just a wish list thing. It would be very labour intensive unless you plugged into something like the Waterloo Directory.
-- Integration with other full-text collections would also be amazing, e.g. search across multiple periodicals collections + Internet Archive + Hathi Trust
-- easier to find what is out there are narrow down what you want to look at
-- I’d like to see much more detailed metadata about the content and genres *within* newspapers.
-- Use of standard identifiers for things like places or people, to enable easier connections across collections (especially in a Linked Open Data perspective)
-- Sustainability. Some excellent projects have disappeared. Accessibility in terms of open access is extremely important too, I think.
-- Datafying texts by Named Entity Recognition and then integrate it with other types of collections.
-- Integration with something like Waterloo Directory info (on circulation figures, political affiliation, circulation etc) would be very useful to help my students understand the context of what they find in their searchers
-- I would like to see greater linguistic diversity: more non-European languages present and tagged in digitised corpora
-- Being able to not only tag, but link that tag to other documentation about an individual or place (e.g. census)
-- Using IIIF for presenting the images. That would enable reuse and combination.
-- Open access to collections to integrate with linked open data
-- Integration and translation, of course, but also more concern for user-interface for flexible ways of reading and searching: easier visual browsing “mode” to peruse layout / toggling to reading details, not having your browsing being tied to a search engine.
-- I would like to see proximity searching to achieve better hits.
-- Downloading search results and metadata as manipulable database (perhaps this is already happening and I’m not tapping into it.)
-- Visualisations that allow users to get a quick initial sense of the coverage of the collections
-- Hello everyone, just a small specification about Impresso: within Impresso the political orientation of newspaper was added manually by historians of the Impresso team, it was not available in newspaper metadata provided by libraries. (plus Impresso is a Swiss-Luxembourg project, not only Luxembourg ;) )
-- An idea of coverage not just of the issues of a particular publication, but also the publications covered as opposed to what was printed: that’s how Waterloo would be most useful according to me
-- Persistent links and identifiers
-- Identifiers (e.g. for authors/writers) would be so useful -if standardised with elsewhere
-- Serialized articles and stories linked across issues
-- Would it maybe be possible by 2030 to have actual mapping (like GIS style) so you can see on a world or regional map where newspapers were, cross-referenced with where the article content was set (for news articles, like crimes etc)
-- what about newspapers that are currently being published in both digital and print formats? It would be useful to have a sense of what is currently being preserved for future researchers, and perhaps the situation could be improved with input from the Atlas i.e., best practices for going forward with newspaper preservation
-- Could you tell us something about the differences between using the ordinary user front-end, versus the back-end? e.g. how would I know if it was possible to get other access, and whether it would be worth trying to do?
-- Making it easier to search images. Tagged by theme or who it depicts so you can search the images themselves and not just find them through the articles they are attached to.
-- Provenance of the digitized copy. 19th c American papers often went through the mail and have the addressees’ names written on them.
+- That exists in France (cross-genealogical-database research): https://www.filae.com/
+- There is also a "sample" of this with British And Australian records for Convict Lives (digitalpanopticon)
+- ProQuest does to some extent offer you "similar items" (but that is paywalled unless library subscribes)
+- How does the Victoria listserv not cover this for people working on Britain?
+- Good point about making the “not digitized” more evident. Library of Congress newspaper catalogue approaches this, and is very useful
+- Unfortunately, listservs (or any one particular community) is sometimes not always well know as a place for that particular problem/query. As a PhD student I was terrified of posting to H-Net because I heard "rumours" of it only being "real" historians, not students. We may need to explicit build bridges for this collaboration        
+- As a PhD student, ^THIS^
+- As someone not working in traditional academic circles, I’ve never heard of listserv
+- Ditto on both counts above; I came to VICTORIA late and I still respond to queries privately. 
+- The VICTORIA and SHARP-L are wonderful email lists, full of people, some very eminent, who usually respond very kindly and generously to queries -- even when it's a query that's already been answered before, or seemingly naïve.
+- thanks for pointing out the limitations of listservs! I also recommend the RSVP Facebook Group (Research Society for Victorian Periodicals) for those working on English-language newspapers
+- All really wonderful groups. Just important that we make sure people who don't know about them do so they can share in the knowledge goodness :)
+- Dim question but since people here will know: is "British Library Newspapers" and "British Newspaper Archive" the same thing? Searching the former seems to lead to the latter... 
+- British Newspaper Archive has a *lot* more stuff!
+- The BL Newspapers digitisation was funded by JISC and Gale provided the search interface.
+- BNA is driven by the imperatives of FindMyPast in terms of selection of newspapers for digitisation.
+- Thank you–all really useful to know.
+- And I think BNA scoop up anything the British Library digitises, such as the short-run obscure London titles the BL is currently digitising.
+- To make it worldwide: Numapresse can help you for the francophone side of things I’d suppose
+- Q: what body could possibly advocate for transnational compatibility (let alone transnational open-access and copyright advocacy)? Is there an international network of newspaper librarians? Why does there appear to be no discussion or interface among national collections? Is there a political imperative to “reinvent the wheel” at a national scale?
+- Case studies of how researchers have used the atlas for their research
+- That is correct. These titles are digitised by the BL but processed by FMP and published as part of the BNA. But we will have some of these titles available openly (pending press release) and the text data is made gradually available on the BL Shared Repository with an open licence 
+- The glossaries were very helpful, it helped give some sense of the ways in which databases articulate the structure of newspapers, which as [name] pointed out in his presentation, varied enormously. I would also like some more information on non-textual elements of newspapers e.g. advertisements, illustrations etc. It would be great for researchers to know which collections digitally preserve these non-textual elements and which do not.
+- tutorials for using the Atlas?
+- This post on Front Pages by Emily is great! https://www.digitisednewspapers.net/2020-04-22-front-page/
+- Great!
+- I know the project funding expires soon, but are you planning more events like this workshop? It's very helpful and it would be great to continue the discussion
+- Tutorials sound a great idea. Looking forward to joining them. 
+- Do you work with the Center for Research Libraries in Chicago?
+- This is great, Emily. I especially appreciate all the links you’ve included.  And yes, I’d love to see more case studies too.
+- since there seemed to be an interest for sharing information, do y’all wanna get into community building? Google Group, Facebook group, Slack…
+- Thanks for sharing Emily’s “Designing a Front Page” https://www.digitisednewspapers.net/2020-04-22-front-page/
+- Oh, I meant to mention GitHub. Thanks so much for mentioning this, Melodee. Yes, everyone needs to learn about GitHub. I’m an enthusiastic new learner.
