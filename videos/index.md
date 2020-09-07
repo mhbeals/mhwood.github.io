@@ -15,7 +15,7 @@ collections described by the project and how to contribute to the expansion of t
 This video provides overview of the project, as well as our conclusions on the current structure and documentation of digitised newspapers collections across the world.
 
 ## The Structure of the *Atlas of Digitised Newspapers and Metadata*
-[Link to video and transcript]()
+[Link to video and transcript](atlas-structure.md)
   
 This video includes a detailed discussion of the creation of the *Atlas*, and a section-by-section guide to its contents.
 
@@ -43,7 +43,7 @@ all the messiness and inconsistencies?
   
 [Link to videos](challenges.md)
   
-You can also find summary blog posts of these discussions in our 
+You can also find summary blog posts of these discussions, starting 15 September 2020, in our 
 [news section](https://www.digitisednewspapers.net/news/).
 
 ## Closing Discussion
