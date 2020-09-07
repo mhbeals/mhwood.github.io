@@ -82,6 +82,8 @@ What I would like to say now is that this initial plenary session was just to ge
 
 ### Chat Transcription
 
+#### From Workshop 1
+
 - For 2030, I am hoping for high OCR and NER quality standards, cross-language search capabilities, and widely accepted open licences, for a start ;-)
 - Open access, including wider and easier bulk download. Going through the web will never be as quick or flexible as doing things on my own computer.
 - More visual friendly. A lot of websites are too ugly and hard to deal with. More user friendly.
@@ -121,3 +123,42 @@ What I would like to say now is that this initial plenary session was just to ge
 - Keeping non-academic users in mind can be important for funding--persuading governments and other bodies that there is a wide interest in such resources. Family history might finance our research!
 - No data provider could ever foresee what the researchers would want to do with it, so bulk downloads is actually the easiest option to make everybody potentially happy :)
 - From an initial UK and Ireland perspective the Findmypast / BL collaboration has made much more content available
+
+#### From Workshop 2
+
+- Not behind paywalls?
+- A way of searching across multiple collections
+- Better fulltext searching (OCR, hyphens etc!)
+- Ability to use the texts as a linguistic corpus
+- Ways of incorporating user-generated content (tags, transcription, etc)
+- Better integration with assistive technologies.
+- Greater diversity in news content that's been digitized
+- Clear bibliographical data on original copy used for digitization— which exact copy, held at which library, scanned under which set of parameters (Were blank pages scanned? What was the method for dealing with foldouts?).
+- Greater awareness of what other institutions are doing, leading to less duplication of efforts
+- Access made quicker and easier.
+- A way of searching under editorial role–to be easily able to check who was editing at a certain type. Though practically this is just a wish list thing. It would be very labour intensive unless you plugged into something like the Waterloo Directory.
+- Integration with other full-text collections would also be amazing, e.g. search across multiple periodicals collections + Internet Archive + Hathi Trust
+- easier to find what is out there are narrow down what you want to look at
+- I’d like to see much more detailed metadata about the content and genres *within* newspapers.
+- Use of standard identifiers for things like places or people, to enable easier connections across collections (especially in a Linked Open Data perspective)
+- Sustainability. Some excellent projects have disappeared. Accessibility in terms of open access is extremely important too, I think.
+- Datafying texts by Named Entity Recognition and then integrate it with other types of collections.
+- Integration with something like Waterloo Directory info (on circulation figures, political affiliation, circulation etc) would be very useful to help my students understand the context of what they find in their searchers
+- I would like to see greater linguistic diversity: more non-European languages present and tagged in digitised corpora
+- Being able to not only tag, but link that tag to other documentation about an individual or place (e.g. census)
+- Using IIIF for presenting the images. That would enable reuse and combination.
+- Open access to collections to integrate with linked open data
+- Integration and translation, of course, but also more concern for user-interface for flexible ways of reading and searching: easier visual browsing “mode” to peruse layout / toggling to reading details, not having your browsing being tied to a search engine.
+- I would like to see proximity searching to achieve better hits.
+- Downloading search results and metadata as manipulable database (perhaps this is already happening and I’m not tapping into it.)
+- Visualisations that allow users to get a quick initial sense of the coverage of the collections
+- Hello everyone, just a small specification about Impresso: within Impresso the political orientation of newspaper was added manually by historians of the Impresso team, it was not available in newspaper metadata provided by libraries. (plus Impresso is a Swiss-Luxembourg project, not only Luxembourg ;) )
+- An idea of coverage not just of the issues of a particular publication, but also the publications covered as opposed to what was printed: that’s how Waterloo would be most useful according to me
+- Persistent links and identifiers
+- Identifiers (e.g. for authors/writers) would be so useful -if standardised with elsewhere
+- Serialized articles and stories linked across issues
+- Would it maybe be possible by 2030 to have actual mapping (like GIS style) so you can see on a world or regional map where newspapers were, cross-referenced with where the article content was set (for news articles, like crimes etc)
+- what about newspapers that are currently being published in both digital and print formats? It would be useful to have a sense of what is currently being preserved for future researchers, and perhaps the situation could be improved with input from the Atlas i.e., best practices for going forward with newspaper preservation
+- Could you tell us something about the differences between using the ordinary user front-end, versus the back-end? e.g. how would I know if it was possible to get other access, and whether it would be worth trying to do?
+- Making it easier to search images. Tagged by theme or who it depicts so you can search the images themselves and not just find them through the articles they are attached to.
+- Provenance of the digitized copy. 19th c American papers often went through the mail and have the addressees’ names written on them.
