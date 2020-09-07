@@ -51,26 +51,3 @@ In the final section of the workshop, we answered questions that arose during th
 and the main lessons learned from participants' work with digitised newspaper collections. 
   
 [Link to videos](closing.md)
-
-## How to Contribute to the *Atlas*
-  
-### Context
-This video provides information on how to add additional contextual information to the *Atlas*, including related projects and resources.
-
-[Link to video](contribute-context.md)
-  
-### Database Histories
-This video provides a guide to adding database histories to the *Atlas* and providing updated information to existing ones.
-
-[Link to video](contribute-history.md)
-  
-### Metadata Maps
-This video provides a guide to adding metadata maps to the *Atlas* and updating existing maps with additional database metadata fields.
-
-[Link to video](contribute-map.md)
-  
-### Collection Data
-This video provides a guide to contributing new or updated entries to the dynamic metadata data set.
-
-[Link to video](contribute-data.md)
-  
