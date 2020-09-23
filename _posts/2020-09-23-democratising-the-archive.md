@@ -4,11 +4,10 @@ sub-title: A Vision for 2030
 author: Anna Johnston, Claire Wood, Charlotte Taylor, Diana ben-Aaron, Claire Robinson
 ---
 
-<img src="https://miro.medium.com/max/700/1*lnXeodAG_h3yjbzRK9fjDw.jpeg" align="left" width="33%"> 
-
 One of our hopes for 2030 is to help empower users to unlock the full potential of digitised collections through a knowledge of—and confidence in using—a wider range of tools and approaches. We know that users come to these collections with different disciplinary backgrounds, interests, experiences, and skill sets. How can we improve digital literacy in this area? These four areas seem particularly important for future conversations:
 
 ### Interfaces and Tools
+<img src="https://miro.medium.com/max/700/1*lnXeodAG_h3yjbzRK9fjDw.jpeg" align="left" width="33%" padding="5"> 
 One means for addressing many of the issues faced by researchers working with digitised newspapers collections would be making them available in two formats: 
 
 a) for browsing online, with the full context of the newspaper page available, and 
