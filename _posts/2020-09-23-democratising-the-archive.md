@@ -1,6 +1,6 @@
 ---
 title: Democratising the Archive
-sub-title: A Vision for 2030
+subtitle: A Vision for 2030
 author: Anna Johnston, Claire Wood, Charlotte Taylor, Diana ben-Aaron, Claire Robinson
 ---
 
