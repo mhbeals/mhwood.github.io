@@ -4,7 +4,7 @@ sub-title: Building High Quality Collections with Collaborations between Researc
 authors: Rosie Higman, Cui Cui, Patrick Dinger and Richard Heaton
 ---
  
-<img src="https://cdn.pixabay.com/photo/2020/01/06/11/09/cyber-4745109_960_720.png" style="align:left" width="50%"> One of the challenges in building a wider newspaper collection or to contribute to an existing collection is to balance various sets of metadata. 
+<img src="https://cdn.pixabay.com/photo/2020/01/06/11/09/cyber-4745109_960_720.png" style="float: left; padding: 7px 10px 0px 0px;" width="33%"> One of the challenges in building a wider newspaper collection or to contribute to an existing collection is to balance various sets of metadata. 
 In homogenising the metadata for a platform, a great deal of mapping and transformation is involved. Despite these efforts, the quality and the depth 
 of contextualisation of the digitised newspaper varies widely. In this blog, we identified some approaches to include contributions from academics, as 
 well as independent users, to face these challenges.  
