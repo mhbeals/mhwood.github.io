@@ -1,6 +1,6 @@
 ---
 title: Playing to Our Strengths
-sub-title: Building High Quality Collections with Collaborations between Researchers and Librarians
+subtitle: Building High Quality Collections with Collaborations between Researchers and Librarians
 authors: Rosie Higman, Cui Cui, Patrick Dinger and Richard Heaton
 ---
  
