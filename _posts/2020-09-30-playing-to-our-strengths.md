@@ -44,3 +44,4 @@ Moreover, when incorporating user content, there needs to be some kind of peer r
 of such information. In the end, there is the potential for significant collaboration between the collection and user management expertise of librarians 
 and the technical and contextual expertise of users, but finding the right balance and form of collaboration will take honest, realistic compromise.
 
+*This blog is the product of a 40-minute collaborative writing session held via Zoom as part of the Exploring the Atlas of Digitised Newspapers and Metadata Workshop, held 19 August 2020. The editors of this site would like to thank the authors for their contribution to our ongoing conversation around the future of digitised newspaper collections.*
