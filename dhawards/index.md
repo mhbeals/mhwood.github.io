@@ -29,3 +29,4 @@ We hope that you will find this material useful in your research — academic, p
 
 — M. H. Beals & Emily Bell, *Editors*
 
+<p align="center"><a href="http://dhawards.org/dhawards2020/voting/"><img src="https://cdn.pixabay.com/photo/2020/10/24/16/54/vote-5682043__340.png"></a></p>
