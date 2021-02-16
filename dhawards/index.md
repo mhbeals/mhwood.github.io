@@ -22,8 +22,8 @@ language of the digitised newspaper, the evolution of newspaper terminology and 
 explores how machine-readable information about an issue, volume, page, and author is stored in the digital file alongside the raw content 
 or text, and provides a controlled vocabulary designed to be used across disciplines, within academia and beyond.
 
-| <a href="https://figshare.com/articles/online_resource/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059"><img height="100px" src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/22534592/thumb.png"></a> | <a href="https://figshare.com/articles/dataset/Full_Map_of_Digitised_Newspaper_Metadata/11560110"><img src="https://www.digitisednewspapers.net/img/map.jpeg" height="100px"></a> |  
-| **The Report**          |  **The Dataset** |
+| <p align="center"><a href="https://figshare.com/articles/online_resource/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059"><img height="100px" src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/22534592/thumb.png"></a></p> | <p align="center"><a href="https://figshare.com/articles/dataset/Full_Map_of_Digitised_Newspaper_Metadata/11560110"><img src="https://www.digitisednewspapers.net/img/map.jpeg" height="100px"></a></p> |  
+| <p align="center">**The Report**</p>          |  <p align="center">**The Dataset**</p> |
 
 We hope that you will find this material useful in your research — academic, personal or commercials — and are happy to field any questions you may have.
 
