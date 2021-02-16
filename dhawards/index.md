@@ -25,7 +25,7 @@ or text, and provides a controlled vocabulary designed to be used across discipl
 | <a href="../"><img src="https://www.digitisednewspapers.net/img/atlaslogo.png" height="100px"></a> | <a href="https://figshare.com/articles/online_resource/The_Atlas_of_Digitised_Newspapers_and_Metadata_Reports_from_Oceanic_Exchanges/11560059"><img height="100px" src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/22534592/thumb.png"></a> | <a href="https://figshare.com/articles/dataset/Full_Map_of_Digitised_Newspaper_Metadata/11560110"><img src="https://www.digitisednewspapers.net/img/map.jpeg" height="100px"></a> |
 | **The Website** | **The Report**     |  **The Dataset**|
 
-We hope that you will find this material useful in your research — academic, personal or commercials — and are happy to field any questions you may have.
+We hope that you will find this material useful in your research — academic, personal or commercial — and are happy to field any questions you may have.
 
 — M. H. Beals & Emily Bell, *Editors*
 
