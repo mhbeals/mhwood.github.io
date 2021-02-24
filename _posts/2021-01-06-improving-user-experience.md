@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improving User Experience to Make It Easier to Add Metadata 
-authors: Nele Noppe, Viola Wiegand, Ellen Roberts, Ana Krahmer, and Thomas Haighton
+author: Nele Noppe, Viola Wiegand, Ellen Roberts, Ana Krahmer, and Thomas Haighton
 ---
  
 Improving the user experience for adding metadata is key to enabling all interested parties, university-affiliated and otherwise, to contribute their expertise. Getting to this point will require the developers of tools to engage end-users as early as possible.
