@@ -2,7 +2,7 @@
 layout: post
 title: PROV It to Me
 subtitle: Incorporating Provenance  and Crowdsourced Metadata into Digitised Newspaper Collections
-author: Maud Ehrmann, Marie Leger-St-Jean, Abigail Rieley, Valeria Vitale and Ivo Zandhuis
+author: Maud Ehrmann, Marie Léger-St-Jean, Abigail Rieley, Valeria Vitale and Ivo Zandhuis
 ---
 
 Collections come together over time; digital collections come out of physical collections. It would therefore be useful for metadata to include an archaeology of the document’s existence—in this case, that of the newspaper. The W3C’s provenance ontology PROV-O could be a starting point.
