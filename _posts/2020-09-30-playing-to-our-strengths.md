@@ -1,7 +1,7 @@
 ---
 title: Playing to Our Strengths
 subtitle: Building High Quality Collections with Collaborations between Researchers and Librarians
-authors: Rosie Higman, Cui Cui, Patrick Dinger and Richard Heaton
+author: Rosie Higman, Cui Cui, Patrick Dinger and Richard Heaton
 ---
  
 <img src="https://cdn.pixabay.com/photo/2020/01/06/11/09/cyber-4745109_960_720.png" style="float: left; padding: 7px 10px 0px 0px;" width="33%"> One of the challenges in building a wider newspaper collection or to contribute to an existing collection is to balance various sets of metadata. 
