@@ -4,7 +4,8 @@ title: M. H. Beals
 subtitle: Career History
 ---
 
-| 2015-Present | Lecturer in Digital History   | Loughborough University      |
+| 2021-Present | Senior Lecturer in Digital History   | Loughborough University      |
+| 2015-2021    | Lecturer in Digital History   | Loughborough University      |
 | 2015         | Principal Lecturer in History | Sheffield Hallam University  |
 | 2012-2014    | Senior Lecturer in History    | Sheffield Hallam University  |
 | 2011-2012    | Teaching Fellow               | University of Warwick        |
