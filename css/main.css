@@ -8,11 +8,13 @@ layout: null
 
 body::selection {
   background-color: #222;
+  background: #222;
   color: white;
 }
 
 body::-moz-selection {
   background-color: #222;
+  background: #222;
   color: white;
 }
 
