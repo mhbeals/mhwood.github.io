@@ -20,7 +20,10 @@ common-js:
   {% include head.html %}
 
   <body>
-
+    <style>
+    ::selection {background: gray;}
+    </style>
+    
     {% include gtm_body.html %}
   
     {% include nav.html %}
