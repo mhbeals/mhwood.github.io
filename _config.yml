@@ -19,7 +19,6 @@ navbar-links:
     - How to Contribute: "contribute"
     - News: "news"
     - Workshops: "videos"
-    - DH Awards: "dhawards"
   The Atlas:
     - The Project: "introduction/project"
     - Methodology:  "introduction/methodology"
@@ -46,7 +45,7 @@ avatar: "img/atlaslogo.png"
 #navbar-text-col: "#373737"
 navbar-children-col: "#FFFFFF"
 
-#page-col: "#594F4"
+#page-col: "#594f40"
 
 #link-col: "#805b54"
 #hover-col: "#805b54"
