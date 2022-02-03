@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEI for Close Reading:
+title: TEI for Close Reading
 subtitle: Can It Work for History?
 ---
 
