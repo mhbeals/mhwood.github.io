@@ -8,7 +8,7 @@ subtitle: Can It Work for History?
 
 The large-scale digitisation of historical texts presents history, literary and corpus linguistics scholars with a number of intriguing opportunities. The ability to semantically parse or otherwise encode texts for computer-aided analysis allows a single researcher to discover trends and outliers within corpora far larger than that same researcher could possible examine in a lifetime, let alone a career. But what about the scholar wishing to examine a small number of sources in detail. In an age where distant reading is possible, is close reading dead? Or, at the very least, does digitisation offer nothing to scholars of the single text?
 
-If they answer was yes, would you have come here today?
+If the answer was yes, would you have come here today?
 
 ## Why Close Reading Will Never Die
 
