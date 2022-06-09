@@ -1,9 +1,10 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Departmental Service
 ---
 
+| 2020-Present | Open Research Lead the School of Social Sciences and Humanities | Loughborough University
 | 2019-Present | Open Research Working Group | Loughborough University   |
 | 2018-2019  | Open Research Policy Working Group | Loughborough University |
 | 2016-2017  | Student IT Facilities Group | Loughborough University    |
