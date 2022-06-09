@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Curriculum Vitae
 ---
 
