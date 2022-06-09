@@ -1,12 +1,25 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Invited Talks and Workshops
 ---
+“Software Reuse in Digital Humanities Scholarship” Collaboration Workshop. Software Sustainability Society (2021)
+
+“Creating Wormholes with Digitised Collection” Scottish Cosmopolitanism at the Fin de Siecle. Royal Society of Edinburgh (2021)
+
+“Digitisation and Democratisation” The Archives of Global History in a Time of International Immobility. Institute of Historical Research (2021)
+
+“Teaching and Research with Digital Resource during Covid-19” Gale: A Cengage Company (2020)
 
 "Exploring the Atlas of Digitised Newspapers: Enhancing Access to and
 Collaborative Research with Digitised Historical Newspapers" Workshop at
 Digital Humanities, Ottawa (2020) Event Made Virtual owing to Covid-19.
+
+“Echo Chambers and Filter Bubbles: Uncovering Common Readings” English Research Seminar Series. Loughborough University (2020)
+
+“The Provincial-Public Sphere: Scotland, New Zealand and the Newspaper Press in the Age of Telegraph and Steam” English Local History Seminar Series. Centre for Local English History (2020)
+
+“'Here and There, Us and Them: Provincial Conversations between Scotland and New Zealand within the Imperial Press” Modern History Seminar Series. University of St. Andrews (2020)
 
 "Sustainable Software Practice" Panel at the Software Sustainability
 Institute's Collaboration Workshop (2020)
