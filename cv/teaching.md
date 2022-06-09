@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Teaching Experience
 ---
 
@@ -23,7 +23,7 @@ subtitle: Teaching Experience
 ### Survey Modules
 
 | 2015-Present | The Atlantic World, 1492-1914                             | Loughborough University     |
-| 2016-2018    | Go West, Young Man\! North America, 1785-1914             | Loughborough University     |
+| 2016-2018    | Go West, Young Man! North America, 1785-1914             | Loughborough University     |
 | 2012-2015    | American Crises: The Revolution to the 1960s              | Sheffield Hallam University |
 | 2012-2013    | Class, Gender and Nation: Britain, 1780-1914              | Sheffield Hallam University |
 | 2009-2012    | North American Themes and Problems                        | University of Warwick       |
