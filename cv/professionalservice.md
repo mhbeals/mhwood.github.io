@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Professional Service
 ---
 
@@ -13,13 +13,13 @@ subtitle: Professional Service
 
 ### Advisory Boards
 
-| 2018-Present | Heritage Made Digital | British Library         |
+| 2018-2021 | Heritage Made Digital | British Library         |
 | 2018-Present | Living with Machines | Turing Institute         |
 | 2010-2011    | History Lab+ | Institute of Historical Research |
 
 ### Committee Membership
 
-| 2016-Present | Digital History Seminar | Institute of Historical Research                  |
+| 2016-2022 | Digital History Seminar | Institute of Historical Research                  |
 | 2013-2015    | UK and Ireland Regional Group                            | History SOTL                   |
 | 2013-2015    | Gale Dissertation Prize | Research Society for Victorian Periodicals     |
 | 2011-2014    | History Lab+           |  Institute of Historical Research |
