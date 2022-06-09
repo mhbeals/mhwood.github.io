@@ -1,14 +1,15 @@
 ---
 layout: page
-title: M. H. Beals
+title: Melodee Wood
 subtitle: Funded Projects
 ---
 
 ### Research
 
+| 2021 | UKRI Policy and Engagement Fellow for Digital Research and Innovation (Infrastructure) | AHRC/ESPRC
 | 2017 |  Oceanic Exchanges               | Digging into Data                  |
 | 2015 | Georgian Pingbacks              | Loughborough University            |
-| 2014 |Edges & Nodes, Scissors & Paste | Sheffield Hallam University |
+| 2014 | Edges & Nodes, Scissors & Paste | Sheffield Hallam University |
 
 ### Pedagogy
 
